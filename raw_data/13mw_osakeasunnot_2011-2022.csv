@@ -1,0 +1,3133 @@
+"Vuosi";"Alue";"Talotyyppi";"Neliöhinta (EUR/m2)";"Kauppojen lukumäärä, varainsiirtoverotiedot vuoteen 2019 asti";"Kauppojen lukumäärä, varainsiirtoverotiedot vuodesta 2020 alkaen"
+"2011";"Koko maa";"Kerrostalo yksiöt";2760;11680;.
+"2011";"Koko maa";"Kerrostalo kaksiot";2242;24538;.
+"2011";"Koko maa";"Kerrostalo kolmiot+";2365;16491;.
+"2011";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";4438;3922;.
+"2011";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";3728;7165;.
+"2011";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3658;5588;.
+"2011";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";1914;7758;.
+"2011";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1677;17372;.
+"2011";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1670;10902;.
+"2011";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";.;.;.
+"2011";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";.;.;.
+"2011";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";.;.;.
+"2011";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";.;.;.
+"2011";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";.;.;.
+"2011";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";.;.;.
+"2011";"Uusimaa";"Kerrostalo yksiöt";4177;4652;.
+"2011";"Uusimaa";"Kerrostalo kaksiot";3427;8999;.
+"2011";"Uusimaa";"Kerrostalo kolmiot+";3441;6688;.
+"2011";"Helsinki";"Kerrostalo yksiöt";4645;3154;.
+"2011";"Helsinki";"Kerrostalo kaksiot";3966;4973;.
+"2011";"Helsinki";"Kerrostalo kolmiot+";3987;3476;.
+"2011";"Helsinki 1";"Kerrostalo yksiöt";5819;764;.
+"2011";"Helsinki 1";"Kerrostalo kaksiot";5734;840;.
+"2011";"Helsinki 1";"Kerrostalo kolmiot+";5920;619;.
+"2011";"Helsinki 2";"Kerrostalo yksiöt";4589;1599;.
+"2011";"Helsinki 2";"Kerrostalo kaksiot";4181;2062;.
+"2011";"Helsinki 2";"Kerrostalo kolmiot+";4166;1270;.
+"2011";"Helsinki 3";"Kerrostalo yksiöt";3828;297;.
+"2011";"Helsinki 3";"Kerrostalo kaksiot";3223;637;.
+"2011";"Helsinki 3";"Kerrostalo kolmiot+";3106;487;.
+"2011";"Helsinki 4";"Kerrostalo yksiöt";3341;494;.
+"2011";"Helsinki 4";"Kerrostalo kaksiot";2631;1434;.
+"2011";"Helsinki 4";"Kerrostalo kolmiot+";2387;1100;.
+"2011";"Espoo-Kauniainen";"Kerrostalo yksiöt";3525;370;.
+"2011";"Espoo-Kauniainen";"Kerrostalo kaksiot";3209;1085;.
+"2011";"Espoo-Kauniainen";"Kerrostalo kolmiot+";2959;1225;.
+"2011";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4144;81;.
+"2011";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";3761;232;.
+"2011";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";3609;299;.
+"2011";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";3626;109;.
+"2011";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3387;385;.
+"2011";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3082;352;.
+"2011";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3043;180;.
+"2011";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2717;468;.
+"2011";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2463;574;.
+"2011";"Vantaa";"Kerrostalo yksiöt";3177;398;.
+"2011";"Vantaa";"Kerrostalo kaksiot";2675;1107;.
+"2011";"Vantaa";"Kerrostalo kolmiot+";2429;887;.
+"2011";"Vantaa 1";"Kerrostalo yksiöt";3522;77;.
+"2011";"Vantaa 1";"Kerrostalo kaksiot";2989;275;.
+"2011";"Vantaa 1";"Kerrostalo kolmiot+";2752;223;.
+"2011";"Vantaa 2";"Kerrostalo yksiöt";2877;321;.
+"2011";"Vantaa 2";"Kerrostalo kaksiot";2353;832;.
+"2011";"Vantaa 2";"Kerrostalo kolmiot+";2064;664;.
+"2011";"Vantaa 3";"Kerrostalo yksiöt";.;.;.
+"2011";"Vantaa 3";"Kerrostalo kaksiot";.;.;.
+"2011";"Vantaa 3";"Kerrostalo kolmiot+";.;.;.
+"2011";"Kehyskunnat";"Kerrostalo yksiöt";2281;522;.
+"2011";"Kehyskunnat";"Kerrostalo kaksiot";2002;1313;.
+"2011";"Kehyskunnat";"Kerrostalo kolmiot+";1924;802;.
+"2011";"Porvoo";"Kerrostalo yksiöt";2811;95;.
+"2011";"Porvoo";"Kerrostalo kaksiot";2393;192;.
+"2011";"Porvoo";"Kerrostalo kolmiot+";2264;119;.
+"2011";"Hyvinkää";"Kerrostalo yksiöt";2033;117;.
+"2011";"Hyvinkää";"Kerrostalo kaksiot";1872;279;.
+"2011";"Hyvinkää";"Kerrostalo kolmiot+";1807;155;.
+"2011";"Järvenpää";"Kerrostalo yksiöt";2868;68;.
+"2011";"Järvenpää";"Kerrostalo kaksiot";2313;202;.
+"2011";"Järvenpää";"Kerrostalo kolmiot+";2134;103;.
+"2011";"Kerava";"Kerrostalo yksiöt";2691;69;.
+"2011";"Kerava";"Kerrostalo kaksiot";2278;219;.
+"2011";"Kerava";"Kerrostalo kolmiot+";2175;165;.
+"2011";"Varsinais-Suomi";"Kerrostalo yksiöt";2142;1097;.
+"2011";"Varsinais-Suomi";"Kerrostalo kaksiot";1771;2438;.
+"2011";"Varsinais-Suomi";"Kerrostalo kolmiot+";1731;1628;.
+"2011";"Turku";"Kerrostalo yksiöt";2444;729;.
+"2011";"Turku";"Kerrostalo kaksiot";1980;1503;.
+"2011";"Turku";"Kerrostalo kolmiot+";1846;1088;.
+"2011";"Turku 1";"Kerrostalo yksiöt";2773;444;.
+"2011";"Turku 1";"Kerrostalo kaksiot";2469;677;.
+"2011";"Turku 1";"Kerrostalo kolmiot+";2414;398;.
+"2011";"Turku 2";"Kerrostalo yksiöt";2208;110;.
+"2011";"Turku 2";"Kerrostalo kaksiot";1838;259;.
+"2011";"Turku 2";"Kerrostalo kolmiot+";1770;162;.
+"2011";"Turku 3";"Kerrostalo yksiöt";1739;175;.
+"2011";"Turku 3";"Kerrostalo kaksiot";1394;567;.
+"2011";"Turku 3";"Kerrostalo kolmiot+";1334;528;.
+"2011";"Satakunta";"Kerrostalo yksiöt";1624;410;.
+"2011";"Satakunta";"Kerrostalo kaksiot";1353;955;.
+"2011";"Satakunta";"Kerrostalo kolmiot+";1361;557;.
+"2011";"Pori";"Kerrostalo yksiöt";1738;268;.
+"2011";"Pori";"Kerrostalo kaksiot";1451;615;.
+"2011";"Pori";"Kerrostalo kolmiot+";1438;341;.
+"2011";"Pori 1";"Kerrostalo yksiöt";2034;180;.
+"2011";"Pori 1";"Kerrostalo kaksiot";1839;282;.
+"2011";"Pori 1";"Kerrostalo kolmiot+";1704;198;.
+"2011";"Pori 2";"Kerrostalo yksiöt";1206;88;.
+"2011";"Pori 2";"Kerrostalo kaksiot";990;333;.
+"2011";"Pori 2";"Kerrostalo kolmiot+";1005;143;.
+"2011";"Rauma";"Kerrostalo yksiöt";1707;68;.
+"2011";"Rauma";"Kerrostalo kaksiot";1382;191;.
+"2011";"Rauma";"Kerrostalo kolmiot+";1407;130;.
+"2011";"Kanta-Häme";"Kerrostalo yksiöt";1695;371;.
+"2011";"Kanta-Häme";"Kerrostalo kaksiot";1575;726;.
+"2011";"Kanta-Häme";"Kerrostalo kolmiot+";1591;442;.
+"2011";"Hämeenlinna";"Kerrostalo yksiöt";2032;168;.
+"2011";"Hämeenlinna";"Kerrostalo kaksiot";1882;334;.
+"2011";"Hämeenlinna";"Kerrostalo kolmiot+";1860;201;.
+"2011";"Hämeenlinna 1";"Kerrostalo yksiöt";2374;112;.
+"2011";"Hämeenlinna 1";"Kerrostalo kaksiot";2150;219;.
+"2011";"Hämeenlinna 1";"Kerrostalo kolmiot+";2106;128;.
+"2011";"Hämeenlinna 2";"Kerrostalo yksiöt";1388;56;.
+"2011";"Hämeenlinna 2";"Kerrostalo kaksiot";1405;115;.
+"2011";"Hämeenlinna 2";"Kerrostalo kolmiot+";1348;73;.
+"2011";"Riihimäki";"Kerrostalo yksiöt";1734;93;.
+"2011";"Riihimäki";"Kerrostalo kaksiot";1567;197;.
+"2011";"Riihimäki";"Kerrostalo kolmiot+";1539;117;.
+"2011";"Pirkanmaa";"Kerrostalo yksiöt";2376;1203;.
+"2011";"Pirkanmaa";"Kerrostalo kaksiot";2066;2579;.
+"2011";"Pirkanmaa";"Kerrostalo kolmiot+";1992;1675;.
+"2011";"Tampere";"Kerrostalo yksiöt";2691;836;.
+"2011";"Tampere";"Kerrostalo kaksiot";2348;1722;.
+"2011";"Tampere";"Kerrostalo kolmiot+";2244;1105;.
+"2011";"Tampere 1";"Kerrostalo yksiöt";3066;441;.
+"2011";"Tampere 1";"Kerrostalo kaksiot";2800;767;.
+"2011";"Tampere 1";"Kerrostalo kolmiot+";2781;474;.
+"2011";"Tampere 2";"Kerrostalo yksiöt";2353;143;.
+"2011";"Tampere 2";"Kerrostalo kaksiot";2168;324;.
+"2011";"Tampere 2";"Kerrostalo kolmiot+";2122;137;.
+"2011";"Tampere 3";"Kerrostalo yksiöt";2039;252;.
+"2011";"Tampere 3";"Kerrostalo kaksiot";1679;631;.
+"2011";"Tampere 3";"Kerrostalo kolmiot+";1564;494;.
+"2011";"Päijät-Häme";"Kerrostalo yksiöt";1698;576;.
+"2011";"Päijät-Häme";"Kerrostalo kaksiot";1550;1284;.
+"2011";"Päijät-Häme";"Kerrostalo kolmiot+";1574;828;.
+"2011";"Lahti";"Kerrostalo yksiöt";1977;391;.
+"2011";"Lahti";"Kerrostalo kaksiot";1731;961;.
+"2011";"Lahti";"Kerrostalo kolmiot+";1726;635;.
+"2011";"Lahti 1";"Kerrostalo yksiöt";2392;191;.
+"2011";"Lahti 1";"Kerrostalo kaksiot";2291;363;.
+"2011";"Lahti 1";"Kerrostalo kolmiot+";2326;263;.
+"2011";"Lahti 2";"Kerrostalo yksiöt";1605;200;.
+"2011";"Lahti 2";"Kerrostalo kaksiot";1367;598;.
+"2011";"Lahti 2";"Kerrostalo kolmiot+";1302;372;.
+"2011";"Kymenlaakso";"Kerrostalo yksiöt";1197;429;.
+"2011";"Kymenlaakso";"Kerrostalo kaksiot";1207;808;.
+"2011";"Kymenlaakso";"Kerrostalo kolmiot+";1280;433;.
+"2011";"Kotka";"Kerrostalo yksiöt";1287;216;.
+"2011";"Kotka";"Kerrostalo kaksiot";1284;348;.
+"2011";"Kotka";"Kerrostalo kolmiot+";1415;180;.
+"2011";"Kotka 1";"Kerrostalo yksiöt";1650;93;.
+"2011";"Kotka 1";"Kerrostalo kaksiot";1575;177;.
+"2011";"Kotka 1";"Kerrostalo kolmiot+";1792;80;.
+"2011";"Kotka 2";"Kerrostalo yksiöt";977;123;.
+"2011";"Kotka 2";"Kerrostalo kaksiot";1021;171;.
+"2011";"Kotka 2";"Kerrostalo kolmiot+";1018;100;.
+"2011";"Kouvola";"Kerrostalo yksiöt";1115;172;.
+"2011";"Kouvola";"Kerrostalo kaksiot";1163;395;.
+"2011";"Kouvola";"Kerrostalo kolmiot+";1188;215;.
+"2011";"Etelä-Karjala";"Kerrostalo yksiöt";1621;283;.
+"2011";"Etelä-Karjala";"Kerrostalo kaksiot";1543;575;.
+"2011";"Etelä-Karjala";"Kerrostalo kolmiot+";1588;355;.
+"2011";"Lappeenranta";"Kerrostalo yksiöt";1950;181;.
+"2011";"Lappeenranta";"Kerrostalo kaksiot";1804;403;.
+"2011";"Lappeenranta";"Kerrostalo kolmiot+";1803;231;.
+"2011";"Lappeenranta 1";"Kerrostalo yksiöt";2250;98;.
+"2011";"Lappeenranta 1";"Kerrostalo kaksiot";2264;201;.
+"2011";"Lappeenranta 1";"Kerrostalo kolmiot+";2284;91;.
+"2011";"Lappeenranta 2";"Kerrostalo yksiöt";1491;83;.
+"2011";"Lappeenranta 2";"Kerrostalo kaksiot";1254;202;.
+"2011";"Lappeenranta 2";"Kerrostalo kolmiot+";1228;140;.
+"2011";"Etelä-Savo";"Kerrostalo yksiöt";1456;288;.
+"2011";"Etelä-Savo";"Kerrostalo kaksiot";1427;577;.
+"2011";"Etelä-Savo";"Kerrostalo kolmiot+";1436;352;.
+"2011";"Mikkeli";"Kerrostalo yksiöt";1800;121;.
+"2011";"Mikkeli";"Kerrostalo kaksiot";1686;262;.
+"2011";"Mikkeli";"Kerrostalo kolmiot+";1635;200;.
+"2011";"Pohjois-Savo";"Kerrostalo yksiöt";1842;422;.
+"2011";"Pohjois-Savo";"Kerrostalo kaksiot";1677;1037;.
+"2011";"Pohjois-Savo";"Kerrostalo kolmiot+";1780;686;.
+"2011";"Kuopio";"Kerrostalo yksiöt";2353;248;.
+"2011";"Kuopio";"Kerrostalo kaksiot";1983;724;.
+"2011";"Kuopio";"Kerrostalo kolmiot+";1992;498;.
+"2011";"Kuopio 1";"Kerrostalo yksiöt";2579;150;.
+"2011";"Kuopio 1";"Kerrostalo kaksiot";2371;370;.
+"2011";"Kuopio 1";"Kerrostalo kolmiot+";2428;229;.
+"2011";"Kuopio 2";"Kerrostalo yksiöt";1972;98;.
+"2011";"Kuopio 2";"Kerrostalo kaksiot";1589;354;.
+"2011";"Kuopio 2";"Kerrostalo kolmiot+";1568;269;.
+"2011";"Pohjois-Karjala";"Kerrostalo yksiöt";1993;254;.
+"2011";"Pohjois-Karjala";"Kerrostalo kaksiot";1740;448;.
+"2011";"Pohjois-Karjala";"Kerrostalo kolmiot+";1596;271;.
+"2011";"Joensuu";"Kerrostalo yksiöt";2416;165;.
+"2011";"Joensuu";"Kerrostalo kaksiot";2077;304;.
+"2011";"Joensuu";"Kerrostalo kolmiot+";1854;221;.
+"2011";"Joensuu 1";"Kerrostalo yksiöt";2559;121;.
+"2011";"Joensuu 1";"Kerrostalo kaksiot";2239;215;.
+"2011";"Joensuu 1";"Kerrostalo kolmiot+";1965;141;.
+"2011";"Joensuu 2";"Kerrostalo yksiöt";1718;44;.
+"2011";"Joensuu 2";"Kerrostalo kaksiot";1617;89;.
+"2011";"Joensuu 2";"Kerrostalo kolmiot+";1469;80;.
+"2011";"Keski-Suomi";"Kerrostalo yksiöt";1835;541;.
+"2011";"Keski-Suomi";"Kerrostalo kaksiot";1616;1294;.
+"2011";"Keski-Suomi";"Kerrostalo kolmiot+";1652;669;.
+"2011";"Jyväskylä";"Kerrostalo yksiöt";2153;371;.
+"2011";"Jyväskylä";"Kerrostalo kaksiot";1811;959;.
+"2011";"Jyväskylä";"Kerrostalo kolmiot+";1818;472;.
+"2011";"Jyväskylä 1";"Kerrostalo yksiöt";2599;186;.
+"2011";"Jyväskylä 1";"Kerrostalo kaksiot";2317;500;.
+"2011";"Jyväskylä 1";"Kerrostalo kolmiot+";2352;253;.
+"2011";"Jyväskylä 2";"Kerrostalo yksiöt";1669;185;.
+"2011";"Jyväskylä 2";"Kerrostalo kaksiot";1394;459;.
+"2011";"Jyväskylä 2";"Kerrostalo kolmiot+";1417;219;.
+"2011";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1580;77;.
+"2011";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1504;254;.
+"2011";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1430;165;.
+"2011";"Seinäjoki";"Kerrostalo yksiöt";1808;47;.
+"2011";"Seinäjoki";"Kerrostalo kaksiot";1692;179;.
+"2011";"Seinäjoki";"Kerrostalo kolmiot+";1580;126;.
+"2011";"Pohjanmaa";"Kerrostalo yksiöt";1883;258;.
+"2011";"Pohjanmaa";"Kerrostalo kaksiot";1682;566;.
+"2011";"Pohjanmaa";"Kerrostalo kolmiot+";1673;449;.
+"2011";"Vaasa";"Kerrostalo yksiöt";2111;187;.
+"2011";"Vaasa";"Kerrostalo kaksiot";1925;414;.
+"2011";"Vaasa";"Kerrostalo kolmiot+";1857;329;.
+"2011";"Vaasa 1";"Kerrostalo yksiöt";2293;130;.
+"2011";"Vaasa 1";"Kerrostalo kaksiot";2143;275;.
+"2011";"Vaasa 1";"Kerrostalo kolmiot+";2075;203;.
+"2011";"Vaasa 2";"Kerrostalo yksiöt";1439;57;.
+"2011";"Vaasa 2";"Kerrostalo kaksiot";1285;139;.
+"2011";"Vaasa 2";"Kerrostalo kolmiot+";1333;126;.
+"2011";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2010;69;.
+"2011";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1521;159;.
+"2011";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1616;110;.
+"2011";"Kokkola";"Kerrostalo yksiöt";2063;65;.
+"2011";"Kokkola";"Kerrostalo kaksiot";1572;145;.
+"2011";"Kokkola";"Kerrostalo kolmiot+";1641;101;.
+"2011";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";1883;390;.
+"2011";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1654;1060;.
+"2011";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1654;657;.
+"2011";"Oulu";"Kerrostalo yksiöt";2020;302;.
+"2011";"Oulu";"Kerrostalo kaksiot";1732;883;.
+"2011";"Oulu";"Kerrostalo kolmiot+";1720;557;.
+"2011";"Oulu 1";"Kerrostalo yksiöt";2339;152;.
+"2011";"Oulu 1";"Kerrostalo kaksiot";2095;499;.
+"2011";"Oulu 1";"Kerrostalo kolmiot+";2067;280;.
+"2011";"Oulu 2";"Kerrostalo yksiöt";1672;150;.
+"2011";"Oulu 2";"Kerrostalo kaksiot";1397;384;.
+"2011";"Oulu 2";"Kerrostalo kolmiot+";1401;277;.
+"2011";"Kainuu";"Kerrostalo yksiöt";1495;128;.
+"2011";"Kainuu";"Kerrostalo kaksiot";1271;244;.
+"2011";"Kainuu";"Kerrostalo kolmiot+";1240;182;.
+"2011";"Kajaani";"Kerrostalo yksiöt";1583;91;.
+"2011";"Kajaani";"Kerrostalo kaksiot";1280;175;.
+"2011";"Kajaani";"Kerrostalo kolmiot+";1239;141;.
+"2011";"Lappi";"Kerrostalo yksiöt";1603;232;.
+"2011";"Lappi";"Kerrostalo kaksiot";1300;534;.
+"2011";"Lappi";"Kerrostalo kolmiot+";1237;343;.
+"2011";"Rovaniemi";"Kerrostalo yksiöt";1917;126;.
+"2011";"Rovaniemi";"Kerrostalo kaksiot";1600;296;.
+"2011";"Rovaniemi";"Kerrostalo kolmiot+";1506;192;.
+"2012";"Koko maa";"Kerrostalo yksiöt";2874;10854;.
+"2012";"Koko maa";"Kerrostalo kaksiot";2312;23576;.
+"2012";"Koko maa";"Kerrostalo kolmiot+";2408;16635;.
+"2012";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";4709;3732;.
+"2012";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";3888;7059;.
+"2012";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3731;5939;.
+"2012";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";1947;7122;.
+"2012";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1712;16517;.
+"2012";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1696;10694;.
+"2012";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";.;.;.
+"2012";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";.;.;.
+"2012";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";.;.;.
+"2012";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";.;.;.
+"2012";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";.;.;.
+"2012";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";.;.;.
+"2012";"Uusimaa";"Kerrostalo yksiöt";4418;4426;.
+"2012";"Uusimaa";"Kerrostalo kaksiot";3563;8814;.
+"2012";"Uusimaa";"Kerrostalo kolmiot+";3516;7049;.
+"2012";"Helsinki";"Kerrostalo yksiöt";4914;2968;.
+"2012";"Helsinki";"Kerrostalo kaksiot";4135;4836;.
+"2012";"Helsinki";"Kerrostalo kolmiot+";4042;3766;.
+"2012";"Helsinki 1";"Kerrostalo yksiöt";...;656;.
+"2012";"Helsinki 1";"Kerrostalo kaksiot";5899;849;.
+"2012";"Helsinki 1";"Kerrostalo kolmiot+";5842;713;.
+"2012";"Helsinki 2";"Kerrostalo yksiöt";4846;1609;.
+"2012";"Helsinki 2";"Kerrostalo kaksiot";4390;1972;.
+"2012";"Helsinki 2";"Kerrostalo kolmiot+";4336;1286;.
+"2012";"Helsinki 3";"Kerrostalo yksiöt";...;244;.
+"2012";"Helsinki 3";"Kerrostalo kaksiot";3365;595;.
+"2012";"Helsinki 3";"Kerrostalo kolmiot+";3192;504;.
+"2012";"Helsinki 4";"Kerrostalo yksiöt";3579;459;.
+"2012";"Helsinki 4";"Kerrostalo kaksiot";2749;1420;.
+"2012";"Helsinki 4";"Kerrostalo kolmiot+";2371;1263;.
+"2012";"Espoo-Kauniainen";"Kerrostalo yksiöt";3878;335;.
+"2012";"Espoo-Kauniainen";"Kerrostalo kaksiot";3364;1114;.
+"2012";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3073;1228;.
+"2012";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4548;62;.
+"2012";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";3962;223;.
+"2012";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";3784;274;.
+"2012";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4088;111;.
+"2012";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3585;403;.
+"2012";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3215;395;.
+"2012";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3298;162;.
+"2012";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2815;488;.
+"2012";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2527;559;.
+"2012";"Vantaa";"Kerrostalo yksiöt";3290;429;.
+"2012";"Vantaa";"Kerrostalo kaksiot";2766;1109;.
+"2012";"Vantaa";"Kerrostalo kolmiot+";2550;945;.
+"2012";"Vantaa 1";"Kerrostalo yksiöt";3767;67;.
+"2012";"Vantaa 1";"Kerrostalo kaksiot";3161;239;.
+"2012";"Vantaa 1";"Kerrostalo kolmiot+";2948;228;.
+"2012";"Vantaa 2";"Kerrostalo yksiöt";2876;362;.
+"2012";"Vantaa 2";"Kerrostalo kaksiot";2362;870;.
+"2012";"Vantaa 2";"Kerrostalo kolmiot+";2103;717;.
+"2012";"Vantaa 3";"Kerrostalo yksiöt";.;.;.
+"2012";"Vantaa 3";"Kerrostalo kaksiot";.;.;.
+"2012";"Vantaa 3";"Kerrostalo kolmiot+";.;.;.
+"2012";"Kehyskunnat";"Kerrostalo yksiöt";2304;513;.
+"2012";"Kehyskunnat";"Kerrostalo kaksiot";2011;1317;.
+"2012";"Kehyskunnat";"Kerrostalo kolmiot+";1968;862;.
+"2012";"Porvoo";"Kerrostalo yksiöt";2929;73;.
+"2012";"Porvoo";"Kerrostalo kaksiot";2431;189;.
+"2012";"Porvoo";"Kerrostalo kolmiot+";2311;105;.
+"2012";"Hyvinkää";"Kerrostalo yksiöt";1977;138;.
+"2012";"Hyvinkää";"Kerrostalo kaksiot";1881;317;.
+"2012";"Hyvinkää";"Kerrostalo kolmiot+";1797;199;.
+"2012";"Järvenpää";"Kerrostalo yksiöt";2882;79;.
+"2012";"Järvenpää";"Kerrostalo kaksiot";2211;188;.
+"2012";"Järvenpää";"Kerrostalo kolmiot+";2275;104;.
+"2012";"Kerava";"Kerrostalo yksiöt";2783;54;.
+"2012";"Kerava";"Kerrostalo kaksiot";2383;221;.
+"2012";"Kerava";"Kerrostalo kolmiot+";2226;148;.
+"2012";"Varsinais-Suomi";"Kerrostalo yksiöt";2187;944;.
+"2012";"Varsinais-Suomi";"Kerrostalo kaksiot";1821;2313;.
+"2012";"Varsinais-Suomi";"Kerrostalo kolmiot+";1758;1566;.
+"2012";"Turku";"Kerrostalo yksiöt";2495;578;.
+"2012";"Turku";"Kerrostalo kaksiot";2035;1430;.
+"2012";"Turku";"Kerrostalo kolmiot+";1899;1076;.
+"2012";"Turku 1";"Kerrostalo yksiöt";2809;322;.
+"2012";"Turku 1";"Kerrostalo kaksiot";2487;655;.
+"2012";"Turku 1";"Kerrostalo kolmiot+";2483;365;.
+"2012";"Turku 2";"Kerrostalo yksiöt";2318;75;.
+"2012";"Turku 2";"Kerrostalo kaksiot";1935;204;.
+"2012";"Turku 2";"Kerrostalo kolmiot+";1847;164;.
+"2012";"Turku 3";"Kerrostalo yksiöt";1791;181;.
+"2012";"Turku 3";"Kerrostalo kaksiot";1478;571;.
+"2012";"Turku 3";"Kerrostalo kolmiot+";1361;547;.
+"2012";"Satakunta";"Kerrostalo yksiöt";1574;359;.
+"2012";"Satakunta";"Kerrostalo kaksiot";1314;910;.
+"2012";"Satakunta";"Kerrostalo kolmiot+";1403;537;.
+"2012";"Pori";"Kerrostalo yksiöt";1724;228;.
+"2012";"Pori";"Kerrostalo kaksiot";1398;555;.
+"2012";"Pori";"Kerrostalo kolmiot+";1496;316;.
+"2012";"Pori 1";"Kerrostalo yksiöt";2044;116;.
+"2012";"Pori 1";"Kerrostalo kaksiot";1789;239;.
+"2012";"Pori 1";"Kerrostalo kolmiot+";1801;183;.
+"2012";"Pori 2";"Kerrostalo yksiöt";1149;112;.
+"2012";"Pori 2";"Kerrostalo kaksiot";933;316;.
+"2012";"Pori 2";"Kerrostalo kolmiot+";1001;133;.
+"2012";"Rauma";"Kerrostalo yksiöt";1530;70;.
+"2012";"Rauma";"Kerrostalo kaksiot";1375;206;.
+"2012";"Rauma";"Kerrostalo kolmiot+";1409;136;.
+"2012";"Kanta-Häme";"Kerrostalo yksiöt";1773;336;.
+"2012";"Kanta-Häme";"Kerrostalo kaksiot";1609;730;.
+"2012";"Kanta-Häme";"Kerrostalo kolmiot+";1563;454;.
+"2012";"Hämeenlinna";"Kerrostalo yksiöt";2156;138;.
+"2012";"Hämeenlinna";"Kerrostalo kaksiot";1934;297;.
+"2012";"Hämeenlinna";"Kerrostalo kolmiot+";1828;195;.
+"2012";"Hämeenlinna 1";"Kerrostalo yksiöt";2388;84;.
+"2012";"Hämeenlinna 1";"Kerrostalo kaksiot";2173;199;.
+"2012";"Hämeenlinna 1";"Kerrostalo kolmiot+";2054;135;.
+"2012";"Hämeenlinna 2";"Kerrostalo yksiöt";1718;54;.
+"2012";"Hämeenlinna 2";"Kerrostalo kaksiot";1509;98;.
+"2012";"Hämeenlinna 2";"Kerrostalo kolmiot+";1359;60;.
+"2012";"Riihimäki";"Kerrostalo yksiöt";1809;84;.
+"2012";"Riihimäki";"Kerrostalo kaksiot";1569;211;.
+"2012";"Riihimäki";"Kerrostalo kolmiot+";1536;134;.
+"2012";"Pirkanmaa";"Kerrostalo yksiöt";2437;1159;.
+"2012";"Pirkanmaa";"Kerrostalo kaksiot";2107;2548;.
+"2012";"Pirkanmaa";"Kerrostalo kolmiot+";2053;1718;.
+"2012";"Tampere";"Kerrostalo yksiöt";2761;835;.
+"2012";"Tampere";"Kerrostalo kaksiot";2405;1704;.
+"2012";"Tampere";"Kerrostalo kolmiot+";2308;1128;.
+"2012";"Tampere 1";"Kerrostalo yksiöt";3176;456;.
+"2012";"Tampere 1";"Kerrostalo kaksiot";2870;781;.
+"2012";"Tampere 1";"Kerrostalo kolmiot+";2893;462;.
+"2012";"Tampere 2";"Kerrostalo yksiöt";2377;138;.
+"2012";"Tampere 2";"Kerrostalo kaksiot";2230;332;.
+"2012";"Tampere 2";"Kerrostalo kolmiot+";2153;181;.
+"2012";"Tampere 3";"Kerrostalo yksiöt";2051;241;.
+"2012";"Tampere 3";"Kerrostalo kaksiot";1708;591;.
+"2012";"Tampere 3";"Kerrostalo kolmiot+";1577;485;.
+"2012";"Päijät-Häme";"Kerrostalo yksiöt";1744;555;.
+"2012";"Päijät-Häme";"Kerrostalo kaksiot";1587;1168;.
+"2012";"Päijät-Häme";"Kerrostalo kolmiot+";1582;787;.
+"2012";"Lahti";"Kerrostalo yksiöt";2047;353;.
+"2012";"Lahti";"Kerrostalo kaksiot";1771;831;.
+"2012";"Lahti";"Kerrostalo kolmiot+";1735;595;.
+"2012";"Lahti 1";"Kerrostalo yksiöt";2432;153;.
+"2012";"Lahti 1";"Kerrostalo kaksiot";2343;314;.
+"2012";"Lahti 1";"Kerrostalo kolmiot+";2313;254;.
+"2012";"Lahti 2";"Kerrostalo yksiöt";1702;200;.
+"2012";"Lahti 2";"Kerrostalo kaksiot";1400;517;.
+"2012";"Lahti 2";"Kerrostalo kolmiot+";1326;341;.
+"2012";"Kymenlaakso";"Kerrostalo yksiöt";1211;377;.
+"2012";"Kymenlaakso";"Kerrostalo kaksiot";1250;763;.
+"2012";"Kymenlaakso";"Kerrostalo kolmiot+";1328;430;.
+"2012";"Kotka";"Kerrostalo yksiöt";1291;173;.
+"2012";"Kotka";"Kerrostalo kaksiot";1353;289;.
+"2012";"Kotka";"Kerrostalo kolmiot+";1533;185;.
+"2012";"Kotka 1";"Kerrostalo yksiöt";1631;75;.
+"2012";"Kotka 1";"Kerrostalo kaksiot";1768;148;.
+"2012";"Kotka 1";"Kerrostalo kolmiot+";1988;104;.
+"2012";"Kotka 2";"Kerrostalo yksiöt";1001;98;.
+"2012";"Kotka 2";"Kerrostalo kaksiot";977;141;.
+"2012";"Kotka 2";"Kerrostalo kolmiot+";1054;81;.
+"2012";"Kouvola";"Kerrostalo yksiöt";1149;167;.
+"2012";"Kouvola";"Kerrostalo kaksiot";1180;389;.
+"2012";"Kouvola";"Kerrostalo kolmiot+";1196;202;.
+"2012";"Etelä-Karjala";"Kerrostalo yksiöt";1646;276;.
+"2012";"Etelä-Karjala";"Kerrostalo kaksiot";1551;530;.
+"2012";"Etelä-Karjala";"Kerrostalo kolmiot+";1592;319;.
+"2012";"Lappeenranta";"Kerrostalo yksiöt";2030;172;.
+"2012";"Lappeenranta";"Kerrostalo kaksiot";1816;367;.
+"2012";"Lappeenranta";"Kerrostalo kolmiot+";1864;214;.
+"2012";"Lappeenranta 1";"Kerrostalo yksiöt";2381;96;.
+"2012";"Lappeenranta 1";"Kerrostalo kaksiot";2251;221;.
+"2012";"Lappeenranta 1";"Kerrostalo kolmiot+";2372;96;.
+"2012";"Lappeenranta 2";"Kerrostalo yksiöt";1493;76;.
+"2012";"Lappeenranta 2";"Kerrostalo kaksiot";1298;146;.
+"2012";"Lappeenranta 2";"Kerrostalo kolmiot+";1257;118;.
+"2012";"Etelä-Savo";"Kerrostalo yksiöt";1450;275;.
+"2012";"Etelä-Savo";"Kerrostalo kaksiot";1520;575;.
+"2012";"Etelä-Savo";"Kerrostalo kolmiot+";1455;352;.
+"2012";"Mikkeli";"Kerrostalo yksiöt";1724;133;.
+"2012";"Mikkeli";"Kerrostalo kaksiot";1896;252;.
+"2012";"Mikkeli";"Kerrostalo kolmiot+";1647;164;.
+"2012";"Pohjois-Savo";"Kerrostalo yksiöt";1902;379;.
+"2012";"Pohjois-Savo";"Kerrostalo kaksiot";1715;1031;.
+"2012";"Pohjois-Savo";"Kerrostalo kolmiot+";1710;639;.
+"2012";"Kuopio";"Kerrostalo yksiöt";2376;200;.
+"2012";"Kuopio";"Kerrostalo kaksiot";2014;690;.
+"2012";"Kuopio";"Kerrostalo kolmiot+";1905;496;.
+"2012";"Kuopio 1";"Kerrostalo yksiöt";2685;100;.
+"2012";"Kuopio 1";"Kerrostalo kaksiot";2354;314;.
+"2012";"Kuopio 1";"Kerrostalo kolmiot+";2311;224;.
+"2012";"Kuopio 2";"Kerrostalo yksiöt";1856;100;.
+"2012";"Kuopio 2";"Kerrostalo kaksiot";1669;376;.
+"2012";"Kuopio 2";"Kerrostalo kolmiot+";1511;272;.
+"2012";"Pohjois-Karjala";"Kerrostalo yksiöt";2134;211;.
+"2012";"Pohjois-Karjala";"Kerrostalo kaksiot";1798;426;.
+"2012";"Pohjois-Karjala";"Kerrostalo kolmiot+";1617;248;.
+"2012";"Joensuu";"Kerrostalo yksiöt";2604;139;.
+"2012";"Joensuu";"Kerrostalo kaksiot";2146;270;.
+"2012";"Joensuu";"Kerrostalo kolmiot+";1879;189;.
+"2012";"Joensuu 1";"Kerrostalo yksiöt";2697;112;.
+"2012";"Joensuu 1";"Kerrostalo kaksiot";2279;193;.
+"2012";"Joensuu 1";"Kerrostalo kolmiot+";2006;126;.
+"2012";"Joensuu 2";"Kerrostalo yksiöt";2156;27;.
+"2012";"Joensuu 2";"Kerrostalo kaksiot";1766;77;.
+"2012";"Joensuu 2";"Kerrostalo kolmiot+";1440;63;.
+"2012";"Keski-Suomi";"Kerrostalo yksiöt";1788;459;.
+"2012";"Keski-Suomi";"Kerrostalo kaksiot";1598;1143;.
+"2012";"Keski-Suomi";"Kerrostalo kolmiot+";1575;667;.
+"2012";"Jyväskylä";"Kerrostalo yksiöt";2091;316;.
+"2012";"Jyväskylä";"Kerrostalo kaksiot";1795;849;.
+"2012";"Jyväskylä";"Kerrostalo kolmiot+";1745;518;.
+"2012";"Jyväskylä 1";"Kerrostalo yksiöt";2641;162;.
+"2012";"Jyväskylä 1";"Kerrostalo kaksiot";2400;456;.
+"2012";"Jyväskylä 1";"Kerrostalo kolmiot+";2345;265;.
+"2012";"Jyväskylä 2";"Kerrostalo yksiöt";1495;154;.
+"2012";"Jyväskylä 2";"Kerrostalo kaksiot";1297;393;.
+"2012";"Jyväskylä 2";"Kerrostalo kolmiot+";1294;253;.
+"2012";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1909;86;.
+"2012";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1600;204;.
+"2012";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1678;141;.
+"2012";"Seinäjoki";"Kerrostalo yksiöt";2291;54;.
+"2012";"Seinäjoki";"Kerrostalo kaksiot";1811;150;.
+"2012";"Seinäjoki";"Kerrostalo kolmiot+";1851;105;.
+"2012";"Pohjanmaa";"Kerrostalo yksiöt";1998;218;.
+"2012";"Pohjanmaa";"Kerrostalo kaksiot";1762;529;.
+"2012";"Pohjanmaa";"Kerrostalo kolmiot+";1679;454;.
+"2012";"Vaasa";"Kerrostalo yksiöt";2261;157;.
+"2012";"Vaasa";"Kerrostalo kaksiot";1990;381;.
+"2012";"Vaasa";"Kerrostalo kolmiot+";1860;343;.
+"2012";"Vaasa 1";"Kerrostalo yksiöt";2503;113;.
+"2012";"Vaasa 1";"Kerrostalo kaksiot";2200;267;.
+"2012";"Vaasa 1";"Kerrostalo kolmiot+";2096;239;.
+"2012";"Vaasa 2";"Kerrostalo yksiöt";1369;44;.
+"2012";"Vaasa 2";"Kerrostalo kaksiot";1371;114;.
+"2012";"Vaasa 2";"Kerrostalo kolmiot+";1294;104;.
+"2012";"Keski-Pohjanmaa";"Kerrostalo yksiöt";1760;53;.
+"2012";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1642;143;.
+"2012";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1548;116;.
+"2012";"Kokkola";"Kerrostalo yksiöt";1804;51;.
+"2012";"Kokkola";"Kerrostalo kaksiot";1700;136;.
+"2012";"Kokkola";"Kerrostalo kolmiot+";1548;116;.
+"2012";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";1842;395;.
+"2012";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1658;1039;.
+"2012";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1662;667;.
+"2012";"Oulu";"Kerrostalo yksiöt";1950;328;.
+"2012";"Oulu";"Kerrostalo kaksiot";1744;873;.
+"2012";"Oulu";"Kerrostalo kolmiot+";1736;577;.
+"2012";"Oulu 1";"Kerrostalo yksiöt";2259;181;.
+"2012";"Oulu 1";"Kerrostalo kaksiot";2090;481;.
+"2012";"Oulu 1";"Kerrostalo kolmiot+";2137;294;.
+"2012";"Oulu 2";"Kerrostalo yksiöt";1613;147;.
+"2012";"Oulu 2";"Kerrostalo kaksiot";1424;392;.
+"2012";"Oulu 2";"Kerrostalo kolmiot+";1369;283;.
+"2012";"Kainuu";"Kerrostalo yksiöt";1546;148;.
+"2012";"Kainuu";"Kerrostalo kaksiot";1336;226;.
+"2012";"Kainuu";"Kerrostalo kolmiot+";1353;178;.
+"2012";"Kajaani";"Kerrostalo yksiöt";1604;106;.
+"2012";"Kajaani";"Kerrostalo kaksiot";1396;190;.
+"2012";"Kajaani";"Kerrostalo kolmiot+";1380;144;.
+"2012";"Lappi";"Kerrostalo yksiöt";1583;198;.
+"2012";"Lappi";"Kerrostalo kaksiot";1376;484;.
+"2012";"Lappi";"Kerrostalo kolmiot+";1343;311;.
+"2012";"Rovaniemi";"Kerrostalo yksiöt";1923;120;.
+"2012";"Rovaniemi";"Kerrostalo kaksiot";1635;271;.
+"2012";"Rovaniemi";"Kerrostalo kolmiot+";1491;183;.
+"2013";"Koko maa";"Kerrostalo yksiöt";3003;9873;.
+"2013";"Koko maa";"Kerrostalo kaksiot";2374;21091;.
+"2013";"Koko maa";"Kerrostalo kolmiot+";2457;14421;.
+"2013";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";4958;3314;.
+"2013";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4036;6264;.
+"2013";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3830;5109;.
+"2013";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2016;6559;.
+"2013";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1742;14827;.
+"2013";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1720;9310;.
+"2013";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";.;.;.
+"2013";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";.;.;.
+"2013";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";.;.;.
+"2013";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";.;.;.
+"2013";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";.;.;.
+"2013";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";.;.;.
+"2013";"Uusimaa";"Kerrostalo yksiöt";4648;3918;.
+"2013";"Uusimaa";"Kerrostalo kaksiot";3684;7816;.
+"2013";"Uusimaa";"Kerrostalo kolmiot+";3596;6074;.
+"2013";"Helsinki";"Kerrostalo yksiöt";5203;2557;.
+"2013";"Helsinki";"Kerrostalo kaksiot";4310;4114;.
+"2013";"Helsinki";"Kerrostalo kolmiot+";4174;3212;.
+"2013";"Helsinki 1";"Kerrostalo yksiöt";...;596;.
+"2013";"Helsinki 1";"Kerrostalo kaksiot";6089;666;.
+"2013";"Helsinki 1";"Kerrostalo kolmiot+";6017;577;.
+"2013";"Helsinki 2";"Kerrostalo yksiöt";5195;1391;.
+"2013";"Helsinki 2";"Kerrostalo kaksiot";4626;1716;.
+"2013";"Helsinki 2";"Kerrostalo kolmiot+";4463;1130;.
+"2013";"Helsinki 3";"Kerrostalo yksiöt";...;188;.
+"2013";"Helsinki 3";"Kerrostalo kaksiot";3529;563;.
+"2013";"Helsinki 3";"Kerrostalo kolmiot+";3317;465;.
+"2013";"Helsinki 4";"Kerrostalo yksiöt";3666;382;.
+"2013";"Helsinki 4";"Kerrostalo kaksiot";2810;1169;.
+"2013";"Helsinki 4";"Kerrostalo kolmiot+";2470;1040;.
+"2013";"Espoo-Kauniainen";"Kerrostalo yksiöt";3931;336;.
+"2013";"Espoo-Kauniainen";"Kerrostalo kaksiot";3449;1049;.
+"2013";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3084;1113;.
+"2013";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4607;76;.
+"2013";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4064;246;.
+"2013";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";3724;295;.
+"2013";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4097;116;.
+"2013";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3701;374;.
+"2013";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3282;337;.
+"2013";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3372;144;.
+"2013";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2866;429;.
+"2013";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2557;481;.
+"2013";"Vantaa";"Kerrostalo yksiöt";3317;421;.
+"2013";"Vantaa";"Kerrostalo kaksiot";2807;1101;.
+"2013";"Vantaa";"Kerrostalo kolmiot+";2587;784;.
+"2013";"Vantaa 1";"Kerrostalo yksiöt";3756;63;.
+"2013";"Vantaa 1";"Kerrostalo kaksiot";3224;269;.
+"2013";"Vantaa 1";"Kerrostalo kolmiot+";2991;203;.
+"2013";"Vantaa 2";"Kerrostalo yksiöt";2936;358;.
+"2013";"Vantaa 2";"Kerrostalo kaksiot";2380;832;.
+"2013";"Vantaa 2";"Kerrostalo kolmiot+";2133;581;.
+"2013";"Vantaa 3";"Kerrostalo yksiöt";.;.;.
+"2013";"Vantaa 3";"Kerrostalo kaksiot";.;.;.
+"2013";"Vantaa 3";"Kerrostalo kolmiot+";.;.;.
+"2013";"Kehyskunnat";"Kerrostalo yksiöt";2410;474;.
+"2013";"Kehyskunnat";"Kerrostalo kaksiot";2029;1127;.
+"2013";"Kehyskunnat";"Kerrostalo kolmiot+";1894;722;.
+"2013";"Porvoo";"Kerrostalo yksiöt";2859;50;.
+"2013";"Porvoo";"Kerrostalo kaksiot";2397;172;.
+"2013";"Porvoo";"Kerrostalo kolmiot+";2343;107;.
+"2013";"Hyvinkää";"Kerrostalo yksiöt";2209;109;.
+"2013";"Hyvinkää";"Kerrostalo kaksiot";1749;307;.
+"2013";"Hyvinkää";"Kerrostalo kolmiot+";1729;189;.
+"2013";"Järvenpää";"Kerrostalo yksiöt";2997;71;.
+"2013";"Järvenpää";"Kerrostalo kaksiot";2413;136;.
+"2013";"Järvenpää";"Kerrostalo kolmiot+";2138;88;.
+"2013";"Kerava";"Kerrostalo yksiöt";2843;40;.
+"2013";"Kerava";"Kerrostalo kaksiot";2384;152;.
+"2013";"Kerava";"Kerrostalo kolmiot+";2215;130;.
+"2013";"Varsinais-Suomi";"Kerrostalo yksiöt";2318;921;.
+"2013";"Varsinais-Suomi";"Kerrostalo kaksiot";1855;2051;.
+"2013";"Varsinais-Suomi";"Kerrostalo kolmiot+";1789;1447;.
+"2013";"Turku";"Kerrostalo yksiöt";2694;584;.
+"2013";"Turku";"Kerrostalo kaksiot";2097;1253;.
+"2013";"Turku";"Kerrostalo kolmiot+";1926;1027;.
+"2013";"Turku 1";"Kerrostalo yksiöt";3040;324;.
+"2013";"Turku 1";"Kerrostalo kaksiot";2606;550;.
+"2013";"Turku 1";"Kerrostalo kolmiot+";2565;376;.
+"2013";"Turku 2";"Kerrostalo yksiöt";2609;108;.
+"2013";"Turku 2";"Kerrostalo kaksiot";2015;186;.
+"2013";"Turku 2";"Kerrostalo kolmiot+";1818;157;.
+"2013";"Turku 3";"Kerrostalo yksiöt";1845;152;.
+"2013";"Turku 3";"Kerrostalo kaksiot";1454;517;.
+"2013";"Turku 3";"Kerrostalo kolmiot+";1361;494;.
+"2013";"Satakunta";"Kerrostalo yksiöt";1593;309;.
+"2013";"Satakunta";"Kerrostalo kaksiot";1417;755;.
+"2013";"Satakunta";"Kerrostalo kolmiot+";1496;430;.
+"2013";"Pori";"Kerrostalo yksiöt";1769;195;.
+"2013";"Pori";"Kerrostalo kaksiot";1533;425;.
+"2013";"Pori";"Kerrostalo kolmiot+";1631;246;.
+"2013";"Pori 1";"Kerrostalo yksiöt";2096;117;.
+"2013";"Pori 1";"Kerrostalo kaksiot";1981;211;.
+"2013";"Pori 1";"Kerrostalo kolmiot+";1969;140;.
+"2013";"Pori 2";"Kerrostalo yksiöt";1180;78;.
+"2013";"Pori 2";"Kerrostalo kaksiot";1000;214;.
+"2013";"Pori 2";"Kerrostalo kolmiot+";1083;106;.
+"2013";"Rauma";"Kerrostalo yksiöt";1517;59;.
+"2013";"Rauma";"Kerrostalo kaksiot";1388;162;.
+"2013";"Rauma";"Kerrostalo kolmiot+";1498;92;.
+"2013";"Kanta-Häme";"Kerrostalo yksiöt";1802;322;.
+"2013";"Kanta-Häme";"Kerrostalo kaksiot";1641;651;.
+"2013";"Kanta-Häme";"Kerrostalo kolmiot+";1579;384;.
+"2013";"Hämeenlinna";"Kerrostalo yksiöt";2195;148;.
+"2013";"Hämeenlinna";"Kerrostalo kaksiot";1981;281;.
+"2013";"Hämeenlinna";"Kerrostalo kolmiot+";1893;174;.
+"2013";"Hämeenlinna 1";"Kerrostalo yksiöt";2442;102;.
+"2013";"Hämeenlinna 1";"Kerrostalo kaksiot";2231;180;.
+"2013";"Hämeenlinna 1";"Kerrostalo kolmiot+";2127;117;.
+"2013";"Hämeenlinna 2";"Kerrostalo yksiöt";1732;46;.
+"2013";"Hämeenlinna 2";"Kerrostalo kaksiot";1535;101;.
+"2013";"Hämeenlinna 2";"Kerrostalo kolmiot+";1394;57;.
+"2013";"Riihimäki";"Kerrostalo yksiöt";1822;84;.
+"2013";"Riihimäki";"Kerrostalo kaksiot";1644;193;.
+"2013";"Riihimäki";"Kerrostalo kolmiot+";1448;114;.
+"2013";"Pirkanmaa";"Kerrostalo yksiöt";2516;1067;.
+"2013";"Pirkanmaa";"Kerrostalo kaksiot";2166;2168;.
+"2013";"Pirkanmaa";"Kerrostalo kolmiot+";2097;1405;.
+"2013";"Tampere";"Kerrostalo yksiöt";2880;735;.
+"2013";"Tampere";"Kerrostalo kaksiot";2464;1460;.
+"2013";"Tampere";"Kerrostalo kolmiot+";2379;936;.
+"2013";"Tampere 1";"Kerrostalo yksiöt";3361;368;.
+"2013";"Tampere 1";"Kerrostalo kaksiot";2935;655;.
+"2013";"Tampere 1";"Kerrostalo kolmiot+";2993;420;.
+"2013";"Tampere 2";"Kerrostalo yksiöt";2344;114;.
+"2013";"Tampere 2";"Kerrostalo kaksiot";2297;281;.
+"2013";"Tampere 2";"Kerrostalo kolmiot+";2153;117;.
+"2013";"Tampere 3";"Kerrostalo yksiöt";2155;253;.
+"2013";"Tampere 3";"Kerrostalo kaksiot";1750;524;.
+"2013";"Tampere 3";"Kerrostalo kolmiot+";1646;399;.
+"2013";"Päijät-Häme";"Kerrostalo yksiöt";1767;496;.
+"2013";"Päijät-Häme";"Kerrostalo kaksiot";1602;1148;.
+"2013";"Päijät-Häme";"Kerrostalo kolmiot+";1599;724;.
+"2013";"Lahti";"Kerrostalo yksiöt";2030;324;.
+"2013";"Lahti";"Kerrostalo kaksiot";1792;861;.
+"2013";"Lahti";"Kerrostalo kolmiot+";1766;549;.
+"2013";"Lahti 1";"Kerrostalo yksiöt";2446;178;.
+"2013";"Lahti 1";"Kerrostalo kaksiot";2436;318;.
+"2013";"Lahti 1";"Kerrostalo kolmiot+";2365;233;.
+"2013";"Lahti 2";"Kerrostalo yksiöt";1657;146;.
+"2013";"Lahti 2";"Kerrostalo kaksiot";1374;543;.
+"2013";"Lahti 2";"Kerrostalo kolmiot+";1343;316;.
+"2013";"Kymenlaakso";"Kerrostalo yksiöt";1257;367;.
+"2013";"Kymenlaakso";"Kerrostalo kaksiot";1224;646;.
+"2013";"Kymenlaakso";"Kerrostalo kolmiot+";1265;354;.
+"2013";"Kotka";"Kerrostalo yksiöt";1336;163;.
+"2013";"Kotka";"Kerrostalo kaksiot";1314;254;.
+"2013";"Kotka";"Kerrostalo kolmiot+";1371;152;.
+"2013";"Kotka 1";"Kerrostalo yksiöt";1664;87;.
+"2013";"Kotka 1";"Kerrostalo kaksiot";1611;147;.
+"2013";"Kotka 1";"Kerrostalo kolmiot+";1776;73;.
+"2013";"Kotka 2";"Kerrostalo yksiöt";1056;76;.
+"2013";"Kotka 2";"Kerrostalo kaksiot";1046;107;.
+"2013";"Kotka 2";"Kerrostalo kolmiot+";944;79;.
+"2013";"Kouvola";"Kerrostalo yksiöt";1207;171;.
+"2013";"Kouvola";"Kerrostalo kaksiot";1183;334;.
+"2013";"Kouvola";"Kerrostalo kolmiot+";1188;179;.
+"2013";"Etelä-Karjala";"Kerrostalo yksiöt";1657;260;.
+"2013";"Etelä-Karjala";"Kerrostalo kaksiot";1602;539;.
+"2013";"Etelä-Karjala";"Kerrostalo kolmiot+";1659;291;.
+"2013";"Lappeenranta";"Kerrostalo yksiöt";2019;188;.
+"2013";"Lappeenranta";"Kerrostalo kaksiot";1857;379;.
+"2013";"Lappeenranta";"Kerrostalo kolmiot+";1895;221;.
+"2013";"Lappeenranta 1";"Kerrostalo yksiöt";2358;108;.
+"2013";"Lappeenranta 1";"Kerrostalo kaksiot";2322;200;.
+"2013";"Lappeenranta 1";"Kerrostalo kolmiot+";2418;103;.
+"2013";"Lappeenranta 2";"Kerrostalo yksiöt";1500;80;.
+"2013";"Lappeenranta 2";"Kerrostalo kaksiot";1302;179;.
+"2013";"Lappeenranta 2";"Kerrostalo kolmiot+";1269;118;.
+"2013";"Etelä-Savo";"Kerrostalo yksiöt";1647;238;.
+"2013";"Etelä-Savo";"Kerrostalo kaksiot";1495;456;.
+"2013";"Etelä-Savo";"Kerrostalo kolmiot+";1556;261;.
+"2013";"Mikkeli";"Kerrostalo yksiöt";2089;93;.
+"2013";"Mikkeli";"Kerrostalo kaksiot";1869;219;.
+"2013";"Mikkeli";"Kerrostalo kolmiot+";1783;129;.
+"2013";"Pohjois-Savo";"Kerrostalo yksiöt";1872;304;.
+"2013";"Pohjois-Savo";"Kerrostalo kaksiot";1719;922;.
+"2013";"Pohjois-Savo";"Kerrostalo kolmiot+";1761;541;.
+"2013";"Kuopio";"Kerrostalo yksiöt";2393;172;.
+"2013";"Kuopio";"Kerrostalo kaksiot";2053;652;.
+"2013";"Kuopio";"Kerrostalo kolmiot+";1953;404;.
+"2013";"Kuopio 1";"Kerrostalo yksiöt";2679;104;.
+"2013";"Kuopio 1";"Kerrostalo kaksiot";2424;336;.
+"2013";"Kuopio 1";"Kerrostalo kolmiot+";2396;197;.
+"2013";"Kuopio 2";"Kerrostalo yksiöt";1912;68;.
+"2013";"Kuopio 2";"Kerrostalo kaksiot";1676;316;.
+"2013";"Kuopio 2";"Kerrostalo kolmiot+";1523;207;.
+"2013";"Pohjois-Karjala";"Kerrostalo yksiöt";2215;178;.
+"2013";"Pohjois-Karjala";"Kerrostalo kaksiot";1849;351;.
+"2013";"Pohjois-Karjala";"Kerrostalo kolmiot+";1728;192;.
+"2013";"Joensuu";"Kerrostalo yksiöt";2721;117;.
+"2013";"Joensuu";"Kerrostalo kaksiot";2253;225;.
+"2013";"Joensuu";"Kerrostalo kolmiot+";1996;140;.
+"2013";"Joensuu 1";"Kerrostalo yksiöt";2822;101;.
+"2013";"Joensuu 1";"Kerrostalo kaksiot";2410;151;.
+"2013";"Joensuu 1";"Kerrostalo kolmiot+";2124;102;.
+"2013";"Joensuu 2";"Kerrostalo yksiöt";2228;16;.
+"2013";"Joensuu 2";"Kerrostalo kaksiot";1806;74;.
+"2013";"Joensuu 2";"Kerrostalo kolmiot+";1557;38;.
+"2013";"Keski-Suomi";"Kerrostalo yksiöt";1875;498;.
+"2013";"Keski-Suomi";"Kerrostalo kaksiot";1632;1090;.
+"2013";"Keski-Suomi";"Kerrostalo kolmiot+";1557;615;.
+"2013";"Jyväskylä";"Kerrostalo yksiöt";2212;341;.
+"2013";"Jyväskylä";"Kerrostalo kaksiot";1837;837;.
+"2013";"Jyväskylä";"Kerrostalo kolmiot+";1699;478;.
+"2013";"Jyväskylä 1";"Kerrostalo yksiöt";2780;159;.
+"2013";"Jyväskylä 1";"Kerrostalo kaksiot";2452;446;.
+"2013";"Jyväskylä 1";"Kerrostalo kolmiot+";2327;230;.
+"2013";"Jyväskylä 2";"Kerrostalo yksiöt";1596;182;.
+"2013";"Jyväskylä 2";"Kerrostalo kaksiot";1331;391;.
+"2013";"Jyväskylä 2";"Kerrostalo kolmiot+";1227;248;.
+"2013";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1910;75;.
+"2013";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1715;181;.
+"2013";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1592;153;.
+"2013";"Seinäjoki";"Kerrostalo yksiöt";2209;49;.
+"2013";"Seinäjoki";"Kerrostalo kaksiot";1954;139;.
+"2013";"Seinäjoki";"Kerrostalo kolmiot+";1779;117;.
+"2013";"Pohjanmaa";"Kerrostalo yksiöt";2108;206;.
+"2013";"Pohjanmaa";"Kerrostalo kaksiot";1801;494;.
+"2013";"Pohjanmaa";"Kerrostalo kolmiot+";1717;375;.
+"2013";"Vaasa";"Kerrostalo yksiöt";2366;153;.
+"2013";"Vaasa";"Kerrostalo kaksiot";2059;329;.
+"2013";"Vaasa";"Kerrostalo kolmiot+";1878;283;.
+"2013";"Vaasa 1";"Kerrostalo yksiöt";2588;109;.
+"2013";"Vaasa 1";"Kerrostalo kaksiot";2309;235;.
+"2013";"Vaasa 1";"Kerrostalo kolmiot+";2131;190;.
+"2013";"Vaasa 2";"Kerrostalo yksiöt";1549;44;.
+"2013";"Vaasa 2";"Kerrostalo kaksiot";1322;94;.
+"2013";"Vaasa 2";"Kerrostalo kolmiot+";1272;93;.
+"2013";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2175;33;.
+"2013";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1626;135;.
+"2013";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1700;93;.
+"2013";"Kokkola";"Kerrostalo yksiöt";2238;27;.
+"2013";"Kokkola";"Kerrostalo kaksiot";1674;121;.
+"2013";"Kokkola";"Kerrostalo kolmiot+";1718;90;.
+"2013";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";1949;403;.
+"2013";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1718;1043;.
+"2013";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1720;664;.
+"2013";"Oulu";"Kerrostalo yksiöt";2067;306;.
+"2013";"Oulu";"Kerrostalo kaksiot";1772;851;.
+"2013";"Oulu";"Kerrostalo kolmiot+";1763;577;.
+"2013";"Oulu 1";"Kerrostalo yksiöt";2438;174;.
+"2013";"Oulu 1";"Kerrostalo kaksiot";2157;514;.
+"2013";"Oulu 1";"Kerrostalo kolmiot+";2210;305;.
+"2013";"Oulu 2";"Kerrostalo yksiöt";1662;132;.
+"2013";"Oulu 2";"Kerrostalo kaksiot";1417;337;.
+"2013";"Oulu 2";"Kerrostalo kolmiot+";1354;272;.
+"2013";"Kainuu";"Kerrostalo yksiöt";1570;97;.
+"2013";"Kainuu";"Kerrostalo kaksiot";1322;220;.
+"2013";"Kainuu";"Kerrostalo kolmiot+";1285;131;.
+"2013";"Kajaani";"Kerrostalo yksiöt";1646;60;.
+"2013";"Kajaani";"Kerrostalo kaksiot";1367;180;.
+"2013";"Kajaani";"Kerrostalo kolmiot+";1276;106;.
+"2013";"Lappi";"Kerrostalo yksiöt";1479;181;.
+"2013";"Lappi";"Kerrostalo kaksiot";1327;425;.
+"2013";"Lappi";"Kerrostalo kolmiot+";1262;285;.
+"2013";"Rovaniemi";"Kerrostalo yksiöt";1918;104;.
+"2013";"Rovaniemi";"Kerrostalo kaksiot";1624;230;.
+"2013";"Rovaniemi";"Kerrostalo kolmiot+";1419;150;.
+"2014";"Koko maa";"Kerrostalo yksiöt";3066;8861;.
+"2014";"Koko maa";"Kerrostalo kaksiot";2400;18547;.
+"2014";"Koko maa";"Kerrostalo kolmiot+";2466;12891;.
+"2014";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";5094;2954;.
+"2014";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4081;5428;.
+"2014";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3838;4683;.
+"2014";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2043;5906;.
+"2014";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1760;13108;.
+"2014";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1728;8206;.
+"2014";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";.;.;.
+"2014";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";.;.;.
+"2014";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";.;.;.
+"2014";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";.;.;.
+"2014";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";.;.;.
+"2014";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";.;.;.
+"2014";"Uusimaa";"Kerrostalo yksiöt";4765;3503;.
+"2014";"Uusimaa";"Kerrostalo kaksiot";3733;6762;.
+"2014";"Uusimaa";"Kerrostalo kolmiot+";3600;5479;.
+"2014";"Helsinki";"Kerrostalo yksiöt";5353;2325;.
+"2014";"Helsinki";"Kerrostalo kaksiot";4365;3681;.
+"2014";"Helsinki";"Kerrostalo kolmiot+";4181;3041;.
+"2014";"Helsinki 1";"Kerrostalo yksiöt";...;513;.
+"2014";"Helsinki 1";"Kerrostalo kaksiot";6056;578;.
+"2014";"Helsinki 1";"Kerrostalo kolmiot+";5916;530;.
+"2014";"Helsinki 2";"Kerrostalo yksiöt";5320;1262;.
+"2014";"Helsinki 2";"Kerrostalo kaksiot";4731;1590;.
+"2014";"Helsinki 2";"Kerrostalo kolmiot+";4515;1142;.
+"2014";"Helsinki 3";"Kerrostalo yksiöt";...;205;.
+"2014";"Helsinki 3";"Kerrostalo kaksiot";3626;480;.
+"2014";"Helsinki 3";"Kerrostalo kolmiot+";3364;420;.
+"2014";"Helsinki 4";"Kerrostalo yksiöt";3799;345;.
+"2014";"Helsinki 4";"Kerrostalo kaksiot";2818;1033;.
+"2014";"Helsinki 4";"Kerrostalo kolmiot+";2487;949;.
+"2014";"Espoo-Kauniainen";"Kerrostalo yksiöt";3973;304;.
+"2014";"Espoo-Kauniainen";"Kerrostalo kaksiot";3449;874;.
+"2014";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3106;954;.
+"2014";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4598;90;.
+"2014";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4056;184;.
+"2014";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";3872;225;.
+"2014";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4146;95;.
+"2014";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3686;308;.
+"2014";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3208;284;.
+"2014";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3446;119;.
+"2014";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2883;382;.
+"2014";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2543;445;.
+"2014";"Vantaa";"Kerrostalo yksiöt";3470;325;.
+"2014";"Vantaa";"Kerrostalo kaksiot";2860;873;.
+"2014";"Vantaa";"Kerrostalo kolmiot+";2560;688;.
+"2014";"Vantaa 1";"Kerrostalo yksiöt";3800;68;.
+"2014";"Vantaa 1";"Kerrostalo kaksiot";3273;234;.
+"2014";"Vantaa 1";"Kerrostalo kolmiot+";2983;199;.
+"2014";"Vantaa 2";"Kerrostalo yksiöt";3183;257;.
+"2014";"Vantaa 2";"Kerrostalo kaksiot";2436;639;.
+"2014";"Vantaa 2";"Kerrostalo kolmiot+";2085;489;.
+"2014";"Vantaa 3";"Kerrostalo yksiöt";.;.;.
+"2014";"Vantaa 3";"Kerrostalo kaksiot";.;.;.
+"2014";"Vantaa 3";"Kerrostalo kolmiot+";.;.;.
+"2014";"Kehyskunnat";"Kerrostalo yksiöt";2337;415;.
+"2014";"Kehyskunnat";"Kerrostalo kaksiot";2106;996;.
+"2014";"Kehyskunnat";"Kerrostalo kolmiot+";1957;601;.
+"2014";"Porvoo";"Kerrostalo yksiöt";2922;69;.
+"2014";"Porvoo";"Kerrostalo kaksiot";2380;135;.
+"2014";"Porvoo";"Kerrostalo kolmiot+";2266;96;.
+"2014";"Hyvinkää";"Kerrostalo yksiöt";2177;86;.
+"2014";"Hyvinkää";"Kerrostalo kaksiot";2034;274;.
+"2014";"Hyvinkää";"Kerrostalo kolmiot+";1847;127;.
+"2014";"Järvenpää";"Kerrostalo yksiöt";2870;63;.
+"2014";"Järvenpää";"Kerrostalo kaksiot";2432;114;.
+"2014";"Järvenpää";"Kerrostalo kolmiot+";2107;60;.
+"2014";"Kerava";"Kerrostalo yksiöt";2823;49;.
+"2014";"Kerava";"Kerrostalo kaksiot";2391;169;.
+"2014";"Kerava";"Kerrostalo kolmiot+";2257;118;.
+"2014";"Varsinais-Suomi";"Kerrostalo yksiöt";2355;792;.
+"2014";"Varsinais-Suomi";"Kerrostalo kaksiot";1883;1824;.
+"2014";"Varsinais-Suomi";"Kerrostalo kolmiot+";1826;1274;.
+"2014";"Turku";"Kerrostalo yksiöt";2696;501;.
+"2014";"Turku";"Kerrostalo kaksiot";2124;1219;.
+"2014";"Turku";"Kerrostalo kolmiot+";1971;913;.
+"2014";"Turku 1";"Kerrostalo yksiöt";3090;264;.
+"2014";"Turku 1";"Kerrostalo kaksiot";2677;491;.
+"2014";"Turku 1";"Kerrostalo kolmiot+";2621;343;.
+"2014";"Turku 2";"Kerrostalo yksiöt";2519;89;.
+"2014";"Turku 2";"Kerrostalo kaksiot";2032;191;.
+"2014";"Turku 2";"Kerrostalo kolmiot+";1911;123;.
+"2014";"Turku 3";"Kerrostalo yksiöt";1785;148;.
+"2014";"Turku 3";"Kerrostalo kaksiot";1426;537;.
+"2014";"Turku 3";"Kerrostalo kolmiot+";1372;447;.
+"2014";"Satakunta";"Kerrostalo yksiöt";1551;252;.
+"2014";"Satakunta";"Kerrostalo kaksiot";1373;685;.
+"2014";"Satakunta";"Kerrostalo kolmiot+";1410;411;.
+"2014";"Pori";"Kerrostalo yksiöt";1631;164;.
+"2014";"Pori";"Kerrostalo kaksiot";1464;392;.
+"2014";"Pori";"Kerrostalo kolmiot+";1534;225;.
+"2014";"Pori 1";"Kerrostalo yksiöt";1944;98;.
+"2014";"Pori 1";"Kerrostalo kaksiot";1859;227;.
+"2014";"Pori 1";"Kerrostalo kolmiot+";1863;116;.
+"2014";"Pori 2";"Kerrostalo yksiöt";1067;66;.
+"2014";"Pori 2";"Kerrostalo kaksiot";995;165;.
+"2014";"Pori 2";"Kerrostalo kolmiot+";1000;109;.
+"2014";"Rauma";"Kerrostalo yksiöt";1686;45;.
+"2014";"Rauma";"Kerrostalo kaksiot";1363;162;.
+"2014";"Rauma";"Kerrostalo kolmiot+";1329;107;.
+"2014";"Kanta-Häme";"Kerrostalo yksiöt";1766;285;.
+"2014";"Kanta-Häme";"Kerrostalo kaksiot";1639;571;.
+"2014";"Kanta-Häme";"Kerrostalo kolmiot+";1642;370;.
+"2014";"Hämeenlinna";"Kerrostalo yksiöt";2167;122;.
+"2014";"Hämeenlinna";"Kerrostalo kaksiot";1965;259;.
+"2014";"Hämeenlinna";"Kerrostalo kolmiot+";1918;175;.
+"2014";"Hämeenlinna 1";"Kerrostalo yksiöt";2488;71;.
+"2014";"Hämeenlinna 1";"Kerrostalo kaksiot";2237;178;.
+"2014";"Hämeenlinna 1";"Kerrostalo kolmiot+";2158;123;.
+"2014";"Hämeenlinna 2";"Kerrostalo yksiöt";1563;51;.
+"2014";"Hämeenlinna 2";"Kerrostalo kaksiot";1481;81;.
+"2014";"Hämeenlinna 2";"Kerrostalo kolmiot+";1419;52;.
+"2014";"Riihimäki";"Kerrostalo yksiöt";1698;80;.
+"2014";"Riihimäki";"Kerrostalo kaksiot";1554;157;.
+"2014";"Riihimäki";"Kerrostalo kolmiot+";1559;116;.
+"2014";"Pirkanmaa";"Kerrostalo yksiöt";2598;938;.
+"2014";"Pirkanmaa";"Kerrostalo kaksiot";2234;1987;.
+"2014";"Pirkanmaa";"Kerrostalo kolmiot+";2107;1308;.
+"2014";"Tampere";"Kerrostalo yksiöt";2996;655;.
+"2014";"Tampere";"Kerrostalo kaksiot";2525;1338;.
+"2014";"Tampere";"Kerrostalo kolmiot+";2380;897;.
+"2014";"Tampere 1";"Kerrostalo yksiöt";3451;343;.
+"2014";"Tampere 1";"Kerrostalo kaksiot";3007;631;.
+"2014";"Tampere 1";"Kerrostalo kolmiot+";2962;394;.
+"2014";"Tampere 2";"Kerrostalo yksiöt";2603;108;.
+"2014";"Tampere 2";"Kerrostalo kaksiot";2358;265;.
+"2014";"Tampere 2";"Kerrostalo kolmiot+";2242;137;.
+"2014";"Tampere 3";"Kerrostalo yksiöt";2191;204;.
+"2014";"Tampere 3";"Kerrostalo kaksiot";1791;442;.
+"2014";"Tampere 3";"Kerrostalo kolmiot+";1644;366;.
+"2014";"Päijät-Häme";"Kerrostalo yksiöt";1902;387;.
+"2014";"Päijät-Häme";"Kerrostalo kaksiot";1656;1016;.
+"2014";"Päijät-Häme";"Kerrostalo kolmiot+";1647;577;.
+"2014";"Lahti";"Kerrostalo yksiöt";2221;244;.
+"2014";"Lahti";"Kerrostalo kaksiot";1871;681;.
+"2014";"Lahti";"Kerrostalo kolmiot+";1829;421;.
+"2014";"Lahti 1";"Kerrostalo yksiöt";2780;105;.
+"2014";"Lahti 1";"Kerrostalo kaksiot";2574;259;.
+"2014";"Lahti 1";"Kerrostalo kolmiot+";2473;183;.
+"2014";"Lahti 2";"Kerrostalo yksiöt";1719;139;.
+"2014";"Lahti 2";"Kerrostalo kaksiot";1415;422;.
+"2014";"Lahti 2";"Kerrostalo kolmiot+";1373;238;.
+"2014";"Kymenlaakso";"Kerrostalo yksiöt";1205;268;.
+"2014";"Kymenlaakso";"Kerrostalo kaksiot";1193;571;.
+"2014";"Kymenlaakso";"Kerrostalo kolmiot+";1240;334;.
+"2014";"Kotka";"Kerrostalo yksiöt";1298;115;.
+"2014";"Kotka";"Kerrostalo kaksiot";1288;255;.
+"2014";"Kotka";"Kerrostalo kolmiot+";1374;114;.
+"2014";"Kotka 1";"Kerrostalo yksiöt";1664;51;.
+"2014";"Kotka 1";"Kerrostalo kaksiot";1574;128;.
+"2014";"Kotka 1";"Kerrostalo kolmiot+";1697;60;.
+"2014";"Kotka 2";"Kerrostalo yksiöt";985;64;.
+"2014";"Kotka 2";"Kerrostalo kaksiot";1029;127;.
+"2014";"Kotka 2";"Kerrostalo kolmiot+";1033;54;.
+"2014";"Kouvola";"Kerrostalo yksiöt";1147;124;.
+"2014";"Kouvola";"Kerrostalo kaksiot";1138;262;.
+"2014";"Kouvola";"Kerrostalo kolmiot+";1182;170;.
+"2014";"Etelä-Karjala";"Kerrostalo yksiöt";1696;229;.
+"2014";"Etelä-Karjala";"Kerrostalo kaksiot";1605;413;.
+"2014";"Etelä-Karjala";"Kerrostalo kolmiot+";1581;217;.
+"2014";"Lappeenranta";"Kerrostalo yksiöt";2070;138;.
+"2014";"Lappeenranta";"Kerrostalo kaksiot";1853;291;.
+"2014";"Lappeenranta";"Kerrostalo kolmiot+";1843;159;.
+"2014";"Lappeenranta 1";"Kerrostalo yksiöt";2436;77;.
+"2014";"Lappeenranta 1";"Kerrostalo kaksiot";2273;169;.
+"2014";"Lappeenranta 1";"Kerrostalo kolmiot+";2376;86;.
+"2014";"Lappeenranta 2";"Kerrostalo yksiöt";1509;61;.
+"2014";"Lappeenranta 2";"Kerrostalo kaksiot";1352;122;.
+"2014";"Lappeenranta 2";"Kerrostalo kolmiot+";1206;73;.
+"2014";"Etelä-Savo";"Kerrostalo yksiöt";1597;196;.
+"2014";"Etelä-Savo";"Kerrostalo kaksiot";1526;394;.
+"2014";"Etelä-Savo";"Kerrostalo kolmiot+";1533;220;.
+"2014";"Mikkeli";"Kerrostalo yksiöt";2109;79;.
+"2014";"Mikkeli";"Kerrostalo kaksiot";1922;182;.
+"2014";"Mikkeli";"Kerrostalo kolmiot+";1786;105;.
+"2014";"Pohjois-Savo";"Kerrostalo yksiöt";1986;312;.
+"2014";"Pohjois-Savo";"Kerrostalo kaksiot";1754;758;.
+"2014";"Pohjois-Savo";"Kerrostalo kolmiot+";1802;459;.
+"2014";"Kuopio";"Kerrostalo yksiöt";2563;177;.
+"2014";"Kuopio";"Kerrostalo kaksiot";2098;536;.
+"2014";"Kuopio";"Kerrostalo kolmiot+";1983;348;.
+"2014";"Kuopio 1";"Kerrostalo yksiöt";2966;83;.
+"2014";"Kuopio 1";"Kerrostalo kaksiot";2574;240;.
+"2014";"Kuopio 1";"Kerrostalo kolmiot+";2499;155;.
+"2014";"Kuopio 2";"Kerrostalo yksiöt";1885;94;.
+"2014";"Kuopio 2";"Kerrostalo kaksiot";1614;296;.
+"2014";"Kuopio 2";"Kerrostalo kolmiot+";1481;193;.
+"2014";"Pohjois-Karjala";"Kerrostalo yksiöt";2196;181;.
+"2014";"Pohjois-Karjala";"Kerrostalo kaksiot";1776;335;.
+"2014";"Pohjois-Karjala";"Kerrostalo kolmiot+";1631;207;.
+"2014";"Joensuu";"Kerrostalo yksiöt";2655;117;.
+"2014";"Joensuu";"Kerrostalo kaksiot";2149;230;.
+"2014";"Joensuu";"Kerrostalo kolmiot+";1873;148;.
+"2014";"Joensuu 1";"Kerrostalo yksiöt";2828;86;.
+"2014";"Joensuu 1";"Kerrostalo kaksiot";2308;163;.
+"2014";"Joensuu 1";"Kerrostalo kolmiot+";2041;98;.
+"2014";"Joensuu 2";"Kerrostalo yksiöt";1817;31;.
+"2014";"Joensuu 2";"Kerrostalo kaksiot";1698;67;.
+"2014";"Joensuu 2";"Kerrostalo kolmiot+";1292;50;.
+"2014";"Keski-Suomi";"Kerrostalo yksiöt";1854;451;.
+"2014";"Keski-Suomi";"Kerrostalo kaksiot";1617;1023;.
+"2014";"Keski-Suomi";"Kerrostalo kolmiot+";1537;523;.
+"2014";"Jyväskylä";"Kerrostalo yksiöt";2184;323;.
+"2014";"Jyväskylä";"Kerrostalo kaksiot";1823;772;.
+"2014";"Jyväskylä";"Kerrostalo kolmiot+";1691;426;.
+"2014";"Jyväskylä 1";"Kerrostalo yksiöt";2784;154;.
+"2014";"Jyväskylä 1";"Kerrostalo kaksiot";2510;384;.
+"2014";"Jyväskylä 1";"Kerrostalo kolmiot+";2340;207;.
+"2014";"Jyväskylä 2";"Kerrostalo yksiöt";1535;169;.
+"2014";"Jyväskylä 2";"Kerrostalo kaksiot";1256;388;.
+"2014";"Jyväskylä 2";"Kerrostalo kolmiot+";1204;219;.
+"2014";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1939;87;.
+"2014";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1762;221;.
+"2014";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1751;145;.
+"2014";"Seinäjoki";"Kerrostalo yksiöt";2278;52;.
+"2014";"Seinäjoki";"Kerrostalo kaksiot";1965;163;.
+"2014";"Seinäjoki";"Kerrostalo kolmiot+";2017;111;.
+"2014";"Pohjanmaa";"Kerrostalo yksiöt";2105;206;.
+"2014";"Pohjanmaa";"Kerrostalo kaksiot";1803;374;.
+"2014";"Pohjanmaa";"Kerrostalo kolmiot+";1772;328;.
+"2014";"Vaasa";"Kerrostalo yksiöt";2368;145;.
+"2014";"Vaasa";"Kerrostalo kaksiot";2027;271;.
+"2014";"Vaasa";"Kerrostalo kolmiot+";1928;236;.
+"2014";"Vaasa 1";"Kerrostalo yksiöt";2589;108;.
+"2014";"Vaasa 1";"Kerrostalo kaksiot";2272;198;.
+"2014";"Vaasa 1";"Kerrostalo kolmiot+";2212;155;.
+"2014";"Vaasa 2";"Kerrostalo yksiöt";1553;37;.
+"2014";"Vaasa 2";"Kerrostalo kaksiot";1307;73;.
+"2014";"Vaasa 2";"Kerrostalo kolmiot+";1248;81;.
+"2014";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2311;46;.
+"2014";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1769;114;.
+"2014";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1780;98;.
+"2014";"Kokkola";"Kerrostalo yksiöt";2376;44;.
+"2014";"Kokkola";"Kerrostalo kaksiot";1824;107;.
+"2014";"Kokkola";"Kerrostalo kolmiot+";1805;95;.
+"2014";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";1991;367;.
+"2014";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1692;911;.
+"2014";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1709;573;.
+"2014";"Oulu";"Kerrostalo yksiöt";2124;297;.
+"2014";"Oulu";"Kerrostalo kaksiot";1770;743;.
+"2014";"Oulu";"Kerrostalo kolmiot+";1788;483;.
+"2014";"Oulu 1";"Kerrostalo yksiöt";2446;172;.
+"2014";"Oulu 1";"Kerrostalo kaksiot";2164;407;.
+"2014";"Oulu 1";"Kerrostalo kolmiot+";2186;249;.
+"2014";"Oulu 2";"Kerrostalo yksiöt";1772;125;.
+"2014";"Oulu 2";"Kerrostalo kaksiot";1406;336;.
+"2014";"Oulu 2";"Kerrostalo kolmiot+";1424;234;.
+"2014";"Kainuu";"Kerrostalo yksiöt";1529;97;.
+"2014";"Kainuu";"Kerrostalo kaksiot";1304;178;.
+"2014";"Kainuu";"Kerrostalo kolmiot+";1264;106;.
+"2014";"Kajaani";"Kerrostalo yksiöt";1588;66;.
+"2014";"Kajaani";"Kerrostalo kaksiot";1337;137;.
+"2014";"Kajaani";"Kerrostalo kolmiot+";1265;84;.
+"2014";"Lappi";"Kerrostalo yksiöt";1424;263;.
+"2014";"Lappi";"Kerrostalo kaksiot";1283;399;.
+"2014";"Lappi";"Kerrostalo kolmiot+";1314;260;.
+"2014";"Rovaniemi";"Kerrostalo yksiöt";1699;145;.
+"2014";"Rovaniemi";"Kerrostalo kaksiot";1542;242;.
+"2014";"Rovaniemi";"Kerrostalo kolmiot+";1573;147;.
+"2015";"Koko maa";"Kerrostalo yksiöt";3092;9834;.
+"2015";"Koko maa";"Kerrostalo kaksiot";2412;19525;.
+"2015";"Koko maa";"Kerrostalo kolmiot+";2475;13655;.
+"2015";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";5031;3659;.
+"2015";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";3958;5992;.
+"2015";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3706;5104;.
+"2015";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2062;6173;.
+"2015";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1771;13503;.
+"2015";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1756;8538;.
+"2015";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";4236;5126;.
+"2015";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";3307;9380;.
+"2015";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";3182;7468;.
+"2015";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1793;4706;.
+"2015";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1620;10115;.
+"2015";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1635;6174;.
+"2015";"Uusimaa";"Kerrostalo yksiöt";4648;4329;.
+"2015";"Uusimaa";"Kerrostalo kaksiot";3578;7446;.
+"2015";"Uusimaa";"Kerrostalo kolmiot+";3464;6032;.
+"2015";"Helsinki";"Kerrostalo yksiöt";5439;2761;.
+"2015";"Helsinki";"Kerrostalo kaksiot";4434;4065;.
+"2015";"Helsinki";"Kerrostalo kolmiot+";4248;3289;.
+"2015";"Helsinki 1";"Kerrostalo yksiöt";...;615;.
+"2015";"Helsinki 1";"Kerrostalo kaksiot";6236;740;.
+"2015";"Helsinki 1";"Kerrostalo kolmiot+";6130;648;.
+"2015";"Helsinki 2";"Kerrostalo yksiöt";5464;1488;.
+"2015";"Helsinki 2";"Kerrostalo kaksiot";4868;1762;.
+"2015";"Helsinki 2";"Kerrostalo kolmiot+";4660;1236;.
+"2015";"Helsinki 3";"Kerrostalo yksiöt";...;293;.
+"2015";"Helsinki 3";"Kerrostalo kaksiot";3470;611;.
+"2015";"Helsinki 3";"Kerrostalo kolmiot+";3216;607;.
+"2015";"Helsinki 4";"Kerrostalo yksiöt";3866;365;.
+"2015";"Helsinki 4";"Kerrostalo kaksiot";2824;952;.
+"2015";"Helsinki 4";"Kerrostalo kolmiot+";2433;798;.
+"2015";"Espoo-Kauniainen";"Kerrostalo yksiöt";3959;414;.
+"2015";"Espoo-Kauniainen";"Kerrostalo kaksiot";3394;974;.
+"2015";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3069;1058;.
+"2015";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4398;137;.
+"2015";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4061;250;.
+"2015";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";3797;317;.
+"2015";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4392;81;.
+"2015";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3581;271;.
+"2015";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3252;261;.
+"2015";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3411;196;.
+"2015";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2815;453;.
+"2015";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2485;480;.
+"2015";"Vantaa";"Kerrostalo yksiöt";3309;484;.
+"2015";"Vantaa";"Kerrostalo kaksiot";2625;953;.
+"2015";"Vantaa";"Kerrostalo kolmiot+";2284;757;.
+"2015";"Vantaa 1";"Kerrostalo yksiöt";3983;77;.
+"2015";"Vantaa 1";"Kerrostalo kaksiot";3470;202;.
+"2015";"Vantaa 1";"Kerrostalo kolmiot+";3109;180;.
+"2015";"Vantaa 2";"Kerrostalo yksiöt";3254;128;.
+"2015";"Vantaa 2";"Kerrostalo kaksiot";2657;207;.
+"2015";"Vantaa 2";"Kerrostalo kolmiot+";2311;139;.
+"2015";"Vantaa 3";"Kerrostalo yksiöt";3125;279;.
+"2015";"Vantaa 3";"Kerrostalo kaksiot";2311;544;.
+"2015";"Vantaa 3";"Kerrostalo kolmiot+";2022;438;.
+"2015";"Kehyskunnat";"Kerrostalo yksiöt";2333;509;.
+"2015";"Kehyskunnat";"Kerrostalo kaksiot";2010;1133;.
+"2015";"Kehyskunnat";"Kerrostalo kolmiot+";2024;656;.
+"2015";"Porvoo";"Kerrostalo yksiöt";2601;104;.
+"2015";"Porvoo";"Kerrostalo kaksiot";2390;153;.
+"2015";"Porvoo";"Kerrostalo kolmiot+";2363;115;.
+"2015";"Hyvinkää";"Kerrostalo yksiöt";2233;85;.
+"2015";"Hyvinkää";"Kerrostalo kaksiot";1913;246;.
+"2015";"Hyvinkää";"Kerrostalo kolmiot+";1901;140;.
+"2015";"Järvenpää";"Kerrostalo yksiöt";3007;84;.
+"2015";"Järvenpää";"Kerrostalo kaksiot";2366;149;.
+"2015";"Järvenpää";"Kerrostalo kolmiot+";2523;80;.
+"2015";"Kerava";"Kerrostalo yksiöt";2685;81;.
+"2015";"Kerava";"Kerrostalo kaksiot";2287;197;.
+"2015";"Kerava";"Kerrostalo kolmiot+";2171;130;.
+"2015";"Varsinais-Suomi";"Kerrostalo yksiöt";2434;792;.
+"2015";"Varsinais-Suomi";"Kerrostalo kaksiot";1887;1927;.
+"2015";"Varsinais-Suomi";"Kerrostalo kolmiot+";1794;1246;.
+"2015";"Turku";"Kerrostalo yksiöt";2786;510;.
+"2015";"Turku";"Kerrostalo kaksiot";2137;1262;.
+"2015";"Turku";"Kerrostalo kolmiot+";1935;872;.
+"2015";"Turku 1";"Kerrostalo yksiöt";3293;290;.
+"2015";"Turku 1";"Kerrostalo kaksiot";2725;591;.
+"2015";"Turku 1";"Kerrostalo kolmiot+";2680;378;.
+"2015";"Turku 2";"Kerrostalo yksiöt";2319;120;.
+"2015";"Turku 2";"Kerrostalo kaksiot";1993;245;.
+"2015";"Turku 2";"Kerrostalo kolmiot+";1724;174;.
+"2015";"Turku 3";"Kerrostalo yksiöt";1771;100;.
+"2015";"Turku 3";"Kerrostalo kaksiot";1419;426;.
+"2015";"Turku 3";"Kerrostalo kolmiot+";1316;320;.
+"2015";"Satakunta";"Kerrostalo yksiöt";1457;318;.
+"2015";"Satakunta";"Kerrostalo kaksiot";1307;611;.
+"2015";"Satakunta";"Kerrostalo kolmiot+";1365;365;.
+"2015";"Pori";"Kerrostalo yksiöt";1642;186;.
+"2015";"Pori";"Kerrostalo kaksiot";1375;319;.
+"2015";"Pori";"Kerrostalo kolmiot+";1447;212;.
+"2015";"Pori 1";"Kerrostalo yksiöt";1985;118;.
+"2015";"Pori 1";"Kerrostalo kaksiot";1734;180;.
+"2015";"Pori 1";"Kerrostalo kolmiot+";1660;141;.
+"2015";"Pori 2";"Kerrostalo yksiöt";1026;68;.
+"2015";"Pori 2";"Kerrostalo kaksiot";948;139;.
+"2015";"Pori 2";"Kerrostalo kolmiot+";1102;71;.
+"2015";"Rauma";"Kerrostalo yksiöt";1356;79;.
+"2015";"Rauma";"Kerrostalo kaksiot";1310;170;.
+"2015";"Rauma";"Kerrostalo kolmiot+";1357;98;.
+"2015";"Kanta-Häme";"Kerrostalo yksiöt";1797;383;.
+"2015";"Kanta-Häme";"Kerrostalo kaksiot";1603;664;.
+"2015";"Kanta-Häme";"Kerrostalo kolmiot+";1614;392;.
+"2015";"Hämeenlinna";"Kerrostalo yksiöt";2277;236;.
+"2015";"Hämeenlinna";"Kerrostalo kaksiot";1976;316;.
+"2015";"Hämeenlinna";"Kerrostalo kolmiot+";1926;199;.
+"2015";"Hämeenlinna 1";"Kerrostalo yksiöt";2587;120;.
+"2015";"Hämeenlinna 1";"Kerrostalo kaksiot";2271;168;.
+"2015";"Hämeenlinna 1";"Kerrostalo kolmiot+";2204;119;.
+"2015";"Hämeenlinna 2";"Kerrostalo yksiöt";1696;116;.
+"2015";"Hämeenlinna 2";"Kerrostalo kaksiot";1451;148;.
+"2015";"Hämeenlinna 2";"Kerrostalo kolmiot+";1349;80;.
+"2015";"Riihimäki";"Kerrostalo yksiöt";1634;70;.
+"2015";"Riihimäki";"Kerrostalo kaksiot";1465;206;.
+"2015";"Riihimäki";"Kerrostalo kolmiot+";1512;103;.
+"2015";"Pirkanmaa";"Kerrostalo yksiöt";2604;967;.
+"2015";"Pirkanmaa";"Kerrostalo kaksiot";2218;2042;.
+"2015";"Pirkanmaa";"Kerrostalo kolmiot+";2111;1492;.
+"2015";"Tampere";"Kerrostalo yksiöt";2969;671;.
+"2015";"Tampere";"Kerrostalo kaksiot";2493;1400;.
+"2015";"Tampere";"Kerrostalo kolmiot+";2349;998;.
+"2015";"Tampere 1";"Kerrostalo yksiöt";3499;341;.
+"2015";"Tampere 1";"Kerrostalo kaksiot";3062;633;.
+"2015";"Tampere 1";"Kerrostalo kolmiot+";3016;430;.
+"2015";"Tampere 2";"Kerrostalo yksiöt";2432;210;.
+"2015";"Tampere 2";"Kerrostalo kaksiot";2311;389;.
+"2015";"Tampere 2";"Kerrostalo kolmiot+";2124;230;.
+"2015";"Tampere 3";"Kerrostalo yksiöt";2113;120;.
+"2015";"Tampere 3";"Kerrostalo kaksiot";1614;378;.
+"2015";"Tampere 3";"Kerrostalo kolmiot+";1543;338;.
+"2015";"Päijät-Häme";"Kerrostalo yksiöt";1807;409;.
+"2015";"Päijät-Häme";"Kerrostalo kaksiot";1642;919;.
+"2015";"Päijät-Häme";"Kerrostalo kolmiot+";1677;597;.
+"2015";"Lahti";"Kerrostalo yksiöt";2146;279;.
+"2015";"Lahti";"Kerrostalo kaksiot";1851;712;.
+"2015";"Lahti";"Kerrostalo kolmiot+";1869;467;.
+"2015";"Lahti 1";"Kerrostalo yksiöt";2740;110;.
+"2015";"Lahti 1";"Kerrostalo kaksiot";2485;280;.
+"2015";"Lahti 1";"Kerrostalo kolmiot+";2547;212;.
+"2015";"Lahti 2";"Kerrostalo yksiöt";1613;169;.
+"2015";"Lahti 2";"Kerrostalo kaksiot";1440;432;.
+"2015";"Lahti 2";"Kerrostalo kolmiot+";1390;255;.
+"2015";"Kymenlaakso";"Kerrostalo yksiöt";1165;286;.
+"2015";"Kymenlaakso";"Kerrostalo kaksiot";1195;614;.
+"2015";"Kymenlaakso";"Kerrostalo kolmiot+";1262;314;.
+"2015";"Kotka";"Kerrostalo yksiöt";1239;108;.
+"2015";"Kotka";"Kerrostalo kaksiot";1241;258;.
+"2015";"Kotka";"Kerrostalo kolmiot+";1347;140;.
+"2015";"Kotka 1";"Kerrostalo yksiöt";1582;51;.
+"2015";"Kotka 1";"Kerrostalo kaksiot";1498;149;.
+"2015";"Kotka 1";"Kerrostalo kolmiot+";1691;79;.
+"2015";"Kotka 2";"Kerrostalo yksiöt";946;57;.
+"2015";"Kotka 2";"Kerrostalo kaksiot";1009;109;.
+"2015";"Kotka 2";"Kerrostalo kolmiot+";984;61;.
+"2015";"Kouvola";"Kerrostalo yksiöt";1129;152;.
+"2015";"Kouvola";"Kerrostalo kaksiot";1183;301;.
+"2015";"Kouvola";"Kerrostalo kolmiot+";1210;144;.
+"2015";"Etelä-Karjala";"Kerrostalo yksiöt";1666;193;.
+"2015";"Etelä-Karjala";"Kerrostalo kaksiot";1600;374;.
+"2015";"Etelä-Karjala";"Kerrostalo kolmiot+";1586;214;.
+"2015";"Lappeenranta";"Kerrostalo yksiöt";2051;121;.
+"2015";"Lappeenranta";"Kerrostalo kaksiot";1858;248;.
+"2015";"Lappeenranta";"Kerrostalo kolmiot+";1826;160;.
+"2015";"Lappeenranta 1";"Kerrostalo yksiöt";2459;67;.
+"2015";"Lappeenranta 1";"Kerrostalo kaksiot";2354;142;.
+"2015";"Lappeenranta 1";"Kerrostalo kolmiot+";2360;89;.
+"2015";"Lappeenranta 2";"Kerrostalo yksiöt";1428;54;.
+"2015";"Lappeenranta 2";"Kerrostalo kaksiot";1266;106;.
+"2015";"Lappeenranta 2";"Kerrostalo kolmiot+";1188;71;.
+"2015";"Etelä-Savo";"Kerrostalo yksiöt";1592;176;.
+"2015";"Etelä-Savo";"Kerrostalo kaksiot";1506;419;.
+"2015";"Etelä-Savo";"Kerrostalo kolmiot+";1536;235;.
+"2015";"Mikkeli";"Kerrostalo yksiöt";2054;68;.
+"2015";"Mikkeli";"Kerrostalo kaksiot";1875;193;.
+"2015";"Mikkeli";"Kerrostalo kolmiot+";1723;126;.
+"2015";"Pohjois-Savo";"Kerrostalo yksiöt";1905;341;.
+"2015";"Pohjois-Savo";"Kerrostalo kaksiot";1737;801;.
+"2015";"Pohjois-Savo";"Kerrostalo kolmiot+";1790;463;.
+"2015";"Kuopio";"Kerrostalo yksiöt";2553;217;.
+"2015";"Kuopio";"Kerrostalo kaksiot";2083;547;.
+"2015";"Kuopio";"Kerrostalo kolmiot+";2009;333;.
+"2015";"Kuopio 1";"Kerrostalo yksiöt";2924;149;.
+"2015";"Kuopio 1";"Kerrostalo kaksiot";2552;313;.
+"2015";"Kuopio 1";"Kerrostalo kolmiot+";2557;187;.
+"2015";"Kuopio 2";"Kerrostalo yksiöt";1928;68;.
+"2015";"Kuopio 2";"Kerrostalo kaksiot";1605;234;.
+"2015";"Kuopio 2";"Kerrostalo kolmiot+";1475;146;.
+"2015";"Pohjois-Karjala";"Kerrostalo yksiöt";2117;178;.
+"2015";"Pohjois-Karjala";"Kerrostalo kaksiot";1754;323;.
+"2015";"Pohjois-Karjala";"Kerrostalo kolmiot+";1664;197;.
+"2015";"Joensuu";"Kerrostalo yksiöt";2593;124;.
+"2015";"Joensuu";"Kerrostalo kaksiot";2100;223;.
+"2015";"Joensuu";"Kerrostalo kolmiot+";1883;147;.
+"2015";"Joensuu 1";"Kerrostalo yksiöt";2685;99;.
+"2015";"Joensuu 1";"Kerrostalo kaksiot";2232;161;.
+"2015";"Joensuu 1";"Kerrostalo kolmiot+";2006;114;.
+"2015";"Joensuu 2";"Kerrostalo yksiöt";2150;25;.
+"2015";"Joensuu 2";"Kerrostalo kaksiot";1727;62;.
+"2015";"Joensuu 2";"Kerrostalo kolmiot+";1460;33;.
+"2015";"Keski-Suomi";"Kerrostalo yksiöt";1992;502;.
+"2015";"Keski-Suomi";"Kerrostalo kaksiot";1750;1135;.
+"2015";"Keski-Suomi";"Kerrostalo kolmiot+";1755;571;.
+"2015";"Jyväskylä";"Kerrostalo yksiöt";2382;367;.
+"2015";"Jyväskylä";"Kerrostalo kaksiot";1985;853;.
+"2015";"Jyväskylä";"Kerrostalo kolmiot+";1950;441;.
+"2015";"Jyväskylä 1";"Kerrostalo yksiöt";2987;123;.
+"2015";"Jyväskylä 1";"Kerrostalo kaksiot";2570;307;.
+"2015";"Jyväskylä 1";"Kerrostalo kolmiot+";2500;160;.
+"2015";"Jyväskylä 2";"Kerrostalo yksiöt";1728;244;.
+"2015";"Jyväskylä 2";"Kerrostalo kaksiot";1506;546;.
+"2015";"Jyväskylä 2";"Kerrostalo kolmiot+";1540;281;.
+"2015";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1905;94;.
+"2015";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1740;224;.
+"2015";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1716;141;.
+"2015";"Seinäjoki";"Kerrostalo yksiöt";2279;65;.
+"2015";"Seinäjoki";"Kerrostalo kaksiot";2008;168;.
+"2015";"Seinäjoki";"Kerrostalo kolmiot+";1832;105;.
+"2015";"Pohjanmaa";"Kerrostalo yksiöt";2218;180;.
+"2015";"Pohjanmaa";"Kerrostalo kaksiot";1797;412;.
+"2015";"Pohjanmaa";"Kerrostalo kolmiot+";1779;363;.
+"2015";"Vaasa";"Kerrostalo yksiöt";2530;134;.
+"2015";"Vaasa";"Kerrostalo kaksiot";2041;301;.
+"2015";"Vaasa";"Kerrostalo kolmiot+";1945;272;.
+"2015";"Vaasa 1";"Kerrostalo yksiöt";2743;99;.
+"2015";"Vaasa 1";"Kerrostalo kaksiot";2283;227;.
+"2015";"Vaasa 1";"Kerrostalo kolmiot+";2190;181;.
+"2015";"Vaasa 2";"Kerrostalo yksiöt";1742;35;.
+"2015";"Vaasa 2";"Kerrostalo kaksiot";1328;74;.
+"2015";"Vaasa 2";"Kerrostalo kolmiot+";1359;91;.
+"2015";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2415;34;.
+"2015";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1827;114;.
+"2015";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1780;80;.
+"2015";"Kokkola";"Kerrostalo yksiöt";2432;33;.
+"2015";"Kokkola";"Kerrostalo kaksiot";1882;105;.
+"2015";"Kokkola";"Kerrostalo kolmiot+";1805;75;.
+"2015";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2069;362;.
+"2015";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1821;868;.
+"2015";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1788;564;.
+"2015";"Oulu";"Kerrostalo yksiöt";2212;286;.
+"2015";"Oulu";"Kerrostalo kaksiot";1907;726;.
+"2015";"Oulu";"Kerrostalo kolmiot+";1839;494;.
+"2015";"Oulu 1";"Kerrostalo yksiöt";2575;148;.
+"2015";"Oulu 1";"Kerrostalo kaksiot";2302;321;.
+"2015";"Oulu 1";"Kerrostalo kolmiot+";2221;237;.
+"2015";"Oulu 2";"Kerrostalo yksiöt";1816;138;.
+"2015";"Oulu 2";"Kerrostalo kaksiot";1542;405;.
+"2015";"Oulu 2";"Kerrostalo kolmiot+";1489;257;.
+"2015";"Kainuu";"Kerrostalo yksiöt";1505;89;.
+"2015";"Kainuu";"Kerrostalo kaksiot";1374;172;.
+"2015";"Kainuu";"Kerrostalo kolmiot+";1285;114;.
+"2015";"Kajaani";"Kerrostalo yksiöt";1617;61;.
+"2015";"Kajaani";"Kerrostalo kaksiot";1407;123;.
+"2015";"Kajaani";"Kerrostalo kolmiot+";1304;93;.
+"2015";"Lappi";"Kerrostalo yksiöt";1680;199;.
+"2015";"Lappi";"Kerrostalo kaksiot";1383;430;.
+"2015";"Lappi";"Kerrostalo kolmiot+";1394;262;.
+"2015";"Rovaniemi";"Kerrostalo yksiöt";2088;113;.
+"2015";"Rovaniemi";"Kerrostalo kaksiot";1595;259;.
+"2015";"Rovaniemi";"Kerrostalo kolmiot+";1563;155;.
+"2016";"Koko maa";"Kerrostalo yksiöt";3193;9050;.
+"2016";"Koko maa";"Kerrostalo kaksiot";2439;19776;.
+"2016";"Koko maa";"Kerrostalo kolmiot+";2516;14095;.
+"2016";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";5214;2991;.
+"2016";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4040;6072;.
+"2016";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3790;5060;.
+"2016";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2120;6056;.
+"2016";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1777;13695;.
+"2016";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1772;9022;.
+"2016";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";4418;4556;.
+"2016";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";3379;9592;.
+"2016";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";3262;7724;.
+"2016";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1803;4491;.
+"2016";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1609;10175;.
+"2016";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1631;6358;.
+"2016";"Uusimaa";"Kerrostalo yksiöt";4817;3534;.
+"2016";"Uusimaa";"Kerrostalo kaksiot";3655;7519;.
+"2016";"Uusimaa";"Kerrostalo kolmiot+";3540;6059;.
+"2016";"Helsinki";"Kerrostalo yksiöt";5660;2356;.
+"2016";"Helsinki";"Kerrostalo kaksiot";4536;4136;.
+"2016";"Helsinki";"Kerrostalo kolmiot+";4334;3249;.
+"2016";"Helsinki 1";"Kerrostalo yksiöt";...;591;.
+"2016";"Helsinki 1";"Kerrostalo kaksiot";6377;708;.
+"2016";"Helsinki 1";"Kerrostalo kolmiot+";6302;615;.
+"2016";"Helsinki 2";"Kerrostalo yksiöt";5699;1285;.
+"2016";"Helsinki 2";"Kerrostalo kaksiot";5031;1773;.
+"2016";"Helsinki 2";"Kerrostalo kolmiot+";4742;1219;.
+"2016";"Helsinki 3";"Kerrostalo yksiöt";...;216;.
+"2016";"Helsinki 3";"Kerrostalo kaksiot";3579;675;.
+"2016";"Helsinki 3";"Kerrostalo kolmiot+";3301;557;.
+"2016";"Helsinki 4";"Kerrostalo yksiöt";3820;264;.
+"2016";"Helsinki 4";"Kerrostalo kaksiot";2777;980;.
+"2016";"Helsinki 4";"Kerrostalo kolmiot+";2437;858;.
+"2016";"Espoo-Kauniainen";"Kerrostalo yksiöt";4087;339;.
+"2016";"Espoo-Kauniainen";"Kerrostalo kaksiot";3471;970;.
+"2016";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3193;1061;.
+"2016";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4578;105;.
+"2016";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4221;258;.
+"2016";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";3945;322;.
+"2016";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4433;75;.
+"2016";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3613;308;.
+"2016";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3458;269;.
+"2016";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3549;159;.
+"2016";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2869;404;.
+"2016";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2548;470;.
+"2016";"Vantaa";"Kerrostalo yksiöt";3303;296;.
+"2016";"Vantaa";"Kerrostalo kaksiot";2633;966;.
+"2016";"Vantaa";"Kerrostalo kolmiot+";2306;750;.
+"2016";"Vantaa 1";"Kerrostalo yksiöt";3989;55;.
+"2016";"Vantaa 1";"Kerrostalo kaksiot";3429;241;.
+"2016";"Vantaa 1";"Kerrostalo kolmiot+";3138;191;.
+"2016";"Vantaa 2";"Kerrostalo yksiöt";3400;77;.
+"2016";"Vantaa 2";"Kerrostalo kaksiot";2669;195;.
+"2016";"Vantaa 2";"Kerrostalo kolmiot+";2347;159;.
+"2016";"Vantaa 3";"Kerrostalo yksiöt";3061;164;.
+"2016";"Vantaa 3";"Kerrostalo kaksiot";2337;530;.
+"2016";"Vantaa 3";"Kerrostalo kolmiot+";2037;400;.
+"2016";"Kehyskunnat";"Kerrostalo yksiöt";2388;393;.
+"2016";"Kehyskunnat";"Kerrostalo kaksiot";2053;1109;.
+"2016";"Kehyskunnat";"Kerrostalo kolmiot+";1984;754;.
+"2016";"Porvoo";"Kerrostalo yksiöt";2918;71;.
+"2016";"Porvoo";"Kerrostalo kaksiot";2556;172;.
+"2016";"Porvoo";"Kerrostalo kolmiot+";2563;119;.
+"2016";"Hyvinkää";"Kerrostalo yksiöt";2071;99;.
+"2016";"Hyvinkää";"Kerrostalo kaksiot";1903;253;.
+"2016";"Hyvinkää";"Kerrostalo kolmiot+";1761;141;.
+"2016";"Järvenpää";"Kerrostalo yksiöt";3161;71;.
+"2016";"Järvenpää";"Kerrostalo kaksiot";2311;155;.
+"2016";"Järvenpää";"Kerrostalo kolmiot+";2252;94;.
+"2016";"Kerava";"Kerrostalo yksiöt";2774;39;.
+"2016";"Kerava";"Kerrostalo kaksiot";2364;192;.
+"2016";"Kerava";"Kerrostalo kolmiot+";2272;145;.
+"2016";"Varsinais-Suomi";"Kerrostalo yksiöt";2590;793;.
+"2016";"Varsinais-Suomi";"Kerrostalo kaksiot";1940;1908;.
+"2016";"Varsinais-Suomi";"Kerrostalo kolmiot+";1833;1444;.
+"2016";"Turku";"Kerrostalo yksiöt";3008;515;.
+"2016";"Turku";"Kerrostalo kaksiot";2216;1254;.
+"2016";"Turku";"Kerrostalo kolmiot+";1990;1035;.
+"2016";"Turku 1";"Kerrostalo yksiöt";3530;305;.
+"2016";"Turku 1";"Kerrostalo kaksiot";2868;535;.
+"2016";"Turku 1";"Kerrostalo kolmiot+";2806;408;.
+"2016";"Turku 2";"Kerrostalo yksiöt";2616;83;.
+"2016";"Turku 2";"Kerrostalo kaksiot";2021;244;.
+"2016";"Turku 2";"Kerrostalo kolmiot+";1786;192;.
+"2016";"Turku 3";"Kerrostalo yksiöt";1903;127;.
+"2016";"Turku 3";"Kerrostalo kaksiot";1437;475;.
+"2016";"Turku 3";"Kerrostalo kolmiot+";1300;435;.
+"2016";"Satakunta";"Kerrostalo yksiöt";1504;313;.
+"2016";"Satakunta";"Kerrostalo kaksiot";1317;641;.
+"2016";"Satakunta";"Kerrostalo kolmiot+";1406;436;.
+"2016";"Pori";"Kerrostalo yksiöt";1648;196;.
+"2016";"Pori";"Kerrostalo kaksiot";1430;339;.
+"2016";"Pori";"Kerrostalo kolmiot+";1513;269;.
+"2016";"Pori 1";"Kerrostalo yksiöt";2025;102;.
+"2016";"Pori 1";"Kerrostalo kaksiot";1918;154;.
+"2016";"Pori 1";"Kerrostalo kolmiot+";1889;155;.
+"2016";"Pori 2";"Kerrostalo yksiöt";968;94;.
+"2016";"Pori 2";"Kerrostalo kaksiot";849;185;.
+"2016";"Pori 2";"Kerrostalo kolmiot+";902;114;.
+"2016";"Rauma";"Kerrostalo yksiöt";1413;73;.
+"2016";"Rauma";"Kerrostalo kaksiot";1289;195;.
+"2016";"Rauma";"Kerrostalo kolmiot+";1357;115;.
+"2016";"Kanta-Häme";"Kerrostalo yksiöt";1687;279;.
+"2016";"Kanta-Häme";"Kerrostalo kaksiot";1584;602;.
+"2016";"Kanta-Häme";"Kerrostalo kolmiot+";1595;322;.
+"2016";"Hämeenlinna";"Kerrostalo yksiöt";2073;130;.
+"2016";"Hämeenlinna";"Kerrostalo kaksiot";1917;289;.
+"2016";"Hämeenlinna";"Kerrostalo kolmiot+";1914;154;.
+"2016";"Hämeenlinna 1";"Kerrostalo yksiöt";2425;79;.
+"2016";"Hämeenlinna 1";"Kerrostalo kaksiot";2173;193;.
+"2016";"Hämeenlinna 1";"Kerrostalo kolmiot+";2187;105;.
+"2016";"Hämeenlinna 2";"Kerrostalo yksiöt";1413;51;.
+"2016";"Hämeenlinna 2";"Kerrostalo kaksiot";1462;96;.
+"2016";"Hämeenlinna 2";"Kerrostalo kolmiot+";1346;49;.
+"2016";"Riihimäki";"Kerrostalo yksiöt";1655;67;.
+"2016";"Riihimäki";"Kerrostalo kaksiot";1587;161;.
+"2016";"Riihimäki";"Kerrostalo kolmiot+";1412;98;.
+"2016";"Pirkanmaa";"Kerrostalo yksiöt";2724;929;.
+"2016";"Pirkanmaa";"Kerrostalo kaksiot";2245;2146;.
+"2016";"Pirkanmaa";"Kerrostalo kolmiot+";2167;1472;.
+"2016";"Tampere";"Kerrostalo yksiöt";3146;673;.
+"2016";"Tampere";"Kerrostalo kaksiot";2551;1477;.
+"2016";"Tampere";"Kerrostalo kolmiot+";2425;1026;.
+"2016";"Tampere 1";"Kerrostalo yksiöt";3719;329;.
+"2016";"Tampere 1";"Kerrostalo kaksiot";3136;716;.
+"2016";"Tampere 1";"Kerrostalo kolmiot+";3111;488;.
+"2016";"Tampere 2";"Kerrostalo yksiöt";2454;205;.
+"2016";"Tampere 2";"Kerrostalo kaksiot";2359;384;.
+"2016";"Tampere 2";"Kerrostalo kolmiot+";2286;235;.
+"2016";"Tampere 3";"Kerrostalo yksiöt";2344;139;.
+"2016";"Tampere 3";"Kerrostalo kaksiot";1651;377;.
+"2016";"Tampere 3";"Kerrostalo kolmiot+";1545;303;.
+"2016";"Päijät-Häme";"Kerrostalo yksiöt";1835;376;.
+"2016";"Päijät-Häme";"Kerrostalo kaksiot";1575;938;.
+"2016";"Päijät-Häme";"Kerrostalo kolmiot+";1651;592;.
+"2016";"Lahti";"Kerrostalo yksiöt";2193;256;.
+"2016";"Lahti";"Kerrostalo kaksiot";1780;718;.
+"2016";"Lahti";"Kerrostalo kolmiot+";1786;474;.
+"2016";"Lahti 1";"Kerrostalo yksiöt";2717;111;.
+"2016";"Lahti 1";"Kerrostalo kaksiot";2413;271;.
+"2016";"Lahti 1";"Kerrostalo kolmiot+";2433;218;.
+"2016";"Lahti 2";"Kerrostalo yksiöt";1722;145;.
+"2016";"Lahti 2";"Kerrostalo kaksiot";1370;447;.
+"2016";"Lahti 2";"Kerrostalo kolmiot+";1328;256;.
+"2016";"Kymenlaakso";"Kerrostalo yksiöt";1159;283;.
+"2016";"Kymenlaakso";"Kerrostalo kaksiot";1137;534;.
+"2016";"Kymenlaakso";"Kerrostalo kolmiot+";1211;333;.
+"2016";"Kotka";"Kerrostalo yksiöt";1232;143;.
+"2016";"Kotka";"Kerrostalo kaksiot";1221;235;.
+"2016";"Kotka";"Kerrostalo kolmiot+";1349;144;.
+"2016";"Kotka 1";"Kerrostalo yksiöt";1656;64;.
+"2016";"Kotka 1";"Kerrostalo kaksiot";1596;128;.
+"2016";"Kotka 1";"Kerrostalo kolmiot+";1706;82;.
+"2016";"Kotka 2";"Kerrostalo yksiöt";869;79;.
+"2016";"Kotka 2";"Kerrostalo kaksiot";882;107;.
+"2016";"Kotka 2";"Kerrostalo kolmiot+";972;62;.
+"2016";"Kouvola";"Kerrostalo yksiöt";1102;112;.
+"2016";"Kouvola";"Kerrostalo kaksiot";1103;244;.
+"2016";"Kouvola";"Kerrostalo kolmiot+";1105;154;.
+"2016";"Etelä-Karjala";"Kerrostalo yksiöt";1694;237;.
+"2016";"Etelä-Karjala";"Kerrostalo kaksiot";1548;462;.
+"2016";"Etelä-Karjala";"Kerrostalo kolmiot+";1609;224;.
+"2016";"Lappeenranta";"Kerrostalo yksiöt";2105;135;.
+"2016";"Lappeenranta";"Kerrostalo kaksiot";1817;319;.
+"2016";"Lappeenranta";"Kerrostalo kolmiot+";1856;150;.
+"2016";"Lappeenranta 1";"Kerrostalo yksiöt";2557;80;.
+"2016";"Lappeenranta 1";"Kerrostalo kaksiot";2295;188;.
+"2016";"Lappeenranta 1";"Kerrostalo kolmiot+";2354;87;.
+"2016";"Lappeenranta 2";"Kerrostalo yksiöt";1416;55;.
+"2016";"Lappeenranta 2";"Kerrostalo kaksiot";1247;131;.
+"2016";"Lappeenranta 2";"Kerrostalo kolmiot+";1262;63;.
+"2016";"Etelä-Savo";"Kerrostalo yksiöt";1568;174;.
+"2016";"Etelä-Savo";"Kerrostalo kaksiot";1498;414;.
+"2016";"Etelä-Savo";"Kerrostalo kolmiot+";1425;241;.
+"2016";"Mikkeli";"Kerrostalo yksiöt";2134;88;.
+"2016";"Mikkeli";"Kerrostalo kaksiot";1872;192;.
+"2016";"Mikkeli";"Kerrostalo kolmiot+";1555;138;.
+"2016";"Pohjois-Savo";"Kerrostalo yksiöt";2020;317;.
+"2016";"Pohjois-Savo";"Kerrostalo kaksiot";1726;780;.
+"2016";"Pohjois-Savo";"Kerrostalo kolmiot+";1785;461;.
+"2016";"Kuopio";"Kerrostalo yksiöt";2517;196;.
+"2016";"Kuopio";"Kerrostalo kaksiot";2058;538;.
+"2016";"Kuopio";"Kerrostalo kolmiot+";1996;347;.
+"2016";"Kuopio 1";"Kerrostalo yksiöt";2925;123;.
+"2016";"Kuopio 1";"Kerrostalo kaksiot";2522;309;.
+"2016";"Kuopio 1";"Kerrostalo kolmiot+";2486;204;.
+"2016";"Kuopio 2";"Kerrostalo yksiöt";1829;73;.
+"2016";"Kuopio 2";"Kerrostalo kaksiot";1586;229;.
+"2016";"Kuopio 2";"Kerrostalo kolmiot+";1519;143;.
+"2016";"Pohjois-Karjala";"Kerrostalo yksiöt";2132;189;.
+"2016";"Pohjois-Karjala";"Kerrostalo kaksiot";1796;327;.
+"2016";"Pohjois-Karjala";"Kerrostalo kolmiot+";1757;180;.
+"2016";"Joensuu";"Kerrostalo yksiöt";2605;121;.
+"2016";"Joensuu";"Kerrostalo kaksiot";2148;237;.
+"2016";"Joensuu";"Kerrostalo kolmiot+";1969;140;.
+"2016";"Joensuu 1";"Kerrostalo yksiöt";2715;104;.
+"2016";"Joensuu 1";"Kerrostalo kaksiot";2286;183;.
+"2016";"Joensuu 1";"Kerrostalo kolmiot+";2155;114;.
+"2016";"Joensuu 2";"Kerrostalo yksiöt";2068;17;.
+"2016";"Joensuu 2";"Kerrostalo kaksiot";1754;54;.
+"2016";"Joensuu 2";"Kerrostalo kolmiot+";1330;26;.
+"2016";"Keski-Suomi";"Kerrostalo yksiöt";2121;504;.
+"2016";"Keski-Suomi";"Kerrostalo kaksiot";1771;1160;.
+"2016";"Keski-Suomi";"Kerrostalo kolmiot+";1800;628;.
+"2016";"Jyväskylä";"Kerrostalo yksiöt";2539;394;.
+"2016";"Jyväskylä";"Kerrostalo kaksiot";2036;961;.
+"2016";"Jyväskylä";"Kerrostalo kolmiot+";1958;523;.
+"2016";"Jyväskylä 1";"Kerrostalo yksiöt";3196;108;.
+"2016";"Jyväskylä 1";"Kerrostalo kaksiot";2633;314;.
+"2016";"Jyväskylä 1";"Kerrostalo kolmiot+";2519;148;.
+"2016";"Jyväskylä 2";"Kerrostalo yksiöt";1830;286;.
+"2016";"Jyväskylä 2";"Kerrostalo kaksiot";1545;647;.
+"2016";"Jyväskylä 2";"Kerrostalo kolmiot+";1540;375;.
+"2016";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1845;97;.
+"2016";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1691;212;.
+"2016";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1642;156;.
+"2016";"Seinäjoki";"Kerrostalo yksiöt";2205;57;.
+"2016";"Seinäjoki";"Kerrostalo kaksiot";1963;150;.
+"2016";"Seinäjoki";"Kerrostalo kolmiot+";1832;110;.
+"2016";"Pohjanmaa";"Kerrostalo yksiöt";2100;211;.
+"2016";"Pohjanmaa";"Kerrostalo kaksiot";1858;397;.
+"2016";"Pohjanmaa";"Kerrostalo kolmiot+";1776;322;.
+"2016";"Vaasa";"Kerrostalo yksiöt";2343;162;.
+"2016";"Vaasa";"Kerrostalo kaksiot";2096;279;.
+"2016";"Vaasa";"Kerrostalo kolmiot+";1949;229;.
+"2016";"Vaasa 1";"Kerrostalo yksiöt";2516;125;.
+"2016";"Vaasa 1";"Kerrostalo kaksiot";2301;210;.
+"2016";"Vaasa 1";"Kerrostalo kolmiot+";2197;159;.
+"2016";"Vaasa 2";"Kerrostalo yksiöt";1704;37;.
+"2016";"Vaasa 2";"Kerrostalo kaksiot";1494;69;.
+"2016";"Vaasa 2";"Kerrostalo kolmiot+";1357;70;.
+"2016";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2126;36;.
+"2016";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1797;112;.
+"2016";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1755;82;.
+"2016";"Kokkola";"Kerrostalo yksiöt";2197;31;.
+"2016";"Kokkola";"Kerrostalo kaksiot";1872;108;.
+"2016";"Kokkola";"Kerrostalo kolmiot+";1772;79;.
+"2016";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2169;438;.
+"2016";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1805;937;.
+"2016";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1865;682;.
+"2016";"Oulu";"Kerrostalo yksiöt";2314;377;.
+"2016";"Oulu";"Kerrostalo kaksiot";1915;789;.
+"2016";"Oulu";"Kerrostalo kolmiot+";1932;603;.
+"2016";"Oulu 1";"Kerrostalo yksiöt";2598;162;.
+"2016";"Oulu 1";"Kerrostalo kaksiot";2296;355;.
+"2016";"Oulu 1";"Kerrostalo kolmiot+";2361;278;.
+"2016";"Oulu 2";"Kerrostalo yksiöt";2003;215;.
+"2016";"Oulu 2";"Kerrostalo kaksiot";1564;434;.
+"2016";"Oulu 2";"Kerrostalo kolmiot+";1539;325;.
+"2016";"Kainuu";"Kerrostalo yksiöt";1523;101;.
+"2016";"Kainuu";"Kerrostalo kaksiot";1269;197;.
+"2016";"Kainuu";"Kerrostalo kolmiot+";1194;98;.
+"2016";"Kajaani";"Kerrostalo yksiöt";1631;68;.
+"2016";"Kajaani";"Kerrostalo kaksiot";1302;156;.
+"2016";"Kajaani";"Kerrostalo kolmiot+";1222;75;.
+"2016";"Lappi";"Kerrostalo yksiöt";1468;236;.
+"2016";"Lappi";"Kerrostalo kaksiot";1326;481;.
+"2016";"Lappi";"Kerrostalo kolmiot+";1331;350;.
+"2016";"Rovaniemi";"Kerrostalo yksiöt";1788;171;.
+"2016";"Rovaniemi";"Kerrostalo kaksiot";1549;308;.
+"2016";"Rovaniemi";"Kerrostalo kolmiot+";1502;224;.
+"2017";"Koko maa";"Kerrostalo yksiöt";3314;9115;.
+"2017";"Koko maa";"Kerrostalo kaksiot";2527;19664;.
+"2017";"Koko maa";"Kerrostalo kolmiot+";2581;14420;.
+"2017";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";5470;2918;.
+"2017";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4244;6109;.
+"2017";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";3950;5420;.
+"2017";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2167;6193;.
+"2017";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1817;13525;.
+"2017";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1781;8986;.
+"2017";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";4610;4479;.
+"2017";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";3533;9623;.
+"2017";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";3379;8149;.
+"2017";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1840;4632;.
+"2017";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1639;10011;.
+"2017";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1635;6257;.
+"2017";"Uusimaa";"Kerrostalo yksiöt";5039;3539;.
+"2017";"Uusimaa";"Kerrostalo kaksiot";3820;7586;.
+"2017";"Uusimaa";"Kerrostalo kolmiot+";3684;6355;.
+"2017";"Helsinki";"Kerrostalo yksiöt";5967;2298;.
+"2017";"Helsinki";"Kerrostalo kaksiot";4786;4107;.
+"2017";"Helsinki";"Kerrostalo kolmiot+";4558;3426;.
+"2017";"Helsinki 1";"Kerrostalo yksiöt";...;553;.
+"2017";"Helsinki 1";"Kerrostalo kaksiot";6835;656;.
+"2017";"Helsinki 1";"Kerrostalo kolmiot+";6662;639;.
+"2017";"Helsinki 2";"Kerrostalo yksiöt";6050;1251;.
+"2017";"Helsinki 2";"Kerrostalo kaksiot";5277;1857;.
+"2017";"Helsinki 2";"Kerrostalo kolmiot+";5012;1328;.
+"2017";"Helsinki 3";"Kerrostalo yksiöt";...;233;.
+"2017";"Helsinki 3";"Kerrostalo kaksiot";3775;638;.
+"2017";"Helsinki 3";"Kerrostalo kolmiot+";3467;612;.
+"2017";"Helsinki 4";"Kerrostalo yksiöt";3876;261;.
+"2017";"Helsinki 4";"Kerrostalo kaksiot";2903;956;.
+"2017";"Helsinki 4";"Kerrostalo kolmiot+";2492;847;.
+"2017";"Espoo-Kauniainen";"Kerrostalo yksiöt";4171;306;.
+"2017";"Espoo-Kauniainen";"Kerrostalo kaksiot";3661;989;.
+"2017";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3264;1142;.
+"2017";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";4913;108;.
+"2017";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4400;335;.
+"2017";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";4091;360;.
+"2017";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4346;60;.
+"2017";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3863;274;.
+"2017";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3470;275;.
+"2017";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3560;138;.
+"2017";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";3023;380;.
+"2017";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2601;507;.
+"2017";"Vantaa";"Kerrostalo yksiöt";3369;314;.
+"2017";"Vantaa";"Kerrostalo kaksiot";2665;1013;.
+"2017";"Vantaa";"Kerrostalo kolmiot+";2321;852;.
+"2017";"Vantaa 1";"Kerrostalo yksiöt";4268;63;.
+"2017";"Vantaa 1";"Kerrostalo kaksiot";3612;237;.
+"2017";"Vantaa 1";"Kerrostalo kolmiot+";3291;207;.
+"2017";"Vantaa 2";"Kerrostalo yksiöt";3408;66;.
+"2017";"Vantaa 2";"Kerrostalo kaksiot";2792;202;.
+"2017";"Vantaa 2";"Kerrostalo kolmiot+";2453;176;.
+"2017";"Vantaa 3";"Kerrostalo yksiöt";3082;185;.
+"2017";"Vantaa 3";"Kerrostalo kaksiot";2282;574;.
+"2017";"Vantaa 3";"Kerrostalo kolmiot+";1985;469;.
+"2017";"Kehyskunnat";"Kerrostalo yksiöt";2389;492;.
+"2017";"Kehyskunnat";"Kerrostalo kaksiot";2066;1054;.
+"2017";"Kehyskunnat";"Kerrostalo kolmiot+";2040;702;.
+"2017";"Porvoo";"Kerrostalo yksiöt";3001;74;.
+"2017";"Porvoo";"Kerrostalo kaksiot";2457;188;.
+"2017";"Porvoo";"Kerrostalo kolmiot+";2455;135;.
+"2017";"Hyvinkää";"Kerrostalo yksiöt";2228;119;.
+"2017";"Hyvinkää";"Kerrostalo kaksiot";1891;252;.
+"2017";"Hyvinkää";"Kerrostalo kolmiot+";1863;124;.
+"2017";"Järvenpää";"Kerrostalo yksiöt";3016;111;.
+"2017";"Järvenpää";"Kerrostalo kaksiot";2411;180;.
+"2017";"Järvenpää";"Kerrostalo kolmiot+";2400;81;.
+"2017";"Kerava";"Kerrostalo yksiöt";2791;59;.
+"2017";"Kerava";"Kerrostalo kaksiot";2387;176;.
+"2017";"Kerava";"Kerrostalo kolmiot+";2300;147;.
+"2017";"Varsinais-Suomi";"Kerrostalo yksiöt";2705;788;.
+"2017";"Varsinais-Suomi";"Kerrostalo kaksiot";2015;2052;.
+"2017";"Varsinais-Suomi";"Kerrostalo kolmiot+";1869;1509;.
+"2017";"Turku";"Kerrostalo yksiöt";3140;487;.
+"2017";"Turku";"Kerrostalo kaksiot";2301;1290;.
+"2017";"Turku";"Kerrostalo kolmiot+";2049;1080;.
+"2017";"Turku 1";"Kerrostalo yksiöt";3753;282;.
+"2017";"Turku 1";"Kerrostalo kaksiot";2981;570;.
+"2017";"Turku 1";"Kerrostalo kolmiot+";2914;413;.
+"2017";"Turku 2";"Kerrostalo yksiöt";2627;88;.
+"2017";"Turku 2";"Kerrostalo kaksiot";2167;243;.
+"2017";"Turku 2";"Kerrostalo kolmiot+";1807;233;.
+"2017";"Turku 3";"Kerrostalo yksiöt";1879;117;.
+"2017";"Turku 3";"Kerrostalo kaksiot";1454;477;.
+"2017";"Turku 3";"Kerrostalo kolmiot+";1330;434;.
+"2017";"Satakunta";"Kerrostalo yksiöt";1560;332;.
+"2017";"Satakunta";"Kerrostalo kaksiot";1363;664;.
+"2017";"Satakunta";"Kerrostalo kolmiot+";1406;435;.
+"2017";"Pori";"Kerrostalo yksiöt";1693;214;.
+"2017";"Pori";"Kerrostalo kaksiot";1418;341;.
+"2017";"Pori";"Kerrostalo kolmiot+";1513;235;.
+"2017";"Pori 1";"Kerrostalo yksiöt";2074;111;.
+"2017";"Pori 1";"Kerrostalo kaksiot";1870;192;.
+"2017";"Pori 1";"Kerrostalo kolmiot+";1884;140;.
+"2017";"Pori 2";"Kerrostalo yksiöt";1006;103;.
+"2017";"Pori 2";"Kerrostalo kaksiot";881;149;.
+"2017";"Pori 2";"Kerrostalo kolmiot+";911;95;.
+"2017";"Rauma";"Kerrostalo yksiöt";1574;75;.
+"2017";"Rauma";"Kerrostalo kaksiot";1438;212;.
+"2017";"Rauma";"Kerrostalo kolmiot+";1324;134;.
+"2017";"Kanta-Häme";"Kerrostalo yksiöt";1779;286;.
+"2017";"Kanta-Häme";"Kerrostalo kaksiot";1552;597;.
+"2017";"Kanta-Häme";"Kerrostalo kolmiot+";1590;348;.
+"2017";"Hämeenlinna";"Kerrostalo yksiöt";2178;129;.
+"2017";"Hämeenlinna";"Kerrostalo kaksiot";1904;283;.
+"2017";"Hämeenlinna";"Kerrostalo kolmiot+";1819;149;.
+"2017";"Hämeenlinna 1";"Kerrostalo yksiöt";2443;93;.
+"2017";"Hämeenlinna 1";"Kerrostalo kaksiot";2221;196;.
+"2017";"Hämeenlinna 1";"Kerrostalo kolmiot+";2153;112;.
+"2017";"Hämeenlinna 2";"Kerrostalo yksiöt";1681;36;.
+"2017";"Hämeenlinna 2";"Kerrostalo kaksiot";1339;87;.
+"2017";"Hämeenlinna 2";"Kerrostalo kolmiot+";1125;37;.
+"2017";"Riihimäki";"Kerrostalo yksiöt";1686;98;.
+"2017";"Riihimäki";"Kerrostalo kaksiot";1478;156;.
+"2017";"Riihimäki";"Kerrostalo kolmiot+";1464;121;.
+"2017";"Pirkanmaa";"Kerrostalo yksiöt";2745;989;.
+"2017";"Pirkanmaa";"Kerrostalo kaksiot";2301;2056;.
+"2017";"Pirkanmaa";"Kerrostalo kolmiot+";2165;1441;.
+"2017";"Tampere";"Kerrostalo yksiöt";3167;720;.
+"2017";"Tampere";"Kerrostalo kaksiot";2629;1424;.
+"2017";"Tampere";"Kerrostalo kolmiot+";2440;1006;.
+"2017";"Tampere 1";"Kerrostalo yksiöt";3760;374;.
+"2017";"Tampere 1";"Kerrostalo kaksiot";3231;682;.
+"2017";"Tampere 1";"Kerrostalo kolmiot+";3202;452;.
+"2017";"Tampere 2";"Kerrostalo yksiöt";2577;223;.
+"2017";"Tampere 2";"Kerrostalo kaksiot";2378;391;.
+"2017";"Tampere 2";"Kerrostalo kolmiot+";2246;235;.
+"2017";"Tampere 3";"Kerrostalo yksiöt";2196;123;.
+"2017";"Tampere 3";"Kerrostalo kaksiot";1747;351;.
+"2017";"Tampere 3";"Kerrostalo kolmiot+";1484;319;.
+"2017";"Päijät-Häme";"Kerrostalo yksiöt";1910;362;.
+"2017";"Päijät-Häme";"Kerrostalo kaksiot";1644;829;.
+"2017";"Päijät-Häme";"Kerrostalo kolmiot+";1696;593;.
+"2017";"Lahti";"Kerrostalo yksiöt";2274;242;.
+"2017";"Lahti";"Kerrostalo kaksiot";1852;625;.
+"2017";"Lahti";"Kerrostalo kolmiot+";1868;470;.
+"2017";"Lahti 1";"Kerrostalo yksiöt";2847;110;.
+"2017";"Lahti 1";"Kerrostalo kaksiot";2563;244;.
+"2017";"Lahti 1";"Kerrostalo kolmiot+";2591;216;.
+"2017";"Lahti 2";"Kerrostalo yksiöt";1760;132;.
+"2017";"Lahti 2";"Kerrostalo kaksiot";1391;381;.
+"2017";"Lahti 2";"Kerrostalo kolmiot+";1357;254;.
+"2017";"Kymenlaakso";"Kerrostalo yksiöt";1159;294;.
+"2017";"Kymenlaakso";"Kerrostalo kaksiot";1126;571;.
+"2017";"Kymenlaakso";"Kerrostalo kolmiot+";1193;322;.
+"2017";"Kotka";"Kerrostalo yksiöt";1288;137;.
+"2017";"Kotka";"Kerrostalo kaksiot";1169;253;.
+"2017";"Kotka";"Kerrostalo kolmiot+";1279;138;.
+"2017";"Kotka 1";"Kerrostalo yksiöt";1609;75;.
+"2017";"Kotka 1";"Kerrostalo kaksiot";1424;125;.
+"2017";"Kotka 1";"Kerrostalo kolmiot+";1671;79;.
+"2017";"Kotka 2";"Kerrostalo yksiöt";1014;62;.
+"2017";"Kotka 2";"Kerrostalo kaksiot";939;128;.
+"2017";"Kotka 2";"Kerrostalo kolmiot+";866;59;.
+"2017";"Kouvola";"Kerrostalo yksiöt";1073;133;.
+"2017";"Kouvola";"Kerrostalo kaksiot";1105;265;.
+"2017";"Kouvola";"Kerrostalo kolmiot+";1132;154;.
+"2017";"Etelä-Karjala";"Kerrostalo yksiöt";1688;236;.
+"2017";"Etelä-Karjala";"Kerrostalo kaksiot";1634;383;.
+"2017";"Etelä-Karjala";"Kerrostalo kolmiot+";1602;219;.
+"2017";"Lappeenranta";"Kerrostalo yksiöt";2081;135;.
+"2017";"Lappeenranta";"Kerrostalo kaksiot";1854;272;.
+"2017";"Lappeenranta";"Kerrostalo kolmiot+";1833;154;.
+"2017";"Lappeenranta 1";"Kerrostalo yksiöt";2471;84;.
+"2017";"Lappeenranta 1";"Kerrostalo kaksiot";2380;166;.
+"2017";"Lappeenranta 1";"Kerrostalo kolmiot+";2364;80;.
+"2017";"Lappeenranta 2";"Kerrostalo yksiöt";1485;51;.
+"2017";"Lappeenranta 2";"Kerrostalo kaksiot";1228;106;.
+"2017";"Lappeenranta 2";"Kerrostalo kolmiot+";1199;74;.
+"2017";"Etelä-Savo";"Kerrostalo yksiöt";1566;192;.
+"2017";"Etelä-Savo";"Kerrostalo kaksiot";1463;414;.
+"2017";"Etelä-Savo";"Kerrostalo kolmiot+";1566;241;.
+"2017";"Mikkeli";"Kerrostalo yksiöt";2072;111;.
+"2017";"Mikkeli";"Kerrostalo kaksiot";1914;230;.
+"2017";"Mikkeli";"Kerrostalo kolmiot+";1710;132;.
+"2017";"Pohjois-Savo";"Kerrostalo yksiöt";2053;301;.
+"2017";"Pohjois-Savo";"Kerrostalo kaksiot";1746;782;.
+"2017";"Pohjois-Savo";"Kerrostalo kolmiot+";1751;458;.
+"2017";"Kuopio";"Kerrostalo yksiöt";2653;166;.
+"2017";"Kuopio";"Kerrostalo kaksiot";2081;565;.
+"2017";"Kuopio";"Kerrostalo kolmiot+";1947;346;.
+"2017";"Kuopio 1";"Kerrostalo yksiöt";3131;106;.
+"2017";"Kuopio 1";"Kerrostalo kaksiot";2641;331;.
+"2017";"Kuopio 1";"Kerrostalo kolmiot+";2491;200;.
+"2017";"Kuopio 2";"Kerrostalo yksiöt";1847;60;.
+"2017";"Kuopio 2";"Kerrostalo kaksiot";1511;234;.
+"2017";"Kuopio 2";"Kerrostalo kolmiot+";1418;146;.
+"2017";"Pohjois-Karjala";"Kerrostalo yksiöt";2146;185;.
+"2017";"Pohjois-Karjala";"Kerrostalo kaksiot";1779;327;.
+"2017";"Pohjois-Karjala";"Kerrostalo kolmiot+";1724;172;.
+"2017";"Joensuu";"Kerrostalo yksiöt";2628;124;.
+"2017";"Joensuu";"Kerrostalo kaksiot";2099;224;.
+"2017";"Joensuu";"Kerrostalo kolmiot+";1915;136;.
+"2017";"Joensuu 1";"Kerrostalo yksiöt";2675;103;.
+"2017";"Joensuu 1";"Kerrostalo kaksiot";2247;184;.
+"2017";"Joensuu 1";"Kerrostalo kolmiot+";2069;111;.
+"2017";"Joensuu 2";"Kerrostalo yksiöt";2399;21;.
+"2017";"Joensuu 2";"Kerrostalo kaksiot";1680;40;.
+"2017";"Joensuu 2";"Kerrostalo kolmiot+";1384;25;.
+"2017";"Keski-Suomi";"Kerrostalo yksiöt";2151;514;.
+"2017";"Keski-Suomi";"Kerrostalo kaksiot";1828;959;.
+"2017";"Keski-Suomi";"Kerrostalo kolmiot+";1743;589;.
+"2017";"Jyväskylä";"Kerrostalo yksiöt";2596;385;.
+"2017";"Jyväskylä";"Kerrostalo kaksiot";2105;729;.
+"2017";"Jyväskylä";"Kerrostalo kolmiot+";1961;445;.
+"2017";"Jyväskylä 1";"Kerrostalo yksiöt";3268;118;.
+"2017";"Jyväskylä 1";"Kerrostalo kaksiot";2703;317;.
+"2017";"Jyväskylä 1";"Kerrostalo kolmiot+";2511;189;.
+"2017";"Jyväskylä 2";"Kerrostalo yksiöt";1868;267;.
+"2017";"Jyväskylä 2";"Kerrostalo kaksiot";1612;412;.
+"2017";"Jyväskylä 2";"Kerrostalo kolmiot+";1552;256;.
+"2017";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1972;102;.
+"2017";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1786;229;.
+"2017";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1559;161;.
+"2017";"Seinäjoki";"Kerrostalo yksiöt";2420;75;.
+"2017";"Seinäjoki";"Kerrostalo kaksiot";2064;177;.
+"2017";"Seinäjoki";"Kerrostalo kolmiot+";1737;130;.
+"2017";"Pohjanmaa";"Kerrostalo yksiöt";2223;226;.
+"2017";"Pohjanmaa";"Kerrostalo kaksiot";1811;473;.
+"2017";"Pohjanmaa";"Kerrostalo kolmiot+";1793;336;.
+"2017";"Vaasa";"Kerrostalo yksiöt";2496;183;.
+"2017";"Vaasa";"Kerrostalo kaksiot";2046;355;.
+"2017";"Vaasa";"Kerrostalo kolmiot+";1960;247;.
+"2017";"Vaasa 1";"Kerrostalo yksiöt";2756;128;.
+"2017";"Vaasa 1";"Kerrostalo kaksiot";2251;277;.
+"2017";"Vaasa 1";"Kerrostalo kolmiot+";2209;179;.
+"2017";"Vaasa 2";"Kerrostalo yksiöt";1537;55;.
+"2017";"Vaasa 2";"Kerrostalo kaksiot";1442;78;.
+"2017";"Vaasa 2";"Kerrostalo kolmiot+";1365;68;.
+"2017";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2347;30;.
+"2017";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1839;79;.
+"2017";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1658;77;.
+"2017";"Kokkola";"Kerrostalo yksiöt";2345;29;.
+"2017";"Kokkola";"Kerrostalo kaksiot";1922;71;.
+"2017";"Kokkola";"Kerrostalo kolmiot+";1667;73;.
+"2017";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2194;428;.
+"2017";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1843;946;.
+"2017";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1831;741;.
+"2017";"Oulu";"Kerrostalo yksiöt";2377;354;.
+"2017";"Oulu";"Kerrostalo kaksiot";1956;800;.
+"2017";"Oulu";"Kerrostalo kolmiot+";1901;643;.
+"2017";"Oulu 1";"Kerrostalo yksiöt";2721;158;.
+"2017";"Oulu 1";"Kerrostalo kaksiot";2272;384;.
+"2017";"Oulu 1";"Kerrostalo kolmiot+";2357;296;.
+"2017";"Oulu 2";"Kerrostalo yksiöt";2000;196;.
+"2017";"Oulu 2";"Kerrostalo kaksiot";1663;416;.
+"2017";"Oulu 2";"Kerrostalo kolmiot+";1482;347;.
+"2017";"Kainuu";"Kerrostalo yksiöt";1463;108;.
+"2017";"Kainuu";"Kerrostalo kaksiot";1289;212;.
+"2017";"Kainuu";"Kerrostalo kolmiot+";1255;139;.
+"2017";"Kajaani";"Kerrostalo yksiöt";1606;86;.
+"2017";"Kajaani";"Kerrostalo kaksiot";1274;163;.
+"2017";"Kajaani";"Kerrostalo kolmiot+";1272;120;.
+"2017";"Lappi";"Kerrostalo yksiöt";1517;199;.
+"2017";"Lappi";"Kerrostalo kaksiot";1496;475;.
+"2017";"Lappi";"Kerrostalo kolmiot+";1419;270;.
+"2017";"Rovaniemi";"Kerrostalo yksiöt";1891;122;.
+"2017";"Rovaniemi";"Kerrostalo kaksiot";1775;297;.
+"2017";"Rovaniemi";"Kerrostalo kolmiot+";1640;176;.
+"2018";"Koko maa";"Kerrostalo yksiöt";3407;8801;.
+"2018";"Koko maa";"Kerrostalo kaksiot";2585;19395;.
+"2018";"Koko maa";"Kerrostalo kolmiot+";2635;14418;.
+"2018";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";5660;2894;.
+"2018";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4410;5925;.
+"2018";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";4089;5343;.
+"2018";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2208;5886;.
+"2018";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1830;13322;.
+"2018";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1785;8979;.
+"2018";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";4787;4430;.
+"2018";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";3677;9393;.
+"2018";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";3502;8058;.
+"2018";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1838;4350;.
+"2018";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1620;9854;.
+"2018";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1607;6264;.
+"2018";"Uusimaa";"Kerrostalo yksiöt";5201;3433;.
+"2018";"Uusimaa";"Kerrostalo kaksiot";3950;7225;.
+"2018";"Uusimaa";"Kerrostalo kolmiot+";3796;6156;.
+"2018";"Helsinki";"Kerrostalo yksiöt";6196;2289;.
+"2018";"Helsinki";"Kerrostalo kaksiot";5014;3823;.
+"2018";"Helsinki";"Kerrostalo kolmiot+";4737;3389;.
+"2018";"Helsinki 1";"Kerrostalo yksiöt";...;490;.
+"2018";"Helsinki 1";"Kerrostalo kaksiot";7192;589;.
+"2018";"Helsinki 1";"Kerrostalo kolmiot+";6934;612;.
+"2018";"Helsinki 2";"Kerrostalo yksiöt";6276;1260;.
+"2018";"Helsinki 2";"Kerrostalo kaksiot";5617;1749;.
+"2018";"Helsinki 2";"Kerrostalo kolmiot+";5282;1228;.
+"2018";"Helsinki 3";"Kerrostalo yksiöt";...;225;.
+"2018";"Helsinki 3";"Kerrostalo kaksiot";3877;583;.
+"2018";"Helsinki 3";"Kerrostalo kolmiot+";3579;641;.
+"2018";"Helsinki 4";"Kerrostalo yksiöt";3918;314;.
+"2018";"Helsinki 4";"Kerrostalo kaksiot";2904;902;.
+"2018";"Helsinki 4";"Kerrostalo kolmiot+";2482;908;.
+"2018";"Espoo-Kauniainen";"Kerrostalo yksiöt";4266;298;.
+"2018";"Espoo-Kauniainen";"Kerrostalo kaksiot";3682;1060;.
+"2018";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3350;1141;.
+"2018";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";5045;125;.
+"2018";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4556;386;.
+"2018";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";4199;422;.
+"2018";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4526;62;.
+"2018";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";3865;319;.
+"2018";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3630;290;.
+"2018";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3579;111;.
+"2018";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2967;355;.
+"2018";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2633;429;.
+"2018";"Vantaa";"Kerrostalo yksiöt";3398;307;.
+"2018";"Vantaa";"Kerrostalo kaksiot";2735;1042;.
+"2018";"Vantaa";"Kerrostalo kolmiot+";2360;813;.
+"2018";"Vantaa 1";"Kerrostalo yksiöt";4420;84;.
+"2018";"Vantaa 1";"Kerrostalo kaksiot";3759;289;.
+"2018";"Vantaa 1";"Kerrostalo kolmiot+";3346;210;.
+"2018";"Vantaa 2";"Kerrostalo yksiöt";3598;84;.
+"2018";"Vantaa 2";"Kerrostalo kaksiot";2960;296;.
+"2018";"Vantaa 2";"Kerrostalo kolmiot+";2494;171;.
+"2018";"Vantaa 3";"Kerrostalo yksiöt";3020;139;.
+"2018";"Vantaa 3";"Kerrostalo kaksiot";2290;457;.
+"2018";"Vantaa 3";"Kerrostalo kolmiot+";2019;432;.
+"2018";"Kehyskunnat";"Kerrostalo yksiöt";2385;351;.
+"2018";"Kehyskunnat";"Kerrostalo kaksiot";2082;896;.
+"2018";"Kehyskunnat";"Kerrostalo kolmiot+";1979;579;.
+"2018";"Porvoo";"Kerrostalo yksiöt";3106;97;.
+"2018";"Porvoo";"Kerrostalo kaksiot";2492;162;.
+"2018";"Porvoo";"Kerrostalo kolmiot+";2518;123;.
+"2018";"Hyvinkää";"Kerrostalo yksiöt";2085;65;.
+"2018";"Hyvinkää";"Kerrostalo kaksiot";1855;211;.
+"2018";"Hyvinkää";"Kerrostalo kolmiot+";1738;115;.
+"2018";"Järvenpää";"Kerrostalo yksiöt";3022;80;.
+"2018";"Järvenpää";"Kerrostalo kaksiot";2348;125;.
+"2018";"Järvenpää";"Kerrostalo kolmiot+";2320;77;.
+"2018";"Kerava";"Kerrostalo yksiöt";2844;47;.
+"2018";"Kerava";"Kerrostalo kaksiot";2430;168;.
+"2018";"Kerava";"Kerrostalo kolmiot+";2238;95;.
+"2018";"Varsinais-Suomi";"Kerrostalo yksiöt";2801;776;.
+"2018";"Varsinais-Suomi";"Kerrostalo kaksiot";2088;1972;.
+"2018";"Varsinais-Suomi";"Kerrostalo kolmiot+";1909;1387;.
+"2018";"Turku";"Kerrostalo yksiöt";3276;499;.
+"2018";"Turku";"Kerrostalo kaksiot";2416;1242;.
+"2018";"Turku";"Kerrostalo kolmiot+";2081;1031;.
+"2018";"Turku 1";"Kerrostalo yksiöt";3896;293;.
+"2018";"Turku 1";"Kerrostalo kaksiot";3205;586;.
+"2018";"Turku 1";"Kerrostalo kolmiot+";3003;360;.
+"2018";"Turku 2";"Kerrostalo yksiöt";2893;108;.
+"2018";"Turku 2";"Kerrostalo kaksiot";2219;216;.
+"2018";"Turku 2";"Kerrostalo kolmiot+";1915;221;.
+"2018";"Turku 3";"Kerrostalo yksiöt";1906;98;.
+"2018";"Turku 3";"Kerrostalo kaksiot";1452;440;.
+"2018";"Turku 3";"Kerrostalo kolmiot+";1272;450;.
+"2018";"Satakunta";"Kerrostalo yksiöt";1633;291;.
+"2018";"Satakunta";"Kerrostalo kaksiot";1312;627;.
+"2018";"Satakunta";"Kerrostalo kolmiot+";1372;394;.
+"2018";"Pori";"Kerrostalo yksiöt";1782;180;.
+"2018";"Pori";"Kerrostalo kaksiot";1400;306;.
+"2018";"Pori";"Kerrostalo kolmiot+";1488;203;.
+"2018";"Pori 1";"Kerrostalo yksiöt";2238;114;.
+"2018";"Pori 1";"Kerrostalo kaksiot";1814;175;.
+"2018";"Pori 1";"Kerrostalo kolmiot+";1798;138;.
+"2018";"Pori 2";"Kerrostalo yksiöt";959;66;.
+"2018";"Pori 2";"Kerrostalo kaksiot";908;131;.
+"2018";"Pori 2";"Kerrostalo kolmiot+";986;65;.
+"2018";"Rauma";"Kerrostalo yksiöt";1621;67;.
+"2018";"Rauma";"Kerrostalo kaksiot";1322;202;.
+"2018";"Rauma";"Kerrostalo kolmiot+";1324;129;.
+"2018";"Kanta-Häme";"Kerrostalo yksiöt";1713;248;.
+"2018";"Kanta-Häme";"Kerrostalo kaksiot";1563;574;.
+"2018";"Kanta-Häme";"Kerrostalo kolmiot+";1513;366;.
+"2018";"Hämeenlinna";"Kerrostalo yksiöt";2059;130;.
+"2018";"Hämeenlinna";"Kerrostalo kaksiot";1880;328;.
+"2018";"Hämeenlinna";"Kerrostalo kolmiot+";1787;198;.
+"2018";"Hämeenlinna 1";"Kerrostalo yksiöt";2315;93;.
+"2018";"Hämeenlinna 1";"Kerrostalo kaksiot";2133;251;.
+"2018";"Hämeenlinna 1";"Kerrostalo kolmiot+";2038;137;.
+"2018";"Hämeenlinna 2";"Kerrostalo yksiöt";1589;37;.
+"2018";"Hämeenlinna 2";"Kerrostalo kaksiot";1430;77;.
+"2018";"Hämeenlinna 2";"Kerrostalo kolmiot+";1265;61;.
+"2018";"Riihimäki";"Kerrostalo yksiöt";1793;51;.
+"2018";"Riihimäki";"Kerrostalo kaksiot";1545;110;.
+"2018";"Riihimäki";"Kerrostalo kolmiot+";1424;87;.
+"2018";"Pirkanmaa";"Kerrostalo yksiöt";2921;869;.
+"2018";"Pirkanmaa";"Kerrostalo kaksiot";2406;1987;.
+"2018";"Pirkanmaa";"Kerrostalo kolmiot+";2276;1396;.
+"2018";"Tampere";"Kerrostalo yksiöt";3374;643;.
+"2018";"Tampere";"Kerrostalo kaksiot";2759;1364;.
+"2018";"Tampere";"Kerrostalo kolmiot+";2599;991;.
+"2018";"Tampere 1";"Kerrostalo yksiöt";4030;320;.
+"2018";"Tampere 1";"Kerrostalo kaksiot";3435;641;.
+"2018";"Tampere 1";"Kerrostalo kolmiot+";3446;438;.
+"2018";"Tampere 2";"Kerrostalo yksiöt";2667;184;.
+"2018";"Tampere 2";"Kerrostalo kaksiot";2426;370;.
+"2018";"Tampere 2";"Kerrostalo kolmiot+";2337;212;.
+"2018";"Tampere 3";"Kerrostalo yksiöt";2362;139;.
+"2018";"Tampere 3";"Kerrostalo kaksiot";1812;353;.
+"2018";"Tampere 3";"Kerrostalo kolmiot+";1562;341;.
+"2018";"Päijät-Häme";"Kerrostalo yksiöt";1973;398;.
+"2018";"Päijät-Häme";"Kerrostalo kaksiot";1653;954;.
+"2018";"Päijät-Häme";"Kerrostalo kolmiot+";1602;605;.
+"2018";"Lahti";"Kerrostalo yksiöt";2325;280;.
+"2018";"Lahti";"Kerrostalo kaksiot";1886;718;.
+"2018";"Lahti";"Kerrostalo kolmiot+";1747;470;.
+"2018";"Lahti 1";"Kerrostalo yksiöt";2679;97;.
+"2018";"Lahti 1";"Kerrostalo kaksiot";2502;301;.
+"2018";"Lahti 1";"Kerrostalo kolmiot+";2330;204;.
+"2018";"Lahti 2";"Kerrostalo yksiöt";2007;183;.
+"2018";"Lahti 2";"Kerrostalo kaksiot";1487;417;.
+"2018";"Lahti 2";"Kerrostalo kolmiot+";1334;266;.
+"2018";"Kymenlaakso";"Kerrostalo yksiöt";1155;237;.
+"2018";"Kymenlaakso";"Kerrostalo kaksiot";1154;526;.
+"2018";"Kymenlaakso";"Kerrostalo kolmiot+";1207;285;.
+"2018";"Kotka";"Kerrostalo yksiöt";1268;111;.
+"2018";"Kotka";"Kerrostalo kaksiot";1208;219;.
+"2018";"Kotka";"Kerrostalo kolmiot+";1265;116;.
+"2018";"Kotka 1";"Kerrostalo yksiöt";1736;53;.
+"2018";"Kotka 1";"Kerrostalo kaksiot";1631;137;.
+"2018";"Kotka 1";"Kerrostalo kolmiot+";1572;60;.
+"2018";"Kotka 2";"Kerrostalo yksiöt";867;58;.
+"2018";"Kotka 2";"Kerrostalo kaksiot";827;82;.
+"2018";"Kotka 2";"Kerrostalo kolmiot+";941;56;.
+"2018";"Kouvola";"Kerrostalo yksiöt";1033;101;.
+"2018";"Kouvola";"Kerrostalo kaksiot";1080;227;.
+"2018";"Kouvola";"Kerrostalo kolmiot+";1187;133;.
+"2018";"Etelä-Karjala";"Kerrostalo yksiöt";1636;211;.
+"2018";"Etelä-Karjala";"Kerrostalo kaksiot";1540;437;.
+"2018";"Etelä-Karjala";"Kerrostalo kolmiot+";1591;254;.
+"2018";"Lappeenranta";"Kerrostalo yksiöt";2052;141;.
+"2018";"Lappeenranta";"Kerrostalo kaksiot";1801;354;.
+"2018";"Lappeenranta";"Kerrostalo kolmiot+";1813;203;.
+"2018";"Lappeenranta 1";"Kerrostalo yksiöt";2512;79;.
+"2018";"Lappeenranta 1";"Kerrostalo kaksiot";2320;201;.
+"2018";"Lappeenranta 1";"Kerrostalo kolmiot+";2407;129;.
+"2018";"Lappeenranta 2";"Kerrostalo yksiöt";1348;62;.
+"2018";"Lappeenranta 2";"Kerrostalo kaksiot";1182;153;.
+"2018";"Lappeenranta 2";"Kerrostalo kolmiot+";1103;74;.
+"2018";"Etelä-Savo";"Kerrostalo yksiöt";1411;177;.
+"2018";"Etelä-Savo";"Kerrostalo kaksiot";1378;425;.
+"2018";"Etelä-Savo";"Kerrostalo kolmiot+";1430;228;.
+"2018";"Mikkeli";"Kerrostalo yksiöt";1865;85;.
+"2018";"Mikkeli";"Kerrostalo kaksiot";1723;226;.
+"2018";"Mikkeli";"Kerrostalo kolmiot+";1629;126;.
+"2018";"Pohjois-Savo";"Kerrostalo yksiöt";2018;382;.
+"2018";"Pohjois-Savo";"Kerrostalo kaksiot";1728;841;.
+"2018";"Pohjois-Savo";"Kerrostalo kolmiot+";1688;728;.
+"2018";"Kuopio";"Kerrostalo yksiöt";2657;253;.
+"2018";"Kuopio";"Kerrostalo kaksiot";2085;628;.
+"2018";"Kuopio";"Kerrostalo kolmiot+";1926;578;.
+"2018";"Kuopio 1";"Kerrostalo yksiöt";3161;141;.
+"2018";"Kuopio 1";"Kerrostalo kaksiot";2598;365;.
+"2018";"Kuopio 1";"Kerrostalo kolmiot+";2480;244;.
+"2018";"Kuopio 2";"Kerrostalo yksiöt";1807;112;.
+"2018";"Kuopio 2";"Kerrostalo kaksiot";1562;263;.
+"2018";"Kuopio 2";"Kerrostalo kolmiot+";1387;334;.
+"2018";"Pohjois-Karjala";"Kerrostalo yksiöt";2091;160;.
+"2018";"Pohjois-Karjala";"Kerrostalo kaksiot";1799;308;.
+"2018";"Pohjois-Karjala";"Kerrostalo kolmiot+";1767;149;.
+"2018";"Joensuu";"Kerrostalo yksiöt";2549;113;.
+"2018";"Joensuu";"Kerrostalo kaksiot";2108;239;.
+"2018";"Joensuu";"Kerrostalo kolmiot+";1949;126;.
+"2018";"Joensuu 1";"Kerrostalo yksiöt";2634;90;.
+"2018";"Joensuu 1";"Kerrostalo kaksiot";2238;177;.
+"2018";"Joensuu 1";"Kerrostalo kolmiot+";2102;104;.
+"2018";"Joensuu 2";"Kerrostalo yksiöt";2132;23;.
+"2018";"Joensuu 2";"Kerrostalo kaksiot";1740;62;.
+"2018";"Joensuu 2";"Kerrostalo kolmiot+";1422;22;.
+"2018";"Keski-Suomi";"Kerrostalo yksiöt";2228;480;.
+"2018";"Keski-Suomi";"Kerrostalo kaksiot";1822;922;.
+"2018";"Keski-Suomi";"Kerrostalo kolmiot+";1779;562;.
+"2018";"Jyväskylä";"Kerrostalo yksiöt";2712;380;.
+"2018";"Jyväskylä";"Kerrostalo kaksiot";2149;743;.
+"2018";"Jyväskylä";"Kerrostalo kolmiot+";1968;474;.
+"2018";"Jyväskylä 1";"Kerrostalo yksiöt";3267;140;.
+"2018";"Jyväskylä 1";"Kerrostalo kaksiot";2757;332;.
+"2018";"Jyväskylä 1";"Kerrostalo kolmiot+";2504;200;.
+"2018";"Jyväskylä 2";"Kerrostalo yksiöt";2111;240;.
+"2018";"Jyväskylä 2";"Kerrostalo kaksiot";1647;411;.
+"2018";"Jyväskylä 2";"Kerrostalo kolmiot+";1565;274;.
+"2018";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";2007;83;.
+"2018";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1737;191;.
+"2018";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1654;161;.
+"2018";"Seinäjoki";"Kerrostalo yksiöt";2400;61;.
+"2018";"Seinäjoki";"Kerrostalo kaksiot";1937;130;.
+"2018";"Seinäjoki";"Kerrostalo kolmiot+";1801;120;.
+"2018";"Pohjanmaa";"Kerrostalo yksiöt";2158;243;.
+"2018";"Pohjanmaa";"Kerrostalo kaksiot";1788;452;.
+"2018";"Pohjanmaa";"Kerrostalo kolmiot+";1731;351;.
+"2018";"Vaasa";"Kerrostalo yksiöt";2401;189;.
+"2018";"Vaasa";"Kerrostalo kaksiot";1985;331;.
+"2018";"Vaasa";"Kerrostalo kolmiot+";1885;245;.
+"2018";"Vaasa 1";"Kerrostalo yksiöt";2645;126;.
+"2018";"Vaasa 1";"Kerrostalo kaksiot";2253;230;.
+"2018";"Vaasa 1";"Kerrostalo kolmiot+";2152;176;.
+"2018";"Vaasa 2";"Kerrostalo yksiöt";1503;63;.
+"2018";"Vaasa 2";"Kerrostalo kaksiot";1193;101;.
+"2018";"Vaasa 2";"Kerrostalo kolmiot+";1246;69;.
+"2018";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2013;30;.
+"2018";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1777;104;.
+"2018";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1685;60;.
+"2018";"Kokkola";"Kerrostalo yksiöt";2030;28;.
+"2018";"Kokkola";"Kerrostalo kaksiot";1829;100;.
+"2018";"Kokkola";"Kerrostalo kolmiot+";1721;59;.
+"2018";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2251;457;.
+"2018";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1880;1004;.
+"2018";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1916;777;.
+"2018";"Oulu";"Kerrostalo yksiöt";2447;394;.
+"2018";"Oulu";"Kerrostalo kaksiot";2008;862;.
+"2018";"Oulu";"Kerrostalo kolmiot+";1979;693;.
+"2018";"Oulu 1";"Kerrostalo yksiöt";2821;152;.
+"2018";"Oulu 1";"Kerrostalo kaksiot";2373;443;.
+"2018";"Oulu 1";"Kerrostalo kolmiot+";2381;338;.
+"2018";"Oulu 2";"Kerrostalo yksiöt";2037;242;.
+"2018";"Oulu 2";"Kerrostalo kaksiot";1671;419;.
+"2018";"Oulu 2";"Kerrostalo kolmiot+";1611;355;.
+"2018";"Kainuu";"Kerrostalo yksiöt";1413;106;.
+"2018";"Kainuu";"Kerrostalo kaksiot";1198;168;.
+"2018";"Kainuu";"Kerrostalo kolmiot+";1228;134;.
+"2018";"Kajaani";"Kerrostalo yksiöt";1475;77;.
+"2018";"Kajaani";"Kerrostalo kaksiot";1226;134;.
+"2018";"Kajaani";"Kerrostalo kolmiot+";1194;107;.
+"2018";"Lappi";"Kerrostalo yksiöt";1617;199;.
+"2018";"Lappi";"Kerrostalo kaksiot";1403;530;.
+"2018";"Lappi";"Kerrostalo kolmiot+";1368;329;.
+"2018";"Rovaniemi";"Kerrostalo yksiöt";2092;120;.
+"2018";"Rovaniemi";"Kerrostalo kaksiot";1758;340;.
+"2018";"Rovaniemi";"Kerrostalo kolmiot+";1600;208;.
+"2019";"Koko maa";"Kerrostalo yksiöt";3464;9292;.
+"2019";"Koko maa";"Kerrostalo kaksiot";2622;19908;.
+"2019";"Koko maa";"Kerrostalo kolmiot+";2725;15100;.
+"2019";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";5864;3157;.
+"2019";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4516;6530;.
+"2019";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";4279;5846;.
+"2019";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2187;6093;.
+"2019";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1836;13250;.
+"2019";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1818;9167;.
+"2019";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";4935;4977;.
+"2019";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";3770;10229;.
+"2019";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";3659;8597;.
+"2019";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1791;4273;.
+"2019";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1605;9551;.
+"2019";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1617;6416;.
+"2019";"Uusimaa";"Kerrostalo yksiöt";5372;3697;.
+"2019";"Uusimaa";"Kerrostalo kaksiot";4041;7903;.
+"2019";"Uusimaa";"Kerrostalo kolmiot+";3955;6834;.
+"2019";"Helsinki";"Kerrostalo yksiöt";6445;2411;.
+"2019";"Helsinki";"Kerrostalo kaksiot";5149;4350;.
+"2019";"Helsinki";"Kerrostalo kolmiot+";4979;3753;.
+"2019";"Helsinki 1";"Kerrostalo yksiöt";...;559;.
+"2019";"Helsinki 1";"Kerrostalo kaksiot";7380;745;.
+"2019";"Helsinki 1";"Kerrostalo kolmiot+";7381;739;.
+"2019";"Helsinki 2";"Kerrostalo yksiöt";6585;1301;.
+"2019";"Helsinki 2";"Kerrostalo kaksiot";5771;2016;.
+"2019";"Helsinki 2";"Kerrostalo kolmiot+";5508;1413;.
+"2019";"Helsinki 3";"Kerrostalo yksiöt";...;256;.
+"2019";"Helsinki 3";"Kerrostalo kaksiot";4008;683;.
+"2019";"Helsinki 3";"Kerrostalo kolmiot+";3714;725;.
+"2019";"Helsinki 4";"Kerrostalo yksiöt";3926;295;.
+"2019";"Helsinki 4";"Kerrostalo kaksiot";2962;906;.
+"2019";"Helsinki 4";"Kerrostalo kolmiot+";2619;876;.
+"2019";"Espoo-Kauniainen";"Kerrostalo yksiöt";4296;394;.
+"2019";"Espoo-Kauniainen";"Kerrostalo kaksiot";3751;1148;.
+"2019";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3487;1187;.
+"2019";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";5040;134;.
+"2019";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";4592;370;.
+"2019";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";4407;413;.
+"2019";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4666;134;.
+"2019";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";4023;346;.
+"2019";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3856;311;.
+"2019";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3568;126;.
+"2019";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";2996;432;.
+"2019";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2675;463;.
+"2019";"Vantaa";"Kerrostalo yksiöt";3474;352;.
+"2019";"Vantaa";"Kerrostalo kaksiot";2764;1032;.
+"2019";"Vantaa";"Kerrostalo kolmiot+";2400;906;.
+"2019";"Vantaa 1";"Kerrostalo yksiöt";4440;80;.
+"2019";"Vantaa 1";"Kerrostalo kaksiot";3847;228;.
+"2019";"Vantaa 1";"Kerrostalo kolmiot+";3444;213;.
+"2019";"Vantaa 2";"Kerrostalo yksiöt";3491;78;.
+"2019";"Vantaa 2";"Kerrostalo kaksiot";3009;224;.
+"2019";"Vantaa 2";"Kerrostalo kolmiot+";2550;195;.
+"2019";"Vantaa 3";"Kerrostalo yksiöt";3175;194;.
+"2019";"Vantaa 3";"Kerrostalo kaksiot";2292;580;.
+"2019";"Vantaa 3";"Kerrostalo kolmiot+";2037;498;.
+"2019";"Kehyskunnat";"Kerrostalo yksiöt";2290;373;.
+"2019";"Kehyskunnat";"Kerrostalo kaksiot";2080;960;.
+"2019";"Kehyskunnat";"Kerrostalo kolmiot+";1933;708;.
+"2019";"Porvoo";"Kerrostalo yksiöt";3106;72;.
+"2019";"Porvoo";"Kerrostalo kaksiot";2434;164;.
+"2019";"Porvoo";"Kerrostalo kolmiot+";2557;122;.
+"2019";"Hyvinkää";"Kerrostalo yksiöt";2119;75;.
+"2019";"Hyvinkää";"Kerrostalo kaksiot";1905;187;.
+"2019";"Hyvinkää";"Kerrostalo kolmiot+";1777;131;.
+"2019";"Järvenpää";"Kerrostalo yksiöt";2929;60;.
+"2019";"Järvenpää";"Kerrostalo kaksiot";2545;154;.
+"2019";"Järvenpää";"Kerrostalo kolmiot+";2135;100;.
+"2019";"Kerava";"Kerrostalo yksiöt";2689;65;.
+"2019";"Kerava";"Kerrostalo kaksiot";2379;182;.
+"2019";"Kerava";"Kerrostalo kolmiot+";2183;149;.
+"2019";"Varsinais-Suomi";"Kerrostalo yksiöt";2881;884;.
+"2019";"Varsinais-Suomi";"Kerrostalo kaksiot";2157;2076;.
+"2019";"Varsinais-Suomi";"Kerrostalo kolmiot+";1997;1499;.
+"2019";"Turku";"Kerrostalo yksiöt";3370;603;.
+"2019";"Turku";"Kerrostalo kaksiot";2496;1327;.
+"2019";"Turku";"Kerrostalo kolmiot+";2189;1050;.
+"2019";"Turku 1";"Kerrostalo yksiöt";3957;379;.
+"2019";"Turku 1";"Kerrostalo kaksiot";3329;582;.
+"2019";"Turku 1";"Kerrostalo kolmiot+";3168;375;.
+"2019";"Turku 2";"Kerrostalo yksiöt";3002;124;.
+"2019";"Turku 2";"Kerrostalo kaksiot";2332;258;.
+"2019";"Turku 2";"Kerrostalo kolmiot+";1945;230;.
+"2019";"Turku 3";"Kerrostalo yksiöt";2079;100;.
+"2019";"Turku 3";"Kerrostalo kaksiot";1460;487;.
+"2019";"Turku 3";"Kerrostalo kolmiot+";1361;445;.
+"2019";"Satakunta";"Kerrostalo yksiöt";1558;239;.
+"2019";"Satakunta";"Kerrostalo kaksiot";1319;575;.
+"2019";"Satakunta";"Kerrostalo kolmiot+";1425;385;.
+"2019";"Pori";"Kerrostalo yksiöt";1640;136;.
+"2019";"Pori";"Kerrostalo kaksiot";1402;301;.
+"2019";"Pori";"Kerrostalo kolmiot+";1494;195;.
+"2019";"Pori 1";"Kerrostalo yksiöt";2060;80;.
+"2019";"Pori 1";"Kerrostalo kaksiot";1865;160;.
+"2019";"Pori 1";"Kerrostalo kolmiot+";1812;118;.
+"2019";"Pori 2";"Kerrostalo yksiöt";883;56;.
+"2019";"Pori 2";"Kerrostalo kaksiot";852;141;.
+"2019";"Pori 2";"Kerrostalo kolmiot+";978;77;.
+"2019";"Rauma";"Kerrostalo yksiöt";1779;70;.
+"2019";"Rauma";"Kerrostalo kaksiot";1378;157;.
+"2019";"Rauma";"Kerrostalo kolmiot+";1453;121;.
+"2019";"Kanta-Häme";"Kerrostalo yksiöt";1564;333;.
+"2019";"Kanta-Häme";"Kerrostalo kaksiot";1485;463;.
+"2019";"Kanta-Häme";"Kerrostalo kolmiot+";1533;333;.
+"2019";"Hämeenlinna";"Kerrostalo yksiöt";1973;197;.
+"2019";"Hämeenlinna";"Kerrostalo kaksiot";1810;248;.
+"2019";"Hämeenlinna";"Kerrostalo kolmiot+";1851;171;.
+"2019";"Hämeenlinna 1";"Kerrostalo yksiöt";2282;166;.
+"2019";"Hämeenlinna 1";"Kerrostalo kaksiot";2085;167;.
+"2019";"Hämeenlinna 1";"Kerrostalo kolmiot+";2124;122;.
+"2019";"Hämeenlinna 2";"Kerrostalo yksiöt";1358;31;.
+"2019";"Hämeenlinna 2";"Kerrostalo kaksiot";1320;81;.
+"2019";"Hämeenlinna 2";"Kerrostalo kolmiot+";1283;49;.
+"2019";"Riihimäki";"Kerrostalo yksiöt";1532;56;.
+"2019";"Riihimäki";"Kerrostalo kaksiot";1448;103;.
+"2019";"Riihimäki";"Kerrostalo kolmiot+";1405;103;.
+"2019";"Pirkanmaa";"Kerrostalo yksiöt";2924;1056;.
+"2019";"Pirkanmaa";"Kerrostalo kaksiot";2486;2249;.
+"2019";"Pirkanmaa";"Kerrostalo kolmiot+";2357;1542;.
+"2019";"Tampere";"Kerrostalo yksiöt";3365;802;.
+"2019";"Tampere";"Kerrostalo kaksiot";2849;1605;.
+"2019";"Tampere";"Kerrostalo kolmiot+";2677;1072;.
+"2019";"Tampere 1";"Kerrostalo yksiöt";4031;411;.
+"2019";"Tampere 1";"Kerrostalo kaksiot";3559;746;.
+"2019";"Tampere 1";"Kerrostalo kolmiot+";3534;482;.
+"2019";"Tampere 2";"Kerrostalo yksiöt";2648;272;.
+"2019";"Tampere 2";"Kerrostalo kaksiot";2547;499;.
+"2019";"Tampere 2";"Kerrostalo kolmiot+";2428;287;.
+"2019";"Tampere 3";"Kerrostalo yksiöt";2337;119;.
+"2019";"Tampere 3";"Kerrostalo kaksiot";1818;360;.
+"2019";"Tampere 3";"Kerrostalo kolmiot+";1619;303;.
+"2019";"Päijät-Häme";"Kerrostalo yksiöt";1845;422;.
+"2019";"Päijät-Häme";"Kerrostalo kaksiot";1580;851;.
+"2019";"Päijät-Häme";"Kerrostalo kolmiot+";1658;598;.
+"2019";"Lahti";"Kerrostalo yksiöt";2220;291;.
+"2019";"Lahti";"Kerrostalo kaksiot";1792;564;.
+"2019";"Lahti";"Kerrostalo kolmiot+";1814;460;.
+"2019";"Lahti 1";"Kerrostalo yksiöt";2750;171;.
+"2019";"Lahti 1";"Kerrostalo kaksiot";2439;248;.
+"2019";"Lahti 1";"Kerrostalo kolmiot+";2489;214;.
+"2019";"Lahti 2";"Kerrostalo yksiöt";1745;120;.
+"2019";"Lahti 2";"Kerrostalo kaksiot";1373;316;.
+"2019";"Lahti 2";"Kerrostalo kolmiot+";1337;246;.
+"2019";"Kymenlaakso";"Kerrostalo yksiöt";1105;248;.
+"2019";"Kymenlaakso";"Kerrostalo kaksiot";1083;570;.
+"2019";"Kymenlaakso";"Kerrostalo kolmiot+";1150;281;.
+"2019";"Kotka";"Kerrostalo yksiöt";1208;121;.
+"2019";"Kotka";"Kerrostalo kaksiot";1190;225;.
+"2019";"Kotka";"Kerrostalo kolmiot+";1170;116;.
+"2019";"Kotka 1";"Kerrostalo yksiöt";1695;78;.
+"2019";"Kotka 1";"Kerrostalo kaksiot";1509;123;.
+"2019";"Kotka 1";"Kerrostalo kolmiot+";1553;76;.
+"2019";"Kotka 2";"Kerrostalo yksiöt";792;43;.
+"2019";"Kotka 2";"Kerrostalo kaksiot";901;102;.
+"2019";"Kotka 2";"Kerrostalo kolmiot+";766;40;.
+"2019";"Kouvola";"Kerrostalo yksiöt";1003;96;.
+"2019";"Kouvola";"Kerrostalo kaksiot";1001;255;.
+"2019";"Kouvola";"Kerrostalo kolmiot+";1079;138;.
+"2019";"Etelä-Karjala";"Kerrostalo yksiöt";1563;184;.
+"2019";"Etelä-Karjala";"Kerrostalo kaksiot";1508;372;.
+"2019";"Etelä-Karjala";"Kerrostalo kolmiot+";1543;279;.
+"2019";"Lappeenranta";"Kerrostalo yksiöt";2013;126;.
+"2019";"Lappeenranta";"Kerrostalo kaksiot";1774;288;.
+"2019";"Lappeenranta";"Kerrostalo kolmiot+";1702;228;.
+"2019";"Lappeenranta 1";"Kerrostalo yksiöt";2430;78;.
+"2019";"Lappeenranta 1";"Kerrostalo kaksiot";2315;180;.
+"2019";"Lappeenranta 1";"Kerrostalo kolmiot+";2288;162;.
+"2019";"Lappeenranta 2";"Kerrostalo yksiöt";1376;48;.
+"2019";"Lappeenranta 2";"Kerrostalo kaksiot";1128;108;.
+"2019";"Lappeenranta 2";"Kerrostalo kolmiot+";1002;66;.
+"2019";"Etelä-Savo";"Kerrostalo yksiöt";1407;198;.
+"2019";"Etelä-Savo";"Kerrostalo kaksiot";1350;361;.
+"2019";"Etelä-Savo";"Kerrostalo kolmiot+";1410;233;.
+"2019";"Mikkeli";"Kerrostalo yksiöt";1861;102;.
+"2019";"Mikkeli";"Kerrostalo kaksiot";1721;167;.
+"2019";"Mikkeli";"Kerrostalo kolmiot+";1610;114;.
+"2019";"Pohjois-Savo";"Kerrostalo yksiöt";1986;324;.
+"2019";"Pohjois-Savo";"Kerrostalo kaksiot";1690;804;.
+"2019";"Pohjois-Savo";"Kerrostalo kolmiot+";1684;546;.
+"2019";"Kuopio";"Kerrostalo yksiöt";2684;218;.
+"2019";"Kuopio";"Kerrostalo kaksiot";2063;574;.
+"2019";"Kuopio";"Kerrostalo kolmiot+";1880;420;.
+"2019";"Kuopio 1";"Kerrostalo yksiöt";3220;122;.
+"2019";"Kuopio 1";"Kerrostalo kaksiot";2568;368;.
+"2019";"Kuopio 1";"Kerrostalo kolmiot+";2412;214;.
+"2019";"Kuopio 2";"Kerrostalo yksiöt";1782;96;.
+"2019";"Kuopio 2";"Kerrostalo kaksiot";1548;206;.
+"2019";"Kuopio 2";"Kerrostalo kolmiot+";1363;206;.
+"2019";"Pohjois-Karjala";"Kerrostalo yksiöt";2039;164;.
+"2019";"Pohjois-Karjala";"Kerrostalo kaksiot";1716;279;.
+"2019";"Pohjois-Karjala";"Kerrostalo kolmiot+";1627;195;.
+"2019";"Joensuu";"Kerrostalo yksiöt";2497;125;.
+"2019";"Joensuu";"Kerrostalo kaksiot";2029;227;.
+"2019";"Joensuu";"Kerrostalo kolmiot+";1871;162;.
+"2019";"Joensuu 1";"Kerrostalo yksiöt";2511;109;.
+"2019";"Joensuu 1";"Kerrostalo kaksiot";2166;167;.
+"2019";"Joensuu 1";"Kerrostalo kolmiot+";2021;126;.
+"2019";"Joensuu 2";"Kerrostalo yksiöt";2426;16;.
+"2019";"Joensuu 2";"Kerrostalo kaksiot";1642;60;.
+"2019";"Joensuu 2";"Kerrostalo kolmiot+";1352;36;.
+"2019";"Keski-Suomi";"Kerrostalo yksiöt";2055;398;.
+"2019";"Keski-Suomi";"Kerrostalo kaksiot";1784;987;.
+"2019";"Keski-Suomi";"Kerrostalo kolmiot+";1813;547;.
+"2019";"Jyväskylä";"Kerrostalo yksiöt";2517;307;.
+"2019";"Jyväskylä";"Kerrostalo kaksiot";2033;803;.
+"2019";"Jyväskylä";"Kerrostalo kolmiot+";2053;449;.
+"2019";"Jyväskylä 1";"Kerrostalo yksiöt";3209;161;.
+"2019";"Jyväskylä 1";"Kerrostalo kaksiot";2699;389;.
+"2019";"Jyväskylä 1";"Kerrostalo kolmiot+";2549;225;.
+"2019";"Jyväskylä 2";"Kerrostalo yksiöt";1768;146;.
+"2019";"Jyväskylä 2";"Kerrostalo kaksiot";1484;414;.
+"2019";"Jyväskylä 2";"Kerrostalo kolmiot+";1680;224;.
+"2019";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1876;69;.
+"2019";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1750;184;.
+"2019";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1669;150;.
+"2019";"Seinäjoki";"Kerrostalo yksiöt";2268;57;.
+"2019";"Seinäjoki";"Kerrostalo kaksiot";1965;142;.
+"2019";"Seinäjoki";"Kerrostalo kolmiot+";1849;127;.
+"2019";"Pohjanmaa";"Kerrostalo yksiöt";2225;213;.
+"2019";"Pohjanmaa";"Kerrostalo kaksiot";1787;408;.
+"2019";"Pohjanmaa";"Kerrostalo kolmiot+";1778;380;.
+"2019";"Vaasa";"Kerrostalo yksiöt";2498;164;.
+"2019";"Vaasa";"Kerrostalo kaksiot";1984;291;.
+"2019";"Vaasa";"Kerrostalo kolmiot+";1940;280;.
+"2019";"Vaasa 1";"Kerrostalo yksiöt";2690;132;.
+"2019";"Vaasa 1";"Kerrostalo kaksiot";2281;218;.
+"2019";"Vaasa 1";"Kerrostalo kolmiot+";2244;193;.
+"2019";"Vaasa 2";"Kerrostalo yksiöt";1789;32;.
+"2019";"Vaasa 2";"Kerrostalo kaksiot";1108;73;.
+"2019";"Vaasa 2";"Kerrostalo kolmiot+";1213;87;.
+"2019";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2727;37;.
+"2019";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1699;78;.
+"2019";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1890;59;.
+"2019";"Kokkola";"Kerrostalo yksiöt";2811;35;.
+"2019";"Kokkola";"Kerrostalo kaksiot";1732;74;.
+"2019";"Kokkola";"Kerrostalo kolmiot+";1926;57;.
+"2019";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2283;475;.
+"2019";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1900;909;.
+"2019";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";1984;714;.
+"2019";"Oulu";"Kerrostalo yksiöt";2500;415;.
+"2019";"Oulu";"Kerrostalo kaksiot";2024;767;.
+"2019";"Oulu";"Kerrostalo kolmiot+";2054;629;.
+"2019";"Oulu 1";"Kerrostalo yksiöt";2770;199;.
+"2019";"Oulu 1";"Kerrostalo kaksiot";2443;373;.
+"2019";"Oulu 1";"Kerrostalo kolmiot+";2541;283;.
+"2019";"Oulu 2";"Kerrostalo yksiöt";2204;216;.
+"2019";"Oulu 2";"Kerrostalo kaksiot";1637;394;.
+"2019";"Oulu 2";"Kerrostalo kolmiot+";1609;346;.
+"2019";"Kainuu";"Kerrostalo yksiöt";1426;81;.
+"2019";"Kainuu";"Kerrostalo kaksiot";1314;177;.
+"2019";"Kainuu";"Kerrostalo kolmiot+";1216;120;.
+"2019";"Kajaani";"Kerrostalo yksiöt";1520;54;.
+"2019";"Kajaani";"Kerrostalo kaksiot";1361;141;.
+"2019";"Kajaani";"Kerrostalo kolmiot+";1208;102;.
+"2019";"Lappi";"Kerrostalo yksiöt";1641;228;.
+"2019";"Lappi";"Kerrostalo kaksiot";1445;534;.
+"2019";"Lappi";"Kerrostalo kolmiot+";1331;318;.
+"2019";"Rovaniemi";"Kerrostalo yksiöt";2119;121;.
+"2019";"Rovaniemi";"Kerrostalo kaksiot";1797;343;.
+"2019";"Rovaniemi";"Kerrostalo kolmiot+";1555;168;.
+"2020";"Koko maa";"Kerrostalo yksiöt";3616;.;10533
+"2020";"Koko maa";"Kerrostalo kaksiot";2745;.;21348
+"2020";"Koko maa";"Kerrostalo kolmiot+";2855;.;16351
+"2020";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";6148;.;3441
+"2020";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";4784;.;6872
+"2020";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";4544;.;6390
+"2020";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2336;.;7090
+"2020";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1886;.;14468
+"2020";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1848;.;9959
+"2020";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";5154;.;5532
+"2020";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";4001;.;10965
+"2020";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";3896;.;9506
+"2020";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1858;.;4999
+"2020";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1608;.;10375
+"2020";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1608;.;6843
+"2020";"Uusimaa";"Kerrostalo yksiöt";5590;.;4215
+"2020";"Uusimaa";"Kerrostalo kaksiot";4261;.;8486
+"2020";"Uusimaa";"Kerrostalo kolmiot+";4193;.;7527
+"2020";"Helsinki";"Kerrostalo yksiöt";6833;.;2633
+"2020";"Helsinki";"Kerrostalo kaksiot";5490;.;4583
+"2020";"Helsinki";"Kerrostalo kolmiot+";5306;.;4092
+"2020";"Helsinki 1";"Kerrostalo yksiöt";...;.;598
+"2020";"Helsinki 1";"Kerrostalo kaksiot";7847;.;785
+"2020";"Helsinki 1";"Kerrostalo kolmiot+";7607;.;783
+"2020";"Helsinki 2";"Kerrostalo yksiöt";6961;.;1378
+"2020";"Helsinki 2";"Kerrostalo kaksiot";6102;.;2025
+"2020";"Helsinki 2";"Kerrostalo kolmiot+";5884;.;1560
+"2020";"Helsinki 3";"Kerrostalo yksiöt";...;.;309
+"2020";"Helsinki 3";"Kerrostalo kaksiot";4142;.;706
+"2020";"Helsinki 3";"Kerrostalo kolmiot+";3884;.;723
+"2020";"Helsinki 4";"Kerrostalo yksiöt";4035;.;348
+"2020";"Helsinki 4";"Kerrostalo kaksiot";3027;.;1067
+"2020";"Helsinki 4";"Kerrostalo kolmiot+";2627;.;1026
+"2020";"Espoo-Kauniainen";"Kerrostalo yksiöt";4590;.;375
+"2020";"Espoo-Kauniainen";"Kerrostalo kaksiot";4063;.;1176
+"2020";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3640;.;1341
+"2020";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";5401;.;110
+"2020";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";5013;.;370
+"2020";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";4629;.;425
+"2020";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4725;.;94
+"2020";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";4241;.;315
+"2020";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3707;.;364
+"2020";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3795;.;171
+"2020";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";3072;.;491
+"2020";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2772;.;552
+"2020";"Vantaa";"Kerrostalo yksiöt";3889;.;433
+"2020";"Vantaa";"Kerrostalo kaksiot";2982;.;1113
+"2020";"Vantaa";"Kerrostalo kolmiot+";2567;.;957
+"2020";"Vantaa 1";"Kerrostalo yksiöt";4809;.;102
+"2020";"Vantaa 1";"Kerrostalo kaksiot";3954;.;240
+"2020";"Vantaa 1";"Kerrostalo kolmiot+";3604;.;205
+"2020";"Vantaa 2";"Kerrostalo yksiöt";3922;.;126
+"2020";"Vantaa 2";"Kerrostalo kaksiot";3054;.;256
+"2020";"Vantaa 2";"Kerrostalo kolmiot+";2690;.;225
+"2020";"Vantaa 3";"Kerrostalo yksiöt";3243;.;205
+"2020";"Vantaa 3";"Kerrostalo kaksiot";2388;.;617
+"2020";"Vantaa 3";"Kerrostalo kolmiot+";2069;.;527
+"2020";"Kehyskunnat";"Kerrostalo yksiöt";2538;.;459
+"2020";"Kehyskunnat";"Kerrostalo kaksiot";2064;.;1141
+"2020";"Kehyskunnat";"Kerrostalo kolmiot+";2008;.;801
+"2020";"Porvoo";"Kerrostalo yksiöt";2903;.;90
+"2020";"Porvoo";"Kerrostalo kaksiot";2552;.;172
+"2020";"Porvoo";"Kerrostalo kolmiot+";2554;.;142
+"2020";"Hyvinkää";"Kerrostalo yksiöt";2076;.;90
+"2020";"Hyvinkää";"Kerrostalo kaksiot";1922;.;231
+"2020";"Hyvinkää";"Kerrostalo kolmiot+";1819;.;159
+"2020";"Järvenpää";"Kerrostalo yksiöt";3054;.;83
+"2020";"Järvenpää";"Kerrostalo kaksiot";2441;.;196
+"2020";"Järvenpää";"Kerrostalo kolmiot+";2308;.;104
+"2020";"Kerava";"Kerrostalo yksiöt";2859;.;57
+"2020";"Kerava";"Kerrostalo kaksiot";2357;.;211
+"2020";"Kerava";"Kerrostalo kolmiot+";2244;.;162
+"2020";"Varsinais-Suomi";"Kerrostalo yksiöt";3103;.;773
+"2020";"Varsinais-Suomi";"Kerrostalo kaksiot";2302;.;2072
+"2020";"Varsinais-Suomi";"Kerrostalo kolmiot+";2126;.;1574
+"2020";"Turku";"Kerrostalo yksiöt";3628;.;504
+"2020";"Turku";"Kerrostalo kaksiot";2690;.;1358
+"2020";"Turku";"Kerrostalo kolmiot+";2356;.;1097
+"2020";"Turku 1";"Kerrostalo yksiöt";4222;.;282
+"2020";"Turku 1";"Kerrostalo kaksiot";3536;.;603
+"2020";"Turku 1";"Kerrostalo kolmiot+";3250;.;447
+"2020";"Turku 2";"Kerrostalo yksiöt";3320;.;119
+"2020";"Turku 2";"Kerrostalo kaksiot";2485;.;261
+"2020";"Turku 2";"Kerrostalo kolmiot+";2148;.;220
+"2020";"Turku 3";"Kerrostalo yksiöt";1994;.;103
+"2020";"Turku 3";"Kerrostalo kaksiot";1481;.;494
+"2020";"Turku 3";"Kerrostalo kolmiot+";1432;.;430
+"2020";"Satakunta";"Kerrostalo yksiöt";1596;.;286
+"2020";"Satakunta";"Kerrostalo kaksiot";1314;.;596
+"2020";"Satakunta";"Kerrostalo kolmiot+";1431;.;399
+"2020";"Pori";"Kerrostalo yksiöt";1734;.;159
+"2020";"Pori";"Kerrostalo kaksiot";1408;.;284
+"2020";"Pori";"Kerrostalo kolmiot+";1518;.;212
+"2020";"Pori 1";"Kerrostalo yksiöt";2155;.;110
+"2020";"Pori 1";"Kerrostalo kaksiot";1864;.;168
+"2020";"Pori 1";"Kerrostalo kolmiot+";1831;.;139
+"2020";"Pori 2";"Kerrostalo yksiöt";914;.;49
+"2020";"Pori 2";"Kerrostalo kaksiot";805;.;116
+"2020";"Pori 2";"Kerrostalo kolmiot+";946;.;73
+"2020";"Rauma";"Kerrostalo yksiöt";1600;.;82
+"2020";"Rauma";"Kerrostalo kaksiot";1343;.;212
+"2020";"Rauma";"Kerrostalo kolmiot+";1396;.;132
+"2020";"Kanta-Häme";"Kerrostalo yksiöt";1605;.;255
+"2020";"Kanta-Häme";"Kerrostalo kaksiot";1446;.;603
+"2020";"Kanta-Häme";"Kerrostalo kolmiot+";1481;.;356
+"2020";"Hämeenlinna";"Kerrostalo yksiöt";1948;.;126
+"2020";"Hämeenlinna";"Kerrostalo kaksiot";1783;.;285
+"2020";"Hämeenlinna";"Kerrostalo kolmiot+";1753;.;166
+"2020";"Hämeenlinna 1";"Kerrostalo yksiöt";2130;.;98
+"2020";"Hämeenlinna 1";"Kerrostalo kaksiot";2025;.;220
+"2020";"Hämeenlinna 1";"Kerrostalo kolmiot+";2001;.;125
+"2020";"Hämeenlinna 2";"Kerrostalo yksiöt";1486;.;28
+"2020";"Hämeenlinna 2";"Kerrostalo kaksiot";1283;.;65
+"2020";"Hämeenlinna 2";"Kerrostalo kolmiot+";1221;.;41
+"2020";"Riihimäki";"Kerrostalo yksiöt";1642;.;62
+"2020";"Riihimäki";"Kerrostalo kaksiot";1330;.;159
+"2020";"Riihimäki";"Kerrostalo kolmiot+";1441;.;107
+"2020";"Pirkanmaa";"Kerrostalo yksiöt";3187;.;1334
+"2020";"Pirkanmaa";"Kerrostalo kaksiot";2614;.;2413
+"2020";"Pirkanmaa";"Kerrostalo kolmiot+";2429;.;1743
+"2020";"Tampere";"Kerrostalo yksiöt";3654;.;1033
+"2020";"Tampere";"Kerrostalo kaksiot";3034;.;1748
+"2020";"Tampere";"Kerrostalo kolmiot+";2818;.;1253
+"2020";"Tampere 1";"Kerrostalo yksiöt";4313;.;545
+"2020";"Tampere 1";"Kerrostalo kaksiot";3740;.;863
+"2020";"Tampere 1";"Kerrostalo kolmiot+";3680;.;568
+"2020";"Tampere 2";"Kerrostalo yksiöt";3101;.;291
+"2020";"Tampere 2";"Kerrostalo kaksiot";2768;.;485
+"2020";"Tampere 2";"Kerrostalo kolmiot+";2510;.;318
+"2020";"Tampere 3";"Kerrostalo yksiöt";2670;.;197
+"2020";"Tampere 3";"Kerrostalo kaksiot";1899;.;400
+"2020";"Tampere 3";"Kerrostalo kolmiot+";1657;.;367
+"2020";"Päijät-Häme";"Kerrostalo yksiöt";1815;.;573
+"2020";"Päijät-Häme";"Kerrostalo kaksiot";1538;.;912
+"2020";"Päijät-Häme";"Kerrostalo kolmiot+";1575;.;634
+"2020";"Lahti";"Kerrostalo yksiöt";2081;.;487
+"2020";"Lahti";"Kerrostalo kaksiot";1685;.;767
+"2020";"Lahti";"Kerrostalo kolmiot+";1706;.;517
+"2020";"Lahti 1";"Kerrostalo yksiöt";2615;.;145
+"2020";"Lahti 1";"Kerrostalo kaksiot";2340;.;256
+"2020";"Lahti 1";"Kerrostalo kolmiot+";2340;.;240
+"2020";"Lahti 2";"Kerrostalo yksiöt";1596;.;342
+"2020";"Lahti 2";"Kerrostalo kaksiot";1273;.;511
+"2020";"Lahti 2";"Kerrostalo kolmiot+";1233;.;277
+"2020";"Kymenlaakso";"Kerrostalo yksiöt";1068;.;293
+"2020";"Kymenlaakso";"Kerrostalo kaksiot";1122;.;651
+"2020";"Kymenlaakso";"Kerrostalo kolmiot+";1102;.;361
+"2020";"Kotka";"Kerrostalo yksiöt";1125;.;127
+"2020";"Kotka";"Kerrostalo kaksiot";1183;.;324
+"2020";"Kotka";"Kerrostalo kolmiot+";1253;.;167
+"2020";"Kotka 1";"Kerrostalo yksiöt";1472;.;53
+"2020";"Kotka 1";"Kerrostalo kaksiot";1499;.;162
+"2020";"Kotka 1";"Kerrostalo kolmiot+";1627;.;86
+"2020";"Kotka 2";"Kerrostalo yksiöt";825;.;74
+"2020";"Kotka 2";"Kerrostalo kaksiot";886;.;162
+"2020";"Kotka 2";"Kerrostalo kolmiot+";852;.;81
+"2020";"Kouvola";"Kerrostalo yksiöt";1039;.;143
+"2020";"Kouvola";"Kerrostalo kaksiot";1088;.;264
+"2020";"Kouvola";"Kerrostalo kolmiot+";991;.;153
+"2020";"Etelä-Karjala";"Kerrostalo yksiöt";1655;.;238
+"2020";"Etelä-Karjala";"Kerrostalo kaksiot";1570;.;487
+"2020";"Etelä-Karjala";"Kerrostalo kolmiot+";1707;.;268
+"2020";"Lappeenranta";"Kerrostalo yksiöt";2113;.;188
+"2020";"Lappeenranta";"Kerrostalo kaksiot";1888;.;402
+"2020";"Lappeenranta";"Kerrostalo kolmiot+";1900;.;224
+"2020";"Lappeenranta 1";"Kerrostalo yksiöt";2574;.;134
+"2020";"Lappeenranta 1";"Kerrostalo kaksiot";2441;.;290
+"2020";"Lappeenranta 1";"Kerrostalo kolmiot+";2509;.;149
+"2020";"Lappeenranta 2";"Kerrostalo yksiöt";1311;.;54
+"2020";"Lappeenranta 2";"Kerrostalo kaksiot";1153;.;112
+"2020";"Lappeenranta 2";"Kerrostalo kolmiot+";1072;.;75
+"2020";"Etelä-Savo";"Kerrostalo yksiöt";1385;.;181
+"2020";"Etelä-Savo";"Kerrostalo kaksiot";1223;.;397
+"2020";"Etelä-Savo";"Kerrostalo kolmiot+";1323;.;238
+"2020";"Mikkeli";"Kerrostalo yksiöt";1999;.;86
+"2020";"Mikkeli";"Kerrostalo kaksiot";1671;.;198
+"2020";"Mikkeli";"Kerrostalo kolmiot+";1602;.;126
+"2020";"Pohjois-Savo";"Kerrostalo yksiöt";2045;.;327
+"2020";"Pohjois-Savo";"Kerrostalo kaksiot";1725;.;786
+"2020";"Pohjois-Savo";"Kerrostalo kolmiot+";1694;.;547
+"2020";"Kuopio";"Kerrostalo yksiöt";2639;.;216
+"2020";"Kuopio";"Kerrostalo kaksiot";2122;.;585
+"2020";"Kuopio";"Kerrostalo kolmiot+";1887;.;433
+"2020";"Kuopio 1";"Kerrostalo yksiöt";3225;.;125
+"2020";"Kuopio 1";"Kerrostalo kaksiot";2646;.;327
+"2020";"Kuopio 1";"Kerrostalo kolmiot+";2419;.;235
+"2020";"Kuopio 2";"Kerrostalo yksiöt";1685;.;91
+"2020";"Kuopio 2";"Kerrostalo kaksiot";1547;.;258
+"2020";"Kuopio 2";"Kerrostalo kolmiot+";1318;.;198
+"2020";"Pohjois-Karjala";"Kerrostalo yksiöt";2190;.;179
+"2020";"Pohjois-Karjala";"Kerrostalo kaksiot";1676;.;316
+"2020";"Pohjois-Karjala";"Kerrostalo kolmiot+";1537;.;201
+"2020";"Joensuu";"Kerrostalo yksiöt";2669;.;141
+"2020";"Joensuu";"Kerrostalo kaksiot";2048;.;223
+"2020";"Joensuu";"Kerrostalo kolmiot+";1773;.;174
+"2020";"Joensuu 1";"Kerrostalo yksiöt";2757;.;110
+"2020";"Joensuu 1";"Kerrostalo kaksiot";2153;.;170
+"2020";"Joensuu 1";"Kerrostalo kolmiot+";1957;.;140
+"2020";"Joensuu 2";"Kerrostalo yksiöt";2247;.;31
+"2020";"Joensuu 2";"Kerrostalo kaksiot";1750;.;53
+"2020";"Joensuu 2";"Kerrostalo kolmiot+";1083;.;34
+"2020";"Keski-Suomi";"Kerrostalo yksiöt";2159;.;445
+"2020";"Keski-Suomi";"Kerrostalo kaksiot";1775;.;987
+"2020";"Keski-Suomi";"Kerrostalo kolmiot+";1788;.;595
+"2020";"Jyväskylä";"Kerrostalo yksiöt";2548;.;343
+"2020";"Jyväskylä";"Kerrostalo kaksiot";2059;.;785
+"2020";"Jyväskylä";"Kerrostalo kolmiot+";2034;.;503
+"2020";"Jyväskylä 1";"Kerrostalo yksiöt";3187;.;176
+"2020";"Jyväskylä 1";"Kerrostalo kaksiot";2640;.;331
+"2020";"Jyväskylä 1";"Kerrostalo kolmiot+";2590;.;188
+"2020";"Jyväskylä 2";"Kerrostalo yksiöt";1872;.;167
+"2020";"Jyväskylä 2";"Kerrostalo kaksiot";1567;.;454
+"2020";"Jyväskylä 2";"Kerrostalo kolmiot+";1598;.;315
+"2020";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";1997;.;135
+"2020";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1730;.;258
+"2020";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1624;.;140
+"2020";"Seinäjoki";"Kerrostalo yksiöt";2367;.;106
+"2020";"Seinäjoki";"Kerrostalo kaksiot";2038;.;193
+"2020";"Seinäjoki";"Kerrostalo kolmiot+";1871;.;118
+"2020";"Pohjanmaa";"Kerrostalo yksiöt";2219;.;256
+"2020";"Pohjanmaa";"Kerrostalo kaksiot";1867;.;444
+"2020";"Pohjanmaa";"Kerrostalo kolmiot+";1716;.;418
+"2020";"Vaasa";"Kerrostalo yksiöt";2490;.;206
+"2020";"Vaasa";"Kerrostalo kaksiot";2067;.;333
+"2020";"Vaasa";"Kerrostalo kolmiot+";1900;.;291
+"2020";"Vaasa 1";"Kerrostalo yksiöt";2722;.;168
+"2020";"Vaasa 1";"Kerrostalo kaksiot";2291;.;269
+"2020";"Vaasa 1";"Kerrostalo kolmiot+";2170;.;214
+"2020";"Vaasa 2";"Kerrostalo yksiöt";1579;.;38
+"2020";"Vaasa 2";"Kerrostalo kaksiot";1331;.;64
+"2020";"Vaasa 2";"Kerrostalo kolmiot+";1184;.;77
+"2020";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2110;.;53
+"2020";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1665;.;102
+"2020";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1645;.;84
+"2020";"Kokkola";"Kerrostalo yksiöt";2217;.;47
+"2020";"Kokkola";"Kerrostalo kaksiot";1714;.;96
+"2020";"Kokkola";"Kerrostalo kolmiot+";1662;.;80
+"2020";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2594;.;627
+"2020";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";1993;.;1152
+"2020";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";2013;.;868
+"2020";"Oulu";"Kerrostalo yksiöt";2844;.;554
+"2020";"Oulu";"Kerrostalo kaksiot";2138;.;987
+"2020";"Oulu";"Kerrostalo kolmiot+";2131;.;766
+"2020";"Oulu 1";"Kerrostalo yksiöt";3135;.;226
+"2020";"Oulu 1";"Kerrostalo kaksiot";2491;.;422
+"2020";"Oulu 1";"Kerrostalo kolmiot+";2544;.;317
+"2020";"Oulu 2";"Kerrostalo yksiöt";2541;.;328
+"2020";"Oulu 2";"Kerrostalo kaksiot";1792;.;565
+"2020";"Oulu 2";"Kerrostalo kolmiot+";1712;.;449
+"2020";"Kainuu";"Kerrostalo yksiöt";1380;.;120
+"2020";"Kainuu";"Kerrostalo kaksiot";1195;.;214
+"2020";"Kainuu";"Kerrostalo kolmiot+";1234;.;135
+"2020";"Kajaani";"Kerrostalo yksiöt";1512;.;86
+"2020";"Kajaani";"Kerrostalo kaksiot";1236;.;169
+"2020";"Kajaani";"Kerrostalo kolmiot+";1248;.;124
+"2020";"Lappi";"Kerrostalo yksiöt";1693;.;241
+"2020";"Lappi";"Kerrostalo kaksiot";1523;.;464
+"2020";"Lappi";"Kerrostalo kolmiot+";1479;.;261
+"2020";"Rovaniemi";"Kerrostalo yksiöt";2137;.;147
+"2020";"Rovaniemi";"Kerrostalo kaksiot";1926;.;258
+"2020";"Rovaniemi";"Kerrostalo kolmiot+";1711;.;159
+"2021";"Koko maa";"Kerrostalo yksiöt";3779;.;12707
+"2021";"Koko maa";"Kerrostalo kaksiot";2875;.;24852
+"2021";"Koko maa";"Kerrostalo kolmiot+";3009;.;18801
+"2021";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";6421;.;4040
+"2021";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";5040;.;7720
+"2021";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";4868;.;7012
+"2021";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2442;.;8658
+"2021";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1963;.;17113
+"2021";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1901;.;11779
+"2021";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";5412;.;6607
+"2021";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";4227;.;12424
+"2021";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";4162;.;10477
+"2021";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1911;.;6091
+"2021";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1650;.;12409
+"2021";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1629;.;8314
+"2021";"Uusimaa";"Kerrostalo yksiöt";5824;.;4859
+"2021";"Uusimaa";"Kerrostalo kaksiot";4486;.;9624
+"2021";"Uusimaa";"Kerrostalo kolmiot+";4479;.;8439
+"2021";"Helsinki";"Kerrostalo yksiöt";7125;.;3008
+"2021";"Helsinki";"Kerrostalo kaksiot";5802;.;5080
+"2021";"Helsinki";"Kerrostalo kolmiot+";5729;.;4365
+"2021";"Helsinki 1";"Kerrostalo yksiöt";...;.;715
+"2021";"Helsinki 1";"Kerrostalo kaksiot";8318;.;939
+"2021";"Helsinki 1";"Kerrostalo kolmiot+";8465;.;931
+"2021";"Helsinki 2";"Kerrostalo yksiöt";7241;.;1643
+"2021";"Helsinki 2";"Kerrostalo kaksiot";6437;.;2227
+"2021";"Helsinki 2";"Kerrostalo kolmiot+";6244;.;1584
+"2021";"Helsinki 3";"Kerrostalo yksiöt";...;.;282
+"2021";"Helsinki 3";"Kerrostalo kaksiot";4416;.;779
+"2021";"Helsinki 3";"Kerrostalo kolmiot+";4111;.;787
+"2021";"Helsinki 4";"Kerrostalo yksiöt";4259;.;368
+"2021";"Helsinki 4";"Kerrostalo kaksiot";3169;.;1135
+"2021";"Helsinki 4";"Kerrostalo kolmiot+";2796;.;1063
+"2021";"Espoo-Kauniainen";"Kerrostalo yksiöt";4952;.;502
+"2021";"Espoo-Kauniainen";"Kerrostalo kaksiot";4265;.;1472
+"2021";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3867;.;1599
+"2021";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";5900;.;161
+"2021";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";5294;.;473
+"2021";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";4959;.;533
+"2021";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";5135;.;167
+"2021";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";4387;.;474
+"2021";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";4059;.;448
+"2021";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";4003;.;174
+"2021";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";3253;.;525
+"2021";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";2830;.;618
+"2021";"Vantaa";"Kerrostalo yksiöt";3971;.;530
+"2021";"Vantaa";"Kerrostalo kaksiot";3095;.;1168
+"2021";"Vantaa";"Kerrostalo kolmiot+";2613;.;1048
+"2021";"Vantaa 1";"Kerrostalo yksiöt";5033;.;185
+"2021";"Vantaa 1";"Kerrostalo kaksiot";4141;.;306
+"2021";"Vantaa 1";"Kerrostalo kolmiot+";3663;.;272
+"2021";"Vantaa 2";"Kerrostalo yksiöt";3833;.;147
+"2021";"Vantaa 2";"Kerrostalo kaksiot";3164;.;274
+"2021";"Vantaa 2";"Kerrostalo kolmiot+";2804;.;249
+"2021";"Vantaa 3";"Kerrostalo yksiöt";3311;.;198
+"2021";"Vantaa 3";"Kerrostalo kaksiot";2458;.;588
+"2021";"Vantaa 3";"Kerrostalo kolmiot+";2087;.;527
+"2021";"Kehyskunnat";"Kerrostalo yksiöt";2562;.;607
+"2021";"Kehyskunnat";"Kerrostalo kaksiot";2192;.;1276
+"2021";"Kehyskunnat";"Kerrostalo kolmiot+";2074;.;1011
+"2021";"Porvoo";"Kerrostalo yksiöt";3248;.;94
+"2021";"Porvoo";"Kerrostalo kaksiot";2641;.;233
+"2021";"Porvoo";"Kerrostalo kolmiot+";2744;.;165
+"2021";"Hyvinkää";"Kerrostalo yksiöt";2018;.;99
+"2021";"Hyvinkää";"Kerrostalo kaksiot";1934;.;246
+"2021";"Hyvinkää";"Kerrostalo kolmiot+";1759;.;176
+"2021";"Järvenpää";"Kerrostalo yksiöt";3246;.;99
+"2021";"Järvenpää";"Kerrostalo kaksiot";2542;.;171
+"2021";"Järvenpää";"Kerrostalo kolmiot+";2455;.;160
+"2021";"Kerava";"Kerrostalo yksiöt";3141;.;89
+"2021";"Kerava";"Kerrostalo kaksiot";2481;.;229
+"2021";"Kerava";"Kerrostalo kolmiot+";2402;.;170
+"2021";"Varsinais-Suomi";"Kerrostalo yksiöt";3349;.;1109
+"2021";"Varsinais-Suomi";"Kerrostalo kaksiot";2456;.;2378
+"2021";"Varsinais-Suomi";"Kerrostalo kolmiot+";2245;.;1755
+"2021";"Turku";"Kerrostalo yksiöt";3947;.;700
+"2021";"Turku";"Kerrostalo kaksiot";2893;.;1477
+"2021";"Turku";"Kerrostalo kolmiot+";2511;.;1166
+"2021";"Turku 1";"Kerrostalo yksiöt";4579;.;409
+"2021";"Turku 1";"Kerrostalo kaksiot";3765;.;692
+"2021";"Turku 1";"Kerrostalo kolmiot+";3495;.;472
+"2021";"Turku 2";"Kerrostalo yksiöt";3671;.;138
+"2021";"Turku 2";"Kerrostalo kaksiot";2743;.;284
+"2021";"Turku 2";"Kerrostalo kolmiot+";2240;.;247
+"2021";"Turku 3";"Kerrostalo yksiöt";2161;.;153
+"2021";"Turku 3";"Kerrostalo kaksiot";1613;.;501
+"2021";"Turku 3";"Kerrostalo kolmiot+";1517;.;447
+"2021";"Satakunta";"Kerrostalo yksiöt";1568;.;352
+"2021";"Satakunta";"Kerrostalo kaksiot";1265;.;668
+"2021";"Satakunta";"Kerrostalo kolmiot+";1359;.;461
+"2021";"Pori";"Kerrostalo yksiöt";1691;.;228
+"2021";"Pori";"Kerrostalo kaksiot";1350;.;358
+"2021";"Pori";"Kerrostalo kolmiot+";1480;.;257
+"2021";"Pori 1";"Kerrostalo yksiöt";2136;.;158
+"2021";"Pori 1";"Kerrostalo kaksiot";1792;.;176
+"2021";"Pori 1";"Kerrostalo kolmiot+";1841;.;163
+"2021";"Pori 2";"Kerrostalo yksiöt";828;.;70
+"2021";"Pori 2";"Kerrostalo kaksiot";765;.;182
+"2021";"Pori 2";"Kerrostalo kolmiot+";823;.;94
+"2021";"Rauma";"Kerrostalo yksiöt";1658;.;84
+"2021";"Rauma";"Kerrostalo kaksiot";1363;.;171
+"2021";"Rauma";"Kerrostalo kolmiot+";1272;.;129
+"2021";"Kanta-Häme";"Kerrostalo yksiöt";1760;.;355
+"2021";"Kanta-Häme";"Kerrostalo kaksiot";1579;.;635
+"2021";"Kanta-Häme";"Kerrostalo kolmiot+";1480;.;446
+"2021";"Hämeenlinna";"Kerrostalo yksiöt";2121;.;188
+"2021";"Hämeenlinna";"Kerrostalo kaksiot";1861;.;310
+"2021";"Hämeenlinna";"Kerrostalo kolmiot+";1739;.;210
+"2021";"Hämeenlinna 1";"Kerrostalo yksiöt";2331;.;131
+"2021";"Hämeenlinna 1";"Kerrostalo kaksiot";2113;.;210
+"2021";"Hämeenlinna 1";"Kerrostalo kolmiot+";1945;.;143
+"2021";"Hämeenlinna 2";"Kerrostalo yksiöt";1627;.;57
+"2021";"Hämeenlinna 2";"Kerrostalo kaksiot";1342;.;100
+"2021";"Hämeenlinna 2";"Kerrostalo kolmiot+";1279;.;67
+"2021";"Riihimäki";"Kerrostalo yksiöt";1775;.;83
+"2021";"Riihimäki";"Kerrostalo kaksiot";1665;.;164
+"2021";"Riihimäki";"Kerrostalo kolmiot+";1448;.;133
+"2021";"Pirkanmaa";"Kerrostalo yksiöt";3422;.;1557
+"2021";"Pirkanmaa";"Kerrostalo kaksiot";2759;.;2932
+"2021";"Pirkanmaa";"Kerrostalo kolmiot+";2574;.;2066
+"2021";"Tampere";"Kerrostalo yksiöt";3928;.;1171
+"2021";"Tampere";"Kerrostalo kaksiot";3201;.;2127
+"2021";"Tampere";"Kerrostalo kolmiot+";3008;.;1449
+"2021";"Tampere 1";"Kerrostalo yksiöt";4562;.;636
+"2021";"Tampere 1";"Kerrostalo kaksiot";3989;.;1045
+"2021";"Tampere 1";"Kerrostalo kolmiot+";3935;.;684
+"2021";"Tampere 2";"Kerrostalo yksiöt";3422;.;332
+"2021";"Tampere 2";"Kerrostalo kaksiot";2852;.;600
+"2021";"Tampere 2";"Kerrostalo kolmiot+";2744;.;354
+"2021";"Tampere 3";"Kerrostalo yksiöt";2943;.;203
+"2021";"Tampere 3";"Kerrostalo kaksiot";1987;.;482
+"2021";"Tampere 3";"Kerrostalo kolmiot+";1719;.;411
+"2021";"Päijät-Häme";"Kerrostalo yksiöt";1848;.;556
+"2021";"Päijät-Häme";"Kerrostalo kaksiot";1585;.;991
+"2021";"Päijät-Häme";"Kerrostalo kolmiot+";1666;.;731
+"2021";"Lahti";"Kerrostalo yksiöt";2104;.;470
+"2021";"Lahti";"Kerrostalo kaksiot";1731;.;824
+"2021";"Lahti";"Kerrostalo kolmiot+";1789;.;597
+"2021";"Lahti 1";"Kerrostalo yksiöt";2658;.;183
+"2021";"Lahti 1";"Kerrostalo kaksiot";2435;.;308
+"2021";"Lahti 1";"Kerrostalo kolmiot+";2476;.;238
+"2021";"Lahti 2";"Kerrostalo yksiöt";1603;.;287
+"2021";"Lahti 2";"Kerrostalo kaksiot";1289;.;516
+"2021";"Lahti 2";"Kerrostalo kolmiot+";1276;.;359
+"2021";"Kymenlaakso";"Kerrostalo yksiöt";1152;.;387
+"2021";"Kymenlaakso";"Kerrostalo kaksiot";1126;.;719
+"2021";"Kymenlaakso";"Kerrostalo kolmiot+";1184;.;442
+"2021";"Kotka";"Kerrostalo yksiöt";1293;.;187
+"2021";"Kotka";"Kerrostalo kaksiot";1243;.;331
+"2021";"Kotka";"Kerrostalo kolmiot+";1286;.;212
+"2021";"Kotka 1";"Kerrostalo yksiöt";1690;.;86
+"2021";"Kotka 1";"Kerrostalo kaksiot";1564;.;155
+"2021";"Kotka 1";"Kerrostalo kolmiot+";1634;.;103
+"2021";"Kotka 2";"Kerrostalo yksiöt";949;.;101
+"2021";"Kotka 2";"Kerrostalo kaksiot";941;.;176
+"2021";"Kotka 2";"Kerrostalo kolmiot+";912;.;109
+"2021";"Kouvola";"Kerrostalo yksiöt";1005;.;168
+"2021";"Kouvola";"Kerrostalo kaksiot";1045;.;321
+"2021";"Kouvola";"Kerrostalo kolmiot+";1077;.;186
+"2021";"Etelä-Karjala";"Kerrostalo yksiöt";1711;.;371
+"2021";"Etelä-Karjala";"Kerrostalo kaksiot";1581;.;526
+"2021";"Etelä-Karjala";"Kerrostalo kolmiot+";1599;.;291
+"2021";"Lappeenranta";"Kerrostalo yksiöt";2239;.;288
+"2021";"Lappeenranta";"Kerrostalo kaksiot";1889;.;399
+"2021";"Lappeenranta";"Kerrostalo kolmiot+";1907;.;216
+"2021";"Lappeenranta 1";"Kerrostalo yksiöt";2737;.;132
+"2021";"Lappeenranta 1";"Kerrostalo kaksiot";2439;.;243
+"2021";"Lappeenranta 1";"Kerrostalo kolmiot+";2548;.;128
+"2021";"Lappeenranta 2";"Kerrostalo yksiöt";1373;.;156
+"2021";"Lappeenranta 2";"Kerrostalo kaksiot";1159;.;156
+"2021";"Lappeenranta 2";"Kerrostalo kolmiot+";1035;.;88
+"2021";"Etelä-Savo";"Kerrostalo yksiöt";1403;.;218
+"2021";"Etelä-Savo";"Kerrostalo kaksiot";1285;.;517
+"2021";"Etelä-Savo";"Kerrostalo kolmiot+";1280;.;282
+"2021";"Mikkeli";"Kerrostalo yksiöt";1987;.;91
+"2021";"Mikkeli";"Kerrostalo kaksiot";1731;.;231
+"2021";"Mikkeli";"Kerrostalo kolmiot+";1549;.;140
+"2021";"Pohjois-Savo";"Kerrostalo yksiöt";2034;.;407
+"2021";"Pohjois-Savo";"Kerrostalo kaksiot";1751;.;1021
+"2021";"Pohjois-Savo";"Kerrostalo kolmiot+";1820;.;667
+"2021";"Kuopio";"Kerrostalo yksiöt";2659;.;282
+"2021";"Kuopio";"Kerrostalo kaksiot";2140;.;767
+"2021";"Kuopio";"Kerrostalo kolmiot+";2068;.;505
+"2021";"Kuopio 1";"Kerrostalo yksiöt";3134;.;194
+"2021";"Kuopio 1";"Kerrostalo kaksiot";2614;.;441
+"2021";"Kuopio 1";"Kerrostalo kolmiot+";2652;.;319
+"2021";"Kuopio 2";"Kerrostalo yksiöt";1885;.;88
+"2021";"Kuopio 2";"Kerrostalo kaksiot";1619;.;326
+"2021";"Kuopio 2";"Kerrostalo kolmiot+";1445;.;186
+"2021";"Pohjois-Karjala";"Kerrostalo yksiöt";2067;.;207
+"2021";"Pohjois-Karjala";"Kerrostalo kaksiot";1739;.;435
+"2021";"Pohjois-Karjala";"Kerrostalo kolmiot+";1567;.;248
+"2021";"Joensuu";"Kerrostalo yksiöt";2568;.;144
+"2021";"Joensuu";"Kerrostalo kaksiot";2094;.;337
+"2021";"Joensuu";"Kerrostalo kolmiot+";1841;.;197
+"2021";"Joensuu 1";"Kerrostalo yksiöt";2649;.;115
+"2021";"Joensuu 1";"Kerrostalo kaksiot";2246;.;270
+"2021";"Joensuu 1";"Kerrostalo kolmiot+";1973;.;158
+"2021";"Joensuu 2";"Kerrostalo yksiöt";2180;.;29
+"2021";"Joensuu 2";"Kerrostalo kaksiot";1663;.;67
+"2021";"Joensuu 2";"Kerrostalo kolmiot+";1352;.;39
+"2021";"Keski-Suomi";"Kerrostalo yksiöt";2236;.;581
+"2021";"Keski-Suomi";"Kerrostalo kaksiot";1758;.;1154
+"2021";"Keski-Suomi";"Kerrostalo kolmiot+";1745;.;722
+"2021";"Jyväskylä";"Kerrostalo yksiöt";2650;.;479
+"2021";"Jyväskylä";"Kerrostalo kaksiot";2060;.;940
+"2021";"Jyväskylä";"Kerrostalo kolmiot+";1976;.;602
+"2021";"Jyväskylä 1";"Kerrostalo yksiöt";3233;.;195
+"2021";"Jyväskylä 1";"Kerrostalo kaksiot";2674;.;421
+"2021";"Jyväskylä 1";"Kerrostalo kolmiot+";2515;.;223
+"2021";"Jyväskylä 2";"Kerrostalo yksiöt";2034;.;284
+"2021";"Jyväskylä 2";"Kerrostalo kaksiot";1538;.;519
+"2021";"Jyväskylä 2";"Kerrostalo kolmiot+";1554;.;379
+"2021";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";2148;.;130
+"2021";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1825;.;304
+"2021";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1591;.;182
+"2021";"Seinäjoki";"Kerrostalo yksiöt";2580;.;102
+"2021";"Seinäjoki";"Kerrostalo kaksiot";2030;.;239
+"2021";"Seinäjoki";"Kerrostalo kolmiot+";1772;.;142
+"2021";"Pohjanmaa";"Kerrostalo yksiöt";2306;.;321
+"2021";"Pohjanmaa";"Kerrostalo kaksiot";1837;.;611
+"2021";"Pohjanmaa";"Kerrostalo kolmiot+";1788;.;402
+"2021";"Vaasa";"Kerrostalo yksiöt";2538;.;258
+"2021";"Vaasa";"Kerrostalo kaksiot";2087;.;443
+"2021";"Vaasa";"Kerrostalo kolmiot+";1991;.;298
+"2021";"Vaasa 1";"Kerrostalo yksiöt";2814;.;209
+"2021";"Vaasa 1";"Kerrostalo kaksiot";2377;.;321
+"2021";"Vaasa 1";"Kerrostalo kolmiot+";2313;.;210
+"2021";"Vaasa 2";"Kerrostalo yksiöt";1279;.;49
+"2021";"Vaasa 2";"Kerrostalo kaksiot";1133;.;122
+"2021";"Vaasa 2";"Kerrostalo kolmiot+";1140;.;88
+"2021";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2225;.;67
+"2021";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1764;.;116
+"2021";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1597;.;108
+"2021";"Kokkola";"Kerrostalo yksiöt";2316;.;64
+"2021";"Kokkola";"Kerrostalo kaksiot";1786;.;111
+"2021";"Kokkola";"Kerrostalo kolmiot+";1617;.;103
+"2021";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2651;.;799
+"2021";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";2134;.;1314
+"2021";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";2033;.;980
+"2021";"Oulu";"Kerrostalo yksiöt";2858;.;696
+"2021";"Oulu";"Kerrostalo kaksiot";2284;.;1100
+"2021";"Oulu";"Kerrostalo kolmiot+";2139;.;850
+"2021";"Oulu 1";"Kerrostalo yksiöt";3073;.;277
+"2021";"Oulu 1";"Kerrostalo kaksiot";2644;.;475
+"2021";"Oulu 1";"Kerrostalo kolmiot+";2572;.;360
+"2021";"Oulu 2";"Kerrostalo yksiöt";2633;.;419
+"2021";"Oulu 2";"Kerrostalo kaksiot";1934;.;625
+"2021";"Oulu 2";"Kerrostalo kolmiot+";1700;.;490
+"2021";"Kainuu";"Kerrostalo yksiöt";1437;.;121
+"2021";"Kainuu";"Kerrostalo kaksiot";1259;.;258
+"2021";"Kainuu";"Kerrostalo kolmiot+";1176;.;149
+"2021";"Kajaani";"Kerrostalo yksiöt";1623;.;77
+"2021";"Kajaani";"Kerrostalo kaksiot";1260;.;174
+"2021";"Kajaani";"Kerrostalo kolmiot+";1194;.;124
+"2021";"Lappi";"Kerrostalo yksiöt";1745;.;301
+"2021";"Lappi";"Kerrostalo kaksiot";1526;.;630
+"2021";"Lappi";"Kerrostalo kolmiot+";1413;.;420
+"2021";"Rovaniemi";"Kerrostalo yksiöt";2235;.;163
+"2021";"Rovaniemi";"Kerrostalo kaksiot";2019;.;286
+"2021";"Rovaniemi";"Kerrostalo kolmiot+";1756;.;224
+"2022";"Koko maa";"Kerrostalo yksiöt";3748;.;11070
+"2022";"Koko maa";"Kerrostalo kaksiot";2906;.;21511
+"2022";"Koko maa";"Kerrostalo kolmiot+";3079;.;16509
+"2022";"Pääkaupunkiseutu (PKS)";"Kerrostalo yksiöt";6273;.;3450
+"2022";"Pääkaupunkiseutu (PKS)";"Kerrostalo kaksiot";5078;.;6472
+"2022";"Pääkaupunkiseutu (PKS)";"Kerrostalo kolmiot+";4961;.;6009
+"2022";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo yksiöt";2471;.;7538
+"2022";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kaksiot";1990;.;15011
+"2022";"Koko maa ilman pääkaupunkiseutua";"Kerrostalo kolmiot+";1958;.;10494
+"2022";"Suuret kaupungit (yhteensä)";"Kerrostalo yksiöt";5344;.;5863
+"2022";"Suuret kaupungit (yhteensä)";"Kerrostalo kaksiot";4291;.;10706
+"2022";"Suuret kaupungit (yhteensä)";"Kerrostalo kolmiot+";4259;.;9097
+"2022";"Koko maa ilman suuria kaupunkeja";"Kerrostalo yksiöt";1924;.;5125
+"2022";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kaksiot";1650;.;10777
+"2022";"Koko maa ilman suuria kaupunkeja";"Kerrostalo kolmiot+";1667;.;7406
+"2022";"Uusimaa";"Kerrostalo yksiöt";5727;.;4222
+"2022";"Uusimaa";"Kerrostalo kaksiot";4518;.;7955
+"2022";"Uusimaa";"Kerrostalo kolmiot+";4567;.;7069
+"2022";"Helsinki";"Kerrostalo yksiöt";6945;.;2564
+"2022";"Helsinki";"Kerrostalo kaksiot";5827;.;4407
+"2022";"Helsinki";"Kerrostalo kolmiot+";5809;.;3864
+"2022";"Helsinki 1";"Kerrostalo yksiöt";...;.;606
+"2022";"Helsinki 1";"Kerrostalo kaksiot";8322;.;709
+"2022";"Helsinki 1";"Kerrostalo kolmiot+";8388;.;719
+"2022";"Helsinki 2";"Kerrostalo yksiöt";7063;.;1354
+"2022";"Helsinki 2";"Kerrostalo kaksiot";6503;.;1909
+"2022";"Helsinki 2";"Kerrostalo kolmiot+";6379;.;1464
+"2022";"Helsinki 3";"Kerrostalo yksiöt";...;.;267
+"2022";"Helsinki 3";"Kerrostalo kaksiot";4415;.;677
+"2022";"Helsinki 3";"Kerrostalo kolmiot+";4311;.;653
+"2022";"Helsinki 4";"Kerrostalo yksiöt";4132;.;337
+"2022";"Helsinki 4";"Kerrostalo kaksiot";3154;.;1112
+"2022";"Helsinki 4";"Kerrostalo kolmiot+";2878;.;1028
+"2022";"Espoo-Kauniainen";"Kerrostalo yksiöt";4784;.;451
+"2022";"Espoo-Kauniainen";"Kerrostalo kaksiot";4312;.;1056
+"2022";"Espoo-Kauniainen";"Kerrostalo kolmiot+";3991;.;1200
+"2022";"Espoo-Kauniainen 1";"Kerrostalo yksiöt";5891;.;107
+"2022";"Espoo-Kauniainen 1";"Kerrostalo kaksiot";5383;.;327
+"2022";"Espoo-Kauniainen 1";"Kerrostalo kolmiot+";5059;.;395
+"2022";"Espoo-Kauniainen 2";"Kerrostalo yksiöt";4735;.;137
+"2022";"Espoo-Kauniainen 2";"Kerrostalo kaksiot";4324;.;371
+"2022";"Espoo-Kauniainen 2";"Kerrostalo kolmiot+";3977;.;338
+"2022";"Espoo-Kauniainen 3";"Kerrostalo yksiöt";3871;.;207
+"2022";"Espoo-Kauniainen 3";"Kerrostalo kaksiot";3362;.;358
+"2022";"Espoo-Kauniainen 3";"Kerrostalo kolmiot+";3109;.;467
+"2022";"Vantaa";"Kerrostalo yksiöt";4015;.;435
+"2022";"Vantaa";"Kerrostalo kaksiot";3165;.;1009
+"2022";"Vantaa";"Kerrostalo kolmiot+";2710;.;945
+"2022";"Vantaa 1";"Kerrostalo yksiöt";5376;.;165
+"2022";"Vantaa 1";"Kerrostalo kaksiot";4286;.;330
+"2022";"Vantaa 1";"Kerrostalo kolmiot+";3773;.;299
+"2022";"Vantaa 2";"Kerrostalo yksiöt";3957;.;124
+"2022";"Vantaa 2";"Kerrostalo kaksiot";3211;.;256
+"2022";"Vantaa 2";"Kerrostalo kolmiot+";2785;.;217
+"2022";"Vantaa 3";"Kerrostalo yksiöt";3112;.;146
+"2022";"Vantaa 3";"Kerrostalo kaksiot";2496;.;423
+"2022";"Vantaa 3";"Kerrostalo kolmiot+";2216;.;429
+"2022";"Kehyskunnat";"Kerrostalo yksiöt";2782;.;628
+"2022";"Kehyskunnat";"Kerrostalo kaksiot";2165;.;1074
+"2022";"Kehyskunnat";"Kerrostalo kolmiot+";2098;.;763
+"2022";"Porvoo";"Kerrostalo yksiöt";3239;.;60
+"2022";"Porvoo";"Kerrostalo kaksiot";2783;.;193
+"2022";"Porvoo";"Kerrostalo kolmiot+";2724;.;152
+"2022";"Hyvinkää";"Kerrostalo yksiöt";2021;.;115
+"2022";"Hyvinkää";"Kerrostalo kaksiot";1951;.;217
+"2022";"Hyvinkää";"Kerrostalo kolmiot+";1819;.;166
+"2022";"Järvenpää";"Kerrostalo yksiöt";3200;.;72
+"2022";"Järvenpää";"Kerrostalo kaksiot";2667;.;155
+"2022";"Järvenpää";"Kerrostalo kolmiot+";2525;.;112
+"2022";"Kerava";"Kerrostalo yksiöt";3335;.;134
+"2022";"Kerava";"Kerrostalo kaksiot";2352;.;179
+"2022";"Kerava";"Kerrostalo kolmiot+";2263;.;132
+"2022";"Varsinais-Suomi";"Kerrostalo yksiöt";3395;.;933
+"2022";"Varsinais-Suomi";"Kerrostalo kaksiot";2532;.;1931
+"2022";"Varsinais-Suomi";"Kerrostalo kolmiot+";2321;.;1473
+"2022";"Turku";"Kerrostalo yksiöt";3975;.;648
+"2022";"Turku";"Kerrostalo kaksiot";3016;.;1201
+"2022";"Turku";"Kerrostalo kolmiot+";2613;.;1048
+"2022";"Turku 1";"Kerrostalo yksiöt";4709;.;412
+"2022";"Turku 1";"Kerrostalo kaksiot";3956;.;621
+"2022";"Turku 1";"Kerrostalo kolmiot+";3664;.;444
+"2022";"Turku 2";"Kerrostalo yksiöt";3496;.;121
+"2022";"Turku 2";"Kerrostalo kaksiot";2770;.;214
+"2022";"Turku 2";"Kerrostalo kolmiot+";2265;.;215
+"2022";"Turku 3";"Kerrostalo yksiöt";2040;.;115
+"2022";"Turku 3";"Kerrostalo kaksiot";1681;.;366
+"2022";"Turku 3";"Kerrostalo kolmiot+";1578;.;389
+"2022";"Satakunta";"Kerrostalo yksiöt";1658;.;270
+"2022";"Satakunta";"Kerrostalo kaksiot";1302;.;614
+"2022";"Satakunta";"Kerrostalo kolmiot+";1416;.;459
+"2022";"Pori";"Kerrostalo yksiöt";1752;.;162
+"2022";"Pori";"Kerrostalo kaksiot";1324;.;288
+"2022";"Pori";"Kerrostalo kolmiot+";1487;.;234
+"2022";"Pori 1";"Kerrostalo yksiöt";2279;.;100
+"2022";"Pori 1";"Kerrostalo kaksiot";1757;.;162
+"2022";"Pori 1";"Kerrostalo kolmiot+";1801;.;147
+"2022";"Pori 2";"Kerrostalo yksiöt";728;.;62
+"2022";"Pori 2";"Kerrostalo kaksiot";751;.;126
+"2022";"Pori 2";"Kerrostalo kolmiot+";916;.;87
+"2022";"Rauma";"Kerrostalo yksiöt";1686;.;65
+"2022";"Rauma";"Kerrostalo kaksiot";1490;.;174
+"2022";"Rauma";"Kerrostalo kolmiot+";1379;.;134
+"2022";"Kanta-Häme";"Kerrostalo yksiöt";1741;.;329
+"2022";"Kanta-Häme";"Kerrostalo kaksiot";1543;.;710
+"2022";"Kanta-Häme";"Kerrostalo kolmiot+";1537;.;439
+"2022";"Hämeenlinna";"Kerrostalo yksiöt";2061;.;203
+"2022";"Hämeenlinna";"Kerrostalo kaksiot";1878;.;377
+"2022";"Hämeenlinna";"Kerrostalo kolmiot+";1880;.;246
+"2022";"Hämeenlinna 1";"Kerrostalo yksiöt";2254;.;130
+"2022";"Hämeenlinna 1";"Kerrostalo kaksiot";2155;.;281
+"2022";"Hämeenlinna 1";"Kerrostalo kolmiot+";2164;.;167
+"2022";"Hämeenlinna 2";"Kerrostalo yksiöt";1609;.;73
+"2022";"Hämeenlinna 2";"Kerrostalo kaksiot";1305;.;96
+"2022";"Hämeenlinna 2";"Kerrostalo kolmiot+";1245;.;79
+"2022";"Riihimäki";"Kerrostalo yksiöt";1877;.;64
+"2022";"Riihimäki";"Kerrostalo kaksiot";1529;.;178
+"2022";"Riihimäki";"Kerrostalo kolmiot+";1474;.;100
+"2022";"Pirkanmaa";"Kerrostalo yksiöt";3503;.;1334
+"2022";"Pirkanmaa";"Kerrostalo kaksiot";2858;.;2494
+"2022";"Pirkanmaa";"Kerrostalo kolmiot+";2693;.;1711
+"2022";"Tampere";"Kerrostalo yksiöt";4011;.;1005
+"2022";"Tampere";"Kerrostalo kaksiot";3330;.;1802
+"2022";"Tampere";"Kerrostalo kolmiot+";3131;.;1190
+"2022";"Tampere 1";"Kerrostalo yksiöt";4758;.;474
+"2022";"Tampere 1";"Kerrostalo kaksiot";4121;.;737
+"2022";"Tampere 1";"Kerrostalo kolmiot+";4154;.;513
+"2022";"Tampere 2";"Kerrostalo yksiöt";3324;.;290
+"2022";"Tampere 2";"Kerrostalo kaksiot";2987;.;604
+"2022";"Tampere 2";"Kerrostalo kolmiot+";2766;.;355
+"2022";"Tampere 3";"Kerrostalo yksiöt";2971;.;241
+"2022";"Tampere 3";"Kerrostalo kaksiot";2105;.;461
+"2022";"Tampere 3";"Kerrostalo kolmiot+";1756;.;322
+"2022";"Päijät-Häme";"Kerrostalo yksiöt";1774;.;431
+"2022";"Päijät-Häme";"Kerrostalo kaksiot";1531;.;933
+"2022";"Päijät-Häme";"Kerrostalo kolmiot+";1627;.;680
+"2022";"Lahti";"Kerrostalo yksiöt";2055;.;328
+"2022";"Lahti";"Kerrostalo kaksiot";1661;.;743
+"2022";"Lahti";"Kerrostalo kolmiot+";1760;.;549
+"2022";"Lahti 1";"Kerrostalo yksiöt";2619;.;145
+"2022";"Lahti 1";"Kerrostalo kaksiot";2447;.;310
+"2022";"Lahti 1";"Kerrostalo kolmiot+";2435;.;254
+"2022";"Lahti 2";"Kerrostalo yksiöt";1545;.;183
+"2022";"Lahti 2";"Kerrostalo kaksiot";1167;.;433
+"2022";"Lahti 2";"Kerrostalo kolmiot+";1255;.;295
+"2022";"Kymenlaakso";"Kerrostalo yksiöt";1140;.;280
+"2022";"Kymenlaakso";"Kerrostalo kaksiot";1177;.;606
+"2022";"Kymenlaakso";"Kerrostalo kolmiot+";1202;.;365
+"2022";"Kotka";"Kerrostalo yksiöt";1289;.;140
+"2022";"Kotka";"Kerrostalo kaksiot";1231;.;282
+"2022";"Kotka";"Kerrostalo kolmiot+";1352;.;156
+"2022";"Kotka 1";"Kerrostalo yksiöt";1785;.;53
+"2022";"Kotka 1";"Kerrostalo kaksiot";1553;.;136
+"2022";"Kotka 1";"Kerrostalo kolmiot+";1715;.;76
+"2022";"Kotka 2";"Kerrostalo yksiöt";859;.;87
+"2022";"Kotka 2";"Kerrostalo kaksiot";930;.;146
+"2022";"Kotka 2";"Kerrostalo kolmiot+";963;.;80
+"2022";"Kouvola";"Kerrostalo yksiöt";1018;.;107
+"2022";"Kouvola";"Kerrostalo kaksiot";1148;.;249
+"2022";"Kouvola";"Kerrostalo kolmiot+";1104;.;153
+"2022";"Etelä-Karjala";"Kerrostalo yksiöt";1644;.;234
+"2022";"Etelä-Karjala";"Kerrostalo kaksiot";1577;.;398
+"2022";"Etelä-Karjala";"Kerrostalo kolmiot+";1577;.;250
+"2022";"Lappeenranta";"Kerrostalo yksiöt";2186;.;158
+"2022";"Lappeenranta";"Kerrostalo kaksiot";1934;.;299
+"2022";"Lappeenranta";"Kerrostalo kolmiot+";1864;.;187
+"2022";"Lappeenranta 1";"Kerrostalo yksiöt";2717;.;100
+"2022";"Lappeenranta 1";"Kerrostalo kaksiot";2546;.;168
+"2022";"Lappeenranta 1";"Kerrostalo kolmiot+";2416;.;108
+"2022";"Lappeenranta 2";"Kerrostalo yksiöt";1261;.;58
+"2022";"Lappeenranta 2";"Kerrostalo kaksiot";1119;.;131
+"2022";"Lappeenranta 2";"Kerrostalo kolmiot+";1120;.;79
+"2022";"Etelä-Savo";"Kerrostalo yksiöt";1329;.;212
+"2022";"Etelä-Savo";"Kerrostalo kaksiot";1231;.;408
+"2022";"Etelä-Savo";"Kerrostalo kolmiot+";1326;.;292
+"2022";"Mikkeli";"Kerrostalo yksiöt";1844;.;91
+"2022";"Mikkeli";"Kerrostalo kaksiot";1535;.;167
+"2022";"Mikkeli";"Kerrostalo kolmiot+";1492;.;144
+"2022";"Pohjois-Savo";"Kerrostalo yksiöt";2011;.;365
+"2022";"Pohjois-Savo";"Kerrostalo kaksiot";1769;.;925
+"2022";"Pohjois-Savo";"Kerrostalo kolmiot+";1803;.;556
+"2022";"Kuopio";"Kerrostalo yksiöt";2691;.;228
+"2022";"Kuopio";"Kerrostalo kaksiot";2202;.;613
+"2022";"Kuopio";"Kerrostalo kolmiot+";2052;.;421
+"2022";"Kuopio 1";"Kerrostalo yksiöt";3277;.;146
+"2022";"Kuopio 1";"Kerrostalo kaksiot";2709;.;368
+"2022";"Kuopio 1";"Kerrostalo kolmiot+";2536;.;236
+"2022";"Kuopio 2";"Kerrostalo yksiöt";1737;.;82
+"2022";"Kuopio 2";"Kerrostalo kaksiot";1645;.;245
+"2022";"Kuopio 2";"Kerrostalo kolmiot+";1535;.;185
+"2022";"Pohjois-Karjala";"Kerrostalo yksiöt";2109;.;199
+"2022";"Pohjois-Karjala";"Kerrostalo kaksiot";1696;.;400
+"2022";"Pohjois-Karjala";"Kerrostalo kolmiot+";1585;.;254
+"2022";"Joensuu";"Kerrostalo yksiöt";2644;.;147
+"2022";"Joensuu";"Kerrostalo kaksiot";2092;.;293
+"2022";"Joensuu";"Kerrostalo kolmiot+";1795;.;201
+"2022";"Joensuu 1";"Kerrostalo yksiöt";2712;.;123
+"2022";"Joensuu 1";"Kerrostalo kaksiot";2331;.;226
+"2022";"Joensuu 1";"Kerrostalo kolmiot+";1946;.;162
+"2022";"Joensuu 2";"Kerrostalo yksiöt";2315;.;24
+"2022";"Joensuu 2";"Kerrostalo kaksiot";1416;.;67
+"2022";"Joensuu 2";"Kerrostalo kolmiot+";1225;.;39
+"2022";"Keski-Suomi";"Kerrostalo yksiöt";2105;.;554
+"2022";"Keski-Suomi";"Kerrostalo kaksiot";1758;.;1144
+"2022";"Keski-Suomi";"Kerrostalo kolmiot+";1780;.;709
+"2022";"Jyväskylä";"Kerrostalo yksiöt";2508;.;461
+"2022";"Jyväskylä";"Kerrostalo kaksiot";2045;.;927
+"2022";"Jyväskylä";"Kerrostalo kolmiot+";1999;.;587
+"2022";"Jyväskylä 1";"Kerrostalo yksiöt";3107;.;197
+"2022";"Jyväskylä 1";"Kerrostalo kaksiot";2649;.;422
+"2022";"Jyväskylä 1";"Kerrostalo kolmiot+";2589;.;260
+"2022";"Jyväskylä 2";"Kerrostalo yksiöt";1874;.;264
+"2022";"Jyväskylä 2";"Kerrostalo kaksiot";1532;.;505
+"2022";"Jyväskylä 2";"Kerrostalo kolmiot+";1537;.;327
+"2022";"Etelä-Pohjanmaa";"Kerrostalo yksiöt";2242;.;107
+"2022";"Etelä-Pohjanmaa";"Kerrostalo kaksiot";1927;.;286
+"2022";"Etelä-Pohjanmaa";"Kerrostalo kolmiot+";1794;.;204
+"2022";"Seinäjoki";"Kerrostalo yksiöt";2733;.;85
+"2022";"Seinäjoki";"Kerrostalo kaksiot";2223;.;231
+"2022";"Seinäjoki";"Kerrostalo kolmiot+";2069;.;166
+"2022";"Pohjanmaa";"Kerrostalo yksiöt";2311;.;258
+"2022";"Pohjanmaa";"Kerrostalo kaksiot";1863;.;472
+"2022";"Pohjanmaa";"Kerrostalo kolmiot+";1808;.;444
+"2022";"Vaasa";"Kerrostalo yksiöt";2546;.;194
+"2022";"Vaasa";"Kerrostalo kaksiot";2087;.;341
+"2022";"Vaasa";"Kerrostalo kolmiot+";2014;.;318
+"2022";"Vaasa 1";"Kerrostalo yksiöt";2780;.;150
+"2022";"Vaasa 1";"Kerrostalo kaksiot";2389;.;254
+"2022";"Vaasa 1";"Kerrostalo kolmiot+";2303;.;232
+"2022";"Vaasa 2";"Kerrostalo yksiöt";1624;.;44
+"2022";"Vaasa 2";"Kerrostalo kaksiot";1095;.;87
+"2022";"Vaasa 2";"Kerrostalo kolmiot+";1248;.;86
+"2022";"Keski-Pohjanmaa";"Kerrostalo yksiöt";2302;.;57
+"2022";"Keski-Pohjanmaa";"Kerrostalo kaksiot";1790;.;163
+"2022";"Keski-Pohjanmaa";"Kerrostalo kolmiot+";1630;.;117
+"2022";"Kokkola";"Kerrostalo yksiöt";2393;.;50
+"2022";"Kokkola";"Kerrostalo kaksiot";1841;.;158
+"2022";"Kokkola";"Kerrostalo kolmiot+";1653;.;114
+"2022";"Pohjois-Pohjanmaa";"Kerrostalo yksiöt";2736;.;855
+"2022";"Pohjois-Pohjanmaa";"Kerrostalo kaksiot";2181;.;1383
+"2022";"Pohjois-Pohjanmaa";"Kerrostalo kolmiot+";2143;.;979
+"2022";"Oulu";"Kerrostalo yksiöt";2960;.;760
+"2022";"Oulu";"Kerrostalo kaksiot";2333;.;1231
+"2022";"Oulu";"Kerrostalo kolmiot+";2232;.;850
+"2022";"Oulu 1";"Kerrostalo yksiöt";3297;.;448
+"2022";"Oulu 1";"Kerrostalo kaksiot";2843;.;644
+"2022";"Oulu 1";"Kerrostalo kolmiot+";2704;.;384
+"2022";"Oulu 2";"Kerrostalo yksiöt";2610;.;312
+"2022";"Oulu 2";"Kerrostalo kaksiot";1835;.;587
+"2022";"Oulu 2";"Kerrostalo kolmiot+";1755;.;466
+"2022";"Kainuu";"Kerrostalo yksiöt";1445;.;112
+"2022";"Kainuu";"Kerrostalo kaksiot";1188;.;188
+"2022";"Kainuu";"Kerrostalo kolmiot+";1287;.;136
+"2022";"Kajaani";"Kerrostalo yksiöt";1591;.;82
+"2022";"Kajaani";"Kerrostalo kaksiot";1224;.;143
+"2022";"Kajaani";"Kerrostalo kolmiot+";1295;.;114
+"2022";"Lappi";"Kerrostalo yksiöt";1725;.;236
+"2022";"Lappi";"Kerrostalo kaksiot";1478;.;473
+"2022";"Lappi";"Kerrostalo kolmiot+";1463;.;366
+"2022";"Rovaniemi";"Kerrostalo yksiöt";2141;.;144
+"2022";"Rovaniemi";"Kerrostalo kaksiot";1873;.;259
+"2022";"Rovaniemi";"Kerrostalo kolmiot+";1769;.;199

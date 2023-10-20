@@ -1,0 +1,2017 @@
+"Vuosi";"Alue";"Huoneluku";"Rahoitusmuoto";"Lukumäärä";"Neliövuokra (eur/m2)"
+"2015";"Koko maa";"Yksiöt";"Vapaarahoitteinen";172192;16.38
+"2015";"Koko maa";"Kaksiot";"Vapaarahoitteinen";175484;11.76
+"2015";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";66615;11.27
+"2015";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";47530;22.07
+"2015";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";49504;15.58
+"2015";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";24959;14.40
+"2015";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";124662;14.15
+"2015";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";125980;10.45
+"2015";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";41656;9.87
+"2015";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";55709;20.89
+"2015";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";60086;14.71
+"2015";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";29209;13.74
+"2015";"Helsinki";"Yksiöt";"Vapaarahoitteinen";34702;22.97
+"2015";"Helsinki";"Kaksiot";"Vapaarahoitteinen";27355;15.97
+"2015";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";11993;14.78
+"2015";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";6386;23.65
+"2015";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";3765;16.69
+"2015";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1136;15.68
+"2015";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";17703;23.40
+"2015";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";11536;15.97
+"2015";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";3384;14.84
+"2015";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";3539;23.95
+"2015";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";3229;15.75
+"2015";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";1382;14.53
+"2015";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";7074;20.26
+"2015";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";8825;15.54
+"2015";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";6091;14.25
+"2015";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";6202;19.74
+"2015";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";9814;14.89
+"2015";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";5859;13.78
+"2015";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";1538;20.91
+"2015";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";1701;14.52
+"2015";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1133;13.69
+"2015";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";1977;20.13
+"2015";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";3552;15.69
+"2015";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";1769;14.61
+"2015";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";2687;18.61
+"2015";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";4561;14.27
+"2015";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";2957;13.29
+"2015";"Vantaa";"Yksiöt";"Vapaarahoitteinen";6626;18.73
+"2015";"Vantaa";"Kaksiot";"Vapaarahoitteinen";12335;14.87
+"2015";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";7107;14.01
+"2015";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";1139;19.44
+"2015";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";2773;15.88
+"2015";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";1413;15.19
+"2015";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";5487;18.45
+"2015";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";9562;14.34
+"2015";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";5694;13.40
+"2015";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";6252;16.03
+"2015";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";7802;12.23
+"2015";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";3260;11.67
+"2015";"Porvoo";"Yksiöt";"Vapaarahoitteinen";1363;16.14
+"2015";"Porvoo";"Kaksiot";"Vapaarahoitteinen";1831;11.60
+"2015";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";660;11.20
+"2015";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1320;16.55
+"2015";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";1168;12.37
+"2015";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";316;12.51
+"2015";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1134;16.94
+"2015";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";1480;12.36
+"2015";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";583;11.67
+"2015";"Kerava";"Yksiöt";"Vapaarahoitteinen";1057;17.21
+"2015";"Kerava";"Kaksiot";"Vapaarahoitteinen";1866;12.94
+"2015";"Kerava";"Kolmiot+";"Vapaarahoitteinen";885;12.21
+"2015";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";17362;14.31
+"2015";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";14512;10.21
+"2015";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";4858;9.49
+"2015";"Turku";"Yksiöt";"Vapaarahoitteinen";14256;15.27
+"2015";"Turku";"Kaksiot";"Vapaarahoitteinen";11337;10.59
+"2015";"Turku";"Kolmiot+";"Vapaarahoitteinen";3473;9.75
+"2015";"Turku 1";"Yksiöt";"Vapaarahoitteinen";8820;15.94
+"2015";"Turku 1";"Kaksiot";"Vapaarahoitteinen";6280;10.98
+"2015";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1478;10.07
+"2015";"Turku 2";"Yksiöt";"Vapaarahoitteinen";2300;15.42
+"2015";"Turku 2";"Kaksiot";"Vapaarahoitteinen";1439;10.48
+"2015";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";309;8.86
+"2015";"Turku 3";"Yksiöt";"Vapaarahoitteinen";3136;13.49
+"2015";"Turku 3";"Kaksiot";"Vapaarahoitteinen";3618;10.03
+"2015";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";1686;9.61
+"2015";"Satakunta";"Yksiöt";"Vapaarahoitteinen";5587;12.51
+"2015";"Satakunta";"Kaksiot";"Vapaarahoitteinen";6108;9.20
+"2015";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";2129;8.61
+"2015";"Pori";"Yksiöt";"Vapaarahoitteinen";3530;13.13
+"2015";"Pori";"Kaksiot";"Vapaarahoitteinen";3826;9.56
+"2015";"Pori";"Kolmiot+";"Vapaarahoitteinen";1320;8.88
+"2015";"Pori 1";"Yksiöt";"Vapaarahoitteinen";2236;13.80
+"2015";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1939;10.14
+"2015";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";723;9.19
+"2015";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1294;12.20
+"2015";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1887;9.05
+"2015";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";597;8.56
+"2015";"Rauma";"Yksiöt";"Vapaarahoitteinen";1160;12.29
+"2015";"Rauma";"Kaksiot";"Vapaarahoitteinen";1261;9.02
+"2015";"Rauma";"Kolmiot+";"Vapaarahoitteinen";415;8.50
+"2015";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";4983;13.90
+"2015";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";4660;11.09
+"2015";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1625;10.58
+"2015";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";2362;15.13
+"2015";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";2461;11.80
+"2015";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";856;11.13
+"2015";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";1531;16.00
+"2015";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";1298;12.22
+"2015";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";320;11.93
+"2015";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";831;13.94
+"2015";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1163;11.32
+"2015";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";536;10.58
+"2015";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1300;14.18
+"2015";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";1147;10.80
+"2015";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";420;10.46
+"2015";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";21743;15.51
+"2015";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";19561;11.17
+"2015";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";6461;10.55
+"2015";"Tampere";"Yksiöt";"Vapaarahoitteinen";17996;16.44
+"2015";"Tampere";"Kaksiot";"Vapaarahoitteinen";16266;11.65
+"2015";"Tampere";"Kolmiot+";"Vapaarahoitteinen";5084;10.99
+"2015";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";9209;16.87
+"2015";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";6111;11.60
+"2015";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1414;11.22
+"2015";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";2403;15.72
+"2015";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";3624;12.27
+"2015";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1156;10.95
+"2015";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";6384;15.96
+"2015";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";6531;11.41
+"2015";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2514;10.80
+"2015";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";8352;14.16
+"2015";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";8130;11.13
+"2015";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";2339;10.21
+"2015";"Lahti";"Yksiöt";"Vapaarahoitteinen";6603;15.20
+"2015";"Lahti";"Kaksiot";"Vapaarahoitteinen";6526;11.67
+"2015";"Lahti";"Kolmiot+";"Vapaarahoitteinen";1692;10.54
+"2015";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";3033;15.94
+"2015";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";2090;12.61
+"2015";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";584;10.87
+"2015";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3570;14.31
+"2015";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";4436;10.90
+"2015";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1108;10.21
+"2015";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";5392;12.67
+"2015";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";4812;10.02
+"2015";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1535;9.42
+"2015";"Kotka";"Yksiöt";"Vapaarahoitteinen";2402;13.31
+"2015";"Kotka";"Kaksiot";"Vapaarahoitteinen";1882;10.33
+"2015";"Kotka";"Kolmiot+";"Vapaarahoitteinen";526;9.42
+"2015";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";1205;14.38
+"2015";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";976;11.02
+"2015";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";155;9.16
+"2015";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1197;12.19
+"2015";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";906;9.41
+"2015";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";371;9.54
+"2015";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2560;12.31
+"2015";"Kouvola";"Kaksiot";"Vapaarahoitteinen";2484;9.82
+"2015";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";837;9.55
+"2015";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";2896;13.60
+"2015";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";2915;10.65
+"2015";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";948;9.88
+"2015";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";1897;14.51
+"2015";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";2077;11.25
+"2015";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";642;10.39
+"2015";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";846;15.52
+"2015";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";707;12.26
+"2015";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";191;11.03
+"2015";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";1051;13.22
+"2015";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1370;10.22
+"2015";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";451;9.88
+"2015";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3609;13.11
+"2015";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";3237;9.33
+"2015";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";995;8.96
+"2015";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1663;14.89
+"2015";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";1333;9.76
+"2015";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";516;9.32
+"2015";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";7635;14.19
+"2015";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";8187;10.42
+"2015";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2211;9.94
+"2015";"Kuopio";"Yksiöt";"Vapaarahoitteinen";5342;15.93
+"2015";"Kuopio";"Kaksiot";"Vapaarahoitteinen";5874;11.03
+"2015";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1511;10.43
+"2015";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";3166;17.02
+"2015";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2636;11.49
+"2015";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";673;10.40
+"2015";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";2176;14.70
+"2015";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";3238;10.63
+"2015";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";838;10.46
+"2015";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";5168;13.69
+"2015";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";4559;9.60
+"2015";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";1177;9.26
+"2015";"Joensuu";"Yksiöt";"Vapaarahoitteinen";4230;15.04
+"2015";"Joensuu";"Kaksiot";"Vapaarahoitteinen";3534;9.89
+"2015";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";898;9.60
+"2015";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";3315;15.55
+"2015";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";2332;10.05
+"2015";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";563;9.91
+"2015";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";915;13.55
+"2015";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";1202;9.63
+"2015";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";335;9.26
+"2015";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";9091;14.32
+"2015";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";11542;10.57
+"2015";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";3347;9.82
+"2015";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";7418;15.71
+"2015";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";9718;11.08
+"2015";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";2816;10.37
+"2015";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";4594;16.77
+"2015";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";5850;11.24
+"2015";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1374;10.49
+"2015";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";2824;14.17
+"2015";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";3868;10.89
+"2015";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1442;10.29
+"2015";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2761;12.17
+"2015";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3978;9.60
+"2015";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1349;9.05
+"2015";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";1998;13.58
+"2015";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";2420;9.97
+"2015";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";864;9.38
+"2015";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";3121;13.74
+"2015";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3034;9.28
+"2015";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1056;8.49
+"2015";"Vaasa";"Yksiöt";"Vapaarahoitteinen";2547;14.41
+"2015";"Vaasa";"Kaksiot";"Vapaarahoitteinen";2240;9.43
+"2015";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";636;8.38
+"2015";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";1997;14.89
+"2015";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";1776;9.44
+"2015";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";450;7.83
+"2015";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";550;12.46
+"2015";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";464;9.42
+"2015";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";186;9.49
+"2015";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";722;13.15
+"2015";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";938;9.28
+"2015";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";341;9.02
+"2015";"Kokkola";"Yksiöt";"Vapaarahoitteinen";638;13.89
+"2015";"Kokkola";"Kaksiot";"Vapaarahoitteinen";783;9.55
+"2015";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";295;9.07
+"2015";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";11834;13.68
+"2015";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";12430;10.27
+"2015";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4533;9.65
+"2015";"Oulu";"Yksiöt";"Vapaarahoitteinen";10122;14.30
+"2015";"Oulu";"Kaksiot";"Vapaarahoitteinen";10148;10.58
+"2015";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3455;9.82
+"2015";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";4497;15.21
+"2015";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";4926;11.21
+"2015";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1160;10.53
+"2015";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";5625;13.39
+"2015";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";5222;9.95
+"2015";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2295;9.45
+"2015";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1902;12.87
+"2015";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1644;9.66
+"2015";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";564;9.38
+"2015";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1469;13.72
+"2015";"Kajaani";"Kaksiot";"Vapaarahoitteinen";1230;9.93
+"2015";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";423;9.79
+"2015";"Lappi";"Yksiöt";"Vapaarahoitteinen";4325;13.71
+"2015";"Lappi";"Kaksiot";"Vapaarahoitteinen";5151;9.92
+"2015";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1938;9.41
+"2015";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2767;14.73
+"2015";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";3026;10.59
+"2015";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";1150;10.28
+"2016";"Koko maa";"Yksiöt";"Vapaarahoitteinen";146626;16.92
+"2016";"Koko maa";"Kaksiot";"Vapaarahoitteinen";145174;12.26
+"2016";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";58300;11.73
+"2016";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";41113;22.79
+"2016";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";44654;16.24
+"2016";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";23892;15.07
+"2016";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";105513;14.47
+"2016";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";100520;10.79
+"2016";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";34408;10.13
+"2016";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";47976;21.60
+"2016";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";53390;15.35
+"2016";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";27487;14.36
+"2016";"Helsinki";"Yksiöt";"Vapaarahoitteinen";29214;23.71
+"2016";"Helsinki";"Kaksiot";"Vapaarahoitteinen";23440;16.69
+"2016";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";11080;15.57
+"2016";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";5336;24.45
+"2016";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";3136;17.75
+"2016";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";981;16.44
+"2016";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";14714;24.09
+"2016";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";9740;16.68
+"2016";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";3125;15.86
+"2016";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";3021;24.60
+"2016";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";2685;16.63
+"2016";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";1242;15.54
+"2016";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";6143;21.00
+"2016";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";7879;15.97
+"2016";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";5732;14.86
+"2016";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";5874;20.61
+"2016";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";9401;15.52
+"2016";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";5756;14.34
+"2016";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";1406;22.14
+"2016";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";1617;15.13
+"2016";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1060;14.38
+"2016";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";1984;21.01
+"2016";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";3462;16.45
+"2016";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";1825;14.98
+"2016";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";2484;19.12
+"2016";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";4322;14.79
+"2016";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";2871;13.82
+"2016";"Vantaa";"Yksiöt";"Vapaarahoitteinen";6025;19.43
+"2016";"Vantaa";"Kaksiot";"Vapaarahoitteinen";11813;15.45
+"2016";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";7056;14.48
+"2016";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";1096;20.19
+"2016";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";2773;16.39
+"2016";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";1511;15.56
+"2016";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";4929;19.08
+"2016";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";9040;14.80
+"2016";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";5545;13.74
+"2016";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";5210;16.49
+"2016";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";6226;12.76
+"2016";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";2638;12.14
+"2016";"Porvoo";"Yksiöt";"Vapaarahoitteinen";1131;16.52
+"2016";"Porvoo";"Kaksiot";"Vapaarahoitteinen";1479;11.87
+"2016";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";578;11.81
+"2016";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1131;16.88
+"2016";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";976;12.61
+"2016";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";235;12.87
+"2016";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";975;17.47
+"2016";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";1261;12.97
+"2016";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";466;12.33
+"2016";"Kerava";"Yksiöt";"Vapaarahoitteinen";906;17.71
+"2016";"Kerava";"Kaksiot";"Vapaarahoitteinen";1679;13.43
+"2016";"Kerava";"Kolmiot+";"Vapaarahoitteinen";745;12.56
+"2016";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";15137;14.69
+"2016";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";11957;10.64
+"2016";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";4111;9.78
+"2016";"Turku";"Yksiöt";"Vapaarahoitteinen";12598;15.67
+"2016";"Turku";"Kaksiot";"Vapaarahoitteinen";9450;11.11
+"2016";"Turku";"Kolmiot+";"Vapaarahoitteinen";2965;10.14
+"2016";"Turku 1";"Yksiöt";"Vapaarahoitteinen";7771;16.28
+"2016";"Turku 1";"Kaksiot";"Vapaarahoitteinen";5251;11.39
+"2016";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1335;10.37
+"2016";"Turku 2";"Yksiöt";"Vapaarahoitteinen";2000;15.87
+"2016";"Turku 2";"Kaksiot";"Vapaarahoitteinen";1133;11.62
+"2016";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";197;9.79
+"2016";"Turku 3";"Yksiöt";"Vapaarahoitteinen";2827;14.04
+"2016";"Turku 3";"Kaksiot";"Vapaarahoitteinen";3066;10.42
+"2016";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";1433;10.01
+"2016";"Satakunta";"Yksiöt";"Vapaarahoitteinen";4725;12.78
+"2016";"Satakunta";"Kaksiot";"Vapaarahoitteinen";4864;9.47
+"2016";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1622;8.83
+"2016";"Pori";"Yksiöt";"Vapaarahoitteinen";3078;13.42
+"2016";"Pori";"Kaksiot";"Vapaarahoitteinen";3124;9.87
+"2016";"Pori";"Kolmiot+";"Vapaarahoitteinen";1074;9.20
+"2016";"Pori 1";"Yksiöt";"Vapaarahoitteinen";2026;14.05
+"2016";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1651;10.44
+"2016";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";585;9.56
+"2016";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1052;12.39
+"2016";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1473;9.25
+"2016";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";489;8.81
+"2016";"Rauma";"Yksiöt";"Vapaarahoitteinen";922;12.55
+"2016";"Rauma";"Kaksiot";"Vapaarahoitteinen";907;9.39
+"2016";"Rauma";"Kolmiot+";"Vapaarahoitteinen";270;8.81
+"2016";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";3966;14.09
+"2016";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";3488;11.34
+"2016";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1309;10.74
+"2016";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";1917;15.51
+"2016";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";2118;12.21
+"2016";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";760;11.25
+"2016";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";1292;16.29
+"2016";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";1076;12.73
+"2016";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";281;11.82
+"2016";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";625;14.25
+"2016";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1042;11.64
+"2016";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";479;10.82
+"2016";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";972;14.26
+"2016";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";533;10.71
+"2016";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";241;10.65
+"2016";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";17679;15.73
+"2016";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";15879;11.43
+"2016";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";5476;10.76
+"2016";"Tampere";"Yksiöt";"Vapaarahoitteinen";14649;16.73
+"2016";"Tampere";"Kaksiot";"Vapaarahoitteinen";13285;11.97
+"2016";"Tampere";"Kolmiot+";"Vapaarahoitteinen";4445;11.32
+"2016";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";6936;17.17
+"2016";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";4760;11.96
+"2016";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1115;11.62
+"2016";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";1855;15.95
+"2016";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";2628;12.39
+"2016";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1008;11.36
+"2016";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";5858;16.32
+"2016";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";5897;11.78
+"2016";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2322;11.03
+"2016";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7254;14.59
+"2016";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";6608;11.73
+"2016";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";1977;10.71
+"2016";"Lahti";"Yksiöt";"Vapaarahoitteinen";5833;15.64
+"2016";"Lahti";"Kaksiot";"Vapaarahoitteinen";5368;12.41
+"2016";"Lahti";"Kolmiot+";"Vapaarahoitteinen";1476;11.23
+"2016";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";2701;16.39
+"2016";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";1693;13.63
+"2016";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";499;11.97
+"2016";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3132;14.66
+"2016";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";3675;11.12
+"2016";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";977;10.34
+"2016";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";4546;12.83
+"2016";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";3720;10.14
+"2016";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1288;9.53
+"2016";"Kotka";"Yksiöt";"Vapaarahoitteinen";1975;13.49
+"2016";"Kotka";"Kaksiot";"Vapaarahoitteinen";1472;10.39
+"2016";"Kotka";"Kolmiot+";"Vapaarahoitteinen";473;9.68
+"2016";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";978;14.65
+"2016";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";776;11.16
+"2016";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";135;9.84
+"2016";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";997;12.31
+"2016";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";696;9.47
+"2016";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";338;9.59
+"2016";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2246;12.46
+"2016";"Kouvola";"Kaksiot";"Vapaarahoitteinen";1931;10.00
+"2016";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";688;9.61
+"2016";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";2519;14.01
+"2016";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";2399;11.16
+"2016";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";784;9.94
+"2016";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";1706;14.79
+"2016";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";1728;11.91
+"2016";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";547;10.41
+"2016";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";749;15.78
+"2016";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";566;13.00
+"2016";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";151;11.01
+"2016";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";957;13.42
+"2016";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1162;10.56
+"2016";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";396;9.91
+"2016";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3013;13.36
+"2016";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2448;9.62
+"2016";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";688;9.23
+"2016";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1418;14.91
+"2016";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";1024;10.05
+"2016";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";349;9.63
+"2016";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";6513;14.48
+"2016";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";6450;10.81
+"2016";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";1836;10.26
+"2016";"Kuopio";"Yksiöt";"Vapaarahoitteinen";4681;16.19
+"2016";"Kuopio";"Kaksiot";"Vapaarahoitteinen";4637;11.61
+"2016";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1291;10.91
+"2016";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";2804;17.35
+"2016";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2013;11.87
+"2016";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";556;10.65
+"2016";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";1877;15.11
+"2016";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";2624;11.40
+"2016";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";735;11.06
+"2016";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";4304;14.03
+"2016";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";3471;9.87
+"2016";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";920;9.36
+"2016";"Joensuu";"Yksiöt";"Vapaarahoitteinen";3625;15.40
+"2016";"Joensuu";"Kaksiot";"Vapaarahoitteinen";2711;10.26
+"2016";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";693;9.83
+"2016";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";2831;15.93
+"2016";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";1807;10.33
+"2016";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";419;9.92
+"2016";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";794;13.94
+"2016";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";904;10.14
+"2016";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";274;9.76
+"2016";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";7946;14.70
+"2016";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";9317;10.83
+"2016";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";2824;10.18
+"2016";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";6604;16.05
+"2016";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";7962;11.44
+"2016";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";2429;10.77
+"2016";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";4112;17.08
+"2016";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";4765;11.55
+"2016";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1190;11.09
+"2016";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";2492;14.51
+"2016";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";3197;11.29
+"2016";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1239;10.54
+"2016";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2220;12.40
+"2016";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";2838;9.79
+"2016";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1108;9.14
+"2016";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";1639;13.90
+"2016";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";1791;10.19
+"2016";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";676;9.56
+"2016";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2642;14.04
+"2016";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";2256;9.49
+"2016";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";791;8.74
+"2016";"Vaasa";"Yksiöt";"Vapaarahoitteinen";2187;14.74
+"2016";"Vaasa";"Kaksiot";"Vapaarahoitteinen";1669;9.74
+"2016";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";496;8.70
+"2016";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";1759;15.21
+"2016";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";1347;9.75
+"2016";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";336;8.34
+"2016";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";428;12.61
+"2016";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";322;9.70
+"2016";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";160;9.46
+"2016";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";558;13.64
+"2016";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";708;9.49
+"2016";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";215;9.15
+"2016";"Kokkola";"Yksiöt";"Vapaarahoitteinen";503;14.33
+"2016";"Kokkola";"Kaksiot";"Vapaarahoitteinen";597;9.81
+"2016";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";177;9.21
+"2016";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";10534;14.05
+"2016";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";10116;10.57
+"2016";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";3818;9.88
+"2016";"Oulu";"Yksiöt";"Vapaarahoitteinen";9164;14.68
+"2016";"Oulu";"Kaksiot";"Vapaarahoitteinen";8508;10.88
+"2016";"Oulu";"Kolmiot+";"Vapaarahoitteinen";2973;10.01
+"2016";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";4005;15.55
+"2016";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";4089;11.54
+"2016";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";974;10.77
+"2016";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";5159;13.75
+"2016";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";4419;10.19
+"2016";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";1999;9.61
+"2016";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1459;13.32
+"2016";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1166;9.93
+"2016";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";424;9.50
+"2016";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1184;14.12
+"2016";"Kajaani";"Kaksiot";"Vapaarahoitteinen";890;10.20
+"2016";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";315;9.83
+"2016";"Lappi";"Yksiöt";"Vapaarahoitteinen";3635;13.89
+"2016";"Lappi";"Kaksiot";"Vapaarahoitteinen";4099;10.01
+"2016";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1622;9.43
+"2016";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2388;14.90
+"2016";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2429;10.66
+"2016";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";1013;10.28
+"2017";"Koko maa";"Yksiöt";"Vapaarahoitteinen";157388;17.64
+"2017";"Koko maa";"Kaksiot";"Vapaarahoitteinen";158996;13.27
+"2017";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";67146;12.38
+"2017";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";45894;23.35
+"2017";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";52614;17.34
+"2017";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";29738;15.85
+"2017";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";111494;15.22
+"2017";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";106382;11.64
+"2017";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";37408;10.62
+"2017";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";53188;22.37
+"2017";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";62526;16.55
+"2017";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";34020;15.18
+"2017";"Helsinki";"Yksiöt";"Vapaarahoitteinen";32243;24.29
+"2017";"Helsinki";"Kaksiot";"Vapaarahoitteinen";27083;18.00
+"2017";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";14220;16.57
+"2017";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";5581;25.91
+"2017";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";3272;19.75
+"2017";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1114;18.50
+"2017";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";15965;24.70
+"2017";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";10664;18.38
+"2017";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";3571;17.00
+"2017";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";3663;24.18
+"2017";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";3816;17.41
+"2017";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";2270;15.89
+"2017";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";7034;21.56
+"2017";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";9331;16.60
+"2017";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";7265;15.50
+"2017";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";6900;21.01
+"2017";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";11397;16.42
+"2017";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";7109;14.94
+"2017";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";1821;22.68
+"2017";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";1886;16.60
+"2017";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1234;15.14
+"2017";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";2139;21.33
+"2017";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";4001;17.08
+"2017";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";2479;15.50
+"2017";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";2940;19.74
+"2017";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";5510;15.64
+"2017";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";3396;14.34
+"2017";"Vantaa";"Yksiöt";"Vapaarahoitteinen";6751;20.14
+"2017";"Vantaa";"Kaksiot";"Vapaarahoitteinen";14134;16.13
+"2017";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";8409;14.86
+"2017";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";1372;20.96
+"2017";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";4265;17.03
+"2017";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";2287;15.82
+"2017";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";5379;19.74
+"2017";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";9869;15.45
+"2017";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";6122;14.17
+"2017";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";5808;17.14
+"2017";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";7652;13.37
+"2017";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";3469;12.62
+"2017";"Porvoo";"Yksiöt";"Vapaarahoitteinen";980;17.14
+"2017";"Porvoo";"Kaksiot";"Vapaarahoitteinen";1120;12.56
+"2017";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";383;11.90
+"2017";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1080;17.67
+"2017";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";878;13.86
+"2017";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";251;13.33
+"2017";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1047;18.15
+"2017";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";1464;13.92
+"2017";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";622;12.83
+"2017";"Kerava";"Yksiöt";"Vapaarahoitteinen";1080;18.35
+"2017";"Kerava";"Kaksiot";"Vapaarahoitteinen";2200;14.26
+"2017";"Kerava";"Kolmiot+";"Vapaarahoitteinen";1054;13.03
+"2017";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";15637;15.25
+"2017";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";12487;11.49
+"2017";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";4184;10.40
+"2017";"Turku";"Yksiöt";"Vapaarahoitteinen";13092;16.06
+"2017";"Turku";"Kaksiot";"Vapaarahoitteinen";10243;12.05
+"2017";"Turku";"Kolmiot+";"Vapaarahoitteinen";3199;10.72
+"2017";"Turku 1";"Yksiöt";"Vapaarahoitteinen";7983;16.71
+"2017";"Turku 1";"Kaksiot";"Vapaarahoitteinen";5520;12.65
+"2017";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1316;11.57
+"2017";"Turku 2";"Yksiöt";"Vapaarahoitteinen";2188;16.36
+"2017";"Turku 2";"Kaksiot";"Vapaarahoitteinen";1385;12.30
+"2017";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";265;10.14
+"2017";"Turku 3";"Yksiöt";"Vapaarahoitteinen";2921;14.60
+"2017";"Turku 3";"Kaksiot";"Vapaarahoitteinen";3338;11.03
+"2017";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";1618;10.37
+"2017";"Satakunta";"Yksiöt";"Vapaarahoitteinen";4404;12.83
+"2017";"Satakunta";"Kaksiot";"Vapaarahoitteinen";4351;9.64
+"2017";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1357;8.90
+"2017";"Pori";"Yksiöt";"Vapaarahoitteinen";2893;13.43
+"2017";"Pori";"Kaksiot";"Vapaarahoitteinen";2822;10.14
+"2017";"Pori";"Kolmiot+";"Vapaarahoitteinen";813;9.35
+"2017";"Pori 1";"Yksiöt";"Vapaarahoitteinen";1877;14.25
+"2017";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1456;11.02
+"2017";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";408;9.80
+"2017";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1016;11.83
+"2017";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1366;9.10
+"2017";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";405;8.73
+"2017";"Rauma";"Yksiöt";"Vapaarahoitteinen";815;12.76
+"2017";"Rauma";"Kaksiot";"Vapaarahoitteinen";669;9.76
+"2017";"Rauma";"Kolmiot+";"Vapaarahoitteinen";228;9.07
+"2017";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";4005;14.57
+"2017";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";3479;11.93
+"2017";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1389;11.12
+"2017";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";1885;15.92
+"2017";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";1817;13.02
+"2017";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";729;11.81
+"2017";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";1293;16.64
+"2017";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";935;13.60
+"2017";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";296;12.54
+"2017";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";592;14.55
+"2017";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";882;12.15
+"2017";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";433;11.01
+"2017";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1065;14.78
+"2017";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";795;11.74
+"2017";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";305;11.04
+"2017";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";20819;16.84
+"2017";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";18267;12.44
+"2017";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";6368;11.32
+"2017";"Tampere";"Yksiöt";"Vapaarahoitteinen";17611;17.61
+"2017";"Tampere";"Kaksiot";"Vapaarahoitteinen";15440;13.08
+"2017";"Tampere";"Kolmiot+";"Vapaarahoitteinen";5196;12.04
+"2017";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";8642;18.12
+"2017";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";4693;13.42
+"2017";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1208;12.70
+"2017";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";2373;16.88
+"2017";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";3836;13.52
+"2017";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1246;12.15
+"2017";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";6596;16.82
+"2017";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";6911;12.38
+"2017";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2742;11.48
+"2017";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7394;14.95
+"2017";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";7859;12.06
+"2017";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";2504;10.83
+"2017";"Lahti";"Yksiöt";"Vapaarahoitteinen";6012;15.93
+"2017";"Lahti";"Kaksiot";"Vapaarahoitteinen";6613;12.64
+"2017";"Lahti";"Kolmiot+";"Vapaarahoitteinen";2043;11.28
+"2017";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";2752;16.65
+"2017";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";2186;13.80
+"2017";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";794;12.00
+"2017";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3260;15.02
+"2017";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";4427;11.70
+"2017";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1249;10.61
+"2017";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";4647;12.97
+"2017";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";3677;10.27
+"2017";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1309;9.42
+"2017";"Kotka";"Yksiöt";"Vapaarahoitteinen";1987;13.67
+"2017";"Kotka";"Kaksiot";"Vapaarahoitteinen";1402;10.77
+"2017";"Kotka";"Kolmiot+";"Vapaarahoitteinen";486;9.80
+"2017";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";969;14.94
+"2017";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";683;11.67
+"2017";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";129;10.38
+"2017";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1018;12.46
+"2017";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";719;9.69
+"2017";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";357;9.54
+"2017";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2293;12.55
+"2017";"Kouvola";"Kaksiot";"Vapaarahoitteinen";1941;10.03
+"2017";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";663;9.24
+"2017";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";2475;15.08
+"2017";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";2231;11.89
+"2017";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";761;10.63
+"2017";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";1735;15.98
+"2017";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";1672;12.62
+"2017";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";581;11.14
+"2017";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";802;17.21
+"2017";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";612;14.01
+"2017";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";192;12.12
+"2017";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";933;13.61
+"2017";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1060;11.01
+"2017";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";389;10.23
+"2017";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3014;13.58
+"2017";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2393;10.32
+"2017";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";598;9.38
+"2017";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1398;15.36
+"2017";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";942;11.32
+"2017";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";260;10.32
+"2017";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";7294;15.45
+"2017";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";7238;12.11
+"2017";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2295;10.94
+"2017";"Kuopio";"Yksiöt";"Vapaarahoitteinen";5413;16.79
+"2017";"Kuopio";"Kaksiot";"Vapaarahoitteinen";5412;13.04
+"2017";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1707;11.64
+"2017";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";2748;18.06
+"2017";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";1838;13.68
+"2017";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";582;11.85
+"2017";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";2665;15.47
+"2017";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";3574;12.47
+"2017";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";1125;11.48
+"2017";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";4440;14.66
+"2017";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";3171;10.71
+"2017";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";762;9.40
+"2017";"Joensuu";"Yksiöt";"Vapaarahoitteinen";3696;15.91
+"2017";"Joensuu";"Kaksiot";"Vapaarahoitteinen";2403;11.37
+"2017";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";529;9.86
+"2017";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";2869;16.54
+"2017";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";1494;11.61
+"2017";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";254;9.79
+"2017";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";827;14.24
+"2017";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";909;11.01
+"2017";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";275;9.95
+"2017";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";8268;15.49
+"2017";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";9703;11.86
+"2017";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";3230;10.76
+"2017";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";6945;16.63
+"2017";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";8317;12.57
+"2017";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";2846;11.33
+"2017";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";4341;17.57
+"2017";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";4744;13.07
+"2017";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1432;11.91
+"2017";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";2604;15.03
+"2017";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";3573;11.95
+"2017";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1414;10.94
+"2017";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2116;12.71
+"2017";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3061;10.26
+"2017";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1146;9.54
+"2017";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";1581;14.27
+"2017";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";1853;10.91
+"2017";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";698;10.11
+"2017";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2684;14.52
+"2017";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";2212;10.37
+"2017";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";858;9.29
+"2017";"Vaasa";"Yksiöt";"Vapaarahoitteinen";2180;15.11
+"2017";"Vaasa";"Kaksiot";"Vapaarahoitteinen";1561;10.83
+"2017";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";482;9.52
+"2017";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";1725;15.58
+"2017";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";1234;11.03
+"2017";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";333;9.50
+"2017";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";455;12.88
+"2017";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";327;10.05
+"2017";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";149;9.64
+"2017";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";567;13.72
+"2017";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";658;10.34
+"2017";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";212;9.47
+"2017";"Kokkola";"Yksiöt";"Vapaarahoitteinen";502;14.73
+"2017";"Kokkola";"Kaksiot";"Vapaarahoitteinen";536;10.76
+"2017";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";169;9.61
+"2017";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";11431;14.65
+"2017";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";10902;11.31
+"2017";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4227;10.42
+"2017";"Oulu";"Yksiöt";"Vapaarahoitteinen";10096;15.22
+"2017";"Oulu";"Kaksiot";"Vapaarahoitteinen";9208;11.67
+"2017";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3287;10.71
+"2017";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";4528;16.12
+"2017";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";4379;12.54
+"2017";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1136;11.66
+"2017";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";5568;14.31
+"2017";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";4829;10.82
+"2017";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2151;10.08
+"2017";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1446;13.85
+"2017";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1093;10.62
+"2017";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";436;9.68
+"2017";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1190;14.34
+"2017";"Kajaani";"Kaksiot";"Vapaarahoitteinen";807;10.91
+"2017";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";311;9.87
+"2017";"Lappi";"Yksiöt";"Vapaarahoitteinen";3559;14.52
+"2017";"Lappi";"Kaksiot";"Vapaarahoitteinen";3688;10.87
+"2017";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1490;9.56
+"2017";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2343;15.54
+"2017";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2072;11.85
+"2017";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";853;10.59
+"2018";"Koko maa";"Yksiöt";"Vapaarahoitteinen";180315;18.02
+"2018";"Koko maa";"Kaksiot";"Vapaarahoitteinen";189289;13.75
+"2018";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";77822;12.52
+"2018";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";53963;23.72
+"2018";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";62594;17.93
+"2018";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";34204;16.01
+"2018";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";126352;15.51
+"2018";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";126695;12.08
+"2018";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";43618;10.77
+"2018";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";62373;22.74
+"2018";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";74035;17.08
+"2018";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";39166;15.31
+"2018";"Helsinki";"Yksiöt";"Vapaarahoitteinen";37988;24.76
+"2018";"Helsinki";"Kaksiot";"Vapaarahoitteinen";32358;18.83
+"2018";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";16460;16.82
+"2018";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";6138;26.64
+"2018";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";3337;20.91
+"2018";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1185;18.19
+"2018";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";18624;25.02
+"2018";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";11983;19.47
+"2018";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";4050;17.47
+"2018";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";4360;24.21
+"2018";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";4592;17.79
+"2018";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";2524;16.00
+"2018";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";8866;22.05
+"2018";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";12446;16.97
+"2018";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";8701;15.74
+"2018";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";7950;21.13
+"2018";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";13590;16.74
+"2018";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";8173;15.00
+"2018";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";2196;22.63
+"2018";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";2772;17.13
+"2018";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1439;15.89
+"2018";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";2287;21.11
+"2018";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";4653;17.25
+"2018";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";2878;15.34
+"2018";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";3467;20.18
+"2018";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";6165;15.90
+"2018";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";3856;14.23
+"2018";"Vantaa";"Yksiöt";"Vapaarahoitteinen";8025;20.75
+"2018";"Vantaa";"Kaksiot";"Vapaarahoitteinen";16646;16.36
+"2018";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";9571;14.88
+"2018";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";1868;21.76
+"2018";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";5601;17.52
+"2018";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";3041;15.79
+"2018";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";6157;20.19
+"2018";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";11045;15.61
+"2018";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";6530;14.30
+"2018";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";6866;17.53
+"2018";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";9454;13.84
+"2018";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";4112;12.65
+"2018";"Porvoo";"Yksiöt";"Vapaarahoitteinen";1059;17.38
+"2018";"Porvoo";"Kaksiot";"Vapaarahoitteinen";1021;13.02
+"2018";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";363;11.91
+"2018";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1247;18.10
+"2018";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";1136;14.24
+"2018";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";304;13.32
+"2018";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1304;18.90
+"2018";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";1958;14.54
+"2018";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";825;13.03
+"2018";"Kerava";"Yksiöt";"Vapaarahoitteinen";1185;18.54
+"2018";"Kerava";"Kaksiot";"Vapaarahoitteinen";2455;14.54
+"2018";"Kerava";"Kolmiot+";"Vapaarahoitteinen";1223;12.96
+"2018";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";17601;15.60
+"2018";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";15290;12.15
+"2018";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";5225;10.62
+"2018";"Turku";"Yksiöt";"Vapaarahoitteinen";14853;16.37
+"2018";"Turku";"Kaksiot";"Vapaarahoitteinen";12792;12.83
+"2018";"Turku";"Kolmiot+";"Vapaarahoitteinen";4138;11.01
+"2018";"Turku 1";"Yksiöt";"Vapaarahoitteinen";8977;16.93
+"2018";"Turku 1";"Kaksiot";"Vapaarahoitteinen";6809;13.59
+"2018";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1612;11.61
+"2018";"Turku 2";"Yksiöt";"Vapaarahoitteinen";2502;16.83
+"2018";"Turku 2";"Kaksiot";"Vapaarahoitteinen";1820;12.99
+"2018";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";465;10.62
+"2018";"Turku 3";"Yksiöt";"Vapaarahoitteinen";3374;15.01
+"2018";"Turku 3";"Kaksiot";"Vapaarahoitteinen";4163;11.42
+"2018";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";2061;10.51
+"2018";"Satakunta";"Yksiöt";"Vapaarahoitteinen";4733;13.01
+"2018";"Satakunta";"Kaksiot";"Vapaarahoitteinen";4905;9.93
+"2018";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1530;8.97
+"2018";"Pori";"Yksiöt";"Vapaarahoitteinen";3101;13.63
+"2018";"Pori";"Kaksiot";"Vapaarahoitteinen";3156;10.38
+"2018";"Pori";"Kolmiot+";"Vapaarahoitteinen";837;9.45
+"2018";"Pori 1";"Yksiöt";"Vapaarahoitteinen";2047;14.45
+"2018";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1671;11.39
+"2018";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";406;10.04
+"2018";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1054;11.93
+"2018";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1485;9.24
+"2018";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";431;8.70
+"2018";"Rauma";"Yksiöt";"Vapaarahoitteinen";833;13.29
+"2018";"Rauma";"Kaksiot";"Vapaarahoitteinen";747;10.26
+"2018";"Rauma";"Kolmiot+";"Vapaarahoitteinen";280;9.22
+"2018";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";4237;16.35
+"2018";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";4638;12.27
+"2018";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1591;11.18
+"2018";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";1967;18.12
+"2018";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";2523;13.32
+"2018";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";855;11.71
+"2018";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";1343;18.98
+"2018";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";1349;13.98
+"2018";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";384;12.16
+"2018";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";624;14.99
+"2018";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1174;12.27
+"2018";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";471;11.20
+"2018";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1168;14.92
+"2018";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";1112;11.81
+"2018";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";365;11.04
+"2018";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";24157;16.87
+"2018";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";21442;12.89
+"2018";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";7442;11.51
+"2018";"Tampere";"Yksiöt";"Vapaarahoitteinen";20627;17.68
+"2018";"Tampere";"Kaksiot";"Vapaarahoitteinen";18017;13.59
+"2018";"Tampere";"Kolmiot+";"Vapaarahoitteinen";5839;12.18
+"2018";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";10465;18.10
+"2018";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";5714;14.24
+"2018";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1393;12.96
+"2018";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";2788;17.53
+"2018";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";4682;13.84
+"2018";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1461;12.23
+"2018";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";7374;16.94
+"2018";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";7621;12.54
+"2018";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2985;11.52
+"2018";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7939;15.12
+"2018";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";9174;12.07
+"2018";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";2876;10.70
+"2018";"Lahti";"Yksiöt";"Vapaarahoitteinen";6498;16.01
+"2018";"Lahti";"Kaksiot";"Vapaarahoitteinen";7765;12.68
+"2018";"Lahti";"Kolmiot+";"Vapaarahoitteinen";2413;11.14
+"2018";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";3117;16.69
+"2018";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";2651;13.77
+"2018";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";1040;11.88
+"2018";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3381;15.18
+"2018";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";5114;11.76
+"2018";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1373;10.44
+"2018";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";4826;13.06
+"2018";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";4163;10.42
+"2018";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1486;9.38
+"2018";"Kotka";"Yksiöt";"Vapaarahoitteinen";2126;13.70
+"2018";"Kotka";"Kaksiot";"Vapaarahoitteinen";1631;10.76
+"2018";"Kotka";"Kolmiot+";"Vapaarahoitteinen";532;9.69
+"2018";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";995;14.92
+"2018";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";776;11.74
+"2018";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";133;10.31
+"2018";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1131;12.48
+"2018";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";855;9.74
+"2018";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";399;9.45
+"2018";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2367;12.70
+"2018";"Kouvola";"Kaksiot";"Vapaarahoitteinen";2144;10.23
+"2018";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";753;9.25
+"2018";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";2942;15.01
+"2018";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";2603;12.00
+"2018";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";861;10.74
+"2018";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";2145;15.86
+"2018";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";2006;12.65
+"2018";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";662;11.24
+"2018";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";1072;17.05
+"2018";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";953;14.05
+"2018";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";274;12.24
+"2018";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";1073;13.99
+"2018";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1053;11.28
+"2018";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";388;10.49
+"2018";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3400;13.89
+"2018";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2819;10.71
+"2018";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";733;9.61
+"2018";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1623;15.73
+"2018";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";1176;11.76
+"2018";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";321;10.42
+"2018";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";8095;15.57
+"2018";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";8670;12.56
+"2018";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2479;11.23
+"2018";"Kuopio";"Yksiöt";"Vapaarahoitteinen";6181;17.11
+"2018";"Kuopio";"Kaksiot";"Vapaarahoitteinen";6567;13.61
+"2018";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1855;11.90
+"2018";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";3356;18.25
+"2018";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2511;14.53
+"2018";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";735;12.38
+"2018";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";2825;15.80
+"2018";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";4056;12.74
+"2018";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";1120;11.46
+"2018";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";5126;14.91
+"2018";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";3798;11.69
+"2018";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";821;9.81
+"2018";"Joensuu";"Yksiöt";"Vapaarahoitteinen";4345;16.02
+"2018";"Joensuu";"Kaksiot";"Vapaarahoitteinen";2954;12.63
+"2018";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";575;10.40
+"2018";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";3345;16.73
+"2018";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";1874;13.22
+"2018";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";235;10.70
+"2018";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";1000;14.42
+"2018";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";1080;11.58
+"2018";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";340;10.12
+"2018";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";9551;15.85
+"2018";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";11406;12.47
+"2018";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";3723;10.97
+"2018";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";8143;16.92
+"2018";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";9954;13.25
+"2018";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";3289;11.57
+"2018";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";5102;17.72
+"2018";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";5560;14.03
+"2018";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1609;12.14
+"2018";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";3041;15.55
+"2018";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";4394;12.14
+"2018";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1680;11.10
+"2018";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2306;12.95
+"2018";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3611;10.66
+"2018";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1317;9.74
+"2018";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";1734;14.48
+"2018";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";2261;11.39
+"2018";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";831;10.35
+"2018";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";3397;14.80
+"2018";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";2965;11.13
+"2018";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1016;9.58
+"2018";"Vaasa";"Yksiöt";"Vapaarahoitteinen";2876;15.43
+"2018";"Vaasa";"Kaksiot";"Vapaarahoitteinen";2230;11.79
+"2018";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";618;9.87
+"2018";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";2391;15.81
+"2018";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";1835;12.12
+"2018";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";389;10.02
+"2018";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";485;13.09
+"2018";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";395;10.29
+"2018";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";229;9.56
+"2018";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";592;14.15
+"2018";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";717;10.72
+"2018";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";243;9.51
+"2018";"Kokkola";"Yksiöt";"Vapaarahoitteinen";519;14.89
+"2018";"Kokkola";"Kaksiot";"Vapaarahoitteinen";587;11.21
+"2018";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";212;9.60
+"2018";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";13077;14.91
+"2018";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";13016;11.70
+"2018";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4918;10.51
+"2018";"Oulu";"Yksiöt";"Vapaarahoitteinen";11572;15.49
+"2018";"Oulu";"Kaksiot";"Vapaarahoitteinen";11059;12.12
+"2018";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3856;10.85
+"2018";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";5253;16.27
+"2018";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";5461;13.02
+"2018";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1464;11.89
+"2018";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";6319;14.82
+"2018";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";5598;11.32
+"2018";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2392;10.22
+"2018";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1707;13.96
+"2018";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1436;10.99
+"2018";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";592;9.87
+"2018";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1437;14.67
+"2018";"Kajaani";"Kaksiot";"Vapaarahoitteinen";1157;11.47
+"2018";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";461;10.12
+"2018";"Lappi";"Yksiöt";"Vapaarahoitteinen";4256;14.81
+"2018";"Lappi";"Kaksiot";"Vapaarahoitteinen";4601;11.46
+"2018";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1803;9.95
+"2018";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2935;15.81
+"2018";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2860;12.49
+"2018";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";1051;10.80
+"2019";"Koko maa";"Yksiöt";"Vapaarahoitteinen";185567;18.54
+"2019";"Koko maa";"Kaksiot";"Vapaarahoitteinen";190365;14.01
+"2019";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";78662;12.83
+"2019";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";56928;24.37
+"2019";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";64820;18.32
+"2019";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";36427;16.39
+"2019";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";128639;15.89
+"2019";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";125545;12.27
+"2019";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";42235;10.95
+"2019";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";65366;23.35
+"2019";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";76052;17.42
+"2019";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";41201;15.68
+"2019";"Helsinki";"Yksiöt";"Vapaarahoitteinen";39629;25.40
+"2019";"Helsinki";"Kaksiot";"Vapaarahoitteinen";33078;19.21
+"2019";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";17271;17.23
+"2019";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";6708;27.21
+"2019";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";3752;21.12
+"2019";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1264;18.65
+"2019";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";19176;25.64
+"2019";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";11942;19.88
+"2019";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";4280;17.93
+"2019";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";4376;25.20
+"2019";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";4391;18.27
+"2019";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";2495;16.33
+"2019";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";9369;22.80
+"2019";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";12993;17.43
+"2019";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";9232;16.13
+"2019";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";8597;21.81
+"2019";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";14180;17.16
+"2019";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";8910;15.35
+"2019";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";2323;23.42
+"2019";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";2882;17.63
+"2019";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1604;16.07
+"2019";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";2523;21.72
+"2019";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";5001;17.68
+"2019";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";3118;15.82
+"2019";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";3751;20.91
+"2019";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";6297;16.22
+"2019";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";4188;14.56
+"2019";"Vantaa";"Yksiöt";"Vapaarahoitteinen";8702;21.49
+"2019";"Vantaa";"Kaksiot";"Vapaarahoitteinen";17562;16.71
+"2019";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";10246;15.29
+"2019";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";2132;22.28
+"2019";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";6145;17.87
+"2019";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";3416;16.23
+"2019";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";6570;21.06
+"2019";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";11417;15.93
+"2019";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";6830;14.65
+"2019";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";6955;17.79
+"2019";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";9277;14.02
+"2019";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";3983;12.79
+"2019";"Porvoo";"Yksiöt";"Vapaarahoitteinen";1052;17.61
+"2019";"Porvoo";"Kaksiot";"Vapaarahoitteinen";944;13.15
+"2019";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";358;11.96
+"2019";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1241;18.21
+"2019";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";1092;14.44
+"2019";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";285;13.39
+"2019";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1331;19.09
+"2019";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";1908;14.75
+"2019";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";762;13.40
+"2019";"Kerava";"Yksiöt";"Vapaarahoitteinen";1227;18.98
+"2019";"Kerava";"Kaksiot";"Vapaarahoitteinen";2442;14.70
+"2019";"Kerava";"Kolmiot+";"Vapaarahoitteinen";1202;13.08
+"2019";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";17982;16.06
+"2019";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";15502;12.51
+"2019";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";5222;10.90
+"2019";"Turku";"Yksiöt";"Vapaarahoitteinen";15362;16.84
+"2019";"Turku";"Kaksiot";"Vapaarahoitteinen";13175;13.14
+"2019";"Turku";"Kolmiot+";"Vapaarahoitteinen";4241;11.27
+"2019";"Turku 1";"Yksiöt";"Vapaarahoitteinen";9247;17.40
+"2019";"Turku 1";"Kaksiot";"Vapaarahoitteinen";7271;13.90
+"2019";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1744;12.03
+"2019";"Turku 2";"Yksiöt";"Vapaarahoitteinen";2532;17.26
+"2019";"Turku 2";"Kaksiot";"Vapaarahoitteinen";1737;13.21
+"2019";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";432;10.79
+"2019";"Turku 3";"Yksiöt";"Vapaarahoitteinen";3583;15.52
+"2019";"Turku 3";"Kaksiot";"Vapaarahoitteinen";4167;11.71
+"2019";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";2065;10.65
+"2019";"Satakunta";"Yksiöt";"Vapaarahoitteinen";4630;13.09
+"2019";"Satakunta";"Kaksiot";"Vapaarahoitteinen";4704;9.97
+"2019";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1333;8.96
+"2019";"Pori";"Yksiöt";"Vapaarahoitteinen";3021;13.61
+"2019";"Pori";"Kaksiot";"Vapaarahoitteinen";3098;10.38
+"2019";"Pori";"Kolmiot+";"Vapaarahoitteinen";730;9.44
+"2019";"Pori 1";"Yksiöt";"Vapaarahoitteinen";1951;14.50
+"2019";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1558;11.43
+"2019";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";328;10.08
+"2019";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1070;11.89
+"2019";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1540;9.28
+"2019";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";402;8.71
+"2019";"Rauma";"Yksiöt";"Vapaarahoitteinen";866;13.53
+"2019";"Rauma";"Kaksiot";"Vapaarahoitteinen";717;10.27
+"2019";"Rauma";"Kolmiot+";"Vapaarahoitteinen";225;9.05
+"2019";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";4801;17.21
+"2019";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";4996;12.51
+"2019";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1645;11.37
+"2019";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";2563;18.98
+"2019";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";2995;13.57
+"2019";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";981;11.90
+"2019";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";1976;19.79
+"2019";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";1762;14.37
+"2019";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";463;12.68
+"2019";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";587;15.38
+"2019";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1233;12.23
+"2019";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";518;11.12
+"2019";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1139;15.12
+"2019";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";1073;11.82
+"2019";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";356;11.05
+"2019";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";24835;17.27
+"2019";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";21197;13.13
+"2019";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";7367;11.72
+"2019";"Tampere";"Yksiöt";"Vapaarahoitteinen";21459;18.08
+"2019";"Tampere";"Kaksiot";"Vapaarahoitteinen";17901;13.87
+"2019";"Tampere";"Kolmiot+";"Vapaarahoitteinen";5827;12.47
+"2019";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";10926;18.48
+"2019";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";5575;14.51
+"2019";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1366;13.31
+"2019";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";3081;18.02
+"2019";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";4713;14.18
+"2019";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1469;12.51
+"2019";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";7452;17.32
+"2019";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";7613;12.77
+"2019";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2992;11.72
+"2019";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7776;15.28
+"2019";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";9153;12.23
+"2019";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";2818;10.81
+"2019";"Lahti";"Yksiöt";"Vapaarahoitteinen";6483;16.17
+"2019";"Lahti";"Kaksiot";"Vapaarahoitteinen";7837;12.81
+"2019";"Lahti";"Kolmiot+";"Vapaarahoitteinen";2370;11.33
+"2019";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";3102;16.90
+"2019";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";2867;14.02
+"2019";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";1075;12.10
+"2019";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3381;15.33
+"2019";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";4970;11.79
+"2019";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1295;10.58
+"2019";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";4862;13.24
+"2019";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";3903;10.56
+"2019";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1348;9.55
+"2019";"Kotka";"Yksiöt";"Vapaarahoitteinen";2132;13.84
+"2019";"Kotka";"Kaksiot";"Vapaarahoitteinen";1530;11.03
+"2019";"Kotka";"Kolmiot+";"Vapaarahoitteinen";462;10.05
+"2019";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";1018;15.05
+"2019";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";729;12.07
+"2019";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";94;10.82
+"2019";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1114;12.57
+"2019";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";801;9.76
+"2019";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";368;9.56
+"2019";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2356;12.92
+"2019";"Kouvola";"Kaksiot";"Vapaarahoitteinen";2023;10.30
+"2019";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";716;9.24
+"2019";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";3033;15.26
+"2019";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";2540;12.18
+"2019";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";829;10.87
+"2019";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";2270;16.10
+"2019";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";1975;12.83
+"2019";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";652;11.41
+"2019";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";1165;17.22
+"2019";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";898;14.35
+"2019";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";277;12.46
+"2019";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";1105;14.23
+"2019";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1077;11.38
+"2019";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";375;10.58
+"2019";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3287;14.09
+"2019";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2601;10.72
+"2019";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";657;9.59
+"2019";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1681;15.91
+"2019";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";1138;11.82
+"2019";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";295;10.48
+"2019";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";8152;15.91
+"2019";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";8564;12.74
+"2019";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2369;11.37
+"2019";"Kuopio";"Yksiöt";"Vapaarahoitteinen";6340;17.51
+"2019";"Kuopio";"Kaksiot";"Vapaarahoitteinen";6592;13.79
+"2019";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1810;12.04
+"2019";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";3479;18.73
+"2019";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2613;14.73
+"2019";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";776;12.39
+"2019";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";2861;16.12
+"2019";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";3979;12.90
+"2019";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";1034;11.70
+"2019";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";5320;15.07
+"2019";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";3803;11.78
+"2019";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";779;9.81
+"2019";"Joensuu";"Yksiöt";"Vapaarahoitteinen";4578;16.17
+"2019";"Joensuu";"Kaksiot";"Vapaarahoitteinen";2998;12.68
+"2019";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";525;10.36
+"2019";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";3510;16.92
+"2019";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";1964;13.24
+"2019";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";223;10.58
+"2019";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";1068;14.48
+"2019";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";1034;11.67
+"2019";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";302;10.11
+"2019";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";9887;16.44
+"2019";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";11817;12.61
+"2019";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";3905;11.15
+"2019";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";8601;17.48
+"2019";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";10366;13.41
+"2019";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";3460;11.72
+"2019";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";5259;18.32
+"2019";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";6008;14.13
+"2019";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1788;12.29
+"2019";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";3342;16.06
+"2019";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";4358;12.39
+"2019";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1672;11.24
+"2019";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2471;13.12
+"2019";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3331;10.67
+"2019";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1189;9.70
+"2019";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";1873;14.66
+"2019";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";2173;11.35
+"2019";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";762;10.31
+"2019";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";3392;15.03
+"2019";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";2877;11.14
+"2019";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";954;9.52
+"2019";"Vaasa";"Yksiöt";"Vapaarahoitteinen";2880;15.60
+"2019";"Vaasa";"Kaksiot";"Vapaarahoitteinen";2156;11.82
+"2019";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";550;9.70
+"2019";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";2416;15.98
+"2019";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";1775;12.20
+"2019";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";344;9.80
+"2019";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";464;13.12
+"2019";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";381;10.24
+"2019";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";206;9.45
+"2019";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";597;14.21
+"2019";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";719;10.76
+"2019";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";269;9.49
+"2019";"Kokkola";"Yksiöt";"Vapaarahoitteinen";528;14.92
+"2019";"Kokkola";"Kaksiot";"Vapaarahoitteinen";597;11.17
+"2019";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";236;9.58
+"2019";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";13346;15.29
+"2019";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";12854;11.87
+"2019";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4709;10.69
+"2019";"Oulu";"Yksiöt";"Vapaarahoitteinen";11894;15.88
+"2019";"Oulu";"Kaksiot";"Vapaarahoitteinen";11122;12.29
+"2019";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3768;11.06
+"2019";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";5256;16.72
+"2019";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";5438;13.24
+"2019";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1449;12.17
+"2019";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";6638;15.14
+"2019";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";5684;11.47
+"2019";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2319;10.38
+"2019";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1689;14.13
+"2019";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1357;11.07
+"2019";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";482;10.00
+"2019";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1425;14.94
+"2019";"Kajaani";"Kaksiot";"Vapaarahoitteinen";1078;11.60
+"2019";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";384;10.26
+"2019";"Lappi";"Yksiöt";"Vapaarahoitteinen";4141;15.14
+"2019";"Lappi";"Kaksiot";"Vapaarahoitteinen";4395;11.60
+"2019";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1586;10.12
+"2019";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2864;16.18
+"2019";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2711;12.70
+"2019";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";944;11.01
+"2020";"Koko maa";"Yksiöt";"Vapaarahoitteinen";182705;18.97
+"2020";"Koko maa";"Kaksiot";"Vapaarahoitteinen";185698;14.29
+"2020";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";76474;13.05
+"2020";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";58714;25.28
+"2020";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";66306;19.12
+"2020";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";37046;17.16
+"2020";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";123991;16.15
+"2020";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";119392;12.45
+"2020";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";39428;11.08
+"2020";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";66797;24.11
+"2020";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";76921;18.12
+"2020";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";41587;16.35
+"2020";"Helsinki";"Yksiöt";"Vapaarahoitteinen";40419;26.33
+"2020";"Helsinki";"Kaksiot";"Vapaarahoitteinen";33846;19.98
+"2020";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";17180;18.04
+"2020";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";6805;27.96
+"2020";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";3647;22.01
+"2020";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1217;19.09
+"2020";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";19646;26.58
+"2020";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";12559;20.71
+"2020";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";4437;18.85
+"2020";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";4489;26.12
+"2020";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";4306;18.53
+"2020";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";2395;17.18
+"2020";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";9479;23.49
+"2020";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";13334;17.87
+"2020";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";9131;16.72
+"2020";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";9116;22.67
+"2020";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";14328;18.02
+"2020";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";8942;16.13
+"2020";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";2559;24.49
+"2020";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";2803;18.84
+"2020";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1594;16.71
+"2020";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";2775;23.04
+"2020";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";5442;18.62
+"2020";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";3257;16.85
+"2020";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";3782;21.48
+"2020";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";6083;16.78
+"2020";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";4091;15.07
+"2020";"Vantaa";"Yksiöt";"Vapaarahoitteinen";9179;22.53
+"2020";"Vantaa";"Kaksiot";"Vapaarahoitteinen";18132;17.41
+"2020";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";10924;15.88
+"2020";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";2138;23.27
+"2020";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";6574;18.44
+"2020";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";3792;16.75
+"2020";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";7041;22.14
+"2020";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";11558;16.66
+"2020";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";7132;15.30
+"2020";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";6659;18.30
+"2020";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";8835;14.27
+"2020";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";3957;13.17
+"2020";"Porvoo";"Yksiöt";"Vapaarahoitteinen";988;18.17
+"2020";"Porvoo";"Kaksiot";"Vapaarahoitteinen";825;13.58
+"2020";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";285;12.60
+"2020";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1254;18.31
+"2020";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";1100;14.19
+"2020";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";372;13.41
+"2020";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1267;19.52
+"2020";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";1872;15.13
+"2020";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";745;13.85
+"2020";"Kerava";"Yksiöt";"Vapaarahoitteinen";1251;19.88
+"2020";"Kerava";"Kaksiot";"Vapaarahoitteinen";2393;15.35
+"2020";"Kerava";"Kolmiot+";"Vapaarahoitteinen";1223;13.82
+"2020";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";17642;16.56
+"2020";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";15144;12.72
+"2020";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";5003;11.11
+"2020";"Turku";"Yksiöt";"Vapaarahoitteinen";15248;17.54
+"2020";"Turku";"Kaksiot";"Vapaarahoitteinen";13036;13.64
+"2020";"Turku";"Kolmiot+";"Vapaarahoitteinen";4219;11.57
+"2020";"Turku 1";"Yksiöt";"Vapaarahoitteinen";9417;18.11
+"2020";"Turku 1";"Kaksiot";"Vapaarahoitteinen";7425;14.42
+"2020";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1777;12.25
+"2020";"Turku 2";"Yksiöt";"Vapaarahoitteinen";2468;17.99
+"2020";"Turku 2";"Kaksiot";"Vapaarahoitteinen";1719;13.91
+"2020";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";480;11.06
+"2020";"Turku 3";"Yksiöt";"Vapaarahoitteinen";3363;16.01
+"2020";"Turku 3";"Kaksiot";"Vapaarahoitteinen";3892;12.12
+"2020";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";1962;11.00
+"2020";"Satakunta";"Yksiöt";"Vapaarahoitteinen";4450;13.20
+"2020";"Satakunta";"Kaksiot";"Vapaarahoitteinen";4326;10.17
+"2020";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1148;9.03
+"2020";"Pori";"Yksiöt";"Vapaarahoitteinen";2896;13.70
+"2020";"Pori";"Kaksiot";"Vapaarahoitteinen";2808;10.72
+"2020";"Pori";"Kolmiot+";"Vapaarahoitteinen";631;9.51
+"2020";"Pori 1";"Yksiöt";"Vapaarahoitteinen";1862;14.57
+"2020";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1426;11.60
+"2020";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";275;9.98
+"2020";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1034;12.07
+"2020";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1382;9.66
+"2020";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";356;9.00
+"2020";"Rauma";"Yksiöt";"Vapaarahoitteinen";837;13.81
+"2020";"Rauma";"Kaksiot";"Vapaarahoitteinen";702;10.52
+"2020";"Rauma";"Kolmiot+";"Vapaarahoitteinen";178;9.22
+"2020";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";4729;15.94
+"2020";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";4789;12.22
+"2020";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1585;11.09
+"2020";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";2664;17.64
+"2020";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";3077;13.29
+"2020";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";1021;11.88
+"2020";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";2072;18.51
+"2020";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";1933;13.99
+"2020";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";559;12.45
+"2020";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";592;15.26
+"2020";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1144;12.26
+"2020";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";462;11.30
+"2020";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1029;15.24
+"2020";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";906;12.01
+"2020";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";313;11.16
+"2020";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";24778;17.76
+"2020";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";20569;13.55
+"2020";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";7305;12.04
+"2020";"Tampere";"Yksiöt";"Vapaarahoitteinen";21643;18.67
+"2020";"Tampere";"Kaksiot";"Vapaarahoitteinen";17682;14.29
+"2020";"Tampere";"Kolmiot+";"Vapaarahoitteinen";5929;12.92
+"2020";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";10829;19.01
+"2020";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";5406;14.99
+"2020";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1531;13.67
+"2020";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";3213;18.67
+"2020";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";4847;14.63
+"2020";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1493;13.05
+"2020";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";7601;18.06
+"2020";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";7429;13.10
+"2020";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2905;12.06
+"2020";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7363;15.61
+"2020";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";9021;12.46
+"2020";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";2685;11.03
+"2020";"Lahti";"Yksiöt";"Vapaarahoitteinen";6167;16.48
+"2020";"Lahti";"Kaksiot";"Vapaarahoitteinen";7805;13.04
+"2020";"Lahti";"Kolmiot+";"Vapaarahoitteinen";2302;11.63
+"2020";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";2897;17.26
+"2020";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";3049;14.13
+"2020";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";1079;12.36
+"2020";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3270;15.58
+"2020";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";4756;11.97
+"2020";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1223;10.84
+"2020";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";4643;13.51
+"2020";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";3627;11.10
+"2020";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1224;9.97
+"2020";"Kotka";"Yksiöt";"Vapaarahoitteinen";2061;14.19
+"2020";"Kotka";"Kaksiot";"Vapaarahoitteinen";1478;11.93
+"2020";"Kotka";"Kolmiot+";"Vapaarahoitteinen";480;10.89
+"2020";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";1056;15.35
+"2020";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";727;13.21
+"2020";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";150;11.85
+"2020";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1005;12.71
+"2020";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";751;10.43
+"2020";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";330;9.77
+"2020";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2266;13.19
+"2020";"Kouvola";"Kaksiot";"Vapaarahoitteinen";1825;10.44
+"2020";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";605;9.19
+"2020";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";2865;15.74
+"2020";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";2587;12.49
+"2020";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";718;11.04
+"2020";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";2170;16.70
+"2020";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";2066;13.14
+"2020";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";579;11.49
+"2020";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";1124;17.73
+"2020";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";1052;14.52
+"2020";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";286;12.33
+"2020";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";1046;14.49
+"2020";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1014;11.58
+"2020";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";293;10.59
+"2020";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3101;13.90
+"2020";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2284;10.84
+"2020";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";534;9.39
+"2020";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1620;16.02
+"2020";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";992;12.01
+"2020";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";246;10.44
+"2020";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";7896;15.85
+"2020";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";7830;12.84
+"2020";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2195;11.23
+"2020";"Kuopio";"Yksiöt";"Vapaarahoitteinen";6100;17.88
+"2020";"Kuopio";"Kaksiot";"Vapaarahoitteinen";6079;14.09
+"2020";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1712;12.19
+"2020";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";3312;19.07
+"2020";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2340;15.06
+"2020";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";731;12.75
+"2020";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";2788;16.68
+"2020";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";3739;13.18
+"2020";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";981;11.75
+"2020";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";4949;15.17
+"2020";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";3463;11.85
+"2020";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";643;9.89
+"2020";"Joensuu";"Yksiöt";"Vapaarahoitteinen";4289;16.76
+"2020";"Joensuu";"Kaksiot";"Vapaarahoitteinen";2770;13.00
+"2020";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";461;10.93
+"2020";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";3410;17.42
+"2020";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";1793;13.60
+"2020";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";181;11.44
+"2020";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";879;14.99
+"2020";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";977;11.98
+"2020";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";280;10.37
+"2020";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";9526;16.91
+"2020";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";11439;12.66
+"2020";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";3824;11.11
+"2020";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";8294;18.29
+"2020";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";10095;13.58
+"2020";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";3446;11.85
+"2020";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";5055;19.32
+"2020";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";5886;14.38
+"2020";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1814;12.36
+"2020";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";3239;16.31
+"2020";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";4209;12.43
+"2020";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1632;11.39
+"2020";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2345;13.25
+"2020";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3126;10.87
+"2020";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1041;9.75
+"2020";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";1798;14.92
+"2020";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";2064;11.74
+"2020";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";671;10.42
+"2020";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";3067;15.00
+"2020";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";2659;11.31
+"2020";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";764;9.71
+"2020";"Vaasa";"Yksiöt";"Vapaarahoitteinen";2592;15.73
+"2020";"Vaasa";"Kaksiot";"Vapaarahoitteinen";1993;12.06
+"2020";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";450;10.00
+"2020";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";2159;16.17
+"2020";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";1664;12.45
+"2020";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";315;10.10
+"2020";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";433;13.46
+"2020";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";329;10.25
+"2020";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";135;9.76
+"2020";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";535;14.21
+"2020";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";669;10.91
+"2020";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";227;9.43
+"2020";"Kokkola";"Yksiöt";"Vapaarahoitteinen";480;15.18
+"2020";"Kokkola";"Kaksiot";"Vapaarahoitteinen";566;11.33
+"2020";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";188;9.56
+"2020";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";12798;15.73
+"2020";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";12219;12.11
+"2020";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4320;10.95
+"2020";"Oulu";"Yksiöt";"Vapaarahoitteinen";11437;16.45
+"2020";"Oulu";"Kaksiot";"Vapaarahoitteinen";10596;12.64
+"2020";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3549;11.38
+"2020";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";4917;17.26
+"2020";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";5124;13.58
+"2020";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1385;12.37
+"2020";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";6520;15.63
+"2020";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";5472;11.82
+"2020";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2164;10.72
+"2020";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1486;14.34
+"2020";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1084;11.04
+"2020";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";339;9.88
+"2020";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1264;15.19
+"2020";"Kajaani";"Kaksiot";"Vapaarahoitteinen";844;11.68
+"2020";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";257;10.46
+"2020";"Lappi";"Yksiöt";"Vapaarahoitteinen";3735;15.33
+"2020";"Lappi";"Kaksiot";"Vapaarahoitteinen";3941;11.85
+"2020";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1332;10.24
+"2020";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2642;16.54
+"2020";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2506;13.05
+"2020";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";759;11.36
+"2021";"Koko maa";"Yksiöt";"Vapaarahoitteinen";214221;19.23
+"2021";"Koko maa";"Kaksiot";"Vapaarahoitteinen";212526;14.37
+"2021";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";87263;13.08
+"2021";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";65946;25.64
+"2021";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";72298;19.25
+"2021";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";40644;17.35
+"2021";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";148275;16.38
+"2021";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";140228;12.55
+"2021";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";46619;11.10
+"2021";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";75348;24.40
+"2021";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";84244;18.26
+"2021";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";45851;16.49
+"2021";"Helsinki";"Yksiöt";"Vapaarahoitteinen";45934;26.69
+"2021";"Helsinki";"Kaksiot";"Vapaarahoitteinen";37045;20.14
+"2021";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";19121;18.26
+"2021";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";9108;28.28
+"2021";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";4640;22.19
+"2021";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1758;19.22
+"2021";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";21782;26.90
+"2021";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";13454;20.84
+"2021";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";4887;19.01
+"2021";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";4845;26.16
+"2021";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";4644;18.94
+"2021";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";2552;17.61
+"2021";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";10199;23.99
+"2021";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";14307;17.96
+"2021";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";9924;16.97
+"2021";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";9698;23.25
+"2021";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";15555;18.19
+"2021";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";9439;16.34
+"2021";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";2591;24.77
+"2021";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";2874;18.88
+"2021";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1617;16.59
+"2021";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";3149;23.62
+"2021";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";5820;18.86
+"2021";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";3527;17.22
+"2021";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";3958;21.94
+"2021";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";6861;16.91
+"2021";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";4295;15.28
+"2021";"Vantaa";"Yksiöt";"Vapaarahoitteinen";10314;23.11
+"2021";"Vantaa";"Kaksiot";"Vapaarahoitteinen";19698;17.54
+"2021";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";12084;15.99
+"2021";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";2553;24.05
+"2021";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";7083;18.60
+"2021";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";4153;16.94
+"2021";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";7761;22.40
+"2021";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";12615;16.75
+"2021";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";7931;15.36
+"2021";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";7722;18.55
+"2021";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";9950;14.41
+"2021";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";4543;13.26
+"2021";"Porvoo";"Yksiöt";"Vapaarahoitteinen";1117;18.44
+"2021";"Porvoo";"Kaksiot";"Vapaarahoitteinen";887;13.75
+"2021";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";278;12.81
+"2021";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1584;18.48
+"2021";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";1395;14.23
+"2021";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";478;13.38
+"2021";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1489;19.95
+"2021";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";2165;15.24
+"2021";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";868;13.88
+"2021";"Kerava";"Yksiöt";"Vapaarahoitteinen";1443;20.25
+"2021";"Kerava";"Kaksiot";"Vapaarahoitteinen";2686;15.50
+"2021";"Kerava";"Kolmiot+";"Vapaarahoitteinen";1529;13.96
+"2021";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";22859;16.85
+"2021";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";18346;12.87
+"2021";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";5994;11.20
+"2021";"Turku";"Yksiöt";"Vapaarahoitteinen";19294;17.90
+"2021";"Turku";"Kaksiot";"Vapaarahoitteinen";14848;13.89
+"2021";"Turku";"Kolmiot+";"Vapaarahoitteinen";4635;11.87
+"2021";"Turku 1";"Yksiöt";"Vapaarahoitteinen";11787;18.45
+"2021";"Turku 1";"Kaksiot";"Vapaarahoitteinen";8217;14.63
+"2021";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1899;12.38
+"2021";"Turku 2";"Yksiöt";"Vapaarahoitteinen";3311;18.36
+"2021";"Turku 2";"Kaksiot";"Vapaarahoitteinen";2212;14.13
+"2021";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";618;11.35
+"2021";"Turku 3";"Yksiöt";"Vapaarahoitteinen";4196;16.42
+"2021";"Turku 3";"Kaksiot";"Vapaarahoitteinen";4419;12.55
+"2021";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";2118;11.44
+"2021";"Satakunta";"Yksiöt";"Vapaarahoitteinen";6134;13.25
+"2021";"Satakunta";"Kaksiot";"Vapaarahoitteinen";5887;10.27
+"2021";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1671;9.17
+"2021";"Pori";"Yksiöt";"Vapaarahoitteinen";4036;13.75
+"2021";"Pori";"Kaksiot";"Vapaarahoitteinen";3814;10.78
+"2021";"Pori";"Kolmiot+";"Vapaarahoitteinen";998;9.68
+"2021";"Pori 1";"Yksiöt";"Vapaarahoitteinen";2698;14.54
+"2021";"Pori 1";"Kaksiot";"Vapaarahoitteinen";2109;11.61
+"2021";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";428;10.11
+"2021";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1338;12.11
+"2021";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1705;9.71
+"2021";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";570;9.17
+"2021";"Rauma";"Yksiöt";"Vapaarahoitteinen";1108;14.00
+"2021";"Rauma";"Kaksiot";"Vapaarahoitteinen";936;10.66
+"2021";"Rauma";"Kolmiot+";"Vapaarahoitteinen";215;9.24
+"2021";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";5746;15.85
+"2021";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";5634;12.32
+"2021";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1911;11.07
+"2021";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";3252;17.54
+"2021";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";3482;13.38
+"2021";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";1103;12.00
+"2021";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";2570;18.46
+"2021";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";2203;14.11
+"2021";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";609;12.59
+"2021";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";682;15.45
+"2021";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1279;12.32
+"2021";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";494;11.33
+"2021";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1166;15.33
+"2021";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";1058;12.18
+"2021";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";382;11.16
+"2021";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";27377;18.13
+"2021";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";22748;13.73
+"2021";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";7897;12.06
+"2021";"Tampere";"Yksiöt";"Vapaarahoitteinen";23602;19.12
+"2021";"Tampere";"Kaksiot";"Vapaarahoitteinen";19311;14.51
+"2021";"Tampere";"Kolmiot+";"Vapaarahoitteinen";6200;13.02
+"2021";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";12234;19.56
+"2021";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";6341;15.19
+"2021";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1564;13.76
+"2021";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";3332;19.14
+"2021";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";5109;14.88
+"2021";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1629;13.23
+"2021";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";8036;18.39
+"2021";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";7861;13.31
+"2021";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";3007;12.19
+"2021";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7708;15.71
+"2021";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";10248;12.48
+"2021";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";3248;11.08
+"2021";"Lahti";"Yksiöt";"Vapaarahoitteinen";6376;16.57
+"2021";"Lahti";"Kaksiot";"Vapaarahoitteinen";8756;13.12
+"2021";"Lahti";"Kolmiot+";"Vapaarahoitteinen";2685;11.63
+"2021";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";3217;17.38
+"2021";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";3605;14.31
+"2021";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";1349;12.40
+"2021";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";3159;15.63
+"2021";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";5151;12.02
+"2021";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1336;10.79
+"2021";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";5214;13.57
+"2021";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";4335;11.18
+"2021";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1317;9.83
+"2021";"Kotka";"Yksiöt";"Vapaarahoitteinen";2181;14.16
+"2021";"Kotka";"Kaksiot";"Vapaarahoitteinen";1817;12.08
+"2021";"Kotka";"Kolmiot+";"Vapaarahoitteinen";476;10.75
+"2021";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";1081;15.44
+"2021";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";844;13.32
+"2021";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";156;11.52
+"2021";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1100;12.70
+"2021";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";973;10.74
+"2021";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";320;10.00
+"2021";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2592;13.34
+"2021";"Kouvola";"Kaksiot";"Vapaarahoitteinen";2121;10.44
+"2021";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";651;9.17
+"2021";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";4094;16.02
+"2021";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";3514;12.56
+"2021";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";990;10.91
+"2021";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";3129;17.08
+"2021";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";2776;13.24
+"2021";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";779;11.35
+"2021";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";1840;18.04
+"2021";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";1410;14.59
+"2021";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";379;12.01
+"2021";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";1289;14.92
+"2021";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1366;11.62
+"2021";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";400;10.63
+"2021";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3474;13.95
+"2021";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2908;10.75
+"2021";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";708;9.42
+"2021";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1801;16.12
+"2021";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";1338;11.95
+"2021";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";292;10.36
+"2021";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";9305;16.04
+"2021";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";9014;12.85
+"2021";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2625;11.13
+"2021";"Kuopio";"Yksiöt";"Vapaarahoitteinen";6686;18.18
+"2021";"Kuopio";"Kaksiot";"Vapaarahoitteinen";6779;14.13
+"2021";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1874;12.10
+"2021";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";3586;19.38
+"2021";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2818;15.04
+"2021";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";794;12.86
+"2021";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";3100;16.85
+"2021";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";3961;13.19
+"2021";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";1080;11.55
+"2021";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";6173;15.20
+"2021";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";4595;11.76
+"2021";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";997;9.99
+"2021";"Joensuu";"Yksiöt";"Vapaarahoitteinen";5111;16.99
+"2021";"Joensuu";"Kaksiot";"Vapaarahoitteinen";3487;13.03
+"2021";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";613;11.04
+"2021";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";4014;17.62
+"2021";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";2240;13.64
+"2021";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";237;11.62
+"2021";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";1097;15.25
+"2021";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";1247;12.06
+"2021";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";376;10.38
+"2021";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";11441;16.95
+"2021";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";12620;12.68
+"2021";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";4312;11.13
+"2021";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";9639;18.34
+"2021";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";10845;13.61
+"2021";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";3661;11.93
+"2021";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";6265;19.28
+"2021";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";6541;14.43
+"2021";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1953;12.60
+"2021";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";3374;16.25
+"2021";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";4304;12.35
+"2021";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1708;11.31
+"2021";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2962;13.61
+"2021";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3826;11.00
+"2021";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1426;9.73
+"2021";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";2185;15.29
+"2021";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";2476;11.92
+"2021";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";860;10.49
+"2021";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";4088;14.96
+"2021";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3704;11.32
+"2021";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1106;9.75
+"2021";"Vaasa";"Yksiöt";"Vapaarahoitteinen";3501;15.76
+"2021";"Vaasa";"Kaksiot";"Vapaarahoitteinen";2818;12.05
+"2021";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";689;10.14
+"2021";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";2950;16.21
+"2021";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";2312;12.49
+"2021";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";427;10.34
+"2021";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";551;13.59
+"2021";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";506;10.33
+"2021";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";262;9.77
+"2021";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";906;14.42
+"2021";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";1124;10.99
+"2021";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";386;9.48
+"2021";"Kokkola";"Yksiöt";"Vapaarahoitteinen";795;15.32
+"2021";"Kokkola";"Kaksiot";"Vapaarahoitteinen";925;11.43
+"2021";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";336;9.73
+"2021";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";15215;15.99
+"2021";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";14038;12.33
+"2021";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4942;11.12
+"2021";"Oulu";"Yksiöt";"Vapaarahoitteinen";13304;16.76
+"2021";"Oulu";"Kaksiot";"Vapaarahoitteinen";11818;12.92
+"2021";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3957;11.56
+"2021";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";6056;17.48
+"2021";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";5588;13.83
+"2021";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1543;12.56
+"2021";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";7248;16.06
+"2021";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";6230;12.19
+"2021";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2414;10.89
+"2021";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1891;14.49
+"2021";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1315;11.13
+"2021";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";455;9.82
+"2021";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1623;15.33
+"2021";"Kajaani";"Kaksiot";"Vapaarahoitteinen";986;11.92
+"2021";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";307;10.32
+"2021";"Lappi";"Yksiöt";"Vapaarahoitteinen";4286;15.77
+"2021";"Lappi";"Kaksiot";"Vapaarahoitteinen";4426;12.14
+"2021";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1427;10.47
+"2021";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";3011;16.88
+"2021";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2763;13.19
+"2021";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";804;11.54
+"2022";"Koko maa";"Yksiöt";"Vapaarahoitteinen";208158;19.82
+"2022";"Koko maa";"Kaksiot";"Vapaarahoitteinen";208082;14.92
+"2022";"Koko maa";"Kolmiot+";"Vapaarahoitteinen";86172;13.88
+"2022";"Pääkaupunkiseutu (PKS)";"Yksiöt";"Vapaarahoitteinen";66386;25.75
+"2022";"Pääkaupunkiseutu (PKS)";"Kaksiot";"Vapaarahoitteinen";73176;19.51
+"2022";"Pääkaupunkiseutu (PKS)";"Kolmiot+";"Vapaarahoitteinen";41787;17.86
+"2022";"Muu Suomi (koko maa pl. PKS)";"Yksiöt";"Vapaarahoitteinen";141772;16.87
+"2022";"Muu Suomi (koko maa pl. PKS)";"Kaksiot";"Vapaarahoitteinen";134906;12.95
+"2022";"Muu Suomi (koko maa pl. PKS)";"Kolmiot+";"Vapaarahoitteinen";44385;11.56
+"2022";"Uusimaa";"Yksiöt";"Vapaarahoitteinen";75599;24.58
+"2022";"Uusimaa";"Kaksiot";"Vapaarahoitteinen";85019;18.55
+"2022";"Uusimaa";"Kolmiot+";"Vapaarahoitteinen";47078;17.00
+"2022";"Helsinki";"Yksiöt";"Vapaarahoitteinen";44793;26.83
+"2022";"Helsinki";"Kaksiot";"Vapaarahoitteinen";37118;20.48
+"2022";"Helsinki";"Kolmiot+";"Vapaarahoitteinen";19878;18.84
+"2022";"Helsinki 1";"Yksiöt";"Vapaarahoitteinen";8609;28.86
+"2022";"Helsinki 1";"Kaksiot";"Vapaarahoitteinen";4328;23.39
+"2022";"Helsinki 1";"Kolmiot+";"Vapaarahoitteinen";1600;21.35
+"2022";"Helsinki 2";"Yksiöt";"Vapaarahoitteinen";21409;27.19
+"2022";"Helsinki 2";"Kaksiot";"Vapaarahoitteinen";13545;21.43
+"2022";"Helsinki 2";"Kolmiot+";"Vapaarahoitteinen";5274;19.55
+"2022";"Helsinki 3";"Yksiöt";"Vapaarahoitteinen";4613;26.06
+"2022";"Helsinki 3";"Kaksiot";"Vapaarahoitteinen";4572;19.23
+"2022";"Helsinki 3";"Kolmiot+";"Vapaarahoitteinen";2520;17.94
+"2022";"Helsinki 4";"Yksiöt";"Vapaarahoitteinen";10162;24.30
+"2022";"Helsinki 4";"Kaksiot";"Vapaarahoitteinen";14673;18.15
+"2022";"Helsinki 4";"Kolmiot+";"Vapaarahoitteinen";10484;17.21
+"2022";"Espoo-Kauniainen";"Yksiöt";"Vapaarahoitteinen";10790;23.60
+"2022";"Espoo-Kauniainen";"Kaksiot";"Vapaarahoitteinen";15973;18.52
+"2022";"Espoo-Kauniainen";"Kolmiot+";"Vapaarahoitteinen";9779;16.95
+"2022";"Espoo-Kauniainen 1";"Yksiöt";"Vapaarahoitteinen";3060;25.31
+"2022";"Espoo-Kauniainen 1";"Kaksiot";"Vapaarahoitteinen";3015;19.49
+"2022";"Espoo-Kauniainen 1";"Kolmiot+";"Vapaarahoitteinen";1757;17.73
+"2022";"Espoo-Kauniainen 2";"Yksiöt";"Vapaarahoitteinen";3637;23.81
+"2022";"Espoo-Kauniainen 2";"Kaksiot";"Vapaarahoitteinen";6280;19.04
+"2022";"Espoo-Kauniainen 2";"Kolmiot+";"Vapaarahoitteinen";3699;17.49
+"2022";"Espoo-Kauniainen 3";"Yksiöt";"Vapaarahoitteinen";4093;22.19
+"2022";"Espoo-Kauniainen 3";"Kaksiot";"Vapaarahoitteinen";6678;17.15
+"2022";"Espoo-Kauniainen 3";"Kolmiot+";"Vapaarahoitteinen";4323;15.84
+"2022";"Vantaa";"Yksiöt";"Vapaarahoitteinen";10803;23.64
+"2022";"Vantaa";"Kaksiot";"Vapaarahoitteinen";20085;17.81
+"2022";"Vantaa";"Kolmiot+";"Vapaarahoitteinen";12130;16.40
+"2022";"Vantaa 1";"Yksiöt";"Vapaarahoitteinen";3190;24.61
+"2022";"Vantaa 1";"Kaksiot";"Vapaarahoitteinen";7049;18.81
+"2022";"Vantaa 1";"Kolmiot+";"Vapaarahoitteinen";4111;17.21
+"2022";"Vantaa 2";"Yksiöt";"Vapaarahoitteinen";7613;22.73
+"2022";"Vantaa 2";"Kaksiot";"Vapaarahoitteinen";13036;17.00
+"2022";"Vantaa 2";"Kolmiot+";"Vapaarahoitteinen";8019;15.72
+"2022";"Kehyskunnat";"Yksiöt";"Vapaarahoitteinen";7653;19.00
+"2022";"Kehyskunnat";"Kaksiot";"Vapaarahoitteinen";10060;14.73
+"2022";"Kehyskunnat";"Kolmiot+";"Vapaarahoitteinen";4612;13.59
+"2022";"Porvoo";"Yksiöt";"Vapaarahoitteinen";1037;18.75
+"2022";"Porvoo";"Kaksiot";"Vapaarahoitteinen";793;13.76
+"2022";"Porvoo";"Kolmiot+";"Vapaarahoitteinen";293;12.93
+"2022";"Hyvinkää";"Yksiöt";"Vapaarahoitteinen";1605;17.95
+"2022";"Hyvinkää";"Kaksiot";"Vapaarahoitteinen";1445;14.16
+"2022";"Hyvinkää";"Kolmiot+";"Vapaarahoitteinen";548;12.76
+"2022";"Järvenpää";"Yksiöt";"Vapaarahoitteinen";1553;20.25
+"2022";"Järvenpää";"Kaksiot";"Vapaarahoitteinen";2249;15.61
+"2022";"Järvenpää";"Kolmiot+";"Vapaarahoitteinen";905;14.26
+"2022";"Kerava";"Yksiöt";"Vapaarahoitteinen";1427;20.78
+"2022";"Kerava";"Kaksiot";"Vapaarahoitteinen";2782;15.79
+"2022";"Kerava";"Kolmiot+";"Vapaarahoitteinen";1552;14.11
+"2022";"Varsinais-Suomi";"Yksiöt";"Vapaarahoitteinen";21519;17.37
+"2022";"Varsinais-Suomi";"Kaksiot";"Vapaarahoitteinen";17985;13.41
+"2022";"Varsinais-Suomi";"Kolmiot+";"Vapaarahoitteinen";5655;11.97
+"2022";"Turku";"Yksiöt";"Vapaarahoitteinen";18180;18.36
+"2022";"Turku";"Kaksiot";"Vapaarahoitteinen";14676;14.30
+"2022";"Turku";"Kolmiot+";"Vapaarahoitteinen";4408;12.64
+"2022";"Turku 1";"Yksiöt";"Vapaarahoitteinen";11184;18.90
+"2022";"Turku 1";"Kaksiot";"Vapaarahoitteinen";7920;15.02
+"2022";"Turku 1";"Kolmiot+";"Vapaarahoitteinen";1779;13.48
+"2022";"Turku 2";"Yksiöt";"Vapaarahoitteinen";3126;19.00
+"2022";"Turku 2";"Kaksiot";"Vapaarahoitteinen";2272;14.60
+"2022";"Turku 2";"Kolmiot+";"Vapaarahoitteinen";478;11.95
+"2022";"Turku 3";"Yksiöt";"Vapaarahoitteinen";3870;17.00
+"2022";"Turku 3";"Kaksiot";"Vapaarahoitteinen";4484;13.07
+"2022";"Turku 3";"Kolmiot+";"Vapaarahoitteinen";2151;12.00
+"2022";"Satakunta";"Yksiöt";"Vapaarahoitteinen";5399;13.50
+"2022";"Satakunta";"Kaksiot";"Vapaarahoitteinen";5536;10.30
+"2022";"Satakunta";"Kolmiot+";"Vapaarahoitteinen";1616;9.16
+"2022";"Pori";"Yksiöt";"Vapaarahoitteinen";3446;14.06
+"2022";"Pori";"Kaksiot";"Vapaarahoitteinen";3605;10.73
+"2022";"Pori";"Kolmiot+";"Vapaarahoitteinen";961;9.61
+"2022";"Pori 1";"Yksiöt";"Vapaarahoitteinen";2348;14.90
+"2022";"Pori 1";"Kaksiot";"Vapaarahoitteinen";1958;11.64
+"2022";"Pori 1";"Kolmiot+";"Vapaarahoitteinen";438;9.95
+"2022";"Pori 2";"Yksiöt";"Vapaarahoitteinen";1098;12.24
+"2022";"Pori 2";"Kaksiot";"Vapaarahoitteinen";1647;9.73
+"2022";"Pori 2";"Kolmiot+";"Vapaarahoitteinen";523;9.20
+"2022";"Rauma";"Yksiöt";"Vapaarahoitteinen";1018;14.18
+"2022";"Rauma";"Kaksiot";"Vapaarahoitteinen";921;10.71
+"2022";"Rauma";"Kolmiot+";"Vapaarahoitteinen";221;9.31
+"2022";"Kanta-Häme";"Yksiöt";"Vapaarahoitteinen";5667;16.12
+"2022";"Kanta-Häme";"Kaksiot";"Vapaarahoitteinen";5443;12.57
+"2022";"Kanta-Häme";"Kolmiot+";"Vapaarahoitteinen";1845;11.47
+"2022";"Hämeenlinna";"Yksiöt";"Vapaarahoitteinen";3236;17.79
+"2022";"Hämeenlinna";"Kaksiot";"Vapaarahoitteinen";3378;13.65
+"2022";"Hämeenlinna";"Kolmiot+";"Vapaarahoitteinen";1092;12.22
+"2022";"Hämeenlinna 1";"Yksiöt";"Vapaarahoitteinen";2557;18.70
+"2022";"Hämeenlinna 1";"Kaksiot";"Vapaarahoitteinen";2113;14.54
+"2022";"Hämeenlinna 1";"Kolmiot+";"Vapaarahoitteinen";622;12.76
+"2022";"Hämeenlinna 2";"Yksiöt";"Vapaarahoitteinen";679;15.87
+"2022";"Hämeenlinna 2";"Kaksiot";"Vapaarahoitteinen";1265;12.55
+"2022";"Hämeenlinna 2";"Kolmiot+";"Vapaarahoitteinen";470;11.75
+"2022";"Riihimäki";"Yksiöt";"Vapaarahoitteinen";1154;15.57
+"2022";"Riihimäki";"Kaksiot";"Vapaarahoitteinen";1024;12.31
+"2022";"Riihimäki";"Kolmiot+";"Vapaarahoitteinen";362;11.38
+"2022";"Pirkanmaa";"Yksiöt";"Vapaarahoitteinen";26594;18.62
+"2022";"Pirkanmaa";"Kaksiot";"Vapaarahoitteinen";22604;14.12
+"2022";"Pirkanmaa";"Kolmiot+";"Vapaarahoitteinen";7585;12.64
+"2022";"Tampere";"Yksiöt";"Vapaarahoitteinen";22845;19.65
+"2022";"Tampere";"Kaksiot";"Vapaarahoitteinen";19373;14.90
+"2022";"Tampere";"Kolmiot+";"Vapaarahoitteinen";6135;13.38
+"2022";"Tampere 1";"Yksiöt";"Vapaarahoitteinen";11278;20.25
+"2022";"Tampere 1";"Kaksiot";"Vapaarahoitteinen";6296;15.61
+"2022";"Tampere 1";"Kolmiot+";"Vapaarahoitteinen";1564;14.23
+"2022";"Tampere 2";"Yksiöt";"Vapaarahoitteinen";3424;19.48
+"2022";"Tampere 2";"Kaksiot";"Vapaarahoitteinen";5069;15.29
+"2022";"Tampere 2";"Kolmiot+";"Vapaarahoitteinen";1601;13.41
+"2022";"Tampere 3";"Yksiöt";"Vapaarahoitteinen";8143;18.85
+"2022";"Tampere 3";"Kaksiot";"Vapaarahoitteinen";8008;13.69
+"2022";"Tampere 3";"Kolmiot+";"Vapaarahoitteinen";2970;12.64
+"2022";"Päijät-Häme";"Yksiöt";"Vapaarahoitteinen";7175;15.90
+"2022";"Päijät-Häme";"Kaksiot";"Vapaarahoitteinen";9483;12.66
+"2022";"Päijät-Häme";"Kolmiot+";"Vapaarahoitteinen";3106;11.39
+"2022";"Lahti";"Yksiöt";"Vapaarahoitteinen";5959;16.77
+"2022";"Lahti";"Kaksiot";"Vapaarahoitteinen";7960;13.28
+"2022";"Lahti";"Kolmiot+";"Vapaarahoitteinen";2564;11.88
+"2022";"Lahti 1";"Yksiöt";"Vapaarahoitteinen";2998;17.68
+"2022";"Lahti 1";"Kaksiot";"Vapaarahoitteinen";3311;14.59
+"2022";"Lahti 1";"Kolmiot+";"Vapaarahoitteinen";1289;12.78
+"2022";"Lahti 2";"Yksiöt";"Vapaarahoitteinen";2961;15.73
+"2022";"Lahti 2";"Kaksiot";"Vapaarahoitteinen";4649;12.12
+"2022";"Lahti 2";"Kolmiot+";"Vapaarahoitteinen";1275;10.97
+"2022";"Kymenlaakso";"Yksiöt";"Vapaarahoitteinen";4806;13.72
+"2022";"Kymenlaakso";"Kaksiot";"Vapaarahoitteinen";4208;11.30
+"2022";"Kymenlaakso";"Kolmiot+";"Vapaarahoitteinen";1214;9.92
+"2022";"Kotka";"Yksiöt";"Vapaarahoitteinen";2103;14.16
+"2022";"Kotka";"Kaksiot";"Vapaarahoitteinen";1787;12.19
+"2022";"Kotka";"Kolmiot+";"Vapaarahoitteinen";464;10.93
+"2022";"Kotka 1";"Yksiöt";"Vapaarahoitteinen";1047;15.58
+"2022";"Kotka 1";"Kaksiot";"Vapaarahoitteinen";840;13.67
+"2022";"Kotka 1";"Kolmiot+";"Vapaarahoitteinen";148;12.33
+"2022";"Kotka 2";"Yksiöt";"Vapaarahoitteinen";1056;12.90
+"2022";"Kotka 2";"Kaksiot";"Vapaarahoitteinen";947;10.77
+"2022";"Kotka 2";"Kolmiot+";"Vapaarahoitteinen";316;9.98
+"2022";"Kouvola";"Yksiöt";"Vapaarahoitteinen";2334;13.49
+"2022";"Kouvola";"Kaksiot";"Vapaarahoitteinen";2025;10.46
+"2022";"Kouvola";"Kolmiot+";"Vapaarahoitteinen";568;9.14
+"2022";"Etelä-Karjala";"Yksiöt";"Vapaarahoitteinen";4189;16.18
+"2022";"Etelä-Karjala";"Kaksiot";"Vapaarahoitteinen";3496;12.81
+"2022";"Etelä-Karjala";"Kolmiot+";"Vapaarahoitteinen";977;11.15
+"2022";"Lappeenranta";"Yksiöt";"Vapaarahoitteinen";3262;17.28
+"2022";"Lappeenranta";"Kaksiot";"Vapaarahoitteinen";2784;13.49
+"2022";"Lappeenranta";"Kolmiot+";"Vapaarahoitteinen";772;11.69
+"2022";"Lappeenranta 1";"Yksiöt";"Vapaarahoitteinen";1931;18.39
+"2022";"Lappeenranta 1";"Kaksiot";"Vapaarahoitteinen";1408;15.02
+"2022";"Lappeenranta 1";"Kolmiot+";"Vapaarahoitteinen";373;12.68
+"2022";"Lappeenranta 2";"Yksiöt";"Vapaarahoitteinen";1331;15.41
+"2022";"Lappeenranta 2";"Kaksiot";"Vapaarahoitteinen";1376;11.97
+"2022";"Lappeenranta 2";"Kolmiot+";"Vapaarahoitteinen";399;10.87
+"2022";"Etelä-Savo";"Yksiöt";"Vapaarahoitteinen";3267;13.88
+"2022";"Etelä-Savo";"Kaksiot";"Vapaarahoitteinen";2693;10.78
+"2022";"Etelä-Savo";"Kolmiot+";"Vapaarahoitteinen";715;9.39
+"2022";"Mikkeli";"Yksiöt";"Vapaarahoitteinen";1645;16.18
+"2022";"Mikkeli";"Kaksiot";"Vapaarahoitteinen";1153;12.09
+"2022";"Mikkeli";"Kolmiot+";"Vapaarahoitteinen";308;10.41
+"2022";"Pohjois-Savo";"Yksiöt";"Vapaarahoitteinen";9042;16.95
+"2022";"Pohjois-Savo";"Kaksiot";"Vapaarahoitteinen";9040;13.34
+"2022";"Pohjois-Savo";"Kolmiot+";"Vapaarahoitteinen";2679;11.68
+"2022";"Kuopio";"Yksiöt";"Vapaarahoitteinen";6640;18.62
+"2022";"Kuopio";"Kaksiot";"Vapaarahoitteinen";6956;14.44
+"2022";"Kuopio";"Kolmiot+";"Vapaarahoitteinen";1992;12.50
+"2022";"Kuopio 1";"Yksiöt";"Vapaarahoitteinen";3652;19.70
+"2022";"Kuopio 1";"Kaksiot";"Vapaarahoitteinen";2768;15.38
+"2022";"Kuopio 1";"Kolmiot+";"Vapaarahoitteinen";751;13.28
+"2022";"Kuopio 2";"Yksiöt";"Vapaarahoitteinen";2988;17.34
+"2022";"Kuopio 2";"Kaksiot";"Vapaarahoitteinen";4188;13.45
+"2022";"Kuopio 2";"Kolmiot+";"Vapaarahoitteinen";1241;11.94
+"2022";"Pohjois-Karjala";"Yksiöt";"Vapaarahoitteinen";6025;15.83
+"2022";"Pohjois-Karjala";"Kaksiot";"Vapaarahoitteinen";4246;11.99
+"2022";"Pohjois-Karjala";"Kolmiot+";"Vapaarahoitteinen";1007;10.09
+"2022";"Joensuu";"Yksiöt";"Vapaarahoitteinen";5026;17.33
+"2022";"Joensuu";"Kaksiot";"Vapaarahoitteinen";3179;13.20
+"2022";"Joensuu";"Kolmiot+";"Vapaarahoitteinen";629;11.15
+"2022";"Joensuu 1";"Yksiöt";"Vapaarahoitteinen";3995;17.99
+"2022";"Joensuu 1";"Kaksiot";"Vapaarahoitteinen";2101;13.78
+"2022";"Joensuu 1";"Kolmiot+";"Vapaarahoitteinen";274;11.71
+"2022";"Joensuu 2";"Yksiöt";"Vapaarahoitteinen";1031;15.45
+"2022";"Joensuu 2";"Kaksiot";"Vapaarahoitteinen";1078;12.05
+"2022";"Joensuu 2";"Kolmiot+";"Vapaarahoitteinen";355;10.41
+"2022";"Keski-Suomi";"Yksiöt";"Vapaarahoitteinen";10886;17.20
+"2022";"Keski-Suomi";"Kaksiot";"Vapaarahoitteinen";11304;12.86
+"2022";"Keski-Suomi";"Kolmiot+";"Vapaarahoitteinen";3774;11.40
+"2022";"Jyväskylä";"Yksiöt";"Vapaarahoitteinen";9173;18.45
+"2022";"Jyväskylä";"Kaksiot";"Vapaarahoitteinen";9667;13.70
+"2022";"Jyväskylä";"Kolmiot+";"Vapaarahoitteinen";3237;12.12
+"2022";"Jyväskylä 1";"Yksiöt";"Vapaarahoitteinen";6159;19.45
+"2022";"Jyväskylä 1";"Kaksiot";"Vapaarahoitteinen";5889;14.55
+"2022";"Jyväskylä 1";"Kolmiot+";"Vapaarahoitteinen";1723;12.82
+"2022";"Jyväskylä 2";"Yksiöt";"Vapaarahoitteinen";3014;16.36
+"2022";"Jyväskylä 2";"Kaksiot";"Vapaarahoitteinen";3778;12.46
+"2022";"Jyväskylä 2";"Kolmiot+";"Vapaarahoitteinen";1514;11.47
+"2022";"Etelä-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";2844;13.98
+"2022";"Etelä-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3648;11.22
+"2022";"Etelä-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1318;9.92
+"2022";"Seinäjoki";"Yksiöt";"Vapaarahoitteinen";2126;15.36
+"2022";"Seinäjoki";"Kaksiot";"Vapaarahoitteinen";2316;12.17
+"2022";"Seinäjoki";"Kolmiot+";"Vapaarahoitteinen";799;10.59
+"2022";"Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";3887;15.09
+"2022";"Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";3470;11.38
+"2022";"Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";1011;9.80
+"2022";"Vaasa";"Yksiöt";"Vapaarahoitteinen";3356;15.93
+"2022";"Vaasa";"Kaksiot";"Vapaarahoitteinen";2684;12.13
+"2022";"Vaasa";"Kolmiot+";"Vapaarahoitteinen";616;10.21
+"2022";"Vaasa 1";"Yksiöt";"Vapaarahoitteinen";2859;16.49
+"2022";"Vaasa 1";"Kaksiot";"Vapaarahoitteinen";2219;12.68
+"2022";"Vaasa 1";"Kolmiot+";"Vapaarahoitteinen";383;10.43
+"2022";"Vaasa 2";"Yksiöt";"Vapaarahoitteinen";497;13.65
+"2022";"Vaasa 2";"Kaksiot";"Vapaarahoitteinen";465;10.20
+"2022";"Vaasa 2";"Kolmiot+";"Vapaarahoitteinen";233;9.86
+"2022";"Keski-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";854;15.26
+"2022";"Keski-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";1019;11.24
+"2022";"Keski-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";343;9.54
+"2022";"Kokkola";"Yksiöt";"Vapaarahoitteinen";771;15.81
+"2022";"Kokkola";"Kaksiot";"Vapaarahoitteinen";857;11.68
+"2022";"Kokkola";"Kolmiot+";"Vapaarahoitteinen";298;9.76
+"2022";"Pohjois-Pohjanmaa";"Yksiöt";"Vapaarahoitteinen";14674;16.44
+"2022";"Pohjois-Pohjanmaa";"Kaksiot";"Vapaarahoitteinen";13463;12.76
+"2022";"Pohjois-Pohjanmaa";"Kolmiot+";"Vapaarahoitteinen";4527;11.42
+"2022";"Oulu";"Yksiöt";"Vapaarahoitteinen";12974;17.05
+"2022";"Oulu";"Kaksiot";"Vapaarahoitteinen";11293;13.28
+"2022";"Oulu";"Kolmiot+";"Vapaarahoitteinen";3629;11.87
+"2022";"Oulu 1";"Yksiöt";"Vapaarahoitteinen";5917;17.72
+"2022";"Oulu 1";"Kaksiot";"Vapaarahoitteinen";5383;14.07
+"2022";"Oulu 1";"Kolmiot+";"Vapaarahoitteinen";1465;12.90
+"2022";"Oulu 2";"Yksiöt";"Vapaarahoitteinen";7057;16.45
+"2022";"Oulu 2";"Kaksiot";"Vapaarahoitteinen";5910;12.67
+"2022";"Oulu 2";"Kolmiot+";"Vapaarahoitteinen";2164;11.24
+"2022";"Kainuu";"Yksiöt";"Vapaarahoitteinen";1642;14.55
+"2022";"Kainuu";"Kaksiot";"Vapaarahoitteinen";1278;11.23
+"2022";"Kainuu";"Kolmiot+";"Vapaarahoitteinen";427;9.72
+"2022";"Kajaani";"Yksiöt";"Vapaarahoitteinen";1399;15.46
+"2022";"Kajaani";"Kaksiot";"Vapaarahoitteinen";983;11.88
+"2022";"Kajaani";"Kolmiot+";"Vapaarahoitteinen";304;10.13
+"2022";"Lappi";"Yksiöt";"Vapaarahoitteinen";4089;16.01
+"2022";"Lappi";"Kaksiot";"Vapaarahoitteinen";4147;12.53
+"2022";"Lappi";"Kolmiot+";"Vapaarahoitteinen";1295;10.81
+"2022";"Rovaniemi";"Yksiöt";"Vapaarahoitteinen";2877;17.26
+"2022";"Rovaniemi";"Kaksiot";"Vapaarahoitteinen";2687;13.63
+"2022";"Rovaniemi";"Kolmiot+";"Vapaarahoitteinen";769;11.87

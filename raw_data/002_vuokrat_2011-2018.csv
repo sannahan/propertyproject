@@ -1,0 +1,2209 @@
+"Vuosi";"Alue";"Rahoitusmuoto";"Luokka";"Neliövuokra, euroa/m2/kk";"Lukumäärä"
+"2011";"Koko maa";"Vapaarahoitteinen";"1h";14.46;50921
+"2011";"Koko maa";"Vapaarahoitteinen";"2h";11.02;49291
+"2011";"Koko maa";"Vapaarahoitteinen";"3h+";9.64;21830
+"2011";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";18.18;11510
+"2011";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";13.93;8610
+"2011";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";11.98;3672
+"2011";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";12.31;39411
+"2011";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";9.79;40681
+"2011";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";8.49;18158
+"2011";"Etelä-Suomi";"Vapaarahoitteinen";"1h";15.82;26747
+"2011";"Etelä-Suomi";"Vapaarahoitteinen";"2h";12.03;22388
+"2011";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";10.52;9821
+"2011";"Länsi-Suomi";"Vapaarahoitteinen";"1h";12.54;12823
+"2011";"Länsi-Suomi";"Vapaarahoitteinen";"2h";9.84;13747
+"2011";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";8.45;6084
+"2011";"Itä-Suomi";"Vapaarahoitteinen";"1h";11.76;6144
+"2011";"Itä-Suomi";"Vapaarahoitteinen";"2h";9.42;6573
+"2011";"Itä-Suomi";"Vapaarahoitteinen";"3h+";8.25;2837
+"2011";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";12.03;5207
+"2011";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";9.67;6583
+"2011";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";8.37;3088
+"2011";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";17.42;14179
+"2011";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";13.23;11423
+"2011";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";11.41;5093
+"2011";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";12.80;5486
+"2011";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";9.90;4340
+"2011";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";8.52;1890
+"2011";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";11.04;2297
+"2011";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";8.77;2501
+"2011";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";7.66;1278
+"2011";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";11.91;1288
+"2011";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";9.94;1211
+"2011";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";8.53;552
+"2011";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";13.39;5788
+"2011";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";10.60;5278
+"2011";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";9.10;2137
+"2011";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";12.32;2583
+"2011";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.07;2389
+"2011";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";8.74;970
+"2011";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";11.36;1937
+"2011";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";9.12;1837
+"2011";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";7.91;820
+"2011";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";12.13;1274
+"2011";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";9.67;1188
+"2011";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.48;496
+"2011";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";10.91;1337
+"2011";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";9.07;1361
+"2011";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";8.04;603
+"2011";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";12.18;2423
+"2011";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";9.82;2764
+"2011";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";8.47;1113
+"2011";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";12.02;1757
+"2011";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";9.17;1783
+"2011";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.25;784
+"2011";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";12.72;2744
+"2011";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";9.95;3191
+"2011";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";8.71;1238
+"2011";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";10.46;974
+"2011";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";8.94;1488
+"2011";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";7.75;742
+"2011";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.66;1020
+"2011";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.17;1289
+"2011";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";7.83;689
+"2011";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";10.96;297
+"2011";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.00;461
+"2011";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";7.65;301
+"2011";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.19;3384
+"2011";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.83;4178
+"2011";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.69;1817
+"2011";"Kainuun maakunta";"Vapaarahoitteinen";"1h";11.26;627
+"2011";"Kainuun maakunta";"Vapaarahoitteinen";"2h";9.04;665
+"2011";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";7.91;337
+"2011";"Lapin maakunta";"Vapaarahoitteinen";"1h";11.92;1526
+"2011";"Lapin maakunta";"Vapaarahoitteinen";"2h";9.50;1944
+"2011";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.01;970
+"2011";"Helsinki";"Vapaarahoitteinen";"1h";18.83;9050
+"2011";"Helsinki";"Vapaarahoitteinen";"2h";14.20;5949
+"2011";"Helsinki";"Vapaarahoitteinen";"3h+";12.22;2181
+"2011";"Helsinki 1";"Vapaarahoitteinen";"1h";20.34;1531
+"2011";"Helsinki 1";"Vapaarahoitteinen";"2h";15.36;911
+"2011";"Helsinki 1";"Vapaarahoitteinen";"3h+";13.36;347
+"2011";"Helsinki 2";"Vapaarahoitteinen";"1h";19.52;4582
+"2011";"Helsinki 2";"Vapaarahoitteinen";"2h";14.86;2507
+"2011";"Helsinki 2";"Vapaarahoitteinen";"3h+";12.54;554
+"2011";"Helsinki 3";"Vapaarahoitteinen";"1h";17.12;869
+"2011";"Helsinki 3";"Vapaarahoitteinen";"2h";13.34;758
+"2011";"Helsinki 3";"Vapaarahoitteinen";"3h+";11.59;386
+"2011";"Helsinki 4";"Vapaarahoitteinen";"1h";14.49;2068
+"2011";"Helsinki 4";"Vapaarahoitteinen";"2h";12.35;1773
+"2011";"Helsinki 4";"Vapaarahoitteinen";"3h+";10.90;894
+"2011";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";15.72;1217
+"2011";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";13.88;1318
+"2011";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";11.69;661
+"2011";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";17.75;227
+"2011";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";14.88;251
+"2011";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";12.44;108
+"2011";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";16.11;387
+"2011";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";14.22;512
+"2011";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";11.68;262
+"2011";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";14.19;603
+"2011";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";12.83;555
+"2011";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";11.09;291
+"2011";"Vantaa";"Vapaarahoitteinen";"1h";14.54;1243
+"2011";"Vantaa";"Vapaarahoitteinen";"2h";12.62;1343
+"2011";"Vantaa";"Vapaarahoitteinen";"3h+";11.36;830
+"2011";"Vantaa 1";"Vapaarahoitteinen";"1h";14.80;227
+"2011";"Vantaa 1";"Vapaarahoitteinen";"2h";13.41;370
+"2011";"Vantaa 1";"Vapaarahoitteinen";"3h+";11.61;228
+"2011";"Vantaa 2";"Vapaarahoitteinen";"1h";14.45;1016
+"2011";"Vantaa 2";"Vapaarahoitteinen";"2h";12.23;973
+"2011";"Vantaa 2";"Vapaarahoitteinen";"3h+";11.23;602
+"2011";"Kehyskunnat";"Vapaarahoitteinen";"1h";13.10;1699
+"2011";"Kehyskunnat";"Vapaarahoitteinen";"2h";10.74;1598
+"2011";"Kehyskunnat";"Vapaarahoitteinen";"3h+";9.40;818
+"2011";"Porvoo";"Vapaarahoitteinen";"1h";13.82;263
+"2011";"Porvoo";"Vapaarahoitteinen";"2h";10.65;289
+"2011";"Porvoo";"Vapaarahoitteinen";"3h+";9.39;143
+"2011";"Tampere";"Vapaarahoitteinen";"1h";14.26;4264
+"2011";"Tampere";"Vapaarahoitteinen";"2h";11.36;3715
+"2011";"Tampere";"Vapaarahoitteinen";"3h+";10.03;1256
+"2011";"Tampere 1";"Vapaarahoitteinen";"1h";15.19;2252
+"2011";"Tampere 1";"Vapaarahoitteinen";"2h";11.81;1858
+"2011";"Tampere 1";"Vapaarahoitteinen";"3h+";10.33;499
+"2011";"Tampere 2";"Vapaarahoitteinen";"1h";12.33;658
+"2011";"Tampere 2";"Vapaarahoitteinen";"2h";11.24;625
+"2011";"Tampere 2";"Vapaarahoitteinen";"3h+";10.01;197
+"2011";"Tampere 3";"Vapaarahoitteinen";"1h";12.94;1354
+"2011";"Tampere 3";"Vapaarahoitteinen";"2h";10.57;1232
+"2011";"Tampere 3";"Vapaarahoitteinen";"3h+";9.62;560
+"2011";"Turku";"Vapaarahoitteinen";"1h";13.69;4120
+"2011";"Turku";"Vapaarahoitteinen";"2h";10.68;2897
+"2011";"Turku";"Vapaarahoitteinen";"3h+";9.27;1140
+"2011";"Turku 1";"Vapaarahoitteinen";"1h";14.35;2279
+"2011";"Turku 1";"Vapaarahoitteinen";"2h";11.37;1629
+"2011";"Turku 1";"Vapaarahoitteinen";"3h+";9.84;462
+"2011";"Turku 2";"Vapaarahoitteinen";"1h";13.51;632
+"2011";"Turku 2";"Vapaarahoitteinen";"2h";10.39;369
+"2011";"Turku 2";"Vapaarahoitteinen";"3h+";9.10;124
+"2011";"Turku 3";"Vapaarahoitteinen";"1h";12.13;1209
+"2011";"Turku 3";"Vapaarahoitteinen";"2h";9.47;899
+"2011";"Turku 3";"Vapaarahoitteinen";"3h+";8.54;554
+"2011";"Pori";"Vapaarahoitteinen";"1h";11.68;1465
+"2011";"Pori";"Vapaarahoitteinen";"2h";9.22;1486
+"2011";"Pori";"Vapaarahoitteinen";"3h+";8.18;629
+"2011";"Pori 1";"Vapaarahoitteinen";"1h";12.30;864
+"2011";"Pori 1";"Vapaarahoitteinen";"2h";9.98;790
+"2011";"Pori 1";"Vapaarahoitteinen";"3h+";8.51;305
+"2011";"Pori 2";"Vapaarahoitteinen";"1h";10.66;601
+"2011";"Pori 2";"Vapaarahoitteinen";"2h";8.32;696
+"2011";"Pori 2";"Vapaarahoitteinen";"3h+";7.86;324
+"2011";"Rauma";"Vapaarahoitteinen";"1h";11.51;329
+"2011";"Rauma";"Vapaarahoitteinen";"2h";9.25;427
+"2011";"Rauma";"Vapaarahoitteinen";"3h+";8.10;221
+"2011";"Lappeenranta";"Vapaarahoitteinen";"1h";13.01;742
+"2011";"Lappeenranta";"Vapaarahoitteinen";"2h";10.37;678
+"2011";"Lappeenranta";"Vapaarahoitteinen";"3h+";9.13;285
+"2011";"Lappeenranta 1";"Vapaarahoitteinen";"1h";14.00;404
+"2011";"Lappeenranta 1";"Vapaarahoitteinen";"2h";11.39;320
+"2011";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";9.74;96
+"2011";"Lappeenranta 2";"Vapaarahoitteinen";"1h";11.35;338
+"2011";"Lappeenranta 2";"Vapaarahoitteinen";"2h";9.28;358
+"2011";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";8.62;189
+"2011";"Kotka";"Vapaarahoitteinen";"1h";11.92;848
+"2011";"Kotka";"Vapaarahoitteinen";"2h";9.48;707
+"2011";"Kotka";"Vapaarahoitteinen";"3h+";8.43;269
+"2011";"Kotka 1";"Vapaarahoitteinen";"1h";13.04;363
+"2011";"Kotka 1";"Vapaarahoitteinen";"2h";10.31;306
+"2011";"Kotka 1";"Vapaarahoitteinen";"3h+";8.85;84
+"2011";"Kotka 2";"Vapaarahoitteinen";"1h";10.88;485
+"2011";"Kotka 2";"Vapaarahoitteinen";"2h";8.74;401
+"2011";"Kotka 2";"Vapaarahoitteinen";"3h+";8.12;185
+"2011";"Kouvola";"Vapaarahoitteinen";"1h";11.06;918
+"2011";"Kouvola";"Vapaarahoitteinen";"2h";9.01;901
+"2011";"Kouvola";"Vapaarahoitteinen";"3h+";7.56;397
+"2011";"Lahti";"Vapaarahoitteinen";"1h";13.22;1882
+"2011";"Lahti";"Vapaarahoitteinen";"2h";10.71;1727
+"2011";"Lahti";"Vapaarahoitteinen";"3h+";9.35;623
+"2011";"Lahti 1";"Vapaarahoitteinen";"1h";13.90;962
+"2011";"Lahti 1";"Vapaarahoitteinen";"2h";11.23;818
+"2011";"Lahti 1";"Vapaarahoitteinen";"3h+";9.60;314
+"2011";"Lahti 2";"Vapaarahoitteinen";"1h";12.42;920
+"2011";"Lahti 2";"Vapaarahoitteinen";"2h";10.16;909
+"2011";"Lahti 2";"Vapaarahoitteinen";"3h+";9.06;309
+"2011";"Hämeenlinna";"Vapaarahoitteinen";"1h";13.18;705
+"2011";"Hämeenlinna";"Vapaarahoitteinen";"2h";10.83;697
+"2011";"Hämeenlinna";"Vapaarahoitteinen";"3h+";9.04;264
+"2011";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";14.13;470
+"2011";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";11.52;417
+"2011";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";8.97;102
+"2011";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";11.35;235
+"2011";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";9.85;280
+"2011";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";9.10;162
+"2011";"Kuopio";"Vapaarahoitteinen";"1h";13.81;1304
+"2011";"Kuopio";"Vapaarahoitteinen";"2h";10.80;1557
+"2011";"Kuopio";"Vapaarahoitteinen";"3h+";9.22;515
+"2011";"Kuopio 1";"Vapaarahoitteinen";"1h";15.26;723
+"2011";"Kuopio 1";"Vapaarahoitteinen";"2h";11.48;725
+"2011";"Kuopio 1";"Vapaarahoitteinen";"3h+";10.02;179
+"2011";"Kuopio 2";"Vapaarahoitteinen";"1h";11.97;526
+"2011";"Kuopio 2";"Vapaarahoitteinen";"2h";10.44;749
+"2011";"Kuopio 2";"Vapaarahoitteinen";"3h+";8.95;303
+"2011";"Kuopio 3";"Vapaarahoitteinen";"1h";9.85;55
+"2011";"Kuopio 3";"Vapaarahoitteinen";"2h";8.62;83
+"2011";"Kuopio 3";"Vapaarahoitteinen";"3h+";7.39;33
+"2011";"Jyväskylä";"Vapaarahoitteinen";"1h";14.21;1739
+"2011";"Jyväskylä";"Vapaarahoitteinen";"2h";10.75;2219
+"2011";"Jyväskylä";"Vapaarahoitteinen";"3h+";9.62;731
+"2011";"Jyväskylä 1";"Vapaarahoitteinen";"1h";15.15;1099
+"2011";"Jyväskylä 1";"Vapaarahoitteinen";"2h";11.17;1450
+"2011";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";10.27;394
+"2011";"Jyväskylä 2";"Vapaarahoitteinen";"1h";12.26;640
+"2011";"Jyväskylä 2";"Vapaarahoitteinen";"2h";10.02;769
+"2011";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";8.88;337
+"2011";"Vaasa";"Vapaarahoitteinen";"1h";12.58;763
+"2011";"Vaasa";"Vapaarahoitteinen";"2h";10.15;845
+"2011";"Vaasa";"Vapaarahoitteinen";"3h+";8.51;389
+"2011";"Vaasa 1";"Vapaarahoitteinen";"1h";13.12;577
+"2011";"Vaasa 1";"Vapaarahoitteinen";"2h";10.49;622
+"2011";"Vaasa 1";"Vapaarahoitteinen";"3h+";8.54;254
+"2011";"Vaasa 2";"Vapaarahoitteinen";"1h";10.72;186
+"2011";"Vaasa 2";"Vapaarahoitteinen";"2h";9.17;223
+"2011";"Vaasa 2";"Vapaarahoitteinen";"3h+";8.45;135
+"2011";"Seinäjoki";"Vapaarahoitteinen";"1h";11.84;535
+"2011";"Seinäjoki";"Vapaarahoitteinen";"2h";9.91;735
+"2011";"Seinäjoki";"Vapaarahoitteinen";"3h+";8.46;319
+"2011";"Kokkola";"Vapaarahoitteinen";"1h";11.61;249
+"2011";"Kokkola";"Vapaarahoitteinen";"2h";9.42;385
+"2011";"Kokkola";"Vapaarahoitteinen";"3h+";7.95;244
+"2011";"Mikkeli";"Vapaarahoitteinen";"1h";12.34;499
+"2011";"Mikkeli";"Vapaarahoitteinen";"2h";9.97;506
+"2011";"Mikkeli";"Vapaarahoitteinen";"3h+";8.63;194
+"2011";"Mikkeli 1";"Vapaarahoitteinen";"1h";12.81;391
+"2011";"Mikkeli 1";"Vapaarahoitteinen";"2h";10.24;393
+"2011";"Mikkeli 1";"Vapaarahoitteinen";"3h+";8.71;122
+"2011";"Mikkeli 2";"Vapaarahoitteinen";"1h";10.62;108
+"2011";"Mikkeli 2";"Vapaarahoitteinen";"2h";9.19;113
+"2011";"Mikkeli 2";"Vapaarahoitteinen";"3h+";8.51;72
+"2011";"Joensuu";"Vapaarahoitteinen";"1h";13.41;1089
+"2011";"Joensuu";"Vapaarahoitteinen";"2h";10.11;1099
+"2011";"Joensuu";"Vapaarahoitteinen";"3h+";9.28;402
+"2011";"Joensuu 1";"Vapaarahoitteinen";"1h";14.00;781
+"2011";"Joensuu 1";"Vapaarahoitteinen";"2h";10.61;676
+"2011";"Joensuu 1";"Vapaarahoitteinen";"3h+";9.93;215
+"2011";"Joensuu 2";"Vapaarahoitteinen";"1h";12.22;240
+"2011";"Joensuu 2";"Vapaarahoitteinen";"2h";9.76;320
+"2011";"Joensuu 2";"Vapaarahoitteinen";"3h+";9.11;152
+"2011";"Joensuu 3";"Vapaarahoitteinen";"1h";9.10;68
+"2011";"Joensuu 3";"Vapaarahoitteinen";"2h";8.22;103
+"2011";"Joensuu 3";"Vapaarahoitteinen";"3h+";6.85;35
+"2011";"Oulu";"Vapaarahoitteinen";"1h";13.10;2494
+"2011";"Oulu";"Vapaarahoitteinen";"2h";10.43;2981
+"2011";"Oulu";"Vapaarahoitteinen";"3h+";9.28;1098
+"2011";"Oulu 1";"Vapaarahoitteinen";"1h";13.80;1130
+"2011";"Oulu 1";"Vapaarahoitteinen";"2h";11.17;1284
+"2011";"Oulu 1";"Vapaarahoitteinen";"3h+";10.07;398
+"2011";"Oulu 2";"Vapaarahoitteinen";"1h";12.39;1364
+"2011";"Oulu 2";"Vapaarahoitteinen";"2h";9.79;1697
+"2011";"Oulu 2";"Vapaarahoitteinen";"3h+";8.81;700
+"2011";"Kajaani";"Vapaarahoitteinen";"1h";12.17;402
+"2011";"Kajaani";"Vapaarahoitteinen";"2h";9.74;396
+"2011";"Kajaani";"Vapaarahoitteinen";"3h+";8.60;151
+"2011";"Rovaniemi";"Vapaarahoitteinen";"1h";13.29;833
+"2011";"Rovaniemi";"Vapaarahoitteinen";"2h";10.65;979
+"2011";"Rovaniemi";"Vapaarahoitteinen";"3h+";8.93;415
+"2011";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";15.20;25913
+"2011";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";11.89;21970
+"2011";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";10.50;8403
+"2011";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";12.59;7025
+"2011";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";10.07;7347
+"2011";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";8.70;2893
+"2011";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";11.57;10609
+"2011";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";9.54;11044
+"2011";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";8.38;5167
+"2011";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";9.42;7374
+"2011";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";8.17;8930
+"2011";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";7.39;5367
+"2012";"Koko maa";"Vapaarahoitteinen";"1h";15.00;48466
+"2012";"Koko maa";"Vapaarahoitteinen";"2h";11.42;46310
+"2012";"Koko maa";"Vapaarahoitteinen";"3h+";10.04;19910
+"2012";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";18.97;11145
+"2012";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";14.58;8497
+"2012";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";12.64;3686
+"2012";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";12.71;37321
+"2012";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";10.08;37813
+"2012";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";8.76;16224
+"2012";"Etelä-Suomi";"Vapaarahoitteinen";"1h";16.46;25477
+"2012";"Etelä-Suomi";"Vapaarahoitteinen";"2h";12.52;21449
+"2012";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";11.02;9350
+"2012";"Länsi-Suomi";"Vapaarahoitteinen";"1h";12.92;12130
+"2012";"Länsi-Suomi";"Vapaarahoitteinen";"2h";10.10;12709
+"2012";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";8.69;5464
+"2012";"Itä-Suomi";"Vapaarahoitteinen";"1h";12.21;5918
+"2012";"Itä-Suomi";"Vapaarahoitteinen";"2h";9.79;6231
+"2012";"Itä-Suomi";"Vapaarahoitteinen";"3h+";8.52;2514
+"2012";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";12.37;4941
+"2012";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";9.94;5921
+"2012";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";8.65;2582
+"2012";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";18.17;13742
+"2012";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";13.84;11189
+"2012";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";11.99;5002
+"2012";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";13.23;5303
+"2012";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";10.16;4253
+"2012";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";8.94;1737
+"2012";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";11.30;2055
+"2012";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";8.92;2257
+"2012";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";7.84;1160
+"2012";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";12.26;1098
+"2012";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.20;1084
+"2012";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";8.98;533
+"2012";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";13.78;5576
+"2012";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";10.86;4861
+"2012";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";9.42;1924
+"2012";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";12.75;2292
+"2012";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.38;2156
+"2012";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";8.97;882
+"2012";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";11.66;1876
+"2012";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";9.47;1736
+"2012";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";8.10;740
+"2012";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";12.44;1166
+"2012";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";9.94;1031
+"2012";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.45;456
+"2012";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";11.47;1202
+"2012";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";9.52;1256
+"2012";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";8.29;489
+"2012";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";12.57;2382
+"2012";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";10.20;2597
+"2012";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";8.85;1013
+"2012";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";12.51;1714
+"2012";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";9.45;1743
+"2012";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.36;708
+"2012";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";13.13;2590
+"2012";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";10.25;3094
+"2012";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";8.92;1130
+"2012";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";10.89;923
+"2012";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.16;1324
+"2012";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";7.87;656
+"2012";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.11;986
+"2012";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.55;1173
+"2012";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.02;594
+"2012";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.19;272
+"2012";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.42;443
+"2012";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.28;258
+"2012";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.52;3188
+"2012";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.11;3648
+"2012";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.98;1493
+"2012";"Kainuun maakunta";"Vapaarahoitteinen";"1h";11.61;620
+"2012";"Kainuun maakunta";"Vapaarahoitteinen";"2h";9.44;635
+"2012";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.18;304
+"2012";"Lapin maakunta";"Vapaarahoitteinen";"1h";12.30;1481
+"2012";"Lapin maakunta";"Vapaarahoitteinen";"2h";9.70;1830
+"2012";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.14;831
+"2012";"Helsinki";"Vapaarahoitteinen";"1h";19.64;8577
+"2012";"Helsinki";"Vapaarahoitteinen";"2h";14.93;5831
+"2012";"Helsinki";"Vapaarahoitteinen";"3h+";12.93;2228
+"2012";"Helsinki 1";"Vapaarahoitteinen";"1h";21.60;1403
+"2012";"Helsinki 1";"Vapaarahoitteinen";"2h";16.22;813
+"2012";"Helsinki 1";"Vapaarahoitteinen";"3h+";14.52;337
+"2012";"Helsinki 2";"Vapaarahoitteinen";"1h";20.09;4214
+"2012";"Helsinki 2";"Vapaarahoitteinen";"2h";15.64;2496
+"2012";"Helsinki 2";"Vapaarahoitteinen";"3h+";13.27;597
+"2012";"Helsinki 3";"Vapaarahoitteinen";"1h";18.02;850
+"2012";"Helsinki 3";"Vapaarahoitteinen";"2h";13.98;758
+"2012";"Helsinki 3";"Vapaarahoitteinen";"3h+";11.84;402
+"2012";"Helsinki 4";"Vapaarahoitteinen";"1h";15.33;2110
+"2012";"Helsinki 4";"Vapaarahoitteinen";"2h";12.94;1764
+"2012";"Helsinki 4";"Vapaarahoitteinen";"3h+";11.32;892
+"2012";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";16.24;1231
+"2012";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";14.23;1305
+"2012";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";12.48;675
+"2012";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";18.04;231
+"2012";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";14.88;243
+"2012";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";13.54;100
+"2012";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";16.64;396
+"2012";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";14.74;538
+"2012";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";11.95;280
+"2012";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";14.84;604
+"2012";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";13.21;524
+"2012";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";12.14;295
+"2012";"Vantaa";"Vapaarahoitteinen";"1h";15.40;1337
+"2012";"Vantaa";"Vapaarahoitteinen";"2h";13.15;1361
+"2012";"Vantaa";"Vapaarahoitteinen";"3h+";11.56;783
+"2012";"Vantaa 1";"Vapaarahoitteinen";"1h";15.93;223
+"2012";"Vantaa 1";"Vapaarahoitteinen";"2h";14.00;353
+"2012";"Vantaa 1";"Vapaarahoitteinen";"3h+";12.05;203
+"2012";"Vantaa 2";"Vapaarahoitteinen";"1h";15.22;1114
+"2012";"Vantaa 2";"Vapaarahoitteinen";"2h";12.72;1008
+"2012";"Vantaa 2";"Vapaarahoitteinen";"3h+";11.30;580
+"2012";"Kehyskunnat";"Vapaarahoitteinen";"1h";13.65;1627
+"2012";"Kehyskunnat";"Vapaarahoitteinen";"2h";11.11;1521
+"2012";"Kehyskunnat";"Vapaarahoitteinen";"3h+";9.82;757
+"2012";"Porvoo";"Vapaarahoitteinen";"1h";14.10;276
+"2012";"Porvoo";"Vapaarahoitteinen";"2h";11.18;303
+"2012";"Porvoo";"Vapaarahoitteinen";"3h+";9.49;166
+"2012";"Tampere";"Vapaarahoitteinen";"1h";14.63;4124
+"2012";"Tampere";"Vapaarahoitteinen";"2h";11.64;3421
+"2012";"Tampere";"Vapaarahoitteinen";"3h+";10.31;1119
+"2012";"Tampere 1";"Vapaarahoitteinen";"1h";15.54;2101
+"2012";"Tampere 1";"Vapaarahoitteinen";"2h";12.03;1556
+"2012";"Tampere 1";"Vapaarahoitteinen";"3h+";10.76;401
+"2012";"Tampere 2";"Vapaarahoitteinen";"1h";12.80;660
+"2012";"Tampere 2";"Vapaarahoitteinen";"2h";11.63;590
+"2012";"Tampere 2";"Vapaarahoitteinen";"3h+";9.87;195
+"2012";"Tampere 3";"Vapaarahoitteinen";"1h";13.32;1363
+"2012";"Tampere 3";"Vapaarahoitteinen";"2h";10.91;1275
+"2012";"Tampere 3";"Vapaarahoitteinen";"3h+";9.93;523
+"2012";"Turku";"Vapaarahoitteinen";"1h";14.14;3996
+"2012";"Turku";"Vapaarahoitteinen";"2h";10.96;2856
+"2012";"Turku";"Vapaarahoitteinen";"3h+";9.67;1049
+"2012";"Turku 1";"Vapaarahoitteinen";"1h";14.78;2257
+"2012";"Turku 1";"Vapaarahoitteinen";"2h";11.65;1629
+"2012";"Turku 1";"Vapaarahoitteinen";"3h+";10.27;443
+"2012";"Turku 2";"Vapaarahoitteinen";"1h";13.96;617
+"2012";"Turku 2";"Vapaarahoitteinen";"2h";10.76;356
+"2012";"Turku 2";"Vapaarahoitteinen";"3h+";9.48;124
+"2012";"Turku 3";"Vapaarahoitteinen";"1h";12.59;1122
+"2012";"Turku 3";"Vapaarahoitteinen";"2h";9.70;871
+"2012";"Turku 3";"Vapaarahoitteinen";"3h+";8.93;482
+"2012";"Pori";"Vapaarahoitteinen";"1h";11.93;1299
+"2012";"Pori";"Vapaarahoitteinen";"2h";9.45;1340
+"2012";"Pori";"Vapaarahoitteinen";"3h+";8.42;557
+"2012";"Pori 1";"Vapaarahoitteinen";"1h";12.58;728
+"2012";"Pori 1";"Vapaarahoitteinen";"2h";10.19;699
+"2012";"Pori 1";"Vapaarahoitteinen";"3h+";8.68;269
+"2012";"Pori 2";"Vapaarahoitteinen";"1h";10.87;571
+"2012";"Pori 2";"Vapaarahoitteinen";"2h";8.57;641
+"2012";"Pori 2";"Vapaarahoitteinen";"3h+";8.16;288
+"2012";"Rauma";"Vapaarahoitteinen";"1h";11.76;320
+"2012";"Rauma";"Vapaarahoitteinen";"2h";9.21;377
+"2012";"Rauma";"Vapaarahoitteinen";"3h+";8.19;196
+"2012";"Lappeenranta";"Vapaarahoitteinen";"1h";13.36;691
+"2012";"Lappeenranta";"Vapaarahoitteinen";"2h";10.59;584
+"2012";"Lappeenranta";"Vapaarahoitteinen";"3h+";9.31;257
+"2012";"Lappeenranta 1";"Vapaarahoitteinen";"1h";14.39;373
+"2012";"Lappeenranta 1";"Vapaarahoitteinen";"2h";11.57;272
+"2012";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";10.11;80
+"2012";"Lappeenranta 2";"Vapaarahoitteinen";"1h";11.62;318
+"2012";"Lappeenranta 2";"Vapaarahoitteinen";"2h";9.54;312
+"2012";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";8.65;177
+"2012";"Kotka";"Vapaarahoitteinen";"1h";12.35;786
+"2012";"Kotka";"Vapaarahoitteinen";"2h";9.82;656
+"2012";"Kotka";"Vapaarahoitteinen";"3h+";8.62;247
+"2012";"Kotka 1";"Vapaarahoitteinen";"1h";13.64;309
+"2012";"Kotka 1";"Vapaarahoitteinen";"2h";10.72;250
+"2012";"Kotka 1";"Vapaarahoitteinen";"3h+";9.03;81
+"2012";"Kotka 2";"Vapaarahoitteinen";"1h";11.16;477
+"2012";"Kotka 2";"Vapaarahoitteinen";"2h";9.00;406
+"2012";"Kotka 2";"Vapaarahoitteinen";"3h+";8.32;166
+"2012";"Kouvola";"Vapaarahoitteinen";"1h";11.27;928
+"2012";"Kouvola";"Vapaarahoitteinen";"2h";9.32;858
+"2012";"Kouvola";"Vapaarahoitteinen";"3h+";7.74;358
+"2012";"Lahti";"Vapaarahoitteinen";"1h";13.69;1625
+"2012";"Lahti";"Vapaarahoitteinen";"2h";11.07;1532
+"2012";"Lahti";"Vapaarahoitteinen";"3h+";9.65;554
+"2012";"Lahti 1";"Vapaarahoitteinen";"1h";14.40;713
+"2012";"Lahti 1";"Vapaarahoitteinen";"2h";11.67;664
+"2012";"Lahti 1";"Vapaarahoitteinen";"3h+";10.02;260
+"2012";"Lahti 2";"Vapaarahoitteinen";"1h";12.84;912
+"2012";"Lahti 2";"Vapaarahoitteinen";"2h";10.42;868
+"2012";"Lahti 2";"Vapaarahoitteinen";"3h+";9.23;294
+"2012";"Hämeenlinna";"Vapaarahoitteinen";"1h";13.57;590
+"2012";"Hämeenlinna";"Vapaarahoitteinen";"2h";11.06;605
+"2012";"Hämeenlinna";"Vapaarahoitteinen";"3h+";9.70;259
+"2012";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";14.43;376
+"2012";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";11.76;335
+"2012";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";9.98;96
+"2012";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";11.94;214
+"2012";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";10.07;270
+"2012";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";9.45;163
+"2012";"Kuopio";"Vapaarahoitteinen";"1h";14.26;1322
+"2012";"Kuopio";"Vapaarahoitteinen";"2h";11.26;1441
+"2012";"Kuopio";"Vapaarahoitteinen";"3h+";9.71;491
+"2012";"Kuopio 1";"Vapaarahoitteinen";"1h";15.75;743
+"2012";"Kuopio 1";"Vapaarahoitteinen";"2h";12.08;678
+"2012";"Kuopio 1";"Vapaarahoitteinen";"3h+";10.31;165
+"2012";"Kuopio 2";"Vapaarahoitteinen";"1h";12.46;551
+"2012";"Kuopio 2";"Vapaarahoitteinen";"2h";10.80;731
+"2012";"Kuopio 2";"Vapaarahoitteinen";"3h+";9.60;305
+"2012";"Kuopio 3";"Vapaarahoitteinen";"1h";9.64;28
+"2012";"Kuopio 3";"Vapaarahoitteinen";"2h";8.81;32
+"2012";"Kuopio 3";"Vapaarahoitteinen";"3h+";7.94;21
+"2012";"Jyväskylä";"Vapaarahoitteinen";"1h";14.64;1708
+"2012";"Jyväskylä";"Vapaarahoitteinen";"2h";11.09;2170
+"2012";"Jyväskylä";"Vapaarahoitteinen";"3h+";9.84;691
+"2012";"Jyväskylä 1";"Vapaarahoitteinen";"1h";15.60;1102
+"2012";"Jyväskylä 1";"Vapaarahoitteinen";"2h";11.51;1450
+"2012";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";10.44;373
+"2012";"Jyväskylä 2";"Vapaarahoitteinen";"1h";12.63;606
+"2012";"Jyväskylä 2";"Vapaarahoitteinen";"2h";10.36;720
+"2012";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";9.16;318
+"2012";"Vaasa";"Vapaarahoitteinen";"1h";13.08;740
+"2012";"Vaasa";"Vapaarahoitteinen";"2h";10.41;798
+"2012";"Vaasa";"Vapaarahoitteinen";"3h+";8.92;354
+"2012";"Vaasa 1";"Vapaarahoitteinen";"1h";13.60;560
+"2012";"Vaasa 1";"Vapaarahoitteinen";"2h";10.69;592
+"2012";"Vaasa 1";"Vapaarahoitteinen";"3h+";8.90;225
+"2012";"Vaasa 2";"Vapaarahoitteinen";"1h";11.30;180
+"2012";"Vaasa 2";"Vapaarahoitteinen";"2h";9.62;206
+"2012";"Vaasa 2";"Vapaarahoitteinen";"3h+";8.96;129
+"2012";"Seinäjoki";"Vapaarahoitteinen";"1h";12.46;495
+"2012";"Seinäjoki";"Vapaarahoitteinen";"2h";10.15;646
+"2012";"Seinäjoki";"Vapaarahoitteinen";"3h+";8.59;290
+"2012";"Kokkola";"Vapaarahoitteinen";"1h";11.89;234
+"2012";"Kokkola";"Vapaarahoitteinen";"2h";9.85;370
+"2012";"Kokkola";"Vapaarahoitteinen";"3h+";8.44;211
+"2012";"Mikkeli";"Vapaarahoitteinen";"1h";13.04;461
+"2012";"Mikkeli";"Vapaarahoitteinen";"2h";10.58;472
+"2012";"Mikkeli";"Vapaarahoitteinen";"3h+";8.80;173
+"2012";"Mikkeli 1";"Vapaarahoitteinen";"1h";13.30;367
+"2012";"Mikkeli 1";"Vapaarahoitteinen";"2h";10.77;354
+"2012";"Mikkeli 1";"Vapaarahoitteinen";"3h+";8.89;113
+"2012";"Mikkeli 2";"Vapaarahoitteinen";"1h";12.08;94
+"2012";"Mikkeli 2";"Vapaarahoitteinen";"2h";10.03;118
+"2012";"Mikkeli 2";"Vapaarahoitteinen";"3h+";8.66;60
+"2012";"Joensuu";"Vapaarahoitteinen";"1h";14.02;1129
+"2012";"Joensuu";"Vapaarahoitteinen";"2h";10.46;1098
+"2012";"Joensuu";"Vapaarahoitteinen";"3h+";9.35;387
+"2012";"Joensuu 1";"Vapaarahoitteinen";"1h";14.73;836
+"2012";"Joensuu 1";"Vapaarahoitteinen";"2h";10.88;682
+"2012";"Joensuu 1";"Vapaarahoitteinen";"3h+";9.80;211
+"2012";"Joensuu 2";"Vapaarahoitteinen";"1h";12.47;237
+"2012";"Joensuu 2";"Vapaarahoitteinen";"2h";10.29;305
+"2012";"Joensuu 2";"Vapaarahoitteinen";"3h+";9.45;140
+"2012";"Joensuu 3";"Vapaarahoitteinen";"1h";9.27;56
+"2012";"Joensuu 3";"Vapaarahoitteinen";"2h";8.43;111
+"2012";"Joensuu 3";"Vapaarahoitteinen";"3h+";6.79;36
+"2012";"Oulu";"Vapaarahoitteinen";"1h";13.44;2331
+"2012";"Oulu";"Vapaarahoitteinen";"2h";10.69;2513
+"2012";"Oulu";"Vapaarahoitteinen";"3h+";9.66;881
+"2012";"Oulu 1";"Vapaarahoitteinen";"1h";14.11;1082
+"2012";"Oulu 1";"Vapaarahoitteinen";"2h";11.49;1123
+"2012";"Oulu 1";"Vapaarahoitteinen";"3h+";10.51;330
+"2012";"Oulu 2";"Vapaarahoitteinen";"1h";12.75;1249
+"2012";"Oulu 2";"Vapaarahoitteinen";"2h";10.00;1390
+"2012";"Oulu 2";"Vapaarahoitteinen";"3h+";9.14;551
+"2012";"Kajaani";"Vapaarahoitteinen";"1h";12.57;412
+"2012";"Kajaani";"Vapaarahoitteinen";"2h";10.31;381
+"2012";"Kajaani";"Vapaarahoitteinen";"3h+";8.79;144
+"2012";"Rovaniemi";"Vapaarahoitteinen";"1h";13.70;872
+"2012";"Rovaniemi";"Vapaarahoitteinen";"2h";10.86;900
+"2012";"Rovaniemi";"Vapaarahoitteinen";"3h+";8.94;362
+"2012";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";15.71;24899
+"2012";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";12.32;20956
+"2012";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";10.99;7954
+"2012";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";13.00;7573
+"2012";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";10.36;7625
+"2012";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";8.94;3026
+"2012";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";11.90;9431
+"2012";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";9.79;9805
+"2012";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";8.65;4341
+"2012";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";9.75;6563
+"2012";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";8.38;7924
+"2012";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";7.56;4589
+"2013";"Koko maa";"Vapaarahoitteinen";"1h";15.53;51925
+"2013";"Koko maa";"Vapaarahoitteinen";"2h";11.84;50707
+"2013";"Koko maa";"Vapaarahoitteinen";"3h+";10.45;21304
+"2013";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";19.74;11854
+"2013";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";15.18;9171
+"2013";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";13.28;3856
+"2013";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";13.11;40071
+"2013";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";10.43;41536
+"2013";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";9.05;17448
+"2013";"Etelä-Suomi";"Vapaarahoitteinen";"1h";17.09;27289
+"2013";"Etelä-Suomi";"Vapaarahoitteinen";"2h";13.00;23480
+"2013";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";11.50;9849
+"2013";"Länsi-Suomi";"Vapaarahoitteinen";"1h";13.35;12945
+"2013";"Länsi-Suomi";"Vapaarahoitteinen";"2h";10.50;13703
+"2013";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";9.09;5797
+"2013";"Itä-Suomi";"Vapaarahoitteinen";"1h";12.58;6309
+"2013";"Itä-Suomi";"Vapaarahoitteinen";"2h";10.07;6808
+"2013";"Itä-Suomi";"Vapaarahoitteinen";"3h+";8.80;2646
+"2013";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";12.63;5382
+"2013";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";10.21;6716
+"2013";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";8.82;3012
+"2013";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";18.90;14777
+"2013";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";14.42;12284
+"2013";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";12.56;5329
+"2013";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";13.67;5710
+"2013";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";10.50;4583
+"2013";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.07;1848
+"2013";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";11.68;2201
+"2013";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";9.22;2415
+"2013";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";8.09;1159
+"2013";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";12.58;1217
+"2013";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.34;1148
+"2013";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.33;508
+"2013";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";14.26;6027
+"2013";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";11.34;5167
+"2013";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";9.76;2134
+"2013";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";13.33;2453
+"2013";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.74;2394
+"2013";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.32;945
+"2013";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";11.98;1950
+"2013";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";9.79;1933
+"2013";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";8.53;792
+"2013";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";12.71;1182
+"2013";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";10.23;1138
+"2013";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.81;427
+"2013";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";11.72;1377
+"2013";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";9.70;1419
+"2013";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";8.35;581
+"2013";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";12.94;2542
+"2013";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";10.48;2837
+"2013";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";9.25;1022
+"2013";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";12.92;1755
+"2013";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";9.81;1870
+"2013";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.70;732
+"2013";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";13.51;2738
+"2013";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";10.71;3301
+"2013";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.38;1158
+"2013";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.18;957
+"2013";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.51;1537
+"2013";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.37;704
+"2013";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.53;1022
+"2013";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.75;1283
+"2013";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.58;642
+"2013";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.58;297
+"2013";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.73;461
+"2013";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.31;275
+"2013";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.78;3564
+"2013";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.38;4268
+"2013";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.06;1796
+"2013";"Kainuun maakunta";"Vapaarahoitteinen";"1h";12.06;635
+"2013";"Kainuun maakunta";"Vapaarahoitteinen";"2h";9.80;682
+"2013";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.34;311
+"2013";"Lapin maakunta";"Vapaarahoitteinen";"1h";12.52;1521
+"2013";"Lapin maakunta";"Vapaarahoitteinen";"2h";9.96;1987
+"2013";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.53;941
+"2013";"Helsinki";"Vapaarahoitteinen";"1h";20.42;9045
+"2013";"Helsinki";"Vapaarahoitteinen";"2h";15.63;6183
+"2013";"Helsinki";"Vapaarahoitteinen";"3h+";13.77;2309
+"2013";"Helsinki 1";"Vapaarahoitteinen";"1h";22.36;1390
+"2013";"Helsinki 1";"Vapaarahoitteinen";"2h";17.03;839
+"2013";"Helsinki 1";"Vapaarahoitteinen";"3h+";15.23;340
+"2013";"Helsinki 2";"Vapaarahoitteinen";"1h";20.98;4377
+"2013";"Helsinki 2";"Vapaarahoitteinen";"2h";16.26;2608
+"2013";"Helsinki 2";"Vapaarahoitteinen";"3h+";14.08;624
+"2013";"Helsinki 3";"Vapaarahoitteinen";"1h";18.44;955
+"2013";"Helsinki 3";"Vapaarahoitteinen";"2h";15.02;817
+"2013";"Helsinki 3";"Vapaarahoitteinen";"3h+";12.59;367
+"2013";"Helsinki 4";"Vapaarahoitteinen";"1h";15.94;2323
+"2013";"Helsinki 4";"Vapaarahoitteinen";"2h";13.48;1919
+"2013";"Helsinki 4";"Vapaarahoitteinen";"3h+";12.39;978
+"2013";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";16.93;1375
+"2013";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";14.55;1459
+"2013";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";12.45;720
+"2013";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";18.58;263
+"2013";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";14.77;253
+"2013";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";11.59;107
+"2013";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";17.27;448
+"2013";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";15.08;603
+"2013";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";12.84;298
+"2013";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";15.69;664
+"2013";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";13.78;603
+"2013";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";12.75;315
+"2013";"Vantaa";"Vapaarahoitteinen";"1h";16.13;1434
+"2013";"Vantaa";"Vapaarahoitteinen";"2h";13.62;1529
+"2013";"Vantaa";"Vapaarahoitteinen";"3h+";12.41;827
+"2013";"Vantaa 1";"Vapaarahoitteinen";"1h";16.53;248
+"2013";"Vantaa 1";"Vapaarahoitteinen";"2h";14.28;379
+"2013";"Vantaa 1";"Vapaarahoitteinen";"3h+";13.19;205
+"2013";"Vantaa 2";"Vapaarahoitteinen";"1h";16.00;1186
+"2013";"Vantaa 2";"Vapaarahoitteinen";"2h";13.29;1150
+"2013";"Vantaa 2";"Vapaarahoitteinen";"3h+";11.99;622
+"2013";"Kehyskunnat";"Vapaarahoitteinen";"1h";14.15;1812
+"2013";"Kehyskunnat";"Vapaarahoitteinen";"2h";11.71;1832
+"2013";"Kehyskunnat";"Vapaarahoitteinen";"3h+";10.25;876
+"2013";"Porvoo";"Vapaarahoitteinen";"1h";14.47;308
+"2013";"Porvoo";"Vapaarahoitteinen";"2h";11.42;296
+"2013";"Porvoo";"Vapaarahoitteinen";"3h+";9.63;160
+"2013";"Tampere";"Vapaarahoitteinen";"1h";15.15;4499
+"2013";"Tampere";"Vapaarahoitteinen";"2h";12.18;3606
+"2013";"Tampere";"Vapaarahoitteinen";"3h+";10.70;1270
+"2013";"Tampere 1";"Vapaarahoitteinen";"1h";16.03;2240
+"2013";"Tampere 1";"Vapaarahoitteinen";"2h";12.67;1601
+"2013";"Tampere 1";"Vapaarahoitteinen";"3h+";11.23;417
+"2013";"Tampere 2";"Vapaarahoitteinen";"1h";13.43;727
+"2013";"Tampere 2";"Vapaarahoitteinen";"2h";12.16;591
+"2013";"Tampere 2";"Vapaarahoitteinen";"3h+";10.69;239
+"2013";"Tampere 3";"Vapaarahoitteinen";"1h";13.83;1532
+"2013";"Tampere 3";"Vapaarahoitteinen";"2h";11.30;1414
+"2013";"Tampere 3";"Vapaarahoitteinen";"3h+";9.99;614
+"2013";"Turku";"Vapaarahoitteinen";"1h";14.60;4306
+"2013";"Turku";"Vapaarahoitteinen";"2h";11.32;3052
+"2013";"Turku";"Vapaarahoitteinen";"3h+";9.82;1118
+"2013";"Turku 1";"Vapaarahoitteinen";"1h";15.25;2429
+"2013";"Turku 1";"Vapaarahoitteinen";"2h";12.01;1723
+"2013";"Turku 1";"Vapaarahoitteinen";"3h+";10.32;483
+"2013";"Turku 2";"Vapaarahoitteinen";"1h";14.35;664
+"2013";"Turku 2";"Vapaarahoitteinen";"2h";11.20;396
+"2013";"Turku 2";"Vapaarahoitteinen";"3h+";9.79;129
+"2013";"Turku 3";"Vapaarahoitteinen";"1h";13.09;1213
+"2013";"Turku 3";"Vapaarahoitteinen";"2h";10.03;933
+"2013";"Turku 3";"Vapaarahoitteinen";"3h+";9.15;506
+"2013";"Pori";"Vapaarahoitteinen";"1h";12.40;1381
+"2013";"Pori";"Vapaarahoitteinen";"2h";9.86;1399
+"2013";"Pori";"Vapaarahoitteinen";"3h+";8.61;564
+"2013";"Pori 1";"Vapaarahoitteinen";"1h";13.05;789
+"2013";"Pori 1";"Vapaarahoitteinen";"2h";10.69;696
+"2013";"Pori 1";"Vapaarahoitteinen";"3h+";8.84;277
+"2013";"Pori 2";"Vapaarahoitteinen";"1h";11.32;592
+"2013";"Pori 2";"Vapaarahoitteinen";"2h";8.88;703
+"2013";"Pori 2";"Vapaarahoitteinen";"3h+";8.38;287
+"2013";"Rauma";"Vapaarahoitteinen";"1h";12.11;360
+"2013";"Rauma";"Vapaarahoitteinen";"2h";9.23;441
+"2013";"Rauma";"Vapaarahoitteinen";"3h+";8.59;200
+"2013";"Lappeenranta";"Vapaarahoitteinen";"1h";13.68;687
+"2013";"Lappeenranta";"Vapaarahoitteinen";"2h";10.94;645
+"2013";"Lappeenranta";"Vapaarahoitteinen";"3h+";9.64;232
+"2013";"Lappeenranta 1";"Vapaarahoitteinen";"1h";14.68;381
+"2013";"Lappeenranta 1";"Vapaarahoitteinen";"2h";12.10;296
+"2013";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";10.22;76
+"2013";"Lappeenranta 2";"Vapaarahoitteinen";"1h";12.01;306
+"2013";"Lappeenranta 2";"Vapaarahoitteinen";"2h";9.69;349
+"2013";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";9.15;156
+"2013";"Kotka";"Vapaarahoitteinen";"1h";12.65;799
+"2013";"Kotka";"Vapaarahoitteinen";"2h";10.07;741
+"2013";"Kotka";"Vapaarahoitteinen";"3h+";8.83;296
+"2013";"Kotka 1";"Vapaarahoitteinen";"1h";13.97;330
+"2013";"Kotka 1";"Vapaarahoitteinen";"2h";11.08;280
+"2013";"Kotka 1";"Vapaarahoitteinen";"3h+";9.01;101
+"2013";"Kotka 2";"Vapaarahoitteinen";"1h";11.42;469
+"2013";"Kotka 2";"Vapaarahoitteinen";"2h";9.16;461
+"2013";"Kotka 2";"Vapaarahoitteinen";"3h+";8.70;195
+"2013";"Kouvola";"Vapaarahoitteinen";"1h";11.57;964
+"2013";"Kouvola";"Vapaarahoitteinen";"2h";9.71;949
+"2013";"Kouvola";"Vapaarahoitteinen";"3h+";8.58;370
+"2013";"Lahti";"Vapaarahoitteinen";"1h";14.31;1752
+"2013";"Lahti";"Vapaarahoitteinen";"2h";11.45;1700
+"2013";"Lahti";"Vapaarahoitteinen";"3h+";10.05;571
+"2013";"Lahti 1";"Vapaarahoitteinen";"1h";15.01;759
+"2013";"Lahti 1";"Vapaarahoitteinen";"2h";12.03;741
+"2013";"Lahti 1";"Vapaarahoitteinen";"3h+";10.38;262
+"2013";"Lahti 2";"Vapaarahoitteinen";"1h";13.49;993
+"2013";"Lahti 2";"Vapaarahoitteinen";"2h";10.83;959
+"2013";"Lahti 2";"Vapaarahoitteinen";"3h+";9.66;309
+"2013";"Hämeenlinna";"Vapaarahoitteinen";"1h";13.87;624
+"2013";"Hämeenlinna";"Vapaarahoitteinen";"2h";11.15;630
+"2013";"Hämeenlinna";"Vapaarahoitteinen";"3h+";10.07;242
+"2013";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";14.70;390
+"2013";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";11.74;357
+"2013";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";10.52;98
+"2013";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";12.28;234
+"2013";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";10.31;273
+"2013";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";9.68;144
+"2013";"Kuopio";"Vapaarahoitteinen";"1h";14.75;1425
+"2013";"Kuopio";"Vapaarahoitteinen";"2h";11.64;1611
+"2013";"Kuopio";"Vapaarahoitteinen";"3h+";10.28;510
+"2013";"Kuopio 1";"Vapaarahoitteinen";"1h";16.31;784
+"2013";"Kuopio 1";"Vapaarahoitteinen";"2h";12.42;711
+"2013";"Kuopio 1";"Vapaarahoitteinen";"3h+";10.99;166
+"2013";"Kuopio 2";"Vapaarahoitteinen";"1h";12.85;586
+"2013";"Kuopio 2";"Vapaarahoitteinen";"2h";11.21;830
+"2013";"Kuopio 2";"Vapaarahoitteinen";"3h+";10.05;317
+"2013";"Kuopio 3";"Vapaarahoitteinen";"1h";10.03;55
+"2013";"Kuopio 3";"Vapaarahoitteinen";"2h";9.17;70
+"2013";"Kuopio 3";"Vapaarahoitteinen";"3h+";8.60;27
+"2013";"Jyväskylä";"Vapaarahoitteinen";"1h";15.08;1835
+"2013";"Jyväskylä";"Vapaarahoitteinen";"2h";11.63;2371
+"2013";"Jyväskylä";"Vapaarahoitteinen";"3h+";10.39;748
+"2013";"Jyväskylä 1";"Vapaarahoitteinen";"1h";15.94;1148
+"2013";"Jyväskylä 1";"Vapaarahoitteinen";"2h";12.20;1520
+"2013";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";11.09;382
+"2013";"Jyväskylä 2";"Vapaarahoitteinen";"1h";13.28;687
+"2013";"Jyväskylä 2";"Vapaarahoitteinen";"2h";10.65;851
+"2013";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";9.59;366
+"2013";"Vaasa";"Vapaarahoitteinen";"1h";13.61;773
+"2013";"Vaasa";"Vapaarahoitteinen";"2h";10.60;868
+"2013";"Vaasa";"Vapaarahoitteinen";"3h+";9.46;379
+"2013";"Vaasa 1";"Vapaarahoitteinen";"1h";14.19;585
+"2013";"Vaasa 1";"Vapaarahoitteinen";"2h";10.90;651
+"2013";"Vaasa 1";"Vapaarahoitteinen";"3h+";9.53;242
+"2013";"Vaasa 2";"Vapaarahoitteinen";"1h";11.60;188
+"2013";"Vaasa 2";"Vapaarahoitteinen";"2h";9.74;217
+"2013";"Vaasa 2";"Vapaarahoitteinen";"3h+";9.33;137
+"2013";"Seinäjoki";"Vapaarahoitteinen";"1h";12.79;536
+"2013";"Seinäjoki";"Vapaarahoitteinen";"2h";10.63;784
+"2013";"Seinäjoki";"Vapaarahoitteinen";"3h+";9.17;310
+"2013";"Kokkola";"Vapaarahoitteinen";"1h";12.29;253
+"2013";"Kokkola";"Vapaarahoitteinen";"2h";10.18;394
+"2013";"Kokkola";"Vapaarahoitteinen";"3h+";8.71;228
+"2013";"Mikkeli";"Vapaarahoitteinen";"1h";13.26;566
+"2013";"Mikkeli";"Vapaarahoitteinen";"2h";10.77;557
+"2013";"Mikkeli";"Vapaarahoitteinen";"3h+";9.11;229
+"2013";"Mikkeli 1";"Vapaarahoitteinen";"1h";13.61;419
+"2013";"Mikkeli 1";"Vapaarahoitteinen";"2h";11.07;403
+"2013";"Mikkeli 1";"Vapaarahoitteinen";"3h+";9.55;140
+"2013";"Mikkeli 2";"Vapaarahoitteinen";"1h";11.97;147
+"2013";"Mikkeli 2";"Vapaarahoitteinen";"2h";9.89;154
+"2013";"Mikkeli 2";"Vapaarahoitteinen";"3h+";8.37;89
+"2013";"Joensuu";"Vapaarahoitteinen";"1h";14.47;1159
+"2013";"Joensuu";"Vapaarahoitteinen";"2h";10.84;1158
+"2013";"Joensuu";"Vapaarahoitteinen";"3h+";9.82;392
+"2013";"Joensuu 1";"Vapaarahoitteinen";"1h";15.11;844
+"2013";"Joensuu 1";"Vapaarahoitteinen";"2h";11.12;691
+"2013";"Joensuu 1";"Vapaarahoitteinen";"3h+";10.37;214
+"2013";"Joensuu 2";"Vapaarahoitteinen";"1h";13.09;262
+"2013";"Joensuu 2";"Vapaarahoitteinen";"2h";11.00;355
+"2013";"Joensuu 2";"Vapaarahoitteinen";"3h+";9.71;142
+"2013";"Joensuu 3";"Vapaarahoitteinen";"1h";10.04;53
+"2013";"Joensuu 3";"Vapaarahoitteinen";"2h";8.58;112
+"2013";"Joensuu 3";"Vapaarahoitteinen";"3h+";7.69;36
+"2013";"Oulu";"Vapaarahoitteinen";"1h";13.70;2658
+"2013";"Oulu";"Vapaarahoitteinen";"2h";10.90;3045
+"2013";"Oulu";"Vapaarahoitteinen";"3h+";9.66;1150
+"2013";"Oulu 1";"Vapaarahoitteinen";"1h";14.54;1171
+"2013";"Oulu 1";"Vapaarahoitteinen";"2h";11.72;1253
+"2013";"Oulu 1";"Vapaarahoitteinen";"3h+";10.52;350
+"2013";"Oulu 2";"Vapaarahoitteinen";"1h";12.86;1487
+"2013";"Oulu 2";"Vapaarahoitteinen";"2h";10.18;1792
+"2013";"Oulu 2";"Vapaarahoitteinen";"3h+";9.14;800
+"2013";"Kajaani";"Vapaarahoitteinen";"1h";13.07;422
+"2013";"Kajaani";"Vapaarahoitteinen";"2h";10.72;393
+"2013";"Kajaani";"Vapaarahoitteinen";"3h+";9.18;133
+"2013";"Rovaniemi";"Vapaarahoitteinen";"1h";13.82;871
+"2013";"Rovaniemi";"Vapaarahoitteinen";"2h";11.13;1045
+"2013";"Rovaniemi";"Vapaarahoitteinen";"3h+";9.41;422
+"2013";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";16.12;28293
+"2013";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";12.68;24522
+"2013";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";11.32;9197
+"2013";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";13.13;6460
+"2013";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";10.46;6698
+"2013";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";9.24;2606
+"2013";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";12.32;10198
+"2013";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";10.13;10898
+"2013";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";8.98;4706
+"2013";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";10.04;6974
+"2013";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";8.68;8589
+"2013";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";7.80;4795
+"2014";"Koko maa";"Vapaarahoitteinen";"1h";16.14;57725
+"2014";"Koko maa";"Vapaarahoitteinen";"2h";12.20;57331
+"2014";"Koko maa";"Vapaarahoitteinen";"3h+";10.77;23732
+"2014";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";20.83;12792
+"2014";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";15.95;10037
+"2014";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";13.93;4296
+"2014";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";13.43;44933
+"2014";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";10.62;47294
+"2014";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";9.22;19436
+"2014";"Etelä-Suomi";"Vapaarahoitteinen";"1h";17.86;30078
+"2014";"Etelä-Suomi";"Vapaarahoitteinen";"2h";13.51;26477
+"2014";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";11.93;11026
+"2014";"Länsi-Suomi";"Vapaarahoitteinen";"1h";13.73;14617
+"2014";"Länsi-Suomi";"Vapaarahoitteinen";"2h";10.72;15950
+"2014";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";9.25;6452
+"2014";"Itä-Suomi";"Vapaarahoitteinen";"1h";12.84;6867
+"2014";"Itä-Suomi";"Vapaarahoitteinen";"2h";10.27;7437
+"2014";"Itä-Suomi";"Vapaarahoitteinen";"3h+";9.00;2953
+"2014";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";12.88;6163
+"2014";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";10.27;7467
+"2014";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";8.94;3301
+"2014";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";19.88;16248
+"2014";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";15.10;13704
+"2014";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";13.14;6040
+"2014";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";13.98;6237
+"2014";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";10.64;5180
+"2014";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.14;2104
+"2014";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";11.75;2551
+"2014";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";9.36;2930
+"2014";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";8.19;1330
+"2014";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";12.72;1373
+"2014";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.56;1379
+"2014";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.32;563
+"2014";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";14.74;6695
+"2014";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";11.65;6041
+"2014";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";10.02;2438
+"2014";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";13.75;2754
+"2014";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.99;2707
+"2014";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.57;998
+"2014";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";12.25;2161
+"2014";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";9.85;2231
+"2014";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";8.60;842
+"2014";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";13.07;1305
+"2014";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";10.47;1276
+"2014";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.84;479
+"2014";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";11.86;1449
+"2014";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";9.74;1468
+"2014";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";8.69;664
+"2014";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";13.26;2826
+"2014";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";10.79;3191
+"2014";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";9.41;1088
+"2014";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";13.17;1916
+"2014";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";10.04;2016
+"2014";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";8.82;838
+"2014";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";13.94;3080
+"2014";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";10.79;3741
+"2014";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.48;1234
+"2014";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.50;1100
+"2014";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.79;1753
+"2014";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.54;785
+"2014";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.91;1191
+"2014";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.93;1485
+"2014";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.65;665
+"2014";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.76;342
+"2014";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";9.75;525
+"2014";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.12;298
+"2014";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.07;4080
+"2014";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.47;4735
+"2014";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.28;1992
+"2014";"Kainuun maakunta";"Vapaarahoitteinen";"1h";12.41;676
+"2014";"Kainuun maakunta";"Vapaarahoitteinen";"2h";9.83;762
+"2014";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.56;363
+"2014";"Lapin maakunta";"Vapaarahoitteinen";"1h";12.71;1741
+"2014";"Lapin maakunta";"Vapaarahoitteinen";"2h";9.98;2207
+"2014";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.57;1011
+"2014";"Helsinki";"Vapaarahoitteinen";"1h";21.55;9710
+"2014";"Helsinki";"Vapaarahoitteinen";"2h";16.36;6623
+"2014";"Helsinki";"Vapaarahoitteinen";"3h+";14.31;2540
+"2014";"Helsinki 1";"Vapaarahoitteinen";"1h";23.34;1454
+"2014";"Helsinki 1";"Vapaarahoitteinen";"2h";17.78;897
+"2014";"Helsinki 1";"Vapaarahoitteinen";"3h+";15.78;333
+"2014";"Helsinki 2";"Vapaarahoitteinen";"1h";22.24;4647
+"2014";"Helsinki 2";"Vapaarahoitteinen";"2h";17.15;2682
+"2014";"Helsinki 2";"Vapaarahoitteinen";"3h+";14.70;672
+"2014";"Helsinki 3";"Vapaarahoitteinen";"1h";19.17;1049
+"2014";"Helsinki 3";"Vapaarahoitteinen";"2h";14.90;929
+"2014";"Helsinki 3";"Vapaarahoitteinen";"3h+";13.08;377
+"2014";"Helsinki 4";"Vapaarahoitteinen";"1h";17.13;2560
+"2014";"Helsinki 4";"Vapaarahoitteinen";"2h";14.37;2115
+"2014";"Helsinki 4";"Vapaarahoitteinen";"3h+";12.89;1158
+"2014";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";18.00;1432
+"2014";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";15.49;1578
+"2014";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";13.37;785
+"2014";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";19.74;249
+"2014";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";16.18;247
+"2014";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";13.20;135
+"2014";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";18.33;435
+"2014";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";16.17;633
+"2014";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";14.00;264
+"2014";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";16.71;748
+"2014";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";14.24;698
+"2014";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";12.90;386
+"2014";"Vantaa";"Vapaarahoitteinen";"1h";16.85;1650
+"2014";"Vantaa";"Vapaarahoitteinen";"2h";14.34;1836
+"2014";"Vantaa";"Vapaarahoitteinen";"3h+";13.03;971
+"2014";"Vantaa 1";"Vapaarahoitteinen";"1h";17.40;291
+"2014";"Vantaa 1";"Vapaarahoitteinen";"2h";15.07;421
+"2014";"Vantaa 1";"Vapaarahoitteinen";"3h+";13.88;216
+"2014";"Vantaa 2";"Vapaarahoitteinen";"1h";16.67;1359
+"2014";"Vantaa 2";"Vapaarahoitteinen";"2h";13.98;1415
+"2014";"Vantaa 2";"Vapaarahoitteinen";"3h+";12.56;755
+"2014";"Kehyskunnat";"Vapaarahoitteinen";"1h";14.45;2120
+"2014";"Kehyskunnat";"Vapaarahoitteinen";"2h";12.11;2132
+"2014";"Kehyskunnat";"Vapaarahoitteinen";"3h+";10.46;971
+"2014";"Porvoo";"Vapaarahoitteinen";"1h";14.77;398
+"2014";"Porvoo";"Vapaarahoitteinen";"2h";11.74;354
+"2014";"Porvoo";"Vapaarahoitteinen";"3h+";10.24;185
+"2014";"Tampere";"Vapaarahoitteinen";"1h";15.70;4954
+"2014";"Tampere";"Vapaarahoitteinen";"2h";12.54;4197
+"2014";"Tampere";"Vapaarahoitteinen";"3h+";11.01;1485
+"2014";"Tampere 1";"Vapaarahoitteinen";"1h";16.51;2356
+"2014";"Tampere 1";"Vapaarahoitteinen";"2h";13.04;1722
+"2014";"Tampere 1";"Vapaarahoitteinen";"3h+";11.50;436
+"2014";"Tampere 2";"Vapaarahoitteinen";"1h";14.04;760
+"2014";"Tampere 2";"Vapaarahoitteinen";"2h";12.62;773
+"2014";"Tampere 2";"Vapaarahoitteinen";"3h+";10.83;256
+"2014";"Tampere 3";"Vapaarahoitteinen";"1h";14.54;1838
+"2014";"Tampere 3";"Vapaarahoitteinen";"2h";11.54;1702
+"2014";"Tampere 3";"Vapaarahoitteinen";"3h+";10.45;793
+"2014";"Turku";"Vapaarahoitteinen";"1h";14.98;4630
+"2014";"Turku";"Vapaarahoitteinen";"2h";11.47;3346
+"2014";"Turku";"Vapaarahoitteinen";"3h+";9.99;1236
+"2014";"Turku 1";"Vapaarahoitteinen";"1h";15.71;2553
+"2014";"Turku 1";"Vapaarahoitteinen";"2h";12.16;1743
+"2014";"Turku 1";"Vapaarahoitteinen";"3h+";10.48;487
+"2014";"Turku 2";"Vapaarahoitteinen";"1h";14.55;744
+"2014";"Turku 2";"Vapaarahoitteinen";"2h";11.21;419
+"2014";"Turku 2";"Vapaarahoitteinen";"3h+";9.85;127
+"2014";"Turku 3";"Vapaarahoitteinen";"1h";13.37;1333
+"2014";"Turku 3";"Vapaarahoitteinen";"2h";10.25;1184
+"2014";"Turku 3";"Vapaarahoitteinen";"3h+";9.36;622
+"2014";"Pori";"Vapaarahoitteinen";"1h";12.51;1545
+"2014";"Pori";"Vapaarahoitteinen";"2h";9.92;1677
+"2014";"Pori";"Vapaarahoitteinen";"3h+";8.71;678
+"2014";"Pori 1";"Vapaarahoitteinen";"1h";13.11;833
+"2014";"Pori 1";"Vapaarahoitteinen";"2h";10.60;837
+"2014";"Pori 1";"Vapaarahoitteinen";"3h+";8.98;331
+"2014";"Pori 2";"Vapaarahoitteinen";"1h";11.52;712
+"2014";"Pori 2";"Vapaarahoitteinen";"2h";9.10;840
+"2014";"Pori 2";"Vapaarahoitteinen";"3h+";8.44;347
+"2014";"Rauma";"Vapaarahoitteinen";"1h";12.01;466
+"2014";"Rauma";"Vapaarahoitteinen";"2h";9.51;539
+"2014";"Rauma";"Vapaarahoitteinen";"3h+";8.70;233
+"2014";"Lappeenranta";"Vapaarahoitteinen";"1h";14.21;720
+"2014";"Lappeenranta";"Vapaarahoitteinen";"2h";11.24;758
+"2014";"Lappeenranta";"Vapaarahoitteinen";"3h+";9.51;268
+"2014";"Lappeenranta 1";"Vapaarahoitteinen";"1h";15.30;375
+"2014";"Lappeenranta 1";"Vapaarahoitteinen";"2h";12.33;310
+"2014";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";9.60;85
+"2014";"Lappeenranta 2";"Vapaarahoitteinen";"1h";12.36;345
+"2014";"Lappeenranta 2";"Vapaarahoitteinen";"2h";10.08;448
+"2014";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";9.44;183
+"2014";"Kotka";"Vapaarahoitteinen";"1h";12.92;905
+"2014";"Kotka";"Vapaarahoitteinen";"2h";10.26;905
+"2014";"Kotka";"Vapaarahoitteinen";"3h+";8.89;309
+"2014";"Kotka 1";"Vapaarahoitteinen";"1h";14.31;362
+"2014";"Kotka 1";"Vapaarahoitteinen";"2h";11.28;323
+"2014";"Kotka 1";"Vapaarahoitteinen";"3h+";9.21;82
+"2014";"Kotka 2";"Vapaarahoitteinen";"1h";11.63;543
+"2014";"Kotka 2";"Vapaarahoitteinen";"2h";9.34;582
+"2014";"Kotka 2";"Vapaarahoitteinen";"3h+";8.67;227
+"2014";"Kouvola";"Vapaarahoitteinen";"1h";11.85;1039
+"2014";"Kouvola";"Vapaarahoitteinen";"2h";9.73;1039
+"2014";"Kouvola";"Vapaarahoitteinen";"3h+";8.64;408
+"2014";"Lahti";"Vapaarahoitteinen";"1h";14.78;1923
+"2014";"Lahti";"Vapaarahoitteinen";"2h";11.73;1862
+"2014";"Lahti";"Vapaarahoitteinen";"3h+";10.33;577
+"2014";"Lahti 1";"Vapaarahoitteinen";"1h";15.54;851
+"2014";"Lahti 1";"Vapaarahoitteinen";"2h";12.30;720
+"2014";"Lahti 1";"Vapaarahoitteinen";"3h+";10.57;234
+"2014";"Lahti 2";"Vapaarahoitteinen";"1h";13.87;1072
+"2014";"Lahti 2";"Vapaarahoitteinen";"2h";11.12;1142
+"2014";"Lahti 2";"Vapaarahoitteinen";"3h+";10.04;343
+"2014";"Hämeenlinna";"Vapaarahoitteinen";"1h";14.03;721
+"2014";"Hämeenlinna";"Vapaarahoitteinen";"2h";11.40;763
+"2014";"Hämeenlinna";"Vapaarahoitteinen";"3h+";10.15;289
+"2014";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";14.87;435
+"2014";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";12.17;409
+"2014";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";10.76;102
+"2014";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";12.43;286
+"2014";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";10.32;354
+"2014";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";9.64;187
+"2014";"Kuopio";"Vapaarahoitteinen";"1h";15.13;1573
+"2014";"Kuopio";"Vapaarahoitteinen";"2h";12.03;1773
+"2014";"Kuopio";"Vapaarahoitteinen";"3h+";10.66;522
+"2014";"Kuopio 1";"Vapaarahoitteinen";"1h";16.66;821
+"2014";"Kuopio 1";"Vapaarahoitteinen";"2h";12.98;788
+"2014";"Kuopio 1";"Vapaarahoitteinen";"3h+";11.46;192
+"2014";"Kuopio 2";"Vapaarahoitteinen";"1h";13.29;677
+"2014";"Kuopio 2";"Vapaarahoitteinen";"2h";11.45;897
+"2014";"Kuopio 2";"Vapaarahoitteinen";"3h+";10.42;302
+"2014";"Kuopio 3";"Vapaarahoitteinen";"1h";10.35;75
+"2014";"Kuopio 3";"Vapaarahoitteinen";"2h";9.53;88
+"2014";"Kuopio 3";"Vapaarahoitteinen";"3h+";8.66;28
+"2014";"Jyväskylä";"Vapaarahoitteinen";"1h";15.60;2044
+"2014";"Jyväskylä";"Vapaarahoitteinen";"2h";11.73;2685
+"2014";"Jyväskylä";"Vapaarahoitteinen";"3h+";10.56;802
+"2014";"Jyväskylä 1";"Vapaarahoitteinen";"1h";16.53;1192
+"2014";"Jyväskylä 1";"Vapaarahoitteinen";"2h";12.20;1572
+"2014";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";11.17;360
+"2014";"Jyväskylä 2";"Vapaarahoitteinen";"1h";13.65;852
+"2014";"Jyväskylä 2";"Vapaarahoitteinen";"2h";10.93;1113
+"2014";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";9.86;442
+"2014";"Vaasa";"Vapaarahoitteinen";"1h";13.96;887
+"2014";"Vaasa";"Vapaarahoitteinen";"2h";10.81;977
+"2014";"Vaasa";"Vapaarahoitteinen";"3h+";9.47;364
+"2014";"Vaasa 1";"Vapaarahoitteinen";"1h";14.49;655
+"2014";"Vaasa 1";"Vapaarahoitteinen";"2h";11.14;714
+"2014";"Vaasa 1";"Vapaarahoitteinen";"3h+";9.38;253
+"2014";"Vaasa 2";"Vapaarahoitteinen";"1h";12.12;232
+"2014";"Vaasa 2";"Vapaarahoitteinen";"2h";9.85;263
+"2014";"Vaasa 2";"Vapaarahoitteinen";"3h+";9.63;111
+"2014";"Seinäjoki";"Vapaarahoitteinen";"1h";13.23;630
+"2014";"Seinäjoki";"Vapaarahoitteinen";"2h";10.82;894
+"2014";"Seinäjoki";"Vapaarahoitteinen";"3h+";9.43;373
+"2014";"Kokkola";"Vapaarahoitteinen";"1h";12.49;294
+"2014";"Kokkola";"Vapaarahoitteinen";"2h";10.13;440
+"2014";"Kokkola";"Vapaarahoitteinen";"3h+";8.44;239
+"2014";"Mikkeli";"Vapaarahoitteinen";"1h";13.39;583
+"2014";"Mikkeli";"Vapaarahoitteinen";"2h";10.72;597
+"2014";"Mikkeli";"Vapaarahoitteinen";"3h+";9.59;290
+"2014";"Mikkeli 1";"Vapaarahoitteinen";"1h";13.89;444
+"2014";"Mikkeli 1";"Vapaarahoitteinen";"2h";11.07;421
+"2014";"Mikkeli 1";"Vapaarahoitteinen";"3h+";10.03;182
+"2014";"Mikkeli 2";"Vapaarahoitteinen";"1h";11.56;139
+"2014";"Mikkeli 2";"Vapaarahoitteinen";"2h";9.68;176
+"2014";"Mikkeli 2";"Vapaarahoitteinen";"3h+";8.85;108
+"2014";"Joensuu";"Vapaarahoitteinen";"1h";14.72;1262
+"2014";"Joensuu";"Vapaarahoitteinen";"2h";11.16;1242
+"2014";"Joensuu";"Vapaarahoitteinen";"3h+";9.74;474
+"2014";"Joensuu 1";"Vapaarahoitteinen";"1h";15.47;921
+"2014";"Joensuu 1";"Vapaarahoitteinen";"2h";11.59;759
+"2014";"Joensuu 1";"Vapaarahoitteinen";"3h+";10.33;253
+"2014";"Joensuu 2";"Vapaarahoitteinen";"1h";13.10;284
+"2014";"Joensuu 2";"Vapaarahoitteinen";"2h";11.05;367
+"2014";"Joensuu 2";"Vapaarahoitteinen";"3h+";9.44;183
+"2014";"Joensuu 3";"Vapaarahoitteinen";"1h";9.53;57
+"2014";"Joensuu 3";"Vapaarahoitteinen";"2h";8.83;116
+"2014";"Joensuu 3";"Vapaarahoitteinen";"3h+";8.20;38
+"2014";"Oulu";"Vapaarahoitteinen";"1h";14.04;3015
+"2014";"Oulu";"Vapaarahoitteinen";"2h";11.01;3324
+"2014";"Oulu";"Vapaarahoitteinen";"3h+";9.82;1307
+"2014";"Oulu 1";"Vapaarahoitteinen";"1h";14.95;1296
+"2014";"Oulu 1";"Vapaarahoitteinen";"2h";11.95;1357
+"2014";"Oulu 1";"Vapaarahoitteinen";"3h+";10.60;390
+"2014";"Oulu 2";"Vapaarahoitteinen";"1h";13.13;1719
+"2014";"Oulu 2";"Vapaarahoitteinen";"2h";10.19;1967
+"2014";"Oulu 2";"Vapaarahoitteinen";"3h+";9.34;917
+"2014";"Kajaani";"Vapaarahoitteinen";"1h";13.61;437
+"2014";"Kajaani";"Vapaarahoitteinen";"2h";10.72;434
+"2014";"Kajaani";"Vapaarahoitteinen";"3h+";9.30;163
+"2014";"Rovaniemi";"Vapaarahoitteinen";"1h";14.05;974
+"2014";"Rovaniemi";"Vapaarahoitteinen";"2h";11.21;1121
+"2014";"Rovaniemi";"Vapaarahoitteinen";"3h+";9.67;467
+"2014";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";16.72;30883
+"2014";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";13.01;27190
+"2014";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";11.65;10187
+"2014";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";13.35;7151
+"2014";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";10.60;7582
+"2014";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";9.31;2951
+"2014";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";12.52;11773
+"2014";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";10.28;12677
+"2014";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";9.12;5441
+"2014";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";10.26;7918
+"2014";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";8.81;9882
+"2014";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";7.93;5153
+"2015";"Koko maa";"Vapaarahoitteinen";"1h";16.77;58293
+"2015";"Koko maa";"Vapaarahoitteinen";"2h";12.63;59999
+"2015";"Koko maa";"Vapaarahoitteinen";"3h+";11.13;25002
+"2015";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";21.79;14863
+"2015";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";16.54;12201
+"2015";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";14.39;5517
+"2015";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";13.87;43430
+"2015";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";10.98;47798
+"2015";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";9.52;19485
+"2015";"Etelä-Suomi";"Vapaarahoitteinen";"1h";18.60;31555
+"2015";"Etelä-Suomi";"Vapaarahoitteinen";"2h";14.00;28797
+"2015";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";12.39;12377
+"2015";"Länsi-Suomi";"Vapaarahoitteinen";"1h";14.19;14465
+"2015";"Länsi-Suomi";"Vapaarahoitteinen";"2h";11.08;16341
+"2015";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";9.45;6599
+"2015";"Itä-Suomi";"Vapaarahoitteinen";"1h";13.38;6317
+"2015";"Itä-Suomi";"Vapaarahoitteinen";"2h";10.60;7296
+"2015";"Itä-Suomi";"Vapaarahoitteinen";"3h+";9.24;2780
+"2015";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";13.25;5956
+"2015";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";10.60;7565
+"2015";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";9.15;3246
+"2015";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";20.78;18528
+"2015";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";15.68;16339
+"2015";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";13.62;7487
+"2015";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";14.34;5832
+"2015";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";11.04;5035
+"2015";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.53;2012
+"2015";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";12.22;2032
+"2015";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";9.53;2627
+"2015";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";8.25;1171
+"2015";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";13.27;1330
+"2015";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";10.97;1425
+"2015";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.63;566
+"2015";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";15.22;7181
+"2015";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";11.98;6661
+"2015";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";10.19;2680
+"2015";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";14.13;2802
+"2015";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.21;2812
+"2015";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.71;1047
+"2015";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";12.66;2053
+"2015";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";10.11;2177
+"2015";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";9.15;833
+"2015";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";13.46;1010
+"2015";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";10.78;1009
+"2015";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.52;432
+"2015";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";12.69;1348
+"2015";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";10.06;1443
+"2015";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";9.00;640
+"2015";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";13.74;2593
+"2015";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";11.07;3120
+"2015";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";9.54;1031
+"2015";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";13.62;1755
+"2015";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";10.49;2004
+"2015";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.12;774
+"2015";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";14.30;2980
+"2015";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";11.36;3938
+"2015";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.90;1361
+"2015";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";11.94;1057
+"2015";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.13;1601
+"2015";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.83;708
+"2015";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.44;1215
+"2015";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.30;1514
+"2015";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.69;679
+"2015";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.50;243
+"2015";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.22;417
+"2015";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.34;209
+"2015";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.39;3914
+"2015";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.82;4808
+"2015";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.49;2015
+"2015";"Kainuun maakunta";"Vapaarahoitteinen";"1h";12.77;621
+"2015";"Kainuun maakunta";"Vapaarahoitteinen";"2h";10.04;729
+"2015";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.97;335
+"2015";"Lapin maakunta";"Vapaarahoitteinen";"1h";13.09;1799
+"2015";"Lapin maakunta";"Vapaarahoitteinen";"2h";10.22;2340
+"2015";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.77;1022
+"2015";"Helsinki";"Vapaarahoitteinen";"1h";22.54;11191
+"2015";"Helsinki";"Vapaarahoitteinen";"2h";17.01;7710
+"2015";"Helsinki";"Vapaarahoitteinen";"3h+";14.86;3129
+"2015";"Helsinki 1";"Vapaarahoitteinen";"1h";24.52;1728
+"2015";"Helsinki 1";"Vapaarahoitteinen";"2h";18.60;993
+"2015";"Helsinki 1";"Vapaarahoitteinen";"3h+";16.09;401
+"2015";"Helsinki 2";"Vapaarahoitteinen";"1h";23.16;5313
+"2015";"Helsinki 2";"Vapaarahoitteinen";"2h";17.80;3016
+"2015";"Helsinki 2";"Vapaarahoitteinen";"3h+";15.44;765
+"2015";"Helsinki 3";"Vapaarahoitteinen";"1h";20.28;1191
+"2015";"Helsinki 3";"Vapaarahoitteinen";"2h";15.36;1128
+"2015";"Helsinki 3";"Vapaarahoitteinen";"3h+";13.08;457
+"2015";"Helsinki 4";"Vapaarahoitteinen";"1h";17.97;2959
+"2015";"Helsinki 4";"Vapaarahoitteinen";"2h";14.95;2573
+"2015";"Helsinki 4";"Vapaarahoitteinen";"3h+";13.79;1506
+"2015";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";18.85;1710
+"2015";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";15.81;2142
+"2015";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";13.72;1100
+"2015";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";20.73;312
+"2015";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";16.21;305
+"2015";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";13.80;146
+"2015";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";19.10;536
+"2015";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";16.46;857
+"2015";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";14.74;360
+"2015";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";17.54;862
+"2015";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";14.79;980
+"2015";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";12.67;594
+"2015";"Vantaa";"Vapaarahoitteinen";"1h";17.68;1962
+"2015";"Vantaa";"Vapaarahoitteinen";"2h";14.98;2349
+"2015";"Vantaa";"Vapaarahoitteinen";"3h+";13.31;1288
+"2015";"Vantaa 1";"Vapaarahoitteinen";"1h";18.49;357
+"2015";"Vantaa 1";"Vapaarahoitteinen";"2h";15.76;559
+"2015";"Vantaa 1";"Vapaarahoitteinen";"3h+";13.78;295
+"2015";"Vantaa 2";"Vapaarahoitteinen";"1h";17.41;1605
+"2015";"Vantaa 2";"Vapaarahoitteinen";"2h";14.59;1790
+"2015";"Vantaa 2";"Vapaarahoitteinen";"3h+";13.05;993
+"2015";"Kehyskunnat";"Vapaarahoitteinen";"1h";15.08;2211
+"2015";"Kehyskunnat";"Vapaarahoitteinen";"2h";12.68;2403
+"2015";"Kehyskunnat";"Vapaarahoitteinen";"3h+";11.10;1128
+"2015";"Porvoo";"Vapaarahoitteinen";"1h";14.83;471
+"2015";"Porvoo";"Vapaarahoitteinen";"2h";12.19;412
+"2015";"Porvoo";"Vapaarahoitteinen";"3h+";10.43;199
+"2015";"Tampere";"Vapaarahoitteinen";"1h";16.18;5553
+"2015";"Tampere";"Vapaarahoitteinen";"2h";12.91;4825
+"2015";"Tampere";"Vapaarahoitteinen";"3h+";11.15;1760
+"2015";"Tampere 1";"Vapaarahoitteinen";"1h";16.99;2625
+"2015";"Tampere 1";"Vapaarahoitteinen";"2h";13.37;1830
+"2015";"Tampere 1";"Vapaarahoitteinen";"3h+";11.55;489
+"2015";"Tampere 2";"Vapaarahoitteinen";"1h";14.63;862
+"2015";"Tampere 2";"Vapaarahoitteinen";"2h";13.06;878
+"2015";"Tampere 2";"Vapaarahoitteinen";"3h+";10.91;326
+"2015";"Tampere 3";"Vapaarahoitteinen";"1h";14.96;2066
+"2015";"Tampere 3";"Vapaarahoitteinen";"2h";11.96;2117
+"2015";"Tampere 3";"Vapaarahoitteinen";"3h+";10.73;945
+"2015";"Turku";"Vapaarahoitteinen";"1h";15.35;4595
+"2015";"Turku";"Vapaarahoitteinen";"2h";11.89;3519
+"2015";"Turku";"Vapaarahoitteinen";"3h+";10.35;1292
+"2015";"Turku 1";"Vapaarahoitteinen";"1h";16.05;2576
+"2015";"Turku 1";"Vapaarahoitteinen";"2h";12.66;1806
+"2015";"Turku 1";"Vapaarahoitteinen";"3h+";11.07;510
+"2015";"Turku 2";"Vapaarahoitteinen";"1h";14.96;672
+"2015";"Turku 2";"Vapaarahoitteinen";"2h";11.78;427
+"2015";"Turku 2";"Vapaarahoitteinen";"3h+";9.86;110
+"2015";"Turku 3";"Vapaarahoitteinen";"1h";13.78;1347
+"2015";"Turku 3";"Vapaarahoitteinen";"2h";10.45;1286
+"2015";"Turku 3";"Vapaarahoitteinen";"3h+";9.56;672
+"2015";"Pori";"Vapaarahoitteinen";"1h";13.12;1160
+"2015";"Pori";"Vapaarahoitteinen";"2h";10.14;1396
+"2015";"Pori";"Vapaarahoitteinen";"3h+";8.89;550
+"2015";"Pori 1";"Vapaarahoitteinen";"1h";13.97;619
+"2015";"Pori 1";"Vapaarahoitteinen";"2h";10.94;676
+"2015";"Pori 1";"Vapaarahoitteinen";"3h+";9.39;237
+"2015";"Pori 2";"Vapaarahoitteinen";"1h";11.72;541
+"2015";"Pori 2";"Vapaarahoitteinen";"2h";9.18;720
+"2015";"Pori 2";"Vapaarahoitteinen";"3h+";8.40;313
+"2015";"Rauma";"Vapaarahoitteinen";"1h";11.90;459
+"2015";"Rauma";"Vapaarahoitteinen";"2h";9.60;617
+"2015";"Rauma";"Vapaarahoitteinen";"3h+";8.61;285
+"2015";"Lappeenranta";"Vapaarahoitteinen";"1h";14.52;576
+"2015";"Lappeenranta";"Vapaarahoitteinen";"2h";11.59;606
+"2015";"Lappeenranta";"Vapaarahoitteinen";"3h+";10.23;228
+"2015";"Lappeenranta 1";"Vapaarahoitteinen";"1h";15.58;285
+"2015";"Lappeenranta 1";"Vapaarahoitteinen";"2h";12.64;201
+"2015";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";10.79;44
+"2015";"Lappeenranta 2";"Vapaarahoitteinen";"1h";12.72;291
+"2015";"Lappeenranta 2";"Vapaarahoitteinen";"2h";10.47;405
+"2015";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";9.76;184
+"2015";"Kotka";"Vapaarahoitteinen";"1h";13.26;888
+"2015";"Kotka";"Vapaarahoitteinen";"2h";10.51;894
+"2015";"Kotka";"Vapaarahoitteinen";"3h+";9.43;309
+"2015";"Kotka 1";"Vapaarahoitteinen";"1h";14.72;389
+"2015";"Kotka 1";"Vapaarahoitteinen";"2h";11.65;342
+"2015";"Kotka 1";"Vapaarahoitteinen";"3h+";9.95;84
+"2015";"Kotka 2";"Vapaarahoitteinen";"1h";11.91;499
+"2015";"Kotka 2";"Vapaarahoitteinen";"2h";9.47;552
+"2015";"Kotka 2";"Vapaarahoitteinen";"3h+";9.06;225
+"2015";"Kouvola";"Vapaarahoitteinen";"1h";12.27;987
+"2015";"Kouvola";"Vapaarahoitteinen";"2h";9.94;1047
+"2015";"Kouvola";"Vapaarahoitteinen";"3h+";9.06;402
+"2015";"Lahti";"Vapaarahoitteinen";"1h";15.20;2043
+"2015";"Lahti";"Vapaarahoitteinen";"2h";11.98;1977
+"2015";"Lahti";"Vapaarahoitteinen";"3h+";10.47;637
+"2015";"Lahti 1";"Vapaarahoitteinen";"1h";15.88;961
+"2015";"Lahti 1";"Vapaarahoitteinen";"2h";12.59;740
+"2015";"Lahti 1";"Vapaarahoitteinen";"3h+";10.70;254
+"2015";"Lahti 2";"Vapaarahoitteinen";"1h";14.40;1082
+"2015";"Lahti 2";"Vapaarahoitteinen";"2h";11.34;1237
+"2015";"Lahti 2";"Vapaarahoitteinen";"3h+";10.20;383
+"2015";"Hämeenlinna";"Vapaarahoitteinen";"1h";14.64;734
+"2015";"Hämeenlinna";"Vapaarahoitteinen";"2h";11.89;801
+"2015";"Hämeenlinna";"Vapaarahoitteinen";"3h+";10.52;316
+"2015";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";15.54;456
+"2015";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";12.71;427
+"2015";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";11.23;101
+"2015";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";12.93;278
+"2015";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";10.73;374
+"2015";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";9.93;215
+"2015";"Kuopio";"Vapaarahoitteinen";"1h";15.64;1665
+"2015";"Kuopio";"Vapaarahoitteinen";"2h";12.42;1947
+"2015";"Kuopio";"Vapaarahoitteinen";"3h+";10.75;525
+"2015";"Kuopio 1";"Vapaarahoitteinen";"1h";17.17;870
+"2015";"Kuopio 1";"Vapaarahoitteinen";"2h";13.56;848
+"2015";"Kuopio 1";"Vapaarahoitteinen";"3h+";11.78;188
+"2015";"Kuopio 2";"Vapaarahoitteinen";"1h";13.81;748
+"2015";"Kuopio 2";"Vapaarahoitteinen";"2h";11.76;1032
+"2015";"Kuopio 2";"Vapaarahoitteinen";"3h+";10.37;312
+"2015";"Kuopio 3";"Vapaarahoitteinen";"1h";10.70;47
+"2015";"Kuopio 3";"Vapaarahoitteinen";"2h";9.12;67
+"2015";"Kuopio 3";"Vapaarahoitteinen";"3h+";8.48;25
+"2015";"Jyväskylä";"Vapaarahoitteinen";"1h";15.98;2206
+"2015";"Jyväskylä";"Vapaarahoitteinen";"2h";12.40;2962
+"2015";"Jyväskylä";"Vapaarahoitteinen";"3h+";11.02;988
+"2015";"Jyväskylä 1";"Vapaarahoitteinen";"1h";16.93;1282
+"2015";"Jyväskylä 1";"Vapaarahoitteinen";"2h";13.07;1612
+"2015";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";11.71;397
+"2015";"Jyväskylä 2";"Vapaarahoitteinen";"1h";13.98;924
+"2015";"Jyväskylä 2";"Vapaarahoitteinen";"2h";11.25;1350
+"2015";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";10.23;591
+"2015";"Vaasa";"Vapaarahoitteinen";"1h";14.52;876
+"2015";"Vaasa";"Vapaarahoitteinen";"2h";11.23;997
+"2015";"Vaasa";"Vapaarahoitteinen";"3h+";9.50;361
+"2015";"Vaasa 1";"Vapaarahoitteinen";"1h";15.10;655
+"2015";"Vaasa 1";"Vapaarahoitteinen";"2h";11.60;732
+"2015";"Vaasa 1";"Vapaarahoitteinen";"3h+";9.62;244
+"2015";"Vaasa 2";"Vapaarahoitteinen";"1h";12.50;221
+"2015";"Vaasa 2";"Vapaarahoitteinen";"2h";10.17;265
+"2015";"Vaasa 2";"Vapaarahoitteinen";"3h+";9.28;117
+"2015";"Seinäjoki";"Vapaarahoitteinen";"1h";13.77;652
+"2015";"Seinäjoki";"Vapaarahoitteinen";"2h";11.23;850
+"2015";"Seinäjoki";"Vapaarahoitteinen";"3h+";9.65;346
+"2015";"Kokkola";"Vapaarahoitteinen";"1h";13.35;213
+"2015";"Kokkola";"Vapaarahoitteinen";"2h";10.58;345
+"2015";"Kokkola";"Vapaarahoitteinen";"3h+";8.65;162
+"2015";"Mikkeli";"Vapaarahoitteinen";"1h";14.42;586
+"2015";"Mikkeli";"Vapaarahoitteinen";"2h";11.21;625
+"2015";"Mikkeli";"Vapaarahoitteinen";"3h+";9.90;303
+"2015";"Mikkeli 1";"Vapaarahoitteinen";"1h";14.84;452
+"2015";"Mikkeli 1";"Vapaarahoitteinen";"2h";11.64;447
+"2015";"Mikkeli 1";"Vapaarahoitteinen";"3h+";10.32;204
+"2015";"Mikkeli 2";"Vapaarahoitteinen";"1h";12.92;134
+"2015";"Mikkeli 2";"Vapaarahoitteinen";"2h";9.93;178
+"2015";"Mikkeli 2";"Vapaarahoitteinen";"3h+";9.19;99
+"2015";"Joensuu";"Vapaarahoitteinen";"1h";15.22;1306
+"2015";"Joensuu";"Vapaarahoitteinen";"2h";11.74;1390
+"2015";"Joensuu";"Vapaarahoitteinen";"3h+";10.16;491
+"2015";"Joensuu 1";"Vapaarahoitteinen";"1h";16.02;946
+"2015";"Joensuu 1";"Vapaarahoitteinen";"2h";12.39;849
+"2015";"Joensuu 1";"Vapaarahoitteinen";"3h+";10.83;256
+"2015";"Joensuu 2";"Vapaarahoitteinen";"1h";13.44;319
+"2015";"Joensuu 2";"Vapaarahoitteinen";"2h";11.45;430
+"2015";"Joensuu 2";"Vapaarahoitteinen";"3h+";9.92;189
+"2015";"Joensuu 3";"Vapaarahoitteinen";"1h";10.04;41
+"2015";"Joensuu 3";"Vapaarahoitteinen";"2h";8.69;111
+"2015";"Joensuu 3";"Vapaarahoitteinen";"3h+";8.06;46
+"2015";"Oulu";"Vapaarahoitteinen";"1h";14.32;2922
+"2015";"Oulu";"Vapaarahoitteinen";"2h";11.37;3534
+"2015";"Oulu";"Vapaarahoitteinen";"3h+";10.11;1329
+"2015";"Oulu 1";"Vapaarahoitteinen";"1h";15.21;1250
+"2015";"Oulu 1";"Vapaarahoitteinen";"2h";12.36;1413
+"2015";"Oulu 1";"Vapaarahoitteinen";"3h+";11.16;380
+"2015";"Oulu 2";"Vapaarahoitteinen";"1h";13.41;1672
+"2015";"Oulu 2";"Vapaarahoitteinen";"2h";10.52;2121
+"2015";"Oulu 2";"Vapaarahoitteinen";"3h+";9.48;949
+"2015";"Kajaani";"Vapaarahoitteinen";"1h";13.96;422
+"2015";"Kajaani";"Vapaarahoitteinen";"2h";10.94;440
+"2015";"Kajaani";"Vapaarahoitteinen";"3h+";9.92;149
+"2015";"Rovaniemi";"Vapaarahoitteinen";"1h";14.42;1026
+"2015";"Rovaniemi";"Vapaarahoitteinen";"2h";11.31;1264
+"2015";"Rovaniemi";"Vapaarahoitteinen";"3h+";9.78;510
+"2015";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";17.46;33713
+"2015";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";13.50;30799
+"2015";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";12.08;11960
+"2015";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";13.91;6642
+"2015";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";10.94;7461
+"2015";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";9.56;2855
+"2015";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";13.03;11296
+"2015";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";10.63;12780
+"2015";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";9.53;5582
+"2015";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";10.75;6461
+"2015";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";9.13;8697
+"2015";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";8.15;4504
+"2016";"Koko maa";"Vapaarahoitteinen";"1h";17.17;61746
+"2016";"Koko maa";"Vapaarahoitteinen";"2h";12.92;64038
+"2016";"Koko maa";"Vapaarahoitteinen";"3h+";11.49;26592
+"2016";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";22.38;15969
+"2016";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";17.07;13386
+"2016";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";15.06;6167
+"2016";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";14.16;45777
+"2016";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";11.17;50652
+"2016";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";9.74;20425
+"2016";"Etelä-Suomi";"Vapaarahoitteinen";"1h";19.07;33376
+"2016";"Etelä-Suomi";"Vapaarahoitteinen";"2h";14.37;30967
+"2016";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";12.88;13318
+"2016";"Länsi-Suomi";"Vapaarahoitteinen";"1h";14.50;15212
+"2016";"Länsi-Suomi";"Vapaarahoitteinen";"2h";11.25;17328
+"2016";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";9.73;6891
+"2016";"Itä-Suomi";"Vapaarahoitteinen";"1h";13.64;6692
+"2016";"Itä-Suomi";"Vapaarahoitteinen";"2h";10.84;7668
+"2016";"Itä-Suomi";"Vapaarahoitteinen";"3h+";9.28;2903
+"2016";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";13.52;6466
+"2016";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";10.78;8075
+"2016";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";9.28;3480
+"2016";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";21.36;19735
+"2016";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";16.15;17762
+"2016";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";14.23;8113
+"2016";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";14.64;6149
+"2016";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";11.24;5328
+"2016";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";9.88;2127
+"2016";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";12.39;2134
+"2016";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";9.65;2833
+"2016";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";8.45;1230
+"2016";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";13.47;1398
+"2016";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.12;1454
+"2016";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.86;625
+"2016";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";15.61;7660
+"2016";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";12.14;7130
+"2016";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";10.59;2788
+"2016";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";14.40;2887
+"2016";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.43;3019
+"2016";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";10.03;1094
+"2016";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";12.77;2138
+"2016";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";10.21;2305
+"2016";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";9.17;916
+"2016";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";13.62;1069
+"2016";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";11.03;1099
+"2016";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.52;443
+"2016";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";12.90;1392
+"2016";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";10.25;1576
+"2016";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";9.02;588
+"2016";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";14.05;2731
+"2016";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";11.38;3275
+"2016";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";9.62;1119
+"2016";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";13.91;1909
+"2016";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";10.66;2080
+"2016";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.17;832
+"2016";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";14.55;3073
+"2016";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";11.58;4001
+"2016";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";10.09;1405
+"2016";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.13;1045
+"2016";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.22;1767
+"2016";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.00;752
+"2016";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.72;1300
+"2016";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.46;1597
+"2016";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.96;716
+"2016";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.96;261
+"2016";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.45;442
+"2016";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.88;238
+"2016";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.69;4379
+"2016";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";11.01;5198
+"2016";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.63;2147
+"2016";"Kainuun maakunta";"Vapaarahoitteinen";"1h";12.88;660
+"2016";"Kainuun maakunta";"Vapaarahoitteinen";"2h";10.28;737
+"2016";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.87;364
+"2016";"Lapin maakunta";"Vapaarahoitteinen";"1h";13.26;1826
+"2016";"Lapin maakunta";"Vapaarahoitteinen";"2h";10.39;2435
+"2016";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.75;1095
+"2016";"Helsinki";"Vapaarahoitteinen";"1h";23.11;11904
+"2016";"Helsinki";"Vapaarahoitteinen";"2h";17.59;8289
+"2016";"Helsinki";"Vapaarahoitteinen";"3h+";15.54;3414
+"2016";"Helsinki 1";"Vapaarahoitteinen";"1h";25.12;1792
+"2016";"Helsinki 1";"Vapaarahoitteinen";"2h";19.41;1070
+"2016";"Helsinki 1";"Vapaarahoitteinen";"3h+";16.81;426
+"2016";"Helsinki 2";"Vapaarahoitteinen";"1h";23.76;5667
+"2016";"Helsinki 2";"Vapaarahoitteinen";"2h";18.27;3166
+"2016";"Helsinki 2";"Vapaarahoitteinen";"3h+";16.25;822
+"2016";"Helsinki 3";"Vapaarahoitteinen";"1h";20.52;1353
+"2016";"Helsinki 3";"Vapaarahoitteinen";"2h";15.94;1200
+"2016";"Helsinki 3";"Vapaarahoitteinen";"3h+";13.75;514
+"2016";"Helsinki 4";"Vapaarahoitteinen";"1h";18.58;3092
+"2016";"Helsinki 4";"Vapaarahoitteinen";"2h";15.50;2853
+"2016";"Helsinki 4";"Vapaarahoitteinen";"3h+";14.27;1652
+"2016";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";19.53;1957
+"2016";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";16.18;2456
+"2016";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";14.49;1289
+"2016";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";21.62;348
+"2016";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";16.68;343
+"2016";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";15.00;139
+"2016";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";19.88;641
+"2016";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";16.89;1005
+"2016";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";15.28;502
+"2016";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";18.00;968
+"2016";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";15.03;1108
+"2016";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";13.32;648
+"2016";"Vantaa";"Vapaarahoitteinen";"1h";18.29;2108
+"2016";"Vantaa";"Vapaarahoitteinen";"2h";15.40;2641
+"2016";"Vantaa";"Vapaarahoitteinen";"3h+";13.77;1464
+"2016";"Vantaa 1";"Vapaarahoitteinen";"1h";19.00;447
+"2016";"Vantaa 1";"Vapaarahoitteinen";"2h";16.66;726
+"2016";"Vantaa 1";"Vapaarahoitteinen";"3h+";14.33;398
+"2016";"Vantaa 2";"Vapaarahoitteinen";"1h";18.06;1661
+"2016";"Vantaa 2";"Vapaarahoitteinen";"2h";14.78;1915
+"2016";"Vantaa 2";"Vapaarahoitteinen";"3h+";13.47;1066
+"2016";"Kehyskunnat";"Vapaarahoitteinen";"1h";15.72;2331
+"2016";"Kehyskunnat";"Vapaarahoitteinen";"2h";12.96;2580
+"2016";"Kehyskunnat";"Vapaarahoitteinen";"3h+";11.59;1130
+"2016";"Porvoo";"Vapaarahoitteinen";"1h";15.42;457
+"2016";"Porvoo";"Vapaarahoitteinen";"2h";12.43;455
+"2016";"Porvoo";"Vapaarahoitteinen";"3h+";10.38;192
+"2016";"Tampere";"Vapaarahoitteinen";"1h";16.59;5962
+"2016";"Tampere";"Vapaarahoitteinen";"2h";13.10;5175
+"2016";"Tampere";"Vapaarahoitteinen";"3h+";11.56;1845
+"2016";"Tampere 1";"Vapaarahoitteinen";"1h";17.36;2768
+"2016";"Tampere 1";"Vapaarahoitteinen";"2h";13.57;1967
+"2016";"Tampere 1";"Vapaarahoitteinen";"3h+";11.93;485
+"2016";"Tampere 2";"Vapaarahoitteinen";"1h";15.10;926
+"2016";"Tampere 2";"Vapaarahoitteinen";"2h";13.24;958
+"2016";"Tampere 2";"Vapaarahoitteinen";"3h+";11.69;338
+"2016";"Tampere 3";"Vapaarahoitteinen";"1h";15.42;2268
+"2016";"Tampere 3";"Vapaarahoitteinen";"2h";12.17;2250
+"2016";"Tampere 3";"Vapaarahoitteinen";"3h+";10.98;1022
+"2016";"Turku";"Vapaarahoitteinen";"1h";15.69;4863
+"2016";"Turku";"Vapaarahoitteinen";"2h";12.12;3737
+"2016";"Turku";"Vapaarahoitteinen";"3h+";10.64;1356
+"2016";"Turku 1";"Vapaarahoitteinen";"1h";16.42;2723
+"2016";"Turku 1";"Vapaarahoitteinen";"2h";12.89;1908
+"2016";"Turku 1";"Vapaarahoitteinen";"3h+";11.23;531
+"2016";"Turku 2";"Vapaarahoitteinen";"1h";15.47;713
+"2016";"Turku 2";"Vapaarahoitteinen";"2h";12.09;453
+"2016";"Turku 2";"Vapaarahoitteinen";"3h+";10.64;137
+"2016";"Turku 3";"Vapaarahoitteinen";"1h";13.99;1427
+"2016";"Turku 3";"Vapaarahoitteinen";"2h";10.65;1376
+"2016";"Turku 3";"Vapaarahoitteinen";"3h+";9.81;688
+"2016";"Pori";"Vapaarahoitteinen";"1h";13.28;1250
+"2016";"Pori";"Vapaarahoitteinen";"2h";10.31;1570
+"2016";"Pori";"Vapaarahoitteinen";"3h+";9.19;562
+"2016";"Pori 1";"Vapaarahoitteinen";"1h";14.11;677
+"2016";"Pori 1";"Vapaarahoitteinen";"2h";11.17;803
+"2016";"Pori 1";"Vapaarahoitteinen";"3h+";9.76;254
+"2016";"Pori 2";"Vapaarahoitteinen";"1h";11.92;573
+"2016";"Pori 2";"Vapaarahoitteinen";"2h";9.29;767
+"2016";"Pori 2";"Vapaarahoitteinen";"3h+";8.62;308
+"2016";"Rauma";"Vapaarahoitteinen";"1h";12.08;462
+"2016";"Rauma";"Vapaarahoitteinen";"2h";9.56;636
+"2016";"Rauma";"Vapaarahoitteinen";"3h+";8.53;300
+"2016";"Lappeenranta";"Vapaarahoitteinen";"1h";14.63;621
+"2016";"Lappeenranta";"Vapaarahoitteinen";"2h";11.81;637
+"2016";"Lappeenranta";"Vapaarahoitteinen";"3h+";10.40;230
+"2016";"Lappeenranta 1";"Vapaarahoitteinen";"1h";15.64;301
+"2016";"Lappeenranta 1";"Vapaarahoitteinen";"2h";12.82;226
+"2016";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";10.99;43
+"2016";"Lappeenranta 2";"Vapaarahoitteinen";"1h";12.92;320
+"2016";"Lappeenranta 2";"Vapaarahoitteinen";"2h";10.73;411
+"2016";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";9.92;187
+"2016";"Kotka";"Vapaarahoitteinen";"1h";13.45;905
+"2016";"Kotka";"Vapaarahoitteinen";"2h";10.62;925
+"2016";"Kotka";"Vapaarahoitteinen";"3h+";9.69;344
+"2016";"Kotka 1";"Vapaarahoitteinen";"1h";14.83;389
+"2016";"Kotka 1";"Vapaarahoitteinen";"2h";11.70;349
+"2016";"Kotka 1";"Vapaarahoitteinen";"3h+";10.35;98
+"2016";"Kotka 2";"Vapaarahoitteinen";"1h";12.16;516
+"2016";"Kotka 2";"Vapaarahoitteinen";"2h";9.65;576
+"2016";"Kotka 2";"Vapaarahoitteinen";"3h+";9.22;246
+"2016";"Kouvola";"Vapaarahoitteinen";"1h";12.34;1044
+"2016";"Kouvola";"Vapaarahoitteinen";"2h";9.99;1143
+"2016";"Kouvola";"Vapaarahoitteinen";"3h+";8.85;445
+"2016";"Lahti";"Vapaarahoitteinen";"1h";15.49;2123
+"2016";"Lahti";"Vapaarahoitteinen";"2h";12.25;2136
+"2016";"Lahti";"Vapaarahoitteinen";"3h+";10.82;683
+"2016";"Lahti 1";"Vapaarahoitteinen";"1h";16.24;1011
+"2016";"Lahti 1";"Vapaarahoitteinen";"2h";12.92;803
+"2016";"Lahti 1";"Vapaarahoitteinen";"3h+";11.24;271
+"2016";"Lahti 2";"Vapaarahoitteinen";"1h";14.60;1112
+"2016";"Lahti 2";"Vapaarahoitteinen";"2h";11.54;1333
+"2016";"Lahti 2";"Vapaarahoitteinen";"3h+";10.35;412
+"2016";"Hämeenlinna";"Vapaarahoitteinen";"1h";14.86;791
+"2016";"Hämeenlinna";"Vapaarahoitteinen";"2h";12.06;852
+"2016";"Hämeenlinna";"Vapaarahoitteinen";"3h+";10.61;368
+"2016";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";15.76;482
+"2016";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";12.85;450
+"2016";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";11.21;137
+"2016";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";13.13;309
+"2016";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";10.94;402
+"2016";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";10.11;231
+"2016";"Kuopio";"Vapaarahoitteinen";"1h";16.04;1787
+"2016";"Kuopio";"Vapaarahoitteinen";"2h";12.81;2042
+"2016";"Kuopio";"Vapaarahoitteinen";"3h+";10.79;601
+"2016";"Kuopio 1";"Vapaarahoitteinen";"1h";17.55;935
+"2016";"Kuopio 1";"Vapaarahoitteinen";"2h";14.04;884
+"2016";"Kuopio 1";"Vapaarahoitteinen";"3h+";11.59;217
+"2016";"Kuopio 2";"Vapaarahoitteinen";"1h";14.23;807
+"2016";"Kuopio 2";"Vapaarahoitteinen";"2h";12.10;1103
+"2016";"Kuopio 2";"Vapaarahoitteinen";"3h+";10.59;352
+"2016";"Kuopio 3";"Vapaarahoitteinen";"1h";11.31;45
+"2016";"Kuopio 3";"Vapaarahoitteinen";"2h";9.14;55
+"2016";"Kuopio 3";"Vapaarahoitteinen";"3h+";8.58;32
+"2016";"Jyväskylä";"Vapaarahoitteinen";"1h";16.30;2346
+"2016";"Jyväskylä";"Vapaarahoitteinen";"2h";12.72;3067
+"2016";"Jyväskylä";"Vapaarahoitteinen";"3h+";11.09;1034
+"2016";"Jyväskylä 1";"Vapaarahoitteinen";"1h";17.24;1374
+"2016";"Jyväskylä 1";"Vapaarahoitteinen";"2h";13.46;1650
+"2016";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";11.82;428
+"2016";"Jyväskylä 2";"Vapaarahoitteinen";"1h";14.31;972
+"2016";"Jyväskylä 2";"Vapaarahoitteinen";"2h";11.45;1417
+"2016";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";10.26;606
+"2016";"Vaasa";"Vapaarahoitteinen";"1h";14.81;946
+"2016";"Vaasa";"Vapaarahoitteinen";"2h";11.47;1025
+"2016";"Vaasa";"Vapaarahoitteinen";"3h+";9.77;388
+"2016";"Vaasa 1";"Vapaarahoitteinen";"1h";15.39;709
+"2016";"Vaasa 1";"Vapaarahoitteinen";"2h";11.93;757
+"2016";"Vaasa 1";"Vapaarahoitteinen";"3h+";9.98;265
+"2016";"Vaasa 2";"Vapaarahoitteinen";"1h";12.81;237
+"2016";"Vaasa 2";"Vapaarahoitteinen";"2h";10.15;268
+"2016";"Vaasa 2";"Vapaarahoitteinen";"3h+";9.38;123
+"2016";"Seinäjoki";"Vapaarahoitteinen";"1h";14.06;661
+"2016";"Seinäjoki";"Vapaarahoitteinen";"2h";11.29;947
+"2016";"Seinäjoki";"Vapaarahoitteinen";"3h+";9.84;356
+"2016";"Kokkola";"Vapaarahoitteinen";"1h";13.69;229
+"2016";"Kokkola";"Vapaarahoitteinen";"2h";10.85;363
+"2016";"Kokkola";"Vapaarahoitteinen";"3h+";9.10;198
+"2016";"Mikkeli";"Vapaarahoitteinen";"1h";14.71;642
+"2016";"Mikkeli";"Vapaarahoitteinen";"2h";11.41;687
+"2016";"Mikkeli";"Vapaarahoitteinen";"3h+";10.03;272
+"2016";"Mikkeli 1";"Vapaarahoitteinen";"1h";15.05;487
+"2016";"Mikkeli 1";"Vapaarahoitteinen";"2h";11.89;496
+"2016";"Mikkeli 1";"Vapaarahoitteinen";"3h+";10.54;185
+"2016";"Mikkeli 2";"Vapaarahoitteinen";"1h";13.46;155
+"2016";"Mikkeli 2";"Vapaarahoitteinen";"2h";9.96;191
+"2016";"Mikkeli 2";"Vapaarahoitteinen";"3h+";9.17;87
+"2016";"Joensuu";"Vapaarahoitteinen";"1h";15.58;1418
+"2016";"Joensuu";"Vapaarahoitteinen";"2h";11.94;1453
+"2016";"Joensuu";"Vapaarahoitteinen";"3h+";10.17;537
+"2016";"Joensuu 1";"Vapaarahoitteinen";"1h";16.36;1000
+"2016";"Joensuu 1";"Vapaarahoitteinen";"2h";12.68;885
+"2016";"Joensuu 1";"Vapaarahoitteinen";"3h+";10.77;259
+"2016";"Joensuu 2";"Vapaarahoitteinen";"1h";13.92;373
+"2016";"Joensuu 2";"Vapaarahoitteinen";"2h";11.47;453
+"2016";"Joensuu 2";"Vapaarahoitteinen";"3h+";10.06;222
+"2016";"Joensuu 3";"Vapaarahoitteinen";"1h";10.04;45
+"2016";"Joensuu 3";"Vapaarahoitteinen";"2h";8.87;115
+"2016";"Joensuu 3";"Vapaarahoitteinen";"3h+";7.73;56
+"2016";"Oulu";"Vapaarahoitteinen";"1h";14.65;3292
+"2016";"Oulu";"Vapaarahoitteinen";"2h";11.57;3801
+"2016";"Oulu";"Vapaarahoitteinen";"3h+";10.26;1421
+"2016";"Oulu 1";"Vapaarahoitteinen";"1h";15.52;1428
+"2016";"Oulu 1";"Vapaarahoitteinen";"2h";12.62;1524
+"2016";"Oulu 1";"Vapaarahoitteinen";"3h+";11.30;409
+"2016";"Oulu 2";"Vapaarahoitteinen";"1h";13.76;1864
+"2016";"Oulu 2";"Vapaarahoitteinen";"2h";10.65;2277
+"2016";"Oulu 2";"Vapaarahoitteinen";"3h+";9.63;1012
+"2016";"Kajaani";"Vapaarahoitteinen";"1h";14.15;454
+"2016";"Kajaani";"Vapaarahoitteinen";"2h";11.27;450
+"2016";"Kajaani";"Vapaarahoitteinen";"3h+";9.71;183
+"2016";"Rovaniemi";"Vapaarahoitteinen";"1h";14.63;1054
+"2016";"Rovaniemi";"Vapaarahoitteinen";"2h";11.59;1346
+"2016";"Rovaniemi";"Vapaarahoitteinen";"3h+";9.77;554
+"2016";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";17.89;35645
+"2016";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";13.84;32818
+"2016";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";12.46;12903
+"2016";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";14.07;7636
+"2016";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";11.11;8847
+"2016";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";9.69;3418
+"2016";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";13.37;10449
+"2016";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";10.81;12097
+"2016";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";9.72;5215
+"2016";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";10.96;6916
+"2016";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";9.25;9188
+"2016";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";8.34;4653
+"2017";"Koko maa";"Vapaarahoitteinen";"1h";17.51;79006
+"2017";"Koko maa";"Vapaarahoitteinen";"2h";13.16;74389
+"2017";"Koko maa";"Vapaarahoitteinen";"3h+";11.62;29278
+"2017";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";22.83;18318
+"2017";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";17.32;13561
+"2017";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";15.24;6145
+"2017";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";14.44;60688
+"2017";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";11.40;60828
+"2017";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";9.84;23133
+"2017";"Etelä-Suomi";"Vapaarahoitteinen";"1h";19.46;40920
+"2017";"Etelä-Suomi";"Vapaarahoitteinen";"2h";14.60;34853
+"2017";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";13.02;14323
+"2017";"Länsi-Suomi";"Vapaarahoitteinen";"1h";14.72;20190
+"2017";"Länsi-Suomi";"Vapaarahoitteinen";"2h";11.49;20448
+"2017";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";9.85;7789
+"2017";"Itä-Suomi";"Vapaarahoitteinen";"1h";13.84;9015
+"2017";"Itä-Suomi";"Vapaarahoitteinen";"2h";11.08;9293
+"2017";"Itä-Suomi";"Vapaarahoitteinen";"3h+";9.46;3251
+"2017";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";13.88;8881
+"2017";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";10.99;9795
+"2017";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";9.38;3915
+"2017";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";21.79;22777
+"2017";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";16.37;18353
+"2017";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";14.39;8314
+"2017";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";15.03;8426
+"2017";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";11.63;6710
+"2017";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";10.00;2370
+"2017";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";12.49;3208
+"2017";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";9.86;3909
+"2017";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";8.60;1636
+"2017";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";13.49;1746
+"2017";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.21;1858
+"2017";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.78;738
+"2017";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";15.89;9653
+"2017";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";12.37;7907
+"2017";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";10.66;2917
+"2017";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";14.66;3511
+"2017";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.68;3508
+"2017";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";10.13;1257
+"2017";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";12.93;2642
+"2017";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";10.33;2702
+"2017";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";9.13;1049
+"2017";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";14.02;1818
+"2017";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";11.16;1722
+"2017";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.65;595
+"2017";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";12.81;1916
+"2017";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";10.32;1917
+"2017";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";8.93;713
+"2017";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";14.28;3707
+"2017";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";11.66;3883
+"2017";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";9.94;1227
+"2017";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";14.23;2496
+"2017";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";11.06;2507
+"2017";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.44;864
+"2017";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";14.84;4248
+"2017";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";11.97;4549
+"2017";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";10.06;1517
+"2017";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.27;1379
+"2017";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.38;2217
+"2017";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.03;957
+"2017";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.78;1702
+"2017";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.66;1866
+"2017";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.48;762
+"2017";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.04;483
+"2017";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.57;687
+"2017";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.84;341
+"2017";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";14.10;6097
+"2017";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";11.21;6290
+"2017";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.79;2317
+"2017";"Kainuun maakunta";"Vapaarahoitteinen";"1h";13.20;896
+"2017";"Kainuun maakunta";"Vapaarahoitteinen";"2h";10.35;986
+"2017";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.91;447
+"2017";"Lapin maakunta";"Vapaarahoitteinen";"1h";13.57;2301
+"2017";"Lapin maakunta";"Vapaarahoitteinen";"2h";10.60;2818
+"2017";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.79;1257
+"2017";"Helsinki";"Vapaarahoitteinen";"1h";23.53;13533
+"2017";"Helsinki";"Vapaarahoitteinen";"2h";17.86;7953
+"2017";"Helsinki";"Vapaarahoitteinen";"3h+";15.81;3222
+"2017";"Helsinki 1";"Vapaarahoitteinen";"1h";25.34;2001
+"2017";"Helsinki 1";"Vapaarahoitteinen";"2h";19.82;940
+"2017";"Helsinki 1";"Vapaarahoitteinen";"3h+";17.54;313
+"2017";"Helsinki 2";"Vapaarahoitteinen";"1h";24.27;6393
+"2017";"Helsinki 2";"Vapaarahoitteinen";"2h";18.48;2882
+"2017";"Helsinki 2";"Vapaarahoitteinen";"3h+";16.21;745
+"2017";"Helsinki 3";"Vapaarahoitteinen";"1h";20.56;1658
+"2017";"Helsinki 3";"Vapaarahoitteinen";"2h";16.24;1253
+"2017";"Helsinki 3";"Vapaarahoitteinen";"3h+";13.87;541
+"2017";"Helsinki 4";"Vapaarahoitteinen";"1h";19.23;3481
+"2017";"Helsinki 4";"Vapaarahoitteinen";"2h";15.74;2878
+"2017";"Helsinki 4";"Vapaarahoitteinen";"3h+";14.49;1623
+"2017";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";20.12;2310
+"2017";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";16.28;2659
+"2017";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";14.27;1374
+"2017";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";22.23;458
+"2017";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";16.83;366
+"2017";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";14.43;152
+"2017";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";20.19;710
+"2017";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";16.84;1092
+"2017";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";14.87;547
+"2017";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";18.83;1142
+"2017";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";15.27;1201
+"2017";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";13.55;675
+"2017";"Vantaa";"Vapaarahoitteinen";"1h";18.93;2475
+"2017";"Vantaa";"Vapaarahoitteinen";"2h";15.73;2949
+"2017";"Vantaa";"Vapaarahoitteinen";"3h+";14.19;1549
+"2017";"Vantaa 1";"Vapaarahoitteinen";"1h";19.43;544
+"2017";"Vantaa 1";"Vapaarahoitteinen";"2h";16.93;871
+"2017";"Vantaa 1";"Vapaarahoitteinen";"3h+";15.02;443
+"2017";"Vantaa 2";"Vapaarahoitteinen";"1h";18.76;1931
+"2017";"Vantaa 2";"Vapaarahoitteinen";"2h";15.13;2078
+"2017";"Vantaa 2";"Vapaarahoitteinen";"3h+";13.74;1106
+"2017";"Kehyskunnat";"Vapaarahoitteinen";"1h";16.09;2801
+"2017";"Kehyskunnat";"Vapaarahoitteinen";"2h";13.05;2855
+"2017";"Kehyskunnat";"Vapaarahoitteinen";"3h+";11.72;1290
+"2017";"Porvoo";"Vapaarahoitteinen";"1h";16.19;483
+"2017";"Porvoo";"Vapaarahoitteinen";"2h";12.79;404
+"2017";"Porvoo";"Vapaarahoitteinen";"3h+";10.91;188
+"2017";"Tampere";"Vapaarahoitteinen";"1h";16.94;7504
+"2017";"Tampere";"Vapaarahoitteinen";"2h";13.36;5360
+"2017";"Tampere";"Vapaarahoitteinen";"3h+";11.79;1718
+"2017";"Tampere 1";"Vapaarahoitteinen";"1h";17.61;3586
+"2017";"Tampere 1";"Vapaarahoitteinen";"2h";13.88;1896
+"2017";"Tampere 1";"Vapaarahoitteinen";"3h+";12.21;372
+"2017";"Tampere 2";"Vapaarahoitteinen";"1h";15.83;1223
+"2017";"Tampere 2";"Vapaarahoitteinen";"2h";13.50;1025
+"2017";"Tampere 2";"Vapaarahoitteinen";"3h+";11.95;357
+"2017";"Tampere 3";"Vapaarahoitteinen";"1h";15.81;2695
+"2017";"Tampere 3";"Vapaarahoitteinen";"2h";12.31;2439
+"2017";"Tampere 3";"Vapaarahoitteinen";"3h+";11.13;989
+"2017";"Turku";"Vapaarahoitteinen";"1h";16.13;6369
+"2017";"Turku";"Vapaarahoitteinen";"2h";12.66;4191
+"2017";"Turku";"Vapaarahoitteinen";"3h+";10.86;1242
+"2017";"Turku 1";"Vapaarahoitteinen";"1h";16.81;3482
+"2017";"Turku 1";"Vapaarahoitteinen";"2h";13.51;2088
+"2017";"Turku 1";"Vapaarahoitteinen";"3h+";11.43;405
+"2017";"Turku 2";"Vapaarahoitteinen";"1h";16.20;1045
+"2017";"Turku 2";"Vapaarahoitteinen";"2h";12.70;548
+"2017";"Turku 2";"Vapaarahoitteinen";"3h+";11.06;131
+"2017";"Turku 3";"Vapaarahoitteinen";"1h";14.36;1842
+"2017";"Turku 3";"Vapaarahoitteinen";"2h";10.99;1555
+"2017";"Turku 3";"Vapaarahoitteinen";"3h+";10.00;706
+"2017";"Pori";"Vapaarahoitteinen";"1h";13.30;1998
+"2017";"Pori";"Vapaarahoitteinen";"2h";10.53;2239
+"2017";"Pori";"Vapaarahoitteinen";"3h+";9.16;832
+"2017";"Pori 1";"Vapaarahoitteinen";"1h";14.02;1152
+"2017";"Pori 1";"Vapaarahoitteinen";"2h";11.31;1139
+"2017";"Pori 1";"Vapaarahoitteinen";"3h+";9.69;379
+"2017";"Pori 2";"Vapaarahoitteinen";"1h";12.11;846
+"2017";"Pori 2";"Vapaarahoitteinen";"2h";9.59;1100
+"2017";"Pori 2";"Vapaarahoitteinen";"3h+";8.63;453
+"2017";"Rauma";"Vapaarahoitteinen";"1h";12.71;567
+"2017";"Rauma";"Vapaarahoitteinen";"2h";9.85;729
+"2017";"Rauma";"Vapaarahoitteinen";"3h+";8.74;295
+"2017";"Lappeenranta";"Vapaarahoitteinen";"1h";15.14;1112
+"2017";"Lappeenranta";"Vapaarahoitteinen";"2h";12.08;1049
+"2017";"Lappeenranta";"Vapaarahoitteinen";"3h+";10.56;335
+"2017";"Lappeenranta 1";"Vapaarahoitteinen";"1h";16.19;606
+"2017";"Lappeenranta 1";"Vapaarahoitteinen";"2h";13.21;438
+"2017";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";11.24;92
+"2017";"Lappeenranta 2";"Vapaarahoitteinen";"1h";13.37;506
+"2017";"Lappeenranta 2";"Vapaarahoitteinen";"2h";10.86;611
+"2017";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";10.00;243
+"2017";"Kotka";"Vapaarahoitteinen";"1h";13.58;1127
+"2017";"Kotka";"Vapaarahoitteinen";"2h";10.75;1078
+"2017";"Kotka";"Vapaarahoitteinen";"3h+";9.74;387
+"2017";"Kotka 1";"Vapaarahoitteinen";"1h";14.94;450
+"2017";"Kotka 1";"Vapaarahoitteinen";"2h";11.94;398
+"2017";"Kotka 1";"Vapaarahoitteinen";"3h+";10.50;102
+"2017";"Kotka 2";"Vapaarahoitteinen";"1h";12.31;677
+"2017";"Kotka 2";"Vapaarahoitteinen";"2h";9.68;680
+"2017";"Kotka 2";"Vapaarahoitteinen";"3h+";9.19;285
+"2017";"Kouvola";"Vapaarahoitteinen";"1h";12.54;1250
+"2017";"Kouvola";"Vapaarahoitteinen";"2h";10.22;1285
+"2017";"Kouvola";"Vapaarahoitteinen";"3h+";9.02;492
+"2017";"Lahti";"Vapaarahoitteinen";"1h";15.79;2518
+"2017";"Lahti";"Vapaarahoitteinen";"2h";12.52;2413
+"2017";"Lahti";"Vapaarahoitteinen";"3h+";10.95;748
+"2017";"Lahti 1";"Vapaarahoitteinen";"1h";16.63;1172
+"2017";"Lahti 1";"Vapaarahoitteinen";"2h";13.33;894
+"2017";"Lahti 1";"Vapaarahoitteinen";"3h+";11.26;284
+"2017";"Lahti 2";"Vapaarahoitteinen";"1h";14.80;1346
+"2017";"Lahti 2";"Vapaarahoitteinen";"2h";11.66;1519
+"2017";"Lahti 2";"Vapaarahoitteinen";"3h+";10.58;464
+"2017";"Hämeenlinna";"Vapaarahoitteinen";"1h";14.90;969
+"2017";"Hämeenlinna";"Vapaarahoitteinen";"2h";12.17;1022
+"2017";"Hämeenlinna";"Vapaarahoitteinen";"3h+";10.50;403
+"2017";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";15.77;621
+"2017";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";12.92;552
+"2017";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";10.81;150
+"2017";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";13.21;348
+"2017";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";11.12;470
+"2017";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";10.24;253
+"2017";"Kuopio";"Vapaarahoitteinen";"1h";16.44;2203
+"2017";"Kuopio";"Vapaarahoitteinen";"2h";13.18;2203
+"2017";"Kuopio";"Vapaarahoitteinen";"3h+";11.27;534
+"2017";"Kuopio 1";"Vapaarahoitteinen";"1h";17.87;1116
+"2017";"Kuopio 1";"Vapaarahoitteinen";"2h";14.34;888
+"2017";"Kuopio 1";"Vapaarahoitteinen";"3h+";12.11;139
+"2017";"Kuopio 2";"Vapaarahoitteinen";"1h";14.80;994
+"2017";"Kuopio 2";"Vapaarahoitteinen";"2h";12.53;1213
+"2017";"Kuopio 2";"Vapaarahoitteinen";"3h+";11.06;351
+"2017";"Kuopio 3";"Vapaarahoitteinen";"1h";11.38;93
+"2017";"Kuopio 3";"Vapaarahoitteinen";"2h";9.75;102
+"2017";"Kuopio 3";"Vapaarahoitteinen";"3h+";9.02;44
+"2017";"Jyväskylä";"Vapaarahoitteinen";"1h";16.66;3054
+"2017";"Jyväskylä";"Vapaarahoitteinen";"2h";13.27;3174
+"2017";"Jyväskylä";"Vapaarahoitteinen";"3h+";11.30;946
+"2017";"Jyväskylä 1";"Vapaarahoitteinen";"1h";17.68;1867
+"2017";"Jyväskylä 1";"Vapaarahoitteinen";"2h";14.24;1600
+"2017";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";12.02;316
+"2017";"Jyväskylä 2";"Vapaarahoitteinen";"1h";14.54;1187
+"2017";"Jyväskylä 2";"Vapaarahoitteinen";"2h";11.59;1574
+"2017";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";10.48;630
+"2017";"Vaasa";"Vapaarahoitteinen";"1h";14.85;1304
+"2017";"Vaasa";"Vapaarahoitteinen";"2h";11.70;1224
+"2017";"Vaasa";"Vapaarahoitteinen";"3h+";10.25;402
+"2017";"Vaasa 1";"Vapaarahoitteinen";"1h";15.46;1011
+"2017";"Vaasa 1";"Vapaarahoitteinen";"2h";12.22;893
+"2017";"Vaasa 1";"Vapaarahoitteinen";"3h+";10.71;204
+"2017";"Vaasa 2";"Vapaarahoitteinen";"1h";12.72;293
+"2017";"Vaasa 2";"Vapaarahoitteinen";"2h";10.19;331
+"2017";"Vaasa 2";"Vapaarahoitteinen";"3h+";9.37;198
+"2017";"Seinäjoki";"Vapaarahoitteinen";"1h";14.32;806
+"2017";"Seinäjoki";"Vapaarahoitteinen";"2h";11.66;1113
+"2017";"Seinäjoki";"Vapaarahoitteinen";"3h+";10.09;426
+"2017";"Kokkola";"Vapaarahoitteinen";"1h";13.91;424
+"2017";"Kokkola";"Vapaarahoitteinen";"2h";10.96;567
+"2017";"Kokkola";"Vapaarahoitteinen";"3h+";9.13;270
+"2017";"Mikkeli";"Vapaarahoitteinen";"1h";14.75;860
+"2017";"Mikkeli";"Vapaarahoitteinen";"2h";11.62;795
+"2017";"Mikkeli";"Vapaarahoitteinen";"3h+";9.92;311
+"2017";"Mikkeli 1";"Vapaarahoitteinen";"1h";15.24;648
+"2017";"Mikkeli 1";"Vapaarahoitteinen";"2h";12.08;564
+"2017";"Mikkeli 1";"Vapaarahoitteinen";"3h+";10.46;210
+"2017";"Mikkeli 2";"Vapaarahoitteinen";"1h";12.98;212
+"2017";"Mikkeli 2";"Vapaarahoitteinen";"2h";10.25;231
+"2017";"Mikkeli 2";"Vapaarahoitteinen";"3h+";9.01;101
+"2017";"Joensuu";"Vapaarahoitteinen";"1h";15.99;1727
+"2017";"Joensuu";"Vapaarahoitteinen";"2h";12.55;1540
+"2017";"Joensuu";"Vapaarahoitteinen";"3h+";10.50;475
+"2017";"Joensuu 1";"Vapaarahoitteinen";"1h";16.82;1230
+"2017";"Joensuu 1";"Vapaarahoitteinen";"2h";13.35;835
+"2017";"Joensuu 1";"Vapaarahoitteinen";"3h+";11.25;182
+"2017";"Joensuu 2";"Vapaarahoitteinen";"1h";14.14;427
+"2017";"Joensuu 2";"Vapaarahoitteinen";"2h";12.14;558
+"2017";"Joensuu 2";"Vapaarahoitteinen";"3h+";10.17;247
+"2017";"Joensuu 3";"Vapaarahoitteinen";"1h";10.47;70
+"2017";"Joensuu 3";"Vapaarahoitteinen";"2h";8.92;147
+"2017";"Joensuu 3";"Vapaarahoitteinen";"3h+";8.33;46
+"2017";"Oulu";"Vapaarahoitteinen";"1h";15.12;4653
+"2017";"Oulu";"Vapaarahoitteinen";"2h";11.81;4470
+"2017";"Oulu";"Vapaarahoitteinen";"3h+";10.52;1448
+"2017";"Oulu 1";"Vapaarahoitteinen";"1h";15.99;2000
+"2017";"Oulu 1";"Vapaarahoitteinen";"2h";12.84;1732
+"2017";"Oulu 1";"Vapaarahoitteinen";"3h+";11.58;399
+"2017";"Oulu 2";"Vapaarahoitteinen";"1h";14.24;2653
+"2017";"Oulu 2";"Vapaarahoitteinen";"2h";10.91;2738
+"2017";"Oulu 2";"Vapaarahoitteinen";"3h+";9.88;1049
+"2017";"Kajaani";"Vapaarahoitteinen";"1h";14.51;632
+"2017";"Kajaani";"Vapaarahoitteinen";"2h";11.36;580
+"2017";"Kajaani";"Vapaarahoitteinen";"3h+";9.61;221
+"2017";"Rovaniemi";"Vapaarahoitteinen";"1h";15.08;1295
+"2017";"Rovaniemi";"Vapaarahoitteinen";"2h";11.84;1488
+"2017";"Rovaniemi";"Vapaarahoitteinen";"3h+";9.87;557
+"2017";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";18.11;42359
+"2017";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";13.94;34027
+"2017";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";12.59;12370
+"2017";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";14.22;9961
+"2017";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";11.31;10642
+"2017";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";9.78;3880
+"2017";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";13.48;13407
+"2017";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";10.85;14484
+"2017";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";9.69;6064
+"2017";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";10.96;9861
+"2017";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";9.33;12722
+"2017";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";8.35;6167
+"2018";"Koko maa";"Vapaarahoitteinen";"1h";17.94;82401
+"2018";"Koko maa";"Vapaarahoitteinen";"2h";13.30;76750
+"2018";"Koko maa";"Vapaarahoitteinen";"3h+";11.68;30104
+"2018";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"1h";23.49;19004
+"2018";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"2h";17.51;14018
+"2018";"Pääkaupunkiseutu (PKS)";"Vapaarahoitteinen";"3h+";15.28;6455
+"2018";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"1h";14.74;63397
+"2018";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"2h";11.52;62732
+"2018";"Muu Suomi (koko maa - PKS)";"Vapaarahoitteinen";"3h+";9.90;23649
+"2018";"Etelä-Suomi";"Vapaarahoitteinen";"1h";19.99;42660
+"2018";"Etelä-Suomi";"Vapaarahoitteinen";"2h";14.77;36262
+"2018";"Etelä-Suomi";"Vapaarahoitteinen";"3h+";13.07;14913
+"2018";"Länsi-Suomi";"Vapaarahoitteinen";"1h";15.01;21335
+"2018";"Länsi-Suomi";"Vapaarahoitteinen";"2h";11.63;21146
+"2018";"Länsi-Suomi";"Vapaarahoitteinen";"3h+";9.89;7928
+"2018";"Itä-Suomi";"Vapaarahoitteinen";"1h";14.07;9204
+"2018";"Itä-Suomi";"Vapaarahoitteinen";"2h";11.12;9366
+"2018";"Itä-Suomi";"Vapaarahoitteinen";"3h+";9.51;3358
+"2018";"Pohjois-Suomi";"Vapaarahoitteinen";"1h";14.22;9202
+"2018";"Pohjois-Suomi";"Vapaarahoitteinen";"2h";11.09;9976
+"2018";"Pohjois-Suomi";"Vapaarahoitteinen";"3h+";9.46;3905
+"2018";"Uudenmaan maakunta";"Vapaarahoitteinen";"1h";22.42;23799
+"2018";"Uudenmaan maakunta";"Vapaarahoitteinen";"2h";16.56;19139
+"2018";"Uudenmaan maakunta";"Vapaarahoitteinen";"3h+";14.44;8755
+"2018";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"1h";15.42;8786
+"2018";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"2h";11.78;7005
+"2018";"Varsinais-Suomen maakunta";"Vapaarahoitteinen";"3h+";10.02;2463
+"2018";"Satakunnan maakunta";"Vapaarahoitteinen";"1h";12.65;3136
+"2018";"Satakunnan maakunta";"Vapaarahoitteinen";"2h";10.01;3958
+"2018";"Satakunnan maakunta";"Vapaarahoitteinen";"3h+";8.60;1629
+"2018";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"1h";13.78;1906
+"2018";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.33;1921
+"2018";"Kanta-Hämeen maakunta";"Vapaarahoitteinen";"3h+";9.83;750
+"2018";"Pirkanmaan maakunta";"Vapaarahoitteinen";"1h";16.21;10391
+"2018";"Pirkanmaan maakunta";"Vapaarahoitteinen";"2h";12.53;8160
+"2018";"Pirkanmaan maakunta";"Vapaarahoitteinen";"3h+";10.74;2975
+"2018";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"1h";14.86;3571
+"2018";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"2h";11.81;3633
+"2018";"Päijät-Hämeen maakunta";"Vapaarahoitteinen";"3h+";10.24;1307
+"2018";"Kymenlaakson maakunta";"Vapaarahoitteinen";"1h";13.13;2703
+"2018";"Kymenlaakson maakunta";"Vapaarahoitteinen";"2h";10.44;2828
+"2018";"Kymenlaakson maakunta";"Vapaarahoitteinen";"3h+";9.25;1081
+"2018";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"1h";14.24;1895
+"2018";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"2h";11.23;1736
+"2018";"Etelä-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.65;557
+"2018";"Etelä-Savon maakunta";"Vapaarahoitteinen";"1h";13.00;1842
+"2018";"Etelä-Savon maakunta";"Vapaarahoitteinen";"2h";10.32;1944
+"2018";"Etelä-Savon maakunta";"Vapaarahoitteinen";"3h+";9.05;735
+"2018";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"1h";14.56;3819
+"2018";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"2h";11.71;3983
+"2018";"Pohjois-Savon maakunta";"Vapaarahoitteinen";"3h+";10.06;1269
+"2018";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"1h";14.48;2651
+"2018";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"2h";11.11;2469
+"2018";"Pohjois-Karjalan maakunta";"Vapaarahoitteinen";"3h+";9.35;914
+"2018";"Keski-Suomen maakunta";"Vapaarahoitteinen";"1h";15.23;4546
+"2018";"Keski-Suomen maakunta";"Vapaarahoitteinen";"2h";12.09;4790
+"2018";"Keski-Suomen maakunta";"Vapaarahoitteinen";"3h+";10.19;1575
+"2018";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";12.49;1436
+"2018";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.43;2318
+"2018";"Etelä-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.98;985
+"2018";"Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";14.02;1826
+"2018";"Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.78;1920
+"2018";"Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.41;764
+"2018";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";13.42;511
+"2018";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";10.64;706
+"2018";"Keski-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";8.73;344
+"2018";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"1h";14.44;6307
+"2018";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"2h";11.35;6362
+"2018";"Pohjois-Pohjanmaan maakunta";"Vapaarahoitteinen";"3h+";9.84;2267
+"2018";"Kainuun maakunta";"Vapaarahoitteinen";"1h";13.38;892
+"2018";"Kainuun maakunta";"Vapaarahoitteinen";"2h";10.48;970
+"2018";"Kainuun maakunta";"Vapaarahoitteinen";"3h+";8.92;440
+"2018";"Lapin maakunta";"Vapaarahoitteinen";"1h";13.90;2384
+"2018";"Lapin maakunta";"Vapaarahoitteinen";"2h";10.64;2908
+"2018";"Lapin maakunta";"Vapaarahoitteinen";"3h+";8.98;1294
+"2018";"Helsinki";"Vapaarahoitteinen";"1h";24.21;13811
+"2018";"Helsinki";"Vapaarahoitteinen";"2h";18.02;8187
+"2018";"Helsinki";"Vapaarahoitteinen";"3h+";15.74;3348
+"2018";"Helsinki 1";"Vapaarahoitteinen";"1h";26.42;1957
+"2018";"Helsinki 1";"Vapaarahoitteinen";"2h";20.14;930
+"2018";"Helsinki 1";"Vapaarahoitteinen";"3h+";17.12;314
+"2018";"Helsinki 2";"Vapaarahoitteinen";"1h";24.83;6449
+"2018";"Helsinki 2";"Vapaarahoitteinen";"2h";18.55;2885
+"2018";"Helsinki 2";"Vapaarahoitteinen";"3h+";15.84;783
+"2018";"Helsinki 3";"Vapaarahoitteinen";"1h";20.99;1732
+"2018";"Helsinki 3";"Vapaarahoitteinen";"2h";16.18;1265
+"2018";"Helsinki 3";"Vapaarahoitteinen";"3h+";14.37;558
+"2018";"Helsinki 4";"Vapaarahoitteinen";"1h";19.76;3673
+"2018";"Helsinki 4";"Vapaarahoitteinen";"2h";16.00;3107
+"2018";"Helsinki 4";"Vapaarahoitteinen";"3h+";14.86;1693
+"2018";"Espoo-Kauniainen";"Vapaarahoitteinen";"1h";20.47;2429
+"2018";"Espoo-Kauniainen";"Vapaarahoitteinen";"2h";16.48;2781
+"2018";"Espoo-Kauniainen";"Vapaarahoitteinen";"3h+";14.43;1507
+"2018";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"1h";22.40;451
+"2018";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"2h";16.94;372
+"2018";"Espoo-Kauniainen 1";"Vapaarahoitteinen";"3h+";14.67;157
+"2018";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"1h";20.65;769
+"2018";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"2h";17.05;1160
+"2018";"Espoo-Kauniainen 2";"Vapaarahoitteinen";"3h+";14.87;615
+"2018";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"1h";19.19;1209
+"2018";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"2h";15.53;1249
+"2018";"Espoo-Kauniainen 3";"Vapaarahoitteinen";"3h+";13.81;735
+"2018";"Vantaa";"Vapaarahoitteinen";"1h";19.75;2764
+"2018";"Vantaa";"Vapaarahoitteinen";"2h";16.12;3050
+"2018";"Vantaa";"Vapaarahoitteinen";"3h+";14.50;1600
+"2018";"Vantaa 1";"Vapaarahoitteinen";"1h";21.07;675
+"2018";"Vantaa 1";"Vapaarahoitteinen";"2h";17.61;957
+"2018";"Vantaa 1";"Vapaarahoitteinen";"3h+";15.45;496
+"2018";"Vantaa 2";"Vapaarahoitteinen";"1h";19.31;2089
+"2018";"Vantaa 2";"Vapaarahoitteinen";"2h";15.39;2093
+"2018";"Vantaa 2";"Vapaarahoitteinen";"3h+";13.98;1104
+"2018";"Kehyskunnat";"Vapaarahoitteinen";"1h";16.55;3079
+"2018";"Kehyskunnat";"Vapaarahoitteinen";"2h";13.33;3072
+"2018";"Kehyskunnat";"Vapaarahoitteinen";"3h+";11.82;1353
+"2018";"Porvoo";"Vapaarahoitteinen";"1h";16.76;508
+"2018";"Porvoo";"Vapaarahoitteinen";"2h";12.90;416
+"2018";"Porvoo";"Vapaarahoitteinen";"3h+";11.04;214
+"2018";"Tampere";"Vapaarahoitteinen";"1h";17.30;8123
+"2018";"Tampere";"Vapaarahoitteinen";"2h";13.51;5554
+"2018";"Tampere";"Vapaarahoitteinen";"3h+";11.85;1768
+"2018";"Tampere 1";"Vapaarahoitteinen";"1h";17.94;3817
+"2018";"Tampere 1";"Vapaarahoitteinen";"2h";14.00;1930
+"2018";"Tampere 1";"Vapaarahoitteinen";"3h+";12.34;395
+"2018";"Tampere 2";"Vapaarahoitteinen";"1h";16.15;1429
+"2018";"Tampere 2";"Vapaarahoitteinen";"2h";13.65;1143
+"2018";"Tampere 2";"Vapaarahoitteinen";"3h+";11.88;377
+"2018";"Tampere 3";"Vapaarahoitteinen";"1h";16.29;2877
+"2018";"Tampere 3";"Vapaarahoitteinen";"2h";12.53;2481
+"2018";"Tampere 3";"Vapaarahoitteinen";"3h+";11.17;996
+"2018";"Turku";"Vapaarahoitteinen";"1h";16.58;6705
+"2018";"Turku";"Vapaarahoitteinen";"2h";12.80;4418
+"2018";"Turku";"Vapaarahoitteinen";"3h+";10.89;1307
+"2018";"Turku 1";"Vapaarahoitteinen";"1h";17.25;3593
+"2018";"Turku 1";"Vapaarahoitteinen";"2h";13.62;2207
+"2018";"Turku 1";"Vapaarahoitteinen";"3h+";11.52;441
+"2018";"Turku 2";"Vapaarahoitteinen";"1h";16.85;1143
+"2018";"Turku 2";"Vapaarahoitteinen";"2h";13.05;588
+"2018";"Turku 2";"Vapaarahoitteinen";"3h+";10.75;132
+"2018";"Turku 3";"Vapaarahoitteinen";"1h";14.72;1969
+"2018";"Turku 3";"Vapaarahoitteinen";"2h";11.10;1623
+"2018";"Turku 3";"Vapaarahoitteinen";"3h+";10.09;734
+"2018";"Pori";"Vapaarahoitteinen";"1h";13.45;1936
+"2018";"Pori";"Vapaarahoitteinen";"2h";10.72;2261
+"2018";"Pori";"Vapaarahoitteinen";"3h+";9.18;813
+"2018";"Pori 1";"Vapaarahoitteinen";"1h";14.24;1096
+"2018";"Pori 1";"Vapaarahoitteinen";"2h";11.57;1118
+"2018";"Pori 1";"Vapaarahoitteinen";"3h+";9.65;365
+"2018";"Pori 2";"Vapaarahoitteinen";"1h";12.16;840
+"2018";"Pori 2";"Vapaarahoitteinen";"2h";9.72;1143
+"2018";"Pori 2";"Vapaarahoitteinen";"3h+";8.70;448
+"2018";"Rauma";"Vapaarahoitteinen";"1h";12.97;577
+"2018";"Rauma";"Vapaarahoitteinen";"2h";9.98;752
+"2018";"Rauma";"Vapaarahoitteinen";"3h+";8.96;277
+"2018";"Lappeenranta";"Vapaarahoitteinen";"1h";15.39;1181
+"2018";"Lappeenranta";"Vapaarahoitteinen";"2h";12.10;1093
+"2018";"Lappeenranta";"Vapaarahoitteinen";"3h+";10.62;317
+"2018";"Lappeenranta 1";"Vapaarahoitteinen";"1h";16.41;654
+"2018";"Lappeenranta 1";"Vapaarahoitteinen";"2h";13.18;418
+"2018";"Lappeenranta 1";"Vapaarahoitteinen";"3h+";11.15;91
+"2018";"Lappeenranta 2";"Vapaarahoitteinen";"1h";13.67;527
+"2018";"Lappeenranta 2";"Vapaarahoitteinen";"2h";10.94;675
+"2018";"Lappeenranta 2";"Vapaarahoitteinen";"3h+";10.18;226
+"2018";"Kotka";"Vapaarahoitteinen";"1h";13.78;1181
+"2018";"Kotka";"Vapaarahoitteinen";"2h";10.83;1086
+"2018";"Kotka";"Vapaarahoitteinen";"3h+";9.90;383
+"2018";"Kotka 1";"Vapaarahoitteinen";"1h";15.18;460
+"2018";"Kotka 1";"Vapaarahoitteinen";"2h";11.99;379
+"2018";"Kotka 1";"Vapaarahoitteinen";"3h+";10.71;89
+"2018";"Kotka 2";"Vapaarahoitteinen";"1h";12.48;721
+"2018";"Kotka 2";"Vapaarahoitteinen";"2h";9.79;707
+"2018";"Kotka 2";"Vapaarahoitteinen";"3h+";9.32;294
+"2018";"Kouvola";"Vapaarahoitteinen";"1h";12.80;1251
+"2018";"Kouvola";"Vapaarahoitteinen";"2h";10.30;1394
+"2018";"Kouvola";"Vapaarahoitteinen";"3h+";9.04;507
+"2018";"Lahti";"Vapaarahoitteinen";"1h";15.99;2625
+"2018";"Lahti";"Vapaarahoitteinen";"2h";12.64;2502
+"2018";"Lahti";"Vapaarahoitteinen";"3h+";11.05;784
+"2018";"Lahti 1";"Vapaarahoitteinen";"1h";16.78;1230
+"2018";"Lahti 1";"Vapaarahoitteinen";"2h";13.48;966
+"2018";"Lahti 1";"Vapaarahoitteinen";"3h+";11.37;306
+"2018";"Lahti 2";"Vapaarahoitteinen";"1h";15.05;1395
+"2018";"Lahti 2";"Vapaarahoitteinen";"2h";11.75;1536
+"2018";"Lahti 2";"Vapaarahoitteinen";"3h+";10.69;478
+"2018";"Hämeenlinna";"Vapaarahoitteinen";"1h";15.25;1123
+"2018";"Hämeenlinna";"Vapaarahoitteinen";"2h";12.31;1091
+"2018";"Hämeenlinna";"Vapaarahoitteinen";"3h+";10.72;412
+"2018";"Hämeenlinna 1";"Vapaarahoitteinen";"1h";16.28;781
+"2018";"Hämeenlinna 1";"Vapaarahoitteinen";"2h";13.06;588
+"2018";"Hämeenlinna 1";"Vapaarahoitteinen";"3h+";11.63;145
+"2018";"Hämeenlinna 2";"Vapaarahoitteinen";"1h";13.28;342
+"2018";"Hämeenlinna 2";"Vapaarahoitteinen";"2h";11.24;503
+"2018";"Hämeenlinna 2";"Vapaarahoitteinen";"3h+";9.94;267
+"2018";"Kuopio";"Vapaarahoitteinen";"1h";16.82;2285
+"2018";"Kuopio";"Vapaarahoitteinen";"2h";13.23;2287
+"2018";"Kuopio";"Vapaarahoitteinen";"3h+";11.57;578
+"2018";"Kuopio 1";"Vapaarahoitteinen";"1h";18.24;1193
+"2018";"Kuopio 1";"Vapaarahoitteinen";"2h";14.31;922
+"2018";"Kuopio 1";"Vapaarahoitteinen";"3h+";12.50;183
+"2018";"Kuopio 2";"Vapaarahoitteinen";"1h";15.21;999
+"2018";"Kuopio 2";"Vapaarahoitteinen";"2h";12.61;1274
+"2018";"Kuopio 2";"Vapaarahoitteinen";"3h+";11.34;350
+"2018";"Kuopio 3";"Vapaarahoitteinen";"1h";11.71;93
+"2018";"Kuopio 3";"Vapaarahoitteinen";"2h";10.06;91
+"2018";"Kuopio 3";"Vapaarahoitteinen";"3h+";9.06;45
+"2018";"Jyväskylä";"Vapaarahoitteinen";"1h";17.16;3333
+"2018";"Jyväskylä";"Vapaarahoitteinen";"2h";13.37;3349
+"2018";"Jyväskylä";"Vapaarahoitteinen";"3h+";11.40;971
+"2018";"Jyväskylä 1";"Vapaarahoitteinen";"1h";18.19;2092
+"2018";"Jyväskylä 1";"Vapaarahoitteinen";"2h";14.35;1723
+"2018";"Jyväskylä 1";"Vapaarahoitteinen";"3h+";12.09;321
+"2018";"Jyväskylä 2";"Vapaarahoitteinen";"1h";14.99;1241
+"2018";"Jyväskylä 2";"Vapaarahoitteinen";"2h";11.70;1626
+"2018";"Jyväskylä 2";"Vapaarahoitteinen";"3h+";10.60;650
+"2018";"Vaasa";"Vapaarahoitteinen";"1h";15.09;1444
+"2018";"Vaasa";"Vapaarahoitteinen";"2h";11.81;1277
+"2018";"Vaasa";"Vapaarahoitteinen";"3h+";10.08;401
+"2018";"Vaasa 1";"Vapaarahoitteinen";"1h";15.73;1172
+"2018";"Vaasa 1";"Vapaarahoitteinen";"2h";12.33;927
+"2018";"Vaasa 1";"Vapaarahoitteinen";"3h+";10.33;202
+"2018";"Vaasa 2";"Vapaarahoitteinen";"1h";12.88;272
+"2018";"Vaasa 2";"Vapaarahoitteinen";"2h";10.31;350
+"2018";"Vaasa 2";"Vapaarahoitteinen";"3h+";9.61;199
+"2018";"Seinäjoki";"Vapaarahoitteinen";"1h";14.63;847
+"2018";"Seinäjoki";"Vapaarahoitteinen";"2h";11.72;1200
+"2018";"Seinäjoki";"Vapaarahoitteinen";"3h+";10.04;432
+"2018";"Kokkola";"Vapaarahoitteinen";"1h";14.30;441
+"2018";"Kokkola";"Vapaarahoitteinen";"2h";11.00;579
+"2018";"Kokkola";"Vapaarahoitteinen";"3h+";8.89;270
+"2018";"Mikkeli";"Vapaarahoitteinen";"1h";15.10;854
+"2018";"Mikkeli";"Vapaarahoitteinen";"2h";11.60;847
+"2018";"Mikkeli";"Vapaarahoitteinen";"3h+";10.24;322
+"2018";"Mikkeli 1";"Vapaarahoitteinen";"1h";15.56;640
+"2018";"Mikkeli 1";"Vapaarahoitteinen";"2h";12.04;595
+"2018";"Mikkeli 1";"Vapaarahoitteinen";"3h+";10.66;219
+"2018";"Mikkeli 2";"Vapaarahoitteinen";"1h";13.41;214
+"2018";"Mikkeli 2";"Vapaarahoitteinen";"2h";10.27;252
+"2018";"Mikkeli 2";"Vapaarahoitteinen";"3h+";9.53;103
+"2018";"Joensuu";"Vapaarahoitteinen";"1h";16.30;1882
+"2018";"Joensuu";"Vapaarahoitteinen";"2h";12.58;1587
+"2018";"Joensuu";"Vapaarahoitteinen";"3h+";10.29;489
+"2018";"Joensuu 1";"Vapaarahoitteinen";"1h";17.09;1378
+"2018";"Joensuu 1";"Vapaarahoitteinen";"2h";13.42;871
+"2018";"Joensuu 1";"Vapaarahoitteinen";"3h+";11.15;184
+"2018";"Joensuu 2";"Vapaarahoitteinen";"1h";14.63;431
+"2018";"Joensuu 2";"Vapaarahoitteinen";"2h";12.07;574
+"2018";"Joensuu 2";"Vapaarahoitteinen";"3h+";9.80;248
+"2018";"Joensuu 3";"Vapaarahoitteinen";"1h";10.75;73
+"2018";"Joensuu 3";"Vapaarahoitteinen";"2h";9.02;142
+"2018";"Joensuu 3";"Vapaarahoitteinen";"3h+";8.23;57
+"2018";"Oulu";"Vapaarahoitteinen";"1h";15.54;4890
+"2018";"Oulu";"Vapaarahoitteinen";"2h";11.96;4520
+"2018";"Oulu";"Vapaarahoitteinen";"3h+";10.55;1384
+"2018";"Oulu 1";"Vapaarahoitteinen";"1h";16.34;2026
+"2018";"Oulu 1";"Vapaarahoitteinen";"2h";12.96;1690
+"2018";"Oulu 1";"Vapaarahoitteinen";"3h+";11.57;390
+"2018";"Oulu 2";"Vapaarahoitteinen";"1h";14.73;2864
+"2018";"Oulu 2";"Vapaarahoitteinen";"2h";11.09;2830
+"2018";"Oulu 2";"Vapaarahoitteinen";"3h+";9.93;994
+"2018";"Kajaani";"Vapaarahoitteinen";"1h";14.76;618
+"2018";"Kajaani";"Vapaarahoitteinen";"2h";11.47;550
+"2018";"Kajaani";"Vapaarahoitteinen";"3h+";9.68;215
+"2018";"Rovaniemi";"Vapaarahoitteinen";"1h";15.45;1405
+"2018";"Rovaniemi";"Vapaarahoitteinen";"2h";11.99;1560
+"2018";"Rovaniemi";"Vapaarahoitteinen";"3h+";10.11;590
+"2018";"Yli 100 000 asukasta";"Vapaarahoitteinen";"1h";18.47;43035
+"2018";"Yli 100 000 asukasta";"Vapaarahoitteinen";"2h";14.05;34608
+"2018";"Yli 100 000 asukasta";"Vapaarahoitteinen";"3h+";12.72;12618
+"2018";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"1h";14.49;10174
+"2018";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"2h";11.38;10994
+"2018";"60 000 - 100 000 asukasta";"Vapaarahoitteinen";"3h+";9.77;3903
+"2018";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"1h";13.69;13603
+"2018";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"2h";10.92;14696
+"2018";"20 000 - 59 999 asukasta";"Vapaarahoitteinen";"3h+";9.74;6108
+"2018";"Alle 20 000 asukasta";"Vapaarahoitteinen";"1h";11.10;9711
+"2018";"Alle 20 000 asukasta";"Vapaarahoitteinen";"2h";9.45;12767
+"2018";"Alle 20 000 asukasta";"Vapaarahoitteinen";"3h+";8.47;6339
